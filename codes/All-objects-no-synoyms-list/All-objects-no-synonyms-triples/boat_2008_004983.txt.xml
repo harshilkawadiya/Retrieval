@@ -1,0 +1,54 @@
+A man is rowing a gondola through a city waterway . 
+a man be rowing a gondola through a city waterway . 
+
+verb-prep-object	rowing through waterway
+attribute-object	city waterway
+object-verb-object	man rowing gondola
+object	waterway
+object	man
+object	gondola
+object	boat
+#####################################################
+A man paddles a blue boat with docks in the background at night . 
+a man paddle a blue boat with dock in the background at night . 
+
+verb-prep-object	paddle at night
+object-prep-object	boat with dock
+attribute-object	blue boat
+object-verb-object	man paddle boat
+object	night
+object	boat
+object	dock
+object	man
+object	boat
+#####################################################
+a man paddling on a boat across a lake . 
+a man paddle on a boat across a lake . 
+
+verb-prep-object	paddle on boat
+object-prep-object	boat across lake
+object-verb	man paddle
+object	boat
+object	lake
+object	man
+object	boat
+#####################################################
+Gondola and city skyline . 
+Gondola and city skyline . 
+
+attribute-object	city skyline
+object	gondola
+object	skyline
+object	gondola
+object	boat
+#####################################################
+The bright lights can be admired on the boat . 
+the bright light can be admire on the boat . 
+
+verb-prep-object	admire on boat
+attribute-object	bright light
+object-verb	light admire
+object	boat
+object	light
+object	boat
+#####################################################

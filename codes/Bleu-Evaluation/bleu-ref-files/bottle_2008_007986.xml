@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref1">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A man with a bottle and a man in a Hawaiian shirt are posing for a picture.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref2">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Two guys are smiling, one is holding a beer.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref3">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Two men in button-up shirts smile for the camera.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref4">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Two men wearing glasses and one holding a a bottle.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref5">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Two men with glasses sit together and enjoy some beers .</seg>
+</p>
+</doc>
+</refset>
+</mteval>

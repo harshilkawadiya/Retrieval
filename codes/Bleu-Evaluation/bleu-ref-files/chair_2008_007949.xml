@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref1">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A carpeted kitchen with the dining room in the foreground.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref2">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A kitchen with wood cabinets and dining table.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref3">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A kitchen with wooden cabinets and furniture.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref4">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A large wooden kitchendiner.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref5">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Kitchen with wooden table and cabinets.</seg>
+</p>
+</doc>
+</refset>
+</mteval>

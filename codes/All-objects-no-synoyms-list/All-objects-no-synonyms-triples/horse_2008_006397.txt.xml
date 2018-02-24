@@ -1,0 +1,49 @@
+A jockey races on the number 6 gray horse . 
+a jockey race on the number 6 gray horse . 
+
+verb-prep-object	race on horse
+object-prep-object	jockey on horse
+attribute-object	gray horse
+object-verb	jockey race
+object	horse
+object	jockey
+object	horse
+#####################################################
+a jockey riding a horse . 
+a jockey ride a horse . 
+
+object-verb-object	jockey ride horse
+object	jockey
+object	horse
+object	horse
+#####################################################
+A racehorse wearing the number 6 being ridden by a jockey . 
+a racehorse wear the number 6 be ride by a jockey . 
+
+verb-prep-object	ride by jockey
+object-verb	racehorse ride
+object-verb-object	racehorse wear number
+object	jockey
+object	racehorse
+object	number
+object	horse
+#####################################################
+Gray racing horse with green rider . 
+Gray race horse with green rider . 
+
+object-prep-object	horse with rider
+attribute-object	gray horse
+attribute-object	race horse
+attribute-object	green rider
+object	horse
+object	rider
+object	horse
+#####################################################
+The jockey looks to see if another horse is near . 
+the jockey look to see if another horse be near . 
+
+object-verb	jockey look
+verb-prep-verb	look to see
+object	jockey
+object	horse
+#####################################################

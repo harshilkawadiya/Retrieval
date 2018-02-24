@@ -1,0 +1,49 @@
+Black and white picture of two old cruise liners . 
+Black and white picture of two old cruise liner . 
+
+attribute-object	old ship
+attribute-object	cruise ship
+object	ship
+object	boat
+object	boat
+#####################################################
+two big ships and a little one on the bank of a river . 
+two big ship and a little one on the bank of a river . 
+
+attribute-object	big boat
+object-prep-object	boat on water
+object	boat
+object	ship
+object	water
+object	boat
+#####################################################
+Two cruiseships lines up side by side . 
+two cruiseship line up side by side . 
+
+object-verb	cruieship line
+verb-attribute	line up
+object	cruieship
+object	boat
+#####################################################
+Two large ships passing in a port area . 
+two large ship pass in a port area . 
+
+verb-prep-object	pass in area
+object-prep-object	boat in ship
+attribute-object	large boat
+attribute-object	port area
+object-verb	boat pass
+object	area
+object	boat
+object	ship
+object	boat
+#####################################################
+Two large ships beside the dock . 
+two large ship beside the dock . 
+
+object-prep-object	boat beside ship
+attribute-object	large boat
+object	boat
+object	ship
+object	boat
+#####################################################

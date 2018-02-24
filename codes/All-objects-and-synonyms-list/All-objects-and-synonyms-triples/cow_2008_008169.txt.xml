@@ -1,0 +1,60 @@
+A brown cow on a farm . 
+a brown cow on a farm . 
+
+object-prep-object	cow on farm
+attribute-object	brown cow
+object	cow
+object	farm
+object	cow
+#####################################################
+A cow with a tag in its ear . 
+a cow with a tag in its ear . 
+
+object-prep-object	cow with tag
+object-prep-object	tag in ear
+object	cow
+object	tag
+object	ear
+object	cow
+#####################################################
+A cow with a yellow ear tag showing the number 33 . 
+a cow with a yellow ear tag show the number 33 . 
+
+object-prep-object	cow with tag
+attribute-object	yellow tag
+object-verb-object	tag show number
+attribute-object	ear tag
+object	cow
+object	tag
+object	number
+object	cow
+#####################################################
+A tan calf with a yellow tag on his left ear looking at the camera . 
+a tan calf with a yellow tag on he left ear look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	cow with calf
+object-prep-object	tag on ear
+attribute-object	yellow tag
+attribute-object	left ear
+attribute-object	tan cow
+object-verb	cow look
+object	camera
+object	cow
+object	calf
+object	tag
+object	ear
+object	cow
+#####################################################
+Brown cow with tag in left ear . 
+Brown cow with tag in left ear . 
+
+object-prep-object	tag in ear
+object-prep-object	cow with tag
+attribute-object	left ear
+attribute-object	brown cow
+object	tag
+object	ear
+object	cow
+object	cow
+#####################################################

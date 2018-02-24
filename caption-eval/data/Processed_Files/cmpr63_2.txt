@@ -1,0 +1,50 @@
+beam_size_1	2	A dog hops in a field while another dog stands next to it .
+beam_size_1	3	One dog is jumping up at another dog in a grassy field .
+beam_size_1	4	The two tan colored dogs are in a field , and one is jumping in the air .
+beam_size_1	5	Two brown dogs in a field .
+beam_size_1	6	Two brown dogs play with one another in the field .
+beam_size_1	7	a black dog jumping to catch a rope toy
+beam_size_1	8	A black dog playing fetch with a ball of rope .
+beam_size_1	9	A black dog pounces to get a rope toy .
+beam_size_1	10	A black dog running after his rope toy .
+beam_size_1	11	A large black dog is playing in a grassy yard .
+beam_size_1	12	A beagle walks through the grass .
+beam_size_1	13	A black and tan dog standing in a field near trees
+beam_size_1	14	A brown and tan dog walks through the green grass .
+beam_size_1	15	a smal hound dog walking through the grass outside .
+beam_size_1	16	The dog is walking through a grassy area .
+beam_size_1	17	A dog jumps up towards a woman in a car , while another dog is outside the car .
+beam_size_1	18	An orange dog and a little white dog with black spots are next to a white car .
+beam_size_1	19	A small black and white dog jumps at a woman in a white jeep while a golden dog follows beside them .
+beam_size_1	20	A small dog jumps by a car to reach a lady 's face while another dog watches .
+beam_size_1	21	White and black dog jumps at someone through car window .
+beam_size_1	22	a brown and black dog jumping through a field of long blades of grass
+beam_size_1	23	A dog runs through the tall grass .
+beam_size_1	24	A dog wearing a red harness runs across a field
+beam_size_1	25	Black and brown dog with red harness in high grass .
+beam_size_1	26	Dog running through the weeds .
+beam_size_1	27	The three dogs are standing in the sand .
+beam_size_1	28	Three small dogs stand in the sand and stare at each other .
+beam_size_1	29	Three small dogs , two of which are sniffing noses .
+beam_size_1	30	Two dogs meet and check out a third dog at the beach .
+beam_size_1	31	Two small dogs facing a third dog .
+beam_size_1	32	a froup of sled dogs pulling a man wearing an orange vest .
+beam_size_1	33	A three dog sled team pulls an unusual tricycle sled .
+beam_size_1	34	Several dogs carry a man with a helmet through snow .
+beam_size_1	35	The dogs are pulling a man on a type of bike , through the snow .
+beam_size_1	36	Three dogs pulling a man on a bicycle through the snow .
+beam_size_1	37	A black dog and a tan dog fighting .
+beam_size_1	38	A black dog and a white dog are wrestling on the ground .
+beam_size_1	39	A black dog bites a white dog while standing on the sand .
+beam_size_1	40	two dogs fight .
+beam_size_1	41	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	42	The brown dogs are playing with a blue toy together .
+beam_size_1	43	The two light colored dogs are pulling on a blue object that is in their mouths .
+beam_size_1	44	Two beige dogs are playing in the grass near a doghouse .
+beam_size_1	45	Two dogs are playing tug of war with a blue object in front of a building .
+beam_size_1	46	Two light brown dogs are tugging at a blue toy in front of a blue shed .
+beam_size_1	47	a black dog plays with a ball in the water .
+beam_size_1	48	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	49	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	50	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	51	The black dog is running though the water with a pink ball .

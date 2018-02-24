@@ -1,0 +1,69 @@
+A man riding a dirt bike over a ridge . 
+a man ride a dirt bike over a ridge . 
+
+verb-prep-object	ride over ridge
+object-verb-object	person ride bicycle
+attribute-object	dirt bicycle
+object	ridge
+object	person
+object	man
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+A professional motorbike riding in a professional stadium . 
+a professional motorbike ride in a professional stadium . 
+
+verb-prep-object	ride in stadium
+object-prep-object	motorbike in stadium
+attribute-object	professional motorbike
+attribute-object	professional stadium
+object-verb	motorbike ride
+object	stadium
+object	motorbike
+object	motorbike
+#####################################################
+A rider on a dirt bike . 
+a rider on a dirt bike . 
+
+object-prep-object	person on bicycle
+attribute-object	dirt bicycle
+object	person
+object	rider
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+Blue motorcycle rider roaming a dirt ramp in front of fans . 
+Blue motorcycle rider roam a dirt ramp in front of fan . 
+
+verb-prep-object	roam in_front_of fan
+object-prep-object	person in_front_of rider
+object-verb-object	person roam rider
+attribute-object	blue person
+attribute-object	motorcycle person
+attribute-object	dirt ramp
+object	fan
+object	person
+object	rider
+object	ramp
+object	motorbike
+#####################################################
+The man wearing a blue jumpsuit riding a dirt bike tops the dirt hill . 
+the man wear a blue jumpsuit ride a dirt bike top the dirt hill . 
+
+attribute-object	blue jumpsuit
+object-verb-object	person wear man
+object-verb-object	person ride bicycle
+object-verb-object	person top mountain
+attribute-object	dirt bicycle
+attribute-object	dirt mountain
+object	jumpsuit
+object	person
+object	man
+object	bicycle
+object	mountain
+object	bike
+object	hill
+object	motorbike
+#####################################################

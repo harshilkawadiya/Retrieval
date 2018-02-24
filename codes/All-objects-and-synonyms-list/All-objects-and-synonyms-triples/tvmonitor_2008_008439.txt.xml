@@ -1,0 +1,62 @@
+A hotel room with a scenic view contains a modern wooden desk , a flatscreen TV , and simple yet well-designed furniture . 
+a hotel room with a scenic view contain a modern wooden desk , a flatscreen tv , and simple yet well-designed furniture . 
+
+attribute-object	modern table
+attribute-object	wooden table
+attribute-object	flatscreen tvmonitor
+attribute-object	simple furniture
+attribute-object	well-designed furniture
+object-verb-object	room contain diningtable
+object-verb-object	room contain tvmonitor
+object-verb-object	room contain furniture
+attribute-object	hotel room
+object	table
+object	diningtable
+object	tvmonitor
+object	tv
+object	furniture
+object	room
+object	tvmonitor
+#####################################################
+Apartment room overlooking the city . 
+apartment room overlook the city . 
+
+object-verb-object	room overlook city
+attribute-object	apartment room
+object	room
+object	city
+object	tvmonitor
+#####################################################
+A room with a chair and a tv screen , as well as a desk and desk chair . 
+a room with a chair and a tv screen , as well as a desk and desk chair . 
+
+object-prep-object	room with chair
+object-prep-object	room with screen
+object-prep-object	room with diningtable
+object-prep-object	room with chair
+attribute-object	tv screen
+attribute-object	desk chair
+object	room
+object	chair
+object	screen
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################
+A very neat and empty room . 
+a very neat and empty room . 
+
+attribute-object	neat room
+attribute-object	empty room
+object	room
+object	tvmonitor
+#####################################################
+Hotel room overlooking city . 
+Hotel room overlook city . 
+
+object-verb-object	room overlook city
+attribute-object	hotel room
+object	room
+object	city
+object	tvmonitor
+#####################################################

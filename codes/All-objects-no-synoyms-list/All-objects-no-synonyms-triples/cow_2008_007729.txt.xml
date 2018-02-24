@@ -1,0 +1,72 @@
+a father is introducing his daughter to a cow on a remote beach . 
+a father be introduce he daughter to a cow on a remote beach . 
+
+object-verb-object	father introduce daughter
+object-prep-object	cow on beach
+verb-prep-object	introduce to cow
+attribute-object	remote beach
+object	father
+object	daughter
+object	cow
+object	beach
+object	cow
+#####################################################
+A man and child are near a ram lying on the sand at a beach . 
+a man and child be near a ram lie on the sand at a beach . 
+
+object-prep-object	sand at beach
+verb-prep-object	lie on sand
+object-prep-object	ram on sand
+object-prep-object	man near ram
+object-prep-object	child near ram
+object-verb	ram lie
+object	sand
+object	beach
+object	ram
+object	man
+object	child
+object	cow
+#####################################################
+Cow laying down on beach . 
+cow lay down on beach . 
+
+verb-prep-object	lay on beach
+object-prep-object	cow on beach
+object-verb	cow lay
+verb-attribute	lay down
+object	beach
+object	cow
+object	cow
+#####################################################
+There are two men and a child on a beach with a brown cow . 
+there be two man and a child on a beach with a brown cow . 
+
+object-prep-object	man with cow
+object-prep-object	child with cow
+object-prep-object	man on beach
+object-prep-object	child on beach
+attribute-object	brown cow
+object	man
+object	cow
+object	child
+object	beach
+object	cow
+#####################################################
+Two men and a small child sitting on the beach alongside a cow . 
+two man and a small child sit on the beach alongside a cow . 
+
+verb-prep-object	sit alongside cow
+verb-prep-object	sit on beach
+object-prep-object	man alongside cow
+object-prep-object	man on beach
+object-prep-object	child alongside cow
+object-prep-object	child on beach
+attribute-object	small child
+object-verb	man sit
+object-verb	child sit
+object	cow
+object	beach
+object	man
+object	child
+object	cow
+#####################################################

@@ -1,0 +1,63 @@
+A small boy with curly black hair sits at a table to color . 
+a small boy with curly black hair sit at a table to color . 
+
+verb-prep-object	sit at table
+object-prep-object	boy at table
+object-prep-object	boy with hair
+verb-prep-object	sit to color
+attribute-object	small boy
+attribute-object	curly hair
+attribute-object	black hair
+object-verb	boy sit
+object	table
+object	boy
+object	hair
+object	color
+object	person
+#####################################################
+A small child looks at the camera with crayons in its hands . 
+a small child look at the camera with crayon in its hand . 
+
+verb-prep-object	look at camera
+object-prep-object	child with crayon
+attribute-object	small child
+object-verb	child look
+object	camera
+object	child
+object	crayon
+object	person
+#####################################################
+A young boy coloring with a red and blue crayon . 
+a young boy color with a red and blue crayon . 
+
+verb-prep-object	color with crayon
+object-prep-object	boy with crayon
+attribute-object	young boy
+attribute-object	red crayon
+attribute-object	blue crayon
+object-verb	boy color
+object	crayon
+object	boy
+object	person
+#####################################################
+A young child scribbling with crayons . 
+a young child scribble with crayon . 
+
+verb-prep-object	scribble with crayon
+object-prep-object	child with crayon
+attribute-object	young child
+object-verb	child scribble
+object	crayon
+object	child
+object	person
+#####################################################
+The boy is playing with Crayolas . 
+the boy be play with Crayolas . 
+
+verb-prep-object	play with crayolas
+object-prep-object	boy with crayolas
+object-verb	boy play
+object	crayolas
+object	boy
+object	person
+#####################################################

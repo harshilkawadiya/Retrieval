@@ -1,0 +1,59 @@
+An American Eagle standing on a post with its wing down . 
+a american Eagle standing on a post with its wing down . 
+
+verb-prep-object	stand with wing
+verb-prep-object	stand on post
+object-prep-object	bird with wing
+object-prep-object	bird on post
+object-attribute	wing down
+attribute-object	american bird
+object-verb	bird stand
+object	wing
+object	post
+object	bird
+object	bird
+#####################################################
+An eagle is perched among trees . 
+a eagle be perch among tree . 
+
+verb-prep-object	perch among tree
+object-prep-object	bird among tree
+object-verb	bird perch
+object	tree
+object	bird
+object	bird
+#####################################################
+A picture of a bald eagle on a roped stem . 
+a picture of a bald eagle on a rope stem . 
+
+object-prep-object	picture of bird
+attribute-object	bald bird
+object-prep-object	bird on stem
+attribute-object	rope stem
+object	picture
+object	bird
+object	stem
+object	bird
+#####################################################
+Eagle perched on a thick rope . 
+Eagle perch on a thick rope . 
+
+verb-prep-object	perch on rope
+object-prep-object	bird on rope
+attribute-object	thick rope
+object-verb	bird perch
+object	rope
+object	bird
+object	bird
+#####################################################
+The bald eagle is perched on a rope . 
+the bald eagle be perch on a rope . 
+
+verb-prep-object	perch on rope
+object-prep-object	bird on rope
+attribute-object	bald bird
+object-verb	bird perch
+object	rope
+object	bird
+object	bird
+#####################################################

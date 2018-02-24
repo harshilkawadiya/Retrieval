@@ -1,0 +1,61 @@
+A busy street in front of a KFC restaurant . 
+a busy street in front of a KFC restaurant . 
+
+object-prep-object	street in_front_of restaurant
+attribute-object	busy street
+attribute-object	kfc restaurant
+object	street
+object	restaurant
+object	car
+#####################################################
+A car parked with a KFC restaurant behind and a bus pulling up to the junction . 
+a car park with a KFC restaurant behind and a bus pull up to the junction . 
+
+verb-prep-object	park with restaurant
+object-prep-object	car with restaurant
+verb-prep-object	pull to junction
+attribute-object	kfc restaurant
+object-verb	car park
+object-verb	bus pull
+verb-attribute	pull up
+object	restaurant
+object	car
+object	junction
+object	bus
+object	car
+#####################################################
+A parking lot under a bridge . 
+a parking lot under a bridge . 
+
+object-prep-object	lot under bridge
+attribute-object	parking lot
+object	lot
+object	bridge
+object	car
+#####################################################
+Red vehicle with a blue bus approaching . 
+Red vehicle with a blue bus approach . 
+
+object-prep-object	vehicle with bus
+attribute-object	blue bus
+attribute-object	red vehicle
+object-verb	vehicle approach
+object	vehicle
+object	bus
+object	car
+#####################################################
+some cars and a bus in a street near a fast food restaurant . 
+some car and a bus in a street near a fast food restaurant . 
+
+object-prep-object	car near restaurant
+object-prep-object	bus near restaurant
+object-prep-object	car in street
+object-prep-object	bus in street
+attribute-object	fast restaurant
+attribute-object	food restaurant
+object	car
+object	restaurant
+object	bus
+object	street
+object	car
+#####################################################

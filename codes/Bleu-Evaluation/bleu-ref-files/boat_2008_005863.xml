@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref1">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A large boat in the water at the marina.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref2">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A large boat on the sea.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref3">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> An old fashioned wooden sailing ship is parked at the pier.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref4">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A yellow and black sail boat that is docked.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref5">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Pirate ship docked in a body of water.</seg>
+</p>
+</doc>
+</refset>
+</mteval>

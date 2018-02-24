@@ -1,0 +1,72 @@
+A close up of the center of a dining room table with a wine glass and silver kettle . 
+a close up of the center of a dining room table with a wine glass and silver kettle . 
+
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+attribute-object	dining diningtable
+attribute-object	room diningtable
+attribute-object	wine glass
+attribute-object	silver kettle
+object	diningtable
+object	table
+object	glass
+object	kettle
+object	diningtable
+#####################################################
+A dining table with candles , wine , and a teapot . 
+a dining table with candle , wine , and a teapot . 
+
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+attribute-object	dining diningtable
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+An empty wine glass and silver teapot sitting on a dining table . 
+a empty wine glass and silver teapot sit on a dining table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	glass on diningtable
+object-prep-object	teapot on diningtable
+attribute-object	empty glass
+attribute-object	wine glass
+attribute-object	silver teapot
+attribute-object	dining diningtable
+object-verb	glass sit
+object-verb	teapot sit
+object	diningtable
+object	table
+object	glass
+object	teapot
+object	diningtable
+#####################################################
+A wine glass , coffee pot and candles on top of a tan table . 
+a wine glass , coffee pot and candle on top of a tan table . 
+
+object-prep-object	glass on_top_of diningtable
+object-prep-object	pottedplant on_top_of diningtable
+object-prep-object	candle on_top_of diningtable
+attribute-object	wine glass
+attribute-object	coffee pottedplant
+attribute-object	tan diningtable
+object	glass
+object	diningtable
+object	pottedplant
+object	pot
+object	candle
+object	table
+object	diningtable
+#####################################################
+Small turntable in center of kitchen table . 
+small turntable in center of kitchen table . 
+
+object-prep-object	turntable in_center_of diningtable
+attribute-object	small turntable
+attribute-object	kitchen diningtable
+object	turntable
+object	diningtable
+object	table
+object	diningtable
+#####################################################

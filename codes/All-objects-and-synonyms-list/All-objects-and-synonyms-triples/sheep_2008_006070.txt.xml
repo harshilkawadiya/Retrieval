@@ -1,0 +1,62 @@
+A black sheep , in front of a gray sheep , in front of a fence and a white sheep . 
+a black sheep , in front of a gray sheep , in front of a fence and a white sheep . 
+
+object-prep-object	sheep in_front_of sheep
+object-prep-object	sheep in_front_of fence
+attribute-object	black sheep
+attribute-object	gray sheep
+attribute-object	white sheep
+object	sheep
+object	fence
+object	sheep
+#####################################################
+A black sheep stands in front of a gray-brown sheep . 
+a black sheep stand in front of a gray-brown sheep . 
+
+verb-prep-object	stand in_front_of sheep
+object-prep-object	sheep in_front_of sheep
+attribute-object	black sheep
+attribute-object	gray-brown sheep
+object-verb	sheep stand
+object	sheep
+object	sheep
+#####################################################
+Black and brown sheep standing on grass behind fence . 
+Black and brown sheep standing on grass behind fence . 
+
+verb-prep-object	stand behind fence
+verb-prep-object	stand on grass
+object-prep-object	sheep on grass
+object-prep-object	sheep behind fence
+attribute-object	black sheep
+attribute-object	brown sheep
+object-verb	sheep stand
+object	fence
+object	grass
+object	sheep
+object	sheep
+#####################################################
+Two sheep are standing , looking at the camera , face opposite directions . 
+two sheep be stand , look at the camera , face opposite direction . 
+
+verb-prep-object	look at camera
+attribute-object	opposite direction
+object-verb-object	sheep face direction
+object-verb	sheep look
+object-verb	sheep stand
+object	camera
+object	direction
+object	sheep
+object	sheep
+#####################################################
+Two sheep , one black the other brown , look into the camera . 
+two sheep , one black the other brown , look into the camera . 
+
+verb-prep-object	look into camera
+attribute-object	black sheep
+attribute-object	brown sheep
+object-verb	sheep look
+object	camera
+object	sheep
+object	sheep
+#####################################################

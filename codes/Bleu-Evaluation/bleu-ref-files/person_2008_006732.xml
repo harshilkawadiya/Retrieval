@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref1">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A baby sits in a car seat looking upward .</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref2">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A baby strapped into a car seat.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref3">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A small baby is buckled into a plaid car seat.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref4">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A small baby sitting in a car seat.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref5">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A small infant dressed in yellow and white strapped into a car seat carrier.</seg>
+</p>
+</doc>
+</refset>
+</mteval>

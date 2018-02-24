@@ -1,0 +1,73 @@
+A man holding a baby and a woman eating at a table . 
+a man hold a baby and a woman eat at a table . 
+
+object-verb-object	man hold baby
+verb-prep-object	eat at table
+object-prep-object	woman at table
+object-verb	woman eat
+object	man
+object	baby
+object	table
+object	woman
+object	diningtable
+#####################################################
+A man , with a baby in his lap , next to a woman who is eating . 
+a man , with a baby in he lap , next to a woman who be eat . 
+
+object-prep-object	man with baby
+object-prep-object	man next_to woman
+object-prep-object	baby in lap
+object-verb	woman eat
+object	man
+object	baby
+object	woman
+object	lap
+object	diningtable
+#####################################################
+An elderly Asian couple pose with a yawning baby at a dinner table . 
+a elderly asian couple pose with a yawning baby at a dinner table . 
+
+object-verb	couple pose
+attribute-object	elderly couple
+attribute-object	asian couple
+verb-prep-object	pose with baby
+object-prep-object	couple with baby
+attribute-object	yawning baby
+verb-prep-object	pose at table
+object-prep-object	couple at table
+attribute-object	dinner table
+object	couple
+object	baby
+object	table
+object	diningtable
+#####################################################
+An older Asian couple poses with a newborn baby at the dinner table . 
+a older asian couple pose with a newborn baby at the dinner table . 
+
+object-verb	couple pose
+attribute-object	older couple
+attribute-object	asian couple
+verb-prep-object	pose with baby
+object-prep-object	couple with baby
+attribute-object	newborn baby
+verb-prep-object	pose at table
+object-prep-object	couple at table
+attribute-object	dinner table
+object	couple
+object	baby
+object	table
+object	diningtable
+#####################################################
+Oriental couple with an infant at a table of food . 
+oriental couple with a infant at a table of food . 
+
+object-prep-object	couple with infant
+object-prep-object	table of food
+object-prep-object	couple at table
+attribute-object	oriental couple
+object	couple
+object	infant
+object	table
+object	food
+object	diningtable
+#####################################################

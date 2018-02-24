@@ -1,0 +1,74 @@
+A bundled up child rides a bicycle with training wheels in the snow . 
+a bundle up child ride a bicycle with training wheel in the snow . 
+
+object-prep-object	bicycle with wheel
+verb-prep-object	ride in snow
+object-prep-object	child in snow
+attribute-object	bundle child
+object-verb-object	child ride bicycle
+attribute-object	training wheel
+object	bicycle
+object	wheel
+object	snow
+object	child
+object	bicycle
+#####################################################
+A child in a blue coat and red hat rides a bicycle with training wheels . 
+a child in a blue coat and red hat ride a bicycle with training wheel . 
+
+object-verb-object	child ride bicycle
+object-prep-object	bicycle with wheel
+object-prep-object	child in coat
+object-prep-object	child in hat
+attribute-object	blue coat
+attribute-object	red hat
+attribute-object	training wheel
+object	child
+object	bicycle
+object	wheel
+object	coat
+object	hat
+object	bicycle
+#####################################################
+A young boy is riding his black and yellow bike on a snow-covered driveway . 
+a young boy be ride he black and yellow bike on a snow-covered driveway . 
+
+object-prep-object	bike on driveway
+verb-prep-object	ride on driveway
+attribute-object	young boy
+attribute-object	black bike
+attribute-object	yellow bike
+attribute-object	snow-covered driveway
+object-verb-object	boy ride bike
+object	bike
+object	driveway
+object	boy
+object	bicycle
+#####################################################
+A young child wearing winter clothing rides a green tricycle . 
+a young child wear winter clothing ride a green tricycle . 
+
+attribute-object	young child
+attribute-object	green tricycle
+object-verb-object	child wear clothing
+object-verb-object	child ride tricycle
+attribute-object	winter clothing
+object	child
+object	tricycle
+object	clothing
+object	bicycle
+#####################################################
+Young boy riding bicycle with training wheels through the snow . 
+Young boy ride bicycle with training wheel through the snow . 
+
+verb-prep-object	ride through snow
+object-prep-object	bicycle with wheel
+object-verb-object	boy ride bicycle
+attribute-object	young boy
+attribute-object	training wheel
+object	snow
+object	bicycle
+object	wheel
+object	boy
+object	bicycle
+#####################################################

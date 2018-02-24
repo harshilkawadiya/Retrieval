@@ -1,0 +1,70 @@
+A brown sheep and black lamb stand side-by-side behind a fence . 
+a brown sheep and black lamb stand side-by-side behind a fence . 
+
+verb-prep-object	stand behind fence
+object-prep-object	sheep behind fence
+object-prep-object	sheep behind lamb
+attribute-object	brown sheep
+attribute-object	black sheep
+object-verb	sheep stand
+object-verb	sheep stand
+object	fence
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+A brown sheep and small black animal inside a pen . 
+a brown sheep and small black animal inside a pen . 
+
+object-prep-object	sheep inside pen
+object-prep-object	animal inside pen
+attribute-object	brown sheep
+attribute-object	small animal
+attribute-object	black animal
+object	sheep
+object	pen
+object	animal
+object	sheep
+#####################################################
+A lamb drinking milk from a mother sheep inside a fence . 
+a lamb drinking milk from a mother sheep inside a fence . 
+
+object-verb-object	sheep drink lamb
+verb-prep-object	drink from sheep
+attribute-object	mother sheep
+verb-prep-object	drink inside fence
+object-prep-object	sheep inside lamb
+object	sheep
+object	lamb
+object	fence
+object	sheep
+#####################################################
+A large sheep and a small black lamb beside a fence . 
+a large sheep and a small black lamb beside a fence . 
+
+object-prep-object	sheep beside fence
+object-prep-object	sheep beside lamb
+attribute-object	large sheep
+attribute-object	small sheep
+attribute-object	black sheep
+object	sheep
+object	fence
+object	lamb
+object	sheep
+#####################################################
+A small black sheep stands beside a larger brown sheep behind a fence . 
+a small black sheep stand beside a larger brown sheep behind a fence . 
+
+verb-prep-object	stand behind fence
+object-prep-object	sheep behind fence
+verb-prep-object	stand beside sheep
+object-prep-object	sheep beside sheep
+attribute-object	small sheep
+attribute-object	black sheep
+attribute-object	larger sheep
+attribute-object	brown sheep
+object-verb	sheep stand
+object	fence
+object	sheep
+object	sheep
+#####################################################

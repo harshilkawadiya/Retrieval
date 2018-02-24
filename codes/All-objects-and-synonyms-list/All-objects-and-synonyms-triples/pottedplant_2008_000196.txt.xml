@@ -1,0 +1,71 @@
+A calico cat seated on the doorstep surrounded by bikes and junk . 
+a calico cat seat on the doorstep surround by bike and junk . 
+
+verb-prep-object	surround by bicycle
+verb-prep-object	surround by boat
+verb-prep-object	seat on doorstep
+object-prep-object	cat on doorstep
+attribute-object	calico cat
+object-verb	cat surround
+object-verb	cat seat
+object	bicycle
+object	bike
+object	boat
+object	junk
+object	doorstep
+object	cat
+object	pottedplant
+#####################################################
+A cat is sitting in between two bikes . 
+a cat be sit in between two bike . 
+
+object-verb	cat sit
+verb-prep-object	sit between bicycle
+object-prep-object	cat between bicycle
+object	cat
+object	bicycle
+object	bike
+object	pottedplant
+#####################################################
+Calico cat sitting on step in front of a door . 
+Calico cat sit on step in front of a door . 
+
+verb-prep-object	sit on step
+verb-prep-object	sit in_front_of door
+object-prep-object	cat on step
+object-prep-object	cat in_front_of door
+attribute-object	calico cat
+object-verb	cat sit
+object	step
+object	door
+object	cat
+object	pottedplant
+#####################################################
+Multi colored cat sitting on a step between two bicycles . 
+multi color cat sit on a step between two bicycle . 
+
+verb-prep-object	sit between bicycle
+object-prep-object	cat between bicycle
+verb-prep-object	sit on step
+object-prep-object	cat on step
+attribute-object	multi cat
+attribute-object	color cat
+object-verb	cat sit
+object	bicycle
+object	cat
+object	step
+object	pottedplant
+#####################################################
+The cat is sitting between two bicycles in front of a door . 
+the cat be sit between two bicycle in front of a door . 
+
+verb-prep-object	sit between bicycle
+object-prep-object	cat between bicycle
+verb-prep-object	sit in_front_of door
+object-prep-object	cat in_front_of door
+object-verb	cat sit
+object	bicycle
+object	cat
+object	door
+object	pottedplant
+#####################################################

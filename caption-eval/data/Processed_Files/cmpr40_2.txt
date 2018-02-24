@@ -1,0 +1,50 @@
+beam_size_1	2	A dog running through the snow with what appears to be a chunk of wood in its mouth .
+beam_size_1	3	A white dog carries something in its mouth through the snow .
+beam_size_1	4	A white dog in the snow running with an object in its mouth
+beam_size_1	5	A white dog runs over a snowy field or lawn , with a log in his jaws .
+beam_size_1	6	A white dog with a purple necklace on plays in the snow .
+beam_size_1	7	A laughing woman leans on the legs of a sitting man while lying on a bed of pebbles .
+beam_size_1	8	A woman and a barefoot man lay down on rocky terrain .
+beam_size_1	9	Laying on stones , a girl with messy hair has her head on the boy laying next to her .
+beam_size_1	10	The two people are lying in gray rocks .
+beam_size_1	11	Young man and woman stretch out on stones , packages in foreground .
+beam_size_1	12	a climber is between two large red rocks .
+beam_size_1	13	A man squeezes between two rock formations .
+beam_size_1	14	a man wearing a yellow shirt and white hardhat stands inside a crevice between two rock faces .
+beam_size_1	15	A rock climber standing in a crevasse .
+beam_size_1	16	The rock climber appears to be stuck between a rock and a hard place .
+beam_size_1	17	A male athlete is wearing a teal sweatband and a shirt from Nike and is holding a tennis racket .
+beam_size_1	18	A man plays tennis .
+beam_size_1	19	A tennis player is carrying a tennis racket .
+beam_size_1	20	a tennis player wearing a yellow , white and blue shirt carrying a racquet
+beam_size_1	21	The tennis player is wearing a yellow and blue shirt and a blue headband .
+beam_size_1	22	A group of men are changing the shells on a cannon .
+beam_size_1	23	Group of men loading a cannon .
+beam_size_1	24	several men loading a metal cannon
+beam_size_1	25	Several people work on a machine .
+beam_size_1	26	Some men try to load what looks like a cannon .
+beam_size_1	27	A man dressed in grey climbing a large brown rock .
+beam_size_1	28	A man in a gray shirt climbs a large rock wall .
+beam_size_1	29	A man in shorts climbs a rock face .
+beam_size_1	30	Man climbing a rock wall .
+beam_size_1	31	The back of a man climbing a rock .
+beam_size_1	32	A man sleeping with a bag on his lap on public transportation
+beam_size_1	33	A man who has fallen asleep on public transportation .
+beam_size_1	34	An asian man in a suit on the subway , asleep .
+beam_size_1	35	A tired business man takes a quick nap while riding the train .
+beam_size_1	36	A young man in a suit and tie leans against a railing to take a nap on public transit .
+beam_size_1	37	Three women standing on a city street .
+beam_size_1	38	Three women walk down the street .
+beam_size_1	39	Two girls and a woman walking on the sidewalk
+beam_size_1	40	Two girls in bright green boots and a woman are together .
+beam_size_1	41	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	42	Two children standing under an awning .
+beam_size_1	43	Two kids are playing a game of Foosball .
+beam_size_1	44	Two kids in a developing nation are playing a table top game under an awning made from burlap .
+beam_size_1	45	Two men play a game beneath a shade .
+beam_size_1	46	Two young kids are in a hut .
+beam_size_1	47	A child in a black cap sleeping across two chairs .
+beam_size_1	48	A small boy in a hat asleep on a padded bench .
+beam_size_1	49	A small child sucks his thumb while sleeping with a pink blanket on a multi-colored seat .
+beam_size_1	50	A young boy wearing a dark blue hat sleeps on a bench at a terminal .
+beam_size_1	51	Small boy sleeping on seats and sucking his thumb .

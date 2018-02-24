@@ -1,0 +1,60 @@
+A brown duck and white duck stand on the grass . 
+a brown duck and white duck stand on the grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	duck on grass
+attribute-object	brown duck
+attribute-object	white duck
+object-verb	duck stand
+object	grass
+object	duck
+object	bird
+#####################################################
+A duck and goose standing by a stream . 
+a duck and goose standing by a stream . 
+
+verb-prep-object	stand by stream
+object-verb	duck stand
+object-verb	goose stand
+object	stream
+object	duck
+object	goose
+object	bird
+#####################################################
+A mallard and a tame white duck on the grass near water . 
+a mallard and a tame white duck on the grass near water . 
+
+object-prep-object	duck on grass
+object-prep-object	mallard on grass
+object-prep-object	grass near water
+attribute-object	tame duck
+attribute-object	white duck
+object	duck
+object	grass
+object	mallard
+object	water
+object	bird
+#####################################################
+Brown and white ducks walking on green grass . 
+Brown and white duck walk on green grass . 
+
+verb-prep-object	walk on grass
+object-prep-object	duck on grass
+attribute-object	brown duck
+attribute-object	white duck
+attribute-object	green grass
+object-verb	duck walk
+object	grass
+object	duck
+object	bird
+#####################################################
+Two ducks are standing by the water . 
+two duck be stand by the water . 
+
+verb-prep-object	stand by water
+object-prep-object	duck by water
+object-verb	duck stand
+object	water
+object	duck
+object	bird
+#####################################################

@@ -1,0 +1,52 @@
+A black dog . 
+a black dog . 
+
+attribute-object	black dog
+object	dog
+object	pottedplant
+#####################################################
+A black dog laying on the grass next to a wooden structure . 
+a black dog lay on the grass next to a wooden structure . 
+
+verb-prep-object	lay on grass
+verb-prep-object	lay next_to structure
+object-prep-object	dog on grass
+object-prep-object	dog next_to structure
+attribute-object	black dog
+attribute-object	wooden structure
+object-verb	dog lay
+object	grass
+object	structure
+object	dog
+object	pottedplant
+#####################################################
+A black dog lies on the grass . 
+a black dog lie on the grass . 
+
+verb-prep-object	lie on grass
+object-prep-object	dog on grass
+attribute-object	black dog
+object-verb	dog lie
+object	grass
+object	dog
+object	pottedplant
+#####################################################
+A black dog sitting outside . 
+a black dog sit outside . 
+
+attribute-object	black dog
+object-verb	dog sit
+object	dog
+object	pottedplant
+#####################################################
+The black dog is lying in the grass . 
+the black dog be lie in the grass . 
+
+verb-prep-object	lie in grass
+object-prep-object	dog in grass
+attribute-object	black dog
+object-verb	dog lie
+object	grass
+object	dog
+object	pottedplant
+#####################################################

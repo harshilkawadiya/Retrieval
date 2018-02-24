@@ -1,0 +1,67 @@
+A man and two women are posing for the camera on a boat in the water . 
+a man and two woman be pose for the camera on a boat in the water . 
+
+object-prep-object	boat in water
+verb-prep-object	pose for camera
+verb-prep-object	pose on boat
+object-prep-object	person on man
+object-prep-object	person on woman
+object-verb	person pose
+object-verb	person pose
+object	boat
+object	water
+object	camera
+object	person
+object	man
+object	woman
+object	boat
+#####################################################
+a shirtless bald man and two young women on a boat . 
+a shirtless bald man and two young woman on a boat . 
+
+object-prep-object	person on man
+object-prep-object	person on woman
+attribute-object	shirtless person
+attribute-object	bald person
+attribute-object	young person
+object	person
+object	man
+object	woman
+object	boat
+#####################################################
+Group of 3 people posing for a picture on a white boat . 
+Group of 3 people pose for a picture on a white boat . 
+
+verb-prep-object	pose for picture
+verb-prep-object	pose on boat
+object-prep-object	person on people
+attribute-object	white boat
+object-verb	person pose
+object	picture
+object	boat
+object	person
+object	people
+object	boat
+#####################################################
+The three people are on a white boat . 
+the three people be on a white boat . 
+
+object-prep-object	person on people
+attribute-object	white boat
+object	person
+object	people
+object	boat
+object	boat
+#####################################################
+Two girls on a guy posing on the bow a boat . 
+two girl on a guy pose on the bow a boat . 
+
+object-prep-object	person on person
+verb-prep-object	pose on boat
+object-prep-object	person on girl
+object-verb	person pose
+object	person
+object	girl
+object	boat
+object	boat
+#####################################################

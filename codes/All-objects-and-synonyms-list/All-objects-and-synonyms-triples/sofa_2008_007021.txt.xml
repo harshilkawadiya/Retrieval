@@ -1,0 +1,72 @@
+The two dogs blend in with the stuff animals . 
+the two dog blend in with the stuff animal . 
+
+attribute-object	stuff animal
+object-verb	dog blend
+verb-prep-object	blend with animal
+object	animal
+object	dog
+object	sofa
+#####################################################
+Two dogs and a set of stuffed animals rest on a leather couch . 
+two dog and a set of stuff animal rest on a leather couch . 
+
+object-verb	dog rest
+object-verb	animal rest
+verb-prep-object	rest on sofa
+attribute-object	leather sofa
+object-prep-object	dog on bed
+object-prep-object	animal on bed
+attribute-object	stuff animal
+object	dog
+object	animal
+object	sofa
+object	bed
+object	sofa
+#####################################################
+Two dogs sit on a couch with many stuffed animals . 
+two dog sit on a couch with many stuff animal . 
+
+object-verb	dog sit
+verb-prep-object	sit on sofa
+object-prep-object	dog on bed
+verb-prep-object	sit with animal
+attribute-object	stuff animal
+object	dog
+object	sofa
+object	bed
+object	animal
+object	sofa
+#####################################################
+Two golden dogs laying on the couch with several stuffed animals . 
+two golden dog lay on the couch with several stuff animal . 
+
+verb-prep-object	lay with animal
+object-prep-object	dog with animal
+verb-prep-object	lay on sofa
+object-prep-object	dog on bed
+attribute-object	golden dog
+attribute-object	several animal
+attribute-object	stuff animal
+object-verb	dog lay
+object	animal
+object	dog
+object	sofa
+object	bed
+object	sofa
+#####################################################
+Two golden retrievers on couch with many stuffed animals . 
+two golden retriever on couch with many stuff animal . 
+
+object-prep-object	dog with retriever
+object-prep-object	dog on bed
+attribute-object	golden dog
+attribute-object	many animal
+attribute-object	stuff animal
+object	dog
+object	retriever
+object	sofa
+object	bed
+object	animal
+object	sofa
+#####################################################

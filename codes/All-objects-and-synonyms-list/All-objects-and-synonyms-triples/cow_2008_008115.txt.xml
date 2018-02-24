@@ -1,0 +1,60 @@
+Bony cows stand in grass with mountains in the background . 
+bony cow stand in grass with mountain in the background . 
+
+object-prep-object	cow with mountain
+verb-prep-object	stand in grass
+object-prep-object	cow in grass
+attribute-object	bony cow
+object-verb	cow stand
+object	cow
+object	mountain
+object	grass
+object	cow
+#####################################################
+Curious cows graze in the grass . 
+curious cow graze in the grass . 
+
+verb-prep-object	graze in grass
+object-prep-object	cow in grass
+attribute-object	curious cow
+object-verb	cow graze
+object	grass
+object	cow
+object	cow
+#####################################################
+In a grassy pasture , cows with tagged ears are looking curiously at the camera . 
+in a grassy pasture , cow with tag ear be look curiously at the camera . 
+
+object-verb	cow look
+verb-prep-object	look at camera
+object-prep-object	cow with ear
+attribute-object	tag ear
+object-prep-object	cow in pasture
+attribute-object	grassy pasture
+object	cow
+object	camera
+object	ear
+object	pasture
+object	cow
+#####################################################
+Tan cows look closely at the camera . 
+Tan cow look closely at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	tan cow
+object-verb	cow look
+object	camera
+object	cow
+object	cow
+#####################################################
+The skinny cows are standing on the grass . 
+the skinny cow be stand on the grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	cow on grass
+attribute-object	skinny cow
+object-verb	cow stand
+object	grass
+object	cow
+object	cow
+#####################################################

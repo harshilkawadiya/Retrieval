@@ -1,0 +1,51 @@
+A black calf drinks milk near the road . 
+a black calf drink milk near the road . 
+
+object-verb-object	calf drink milk
+attribute-object	black calf
+verb-prep-object	drink near road
+object-prep-object	calf near road
+object	calf
+object	milk
+object	road
+object	cow
+#####################################################
+A cow with her calf suckling . 
+a cow with she calf suckling . 
+
+object-prep-object	cow with calf
+object-verb	calf suckling
+object	cow
+object	calf
+object	cow
+#####################################################
+A dark brown calf suckling its mother . 
+a dark brown calf suckle its mother . 
+
+attribute-object	dark calf
+attribute-object	brown calf
+object-verb-object	calf suckle mother
+object	calf
+object	mother
+object	cow
+#####################################################
+A dark brown cow with her calf . 
+a dark brown cow with she calf . 
+
+object-prep-object	cow with calf
+attribute-object	dark cow
+attribute-object	brown cow
+object	cow
+object	calf
+object	cow
+#####################################################
+There are two cows standing on the grass . 
+there be two cow stand on the grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	cow on grass
+object-verb	cow stand
+object	grass
+object	cow
+object	cow
+#####################################################

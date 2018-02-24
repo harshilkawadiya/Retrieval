@@ -1,0 +1,78 @@
+A man sitting at an office desk with his computer on . 
+a man sit at a office desk with he computer on . 
+
+verb-prep-object	sit at desk
+object-prep-object	man at desk
+object-prep-object	desk with computer
+attribute-object	office desk
+object-verb	man sit
+object	desk
+object	man
+object	computer
+object	tvmonitor
+#####################################################
+A man with glasses and a burgundy shirt seated at his cubicle in front of a computer . 
+a man with glass and a burgundy shirt seat at he cubicle in front of a computer . 
+
+verb-prep-object	seat at cubicle
+object-prep-object	man at cubicle
+object-prep-object	man with glass
+object-prep-object	man with shirt
+verb-prep-object	seat in_front_of computer
+object-prep-object	man in_front_of computer
+attribute-object	burgundy shirt
+object-verb	man seat
+object	cubicle
+object	man
+object	glass
+object	shirt
+object	computer
+object	tvmonitor
+#####################################################
+A man with glasses in a cubicle . 
+a man with glass in a cubicle . 
+
+object-prep-object	man with glass
+object-prep-object	man in cubicle
+object	man
+object	glass
+object	cubicle
+object	tvmonitor
+#####################################################
+A man with thinning hair and a brown shirt looks up from the computer in his cubicle . 
+a man with thin hair and a brown shirt look up from the computer in he cubicle . 
+
+object-prep-object	man with hair
+object-prep-object	man with shirt
+attribute-object	thin hair
+attribute-object	brown shirt
+object-verb	man look
+verb-attribute	look up
+verb-prep-object	look from computer
+object-prep-object	computer in cubicle
+object	man
+object	hair
+object	shirt
+object	computer
+object	cubicle
+object	tvmonitor
+#####################################################
+Man with glasses and maroon shirt sitting at office desk in cubicle . 
+man with glass and maroon shirt sit at office desk in cubicle . 
+
+verb-prep-object	sit at desk
+object-prep-object	man at desk
+object-prep-object	man with glass
+object-prep-object	man with shirt
+object-prep-object	desk in cubicle
+verb-prep-object	sit in cubicle
+attribute-object	maroon shirt
+attribute-object	office desk
+object-verb	man sit
+object	desk
+object	man
+object	glass
+object	shirt
+object	cubicle
+object	tvmonitor
+#####################################################

@@ -1,0 +1,67 @@
+A small plane grounded in a field of grass . 
+a small plane ground in a field of grass . 
+
+object-prep-object	field of grass
+verb-prep-object	ground in field
+object-prep-object	plane in field
+attribute-object	small plane
+object-verb	plane ground
+object	field
+object	grass
+object	plane
+object	aeroplane
+#####################################################
+A small , white plane sits in a grassy airfield . 
+a small , white plane sit in a grassy airfield . 
+
+verb-prep-object	sit in airfield
+object-prep-object	plane in airfield
+attribute-object	small plane
+attribute-object	white plane
+attribute-object	grassy airfield
+object-verb	plane sit
+object	airfield
+object	plane
+object	aeroplane
+#####################################################
+A small , white SE-KEO airplane parked on the grass . 
+a small , white se-keo airplane park on the grass . 
+
+verb-prep-object	park on grass
+object-prep-object	airplane on grass
+attribute-object	small airplane
+attribute-object	white airplane
+attribute-object	se-keo airplane
+object-verb	airplane park
+object	grass
+object	airplane
+object	aeroplane
+#####################################################
+A white plane with orange letters sits on a grassy field . 
+a white plane with orange letter sit on a grassy field . 
+
+verb-prep-object	sit on field
+object-prep-object	plane on field
+object-prep-object	plane with letter
+attribute-object	white plane
+attribute-object	orange letter
+attribute-object	grassy field
+object-verb	plane sit
+object	field
+object	plane
+object	letter
+object	aeroplane
+#####################################################
+White propeller plane parked in middle of grassy field . 
+White propeller plane park in middle of grassy field . 
+
+verb-prep-object	park in field
+object-prep-object	plane in field
+attribute-object	grassy field
+attribute-object	white plane
+attribute-object	propeller plane
+object-verb	plane park
+object	field
+object	plane
+object	aeroplane
+#####################################################

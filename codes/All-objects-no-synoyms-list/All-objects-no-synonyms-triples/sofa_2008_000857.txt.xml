@@ -1,0 +1,70 @@
+A bedroom decorated in beige and brown colors with a large bed , sofa , and rug . 
+a bedroom decorate in beige and brown color with a large bed , sofa , and rug . 
+
+object-verb	bedroom decorate
+verb-prep-object	decorate in color
+object-prep-object	bedroom in color
+attribute-object	beige color
+attribute-object	brown color
+verb-prep-object	decorate with bed
+object-prep-object	bedroom with bed
+verb-prep-object	decorate with sofa
+object-prep-object	bedroom with sofa
+verb-prep-object	decorate with rug
+object-prep-object	bedroom with rug
+attribute-object	large bed
+object	bedroom
+object	color
+object	bed
+object	sofa
+object	rug
+object	sofa
+#####################################################
+A bedroom decorated in beige and chocolate . 
+a bedroom decorate in beige and chocolate . 
+
+verb-prep-object	decorate in beige
+object-prep-object	bedroom in beige
+verb-prep-object	decorate in chocolate
+object-prep-object	bedroom in chocolate
+object-verb	bedroom decorate
+object	beige
+object	bedroom
+object	chocolate
+object	sofa
+#####################################################
+A classy bedroom . 
+a classy bedroom . 
+
+attribute-object	classy bedroom
+object	bedroom
+object	sofa
+#####################################################
+The brown and beige themed bedroom has a sofa next to a wooden bed and a rug in front of the bed . 
+the brown and beige theme bedroom have a sofa next to a wooden bed and a rug in front of the bed . 
+
+object-verb-object	bedroom have sofa
+attribute-object	brown bedroom
+attribute-object	beige bedroom
+object-prep-object	sofa next_to bed
+attribute-object	wooden bed
+object-verb-object	bedroom have rug
+object-prep-object	rug in_front_of bed
+object	bedroom
+object	sofa
+object	bed
+object	rug
+object	sofa
+#####################################################
+This room has a cream and brown bed and loveseat . 
+this room have a cream and brown bed and loveseat . 
+
+attribute-object	cream bed
+attribute-object	brown bed
+object-verb-object	room have bed
+object-verb-object	room have loveseat
+object	bed
+object	room
+object	loveseat
+object	sofa
+#####################################################

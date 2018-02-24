@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref1">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A girl in a plaid coat takes a photo of herself in a mirror by a staircase, holding a red bag.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref2">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A girl with a red bag standing on the street.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref3">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A woman looks to take a photo.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref4">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> A women with a red bag takes a picture of herself in a mirror.</seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="English" trglang="English" refid="ref5">
+<doc docid="doc1" genre="nw">
+<p>
+<seg id="1"> Young woman with red bag holding camera.</seg>
+</p>
+</doc>
+</refset>
+</mteval>

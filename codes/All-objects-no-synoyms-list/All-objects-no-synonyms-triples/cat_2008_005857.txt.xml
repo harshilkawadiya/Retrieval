@@ -1,0 +1,68 @@
+A cat looks away while laying down in an office chair . 
+a cat look away while lay down in a office chair . 
+
+verb-prep-object	lay in chair
+object-prep-object	cat in chair
+attribute-object	office chair
+object-verb	cat look
+object-verb	cat lay
+verb-attribute	lay down
+object	chair
+object	cat
+object	cat
+#####################################################
+A cat reclines on an office chair . 
+a cat recline on a office chair . 
+
+verb-prep-object	recline on chair
+object-prep-object	cat on chair
+attribute-object	office chair
+object-verb	cat recline
+object	chair
+object	cat
+object	cat
+#####################################################
+A ginger cat sitting on an office chair . 
+a ginger cat sit on a office chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	cat on chair
+attribute-object	ginger cat
+attribute-object	office chair
+object-verb	cat sit
+object	chair
+object	cat
+object	cat
+#####################################################
+An orange cat lies on a padded desk chair near some shelves filled with books and folders . 
+a orange cat lie on a padded desk chair near some shelf fill with book and folder . 
+
+object-verb	cat lie
+attribute-object	orange cat
+verb-prep-object	lie on chair
+object-prep-object	cat on chair
+attribute-object	padded chair
+attribute-object	desk chair
+object-prep-object	chair near shelf
+verb-prep-object	fill with book
+verb-prep-object	fill with folder
+object-verb	shelf fill
+object	cat
+object	chair
+object	shelf
+object	book
+object	folder
+object	cat
+#####################################################
+The brown cat is sitting in a computer chair . 
+the brown cat be sit in a computer chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	cat in chair
+attribute-object	brown cat
+attribute-object	computer chair
+object-verb	cat sit
+object	chair
+object	cat
+object	cat
+#####################################################

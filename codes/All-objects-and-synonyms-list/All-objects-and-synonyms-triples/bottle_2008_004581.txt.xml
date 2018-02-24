@@ -1,0 +1,56 @@
+A messy car . 
+a messy car . 
+
+attribute-object	messy car
+object	car
+object	bottle
+#####################################################
+A messy car inside and steaming wheel . 
+a messy car inside and steam wheel . 
+
+attribute-object	messy car
+attribute-object	steam wheel
+object	car
+object	wheel
+object	bottle
+#####################################################
+Inside of car with driver and passenger airbags deployed . 
+inside of car with driver and passenger airbag deploy . 
+
+object-prep-object	car with airbag
+attribute-object	driver airbag
+attribute-object	passenger airbag
+object-verb	airbag deploy
+object	car
+object	airbag
+object	bottle
+#####################################################
+The driving seat of a car with the airbags used and deflated . 
+the driving seat of a car with the airbag use and deflate . 
+
+object-prep-object	seat with airbag
+object-prep-object	car with airbag
+object-prep-object	seat of car
+attribute-object	driving seat
+object-verb	airbag use
+object-verb	airbag deflate
+object	seat
+object	airbag
+object	car
+object	bottle
+#####################################################
+The interior of a car with deployed air bags and an unopened bottle of Dr. Pepper on the floor . 
+the interior of a car with deploy air bag and a unopened bottle of Dr. Pepper on the floor . 
+
+object-prep-object	car with bag
+object-prep-object	car with bottle
+object-prep-object	bottle on floor
+attribute-object	deploy bag
+attribute-object	unopened bottle
+attribute-object	air bag
+object	car
+object	bag
+object	bottle
+object	floor
+object	bottle
+#####################################################

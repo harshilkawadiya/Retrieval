@@ -1,0 +1,72 @@
+A guy playing a giant intent in a game store with a blue wall . 
+a guy play a giant intent in a game store with a blue wall . 
+
+object-verb-object	person play guy
+attribute-object	giant intent
+verb-prep-object	play in store
+attribute-object	game store
+object-prep-object	person in guy
+object-prep-object	store with wall
+attribute-object	blue wall
+object	person
+object	guy
+object	intent
+object	store
+object	wall
+object	tvmonitor
+#####################################################
+A man bending over playing a video game on a large screen on the wall . 
+a man bend over play a video game on a large screen on the wall . 
+
+verb-prep-object	play on screen
+object-prep-object	screen on wall
+attribute-object	large screen
+attribute-object	video game
+object-verb	person bend
+object-verb-object	person play man
+object	screen
+object	wall
+object	game
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A man playing a video game in a store . 
+a man play a video game in a store . 
+
+verb-prep-object	play in store
+object-prep-object	person in man
+object-verb-object	person play man
+attribute-object	video game
+object	store
+object	person
+object	man
+object	game
+object	tvmonitor
+#####################################################
+A man playing Super Mario Brothers with a giant Nentendo controller . 
+a man play Super Mario Brothers with a giant Nentendo controller . 
+
+object-verb-object	person play man
+attribute-object	super brothers
+attribute-object	mario brothers
+verb-prep-object	play with controller
+attribute-object	giant controller
+attribute-object	nentendo controller
+object	person
+object	man
+object	brothers
+object	controller
+object	tvmonitor
+#####################################################
+Man playing game in a store . 
+man playing game in a store . 
+
+object-prep-object	person in man
+object-verb-object	person play man
+verb-prep-object	play in store
+object	person
+object	man
+object	store
+object	tvmonitor
+#####################################################

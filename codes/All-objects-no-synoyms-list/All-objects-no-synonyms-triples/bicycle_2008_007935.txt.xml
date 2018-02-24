@@ -1,0 +1,63 @@
+A child holding large bags stands next to a tall bicycle beside the road . 
+a child hold large bag stand next to a tall bicycle beside the road . 
+
+verb-prep-object	stand beside road
+object-prep-object	child beside road
+verb-prep-object	stand next_to bicycle
+object-prep-object	child next_to bicycle
+attribute-object	large bag
+attribute-object	tall bicycle
+object-verb-object	child hold bag
+object-verb	child stand
+object	road
+object	child
+object	bicycle
+object	bag
+object	bicycle
+#####################################################
+A girl walks a bike down a trained street . 
+a girl walk a bike down a trained street . 
+
+verb-prep-object	walk down street
+object-prep-object	girl down street
+attribute-object	trained street
+object-verb-object	girl walk bike
+object	street
+object	girl
+object	bike
+object	bicycle
+#####################################################
+Little girl walking with her bicycle in the dirt . 
+little girl walk with she bicycle in the dirt . 
+
+verb-prep-object	walk with bicycle
+verb-prep-object	walk in dirt
+object-prep-object	girl with bicycle
+object-prep-object	girl in dirt
+attribute-object	little girl
+object-verb	girl walk
+object	bicycle
+object	dirt
+object	girl
+object	bicycle
+#####################################################
+The girl is pushing a bicycle . 
+the girl be push a bicycle . 
+
+object-verb-object	girl push bicycle
+object	girl
+object	bicycle
+object	bicycle
+#####################################################
+The young lady prepares to board the oversize bike . 
+the young lady prepare to board the oversize bike . 
+
+verb-prep-verb	prepare to board
+verb-object	board bike
+attribute-object	young lady
+attribute-object	oversize bike
+object-verb	lady prepare
+object	bike
+object	lady
+object	bicycle
+#####################################################

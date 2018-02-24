@@ -1,0 +1,73 @@
+A child standing on a dusty street looks at adults with large metal containers . 
+a child standing on a dusty street look at adult with large metal container . 
+
+verb-prep-object	look at person
+object-prep-object	person with container
+object-prep-object	person on road
+verb-prep-object	stand on road
+attribute-object	dusty road
+attribute-object	large container
+object-verb	person stand
+attribute-object	metal container
+object-verb	person look
+object	person
+object	container
+object	road
+object	bicycle
+#####################################################
+Appears to be a dairy somewhere in a developing country . 
+appear to be a dairy somewhere in a develop country . 
+
+attribute-object	develop country
+object-prep-object	dairy in country
+object	country
+object	dairy
+object	bicycle
+#####################################################
+A small child in a street surrounded by people and large metal urns . 
+a small child in a street surround by people and large metal urn . 
+
+verb-prep-object	surround by person
+verb-prep-object	surround by urn
+object-prep-object	person in road
+attribute-object	small person
+attribute-object	large urn
+attribute-object	metal urn
+object-verb	person surround
+object	person
+object	urn
+object	road
+object	bicycle
+#####################################################
+A young boy is standing in the street near milk jugs and men in an impoverished country . 
+a young boy be stand in the street near milk jug and man in a impoverished country . 
+
+verb-prep-object	road near jug
+object-prep-object	person near jug
+object-prep-object	road near person
+verb-prep-object	stand in road
+object-prep-object	person in road
+verb-prep-object	stand in country
+object-prep-object	person in country
+attribute-object	young person
+attribute-object	impoverished country
+attribute-object	milk jug
+object-verb	person stand
+object	jug
+object	person
+object	road
+object	country
+object	bicycle
+#####################################################
+Small child looking at adults in rundown area . 
+small child look at adult in rundown area . 
+
+object-prep-object	person in area
+verb-prep-object	look at person
+attribute-object	small person
+attribute-object	rundown area
+object-verb	person look
+object	person
+object	area
+object	bicycle
+#####################################################

@@ -1,0 +1,59 @@
+A close-up of a computer sitting on a desk with a modem , keyboard , and large speakers . 
+a close-up of a computer sit on a desk with a modem , keyboard , and large speaker . 
+
+object-prep-object	table with diningtable
+object-prep-object	table with diningtable
+object-prep-object	table with diningtable
+verb-prep-object	sit on table
+object-prep-object	laptop on diningtable
+attribute-object	large speaker
+object-verb	laptop sit
+object	table
+object	diningtable
+object	laptop
+object	computer
+object	speaker
+object	tvmonitor
+#####################################################
+A desktop computer system and loudspeaker . 
+a desktop computer system and loudspeaker . 
+
+attribute-object	desktop laptop
+object	loudspeaker
+object	laptop
+object	computer
+object	loudspeaker
+object	tvmonitor
+#####################################################
+A desk with a computer and speaker on top . 
+a desk with a computer and speaker on top . 
+
+object-prep-object	table with laptop
+object-prep-object	table with diningtable
+object	table
+object	diningtable
+object	laptop
+object	tvmonitor
+#####################################################
+Keyboard and speaker . 
+keyboard and speaker . 
+
+object	keyboard
+object	speaker
+object	keyboard
+object	speaker
+object	tvmonitor
+#####################################################
+This is an image of someone 's computer next to scissors and a soft drink on a desk . 
+this be a image of someone 's computer next to scissors and a soft drink on a desk . 
+
+object-prep-object	laptop next_to computer
+attribute-object	soft drink
+object-prep-object	drink on diningtable
+object	laptop
+object	computer
+object	drink
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################

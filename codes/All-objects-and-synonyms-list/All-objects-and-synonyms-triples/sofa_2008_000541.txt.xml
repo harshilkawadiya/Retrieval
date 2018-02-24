@@ -1,0 +1,76 @@
+Four Asian young people sitting in a den or living room . 
+four asian young people sit in a den or living room . 
+
+verb-prep-object	sit in room
+verb-prep-object	sit in room
+object-prep-object	person in people
+object-prep-object	person in room
+attribute-object	asian person
+attribute-object	young person
+attribute-object	living room
+object-verb	person sit
+object	room
+object	den
+object	person
+object	people
+object	sofa
+#####################################################
+Group of kids sitting on brown couch together . 
+Group of kid sit on brown couch together . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	brown sofa
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	kid
+object	sofa
+#####################################################
+The girls watch highlights of the Laker game . 
+the girl watch highlight of the Laker game . 
+
+object-prep-object	highlight of game
+attribute-object	laker game
+object-verb-object	person watch girl
+object	highlight
+object	game
+object	person
+object	girl
+object	sofa
+#####################################################
+Three girls are sitting on a couch and smiling next to one sitting on the floor . 
+three girl be sit on a couch and smile next to one sit on the floor . 
+
+object-verb	person sit
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb	person smile
+verb-prep-object	sit on floor
+object-prep-object	person on girl
+object-verb	person sit
+object	person
+object	girl
+object	sofa
+object	bed
+object	floor
+object	sofa
+#####################################################
+Three young teenagers sitting on a couch with another sitting on the floor . 
+three young teenager sit on a couch with another sit on the floor . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+verb-prep-object	sit on floor
+object-prep-object	person on teenager
+attribute-object	young person
+object-verb	person sit
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	teenager
+object	floor
+object	sofa
+#####################################################

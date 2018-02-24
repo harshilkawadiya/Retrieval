@@ -1,0 +1,48 @@
+A horse galloping while wearing the number 4 . 
+a horse gallop while wear the number 4 . 
+
+object-verb	horse gallop
+object-verb-object	horse wear number
+object	horse
+object	number
+object	horse
+#####################################################
+A race horse galloping without a rider . 
+a race horse gallop without a rider . 
+
+verb-prep-object	gallop without rider
+object-prep-object	horse without rider
+attribute-object	race horse
+object-verb	horse gallop
+object	rider
+object	horse
+object	horse
+#####################################################
+Brown race horse wearing race mask and halter . 
+Brown race horse wear race mask and halter . 
+
+object-verb-object	horse wear mask
+object-verb-object	horse wear halter
+attribute-object	brown horse
+attribute-object	race horse
+attribute-object	race mask
+object	horse
+object	mask
+object	halter
+object	horse
+#####################################################
+Horse in a competition . 
+Horse in a competition . 
+
+object-prep-object	horse in competition
+object	horse
+object	competition
+object	horse
+#####################################################
+The racing horse is number four . 
+the racing horse be number four . 
+
+attribute-object	racing horse
+object	horse
+object	horse
+#####################################################

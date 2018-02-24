@@ -1,0 +1,80 @@
+An smiling asian child sits beside a young woman near a blue mosaic table . 
+a smile asian child sit beside a young woman near a blue mosaic table . 
+
+verb-prep-object	sit beside woman
+object-prep-object	child beside woman
+object-prep-object	woman near table
+attribute-object	smile child
+attribute-object	asian child
+attribute-object	young woman
+attribute-object	blue table
+attribute-object	mosaic table
+object-verb	child sit
+object	woman
+object	child
+object	table
+object	chair
+#####################################################
+Asian mother and daughter seated at a dinner table . 
+asian mother and daughter seat at a dinner table . 
+
+verb-prep-object	seat at table
+object-prep-object	mother at table
+object-prep-object	daughter at table
+attribute-object	asian mother
+attribute-object	dinner table
+object-verb	mother seat
+object-verb	daughter seat
+object	table
+object	mother
+object	daughter
+object	chair
+#####################################################
+A small girl and a woman seated at a restaurant smile for the camera . 
+a small girl and a woman seat at a restaurant smile for the camera . 
+
+verb-prep-object	seat at restaurant
+object-prep-object	girl at restaurant
+object-prep-object	woman at restaurant
+verb-prep-object	smile for camera
+attribute-object	small girl
+object-verb	girl seat
+object-verb	woman seat
+object-verb	girl smile
+object-verb	woman smile
+object	restaurant
+object	girl
+object	woman
+object	camera
+object	chair
+#####################################################
+A woman and small child sitting at a dinner table smiling at the camera . 
+a woman and small child sit at a dinner table smile at the camera . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-prep-object	child at table
+verb-prep-object	smile at camera
+attribute-object	small child
+attribute-object	dinner table
+object-verb	woman sit
+object-verb	child sit
+object-verb	woman smile
+object-verb	child smile
+object	table
+object	woman
+object	child
+object	camera
+object	chair
+#####################################################
+The happy mom and daughter await their meal . 
+the happy mom and daughter await they meal . 
+
+attribute-object	happy mom
+object-verb-object	mom await meal
+object-verb-object	daughter await meal
+object	mom
+object	meal
+object	daughter
+object	chair
+#####################################################

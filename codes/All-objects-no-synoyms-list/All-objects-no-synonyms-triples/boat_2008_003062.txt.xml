@@ -1,0 +1,64 @@
+A dark-haired man with a mustache is behind a red-haired man on a boat . 
+a dark-haired man with a mustache be behind a red-haired man on a boat . 
+
+object-prep-object	man with mustache
+object-prep-object	man behind man
+object-prep-object	man on boat
+attribute-object	dark-haired man
+attribute-object	red-haired man
+object	man
+object	mustache
+object	boat
+object	boat
+#####################################################
+Two men on a ship are looking into the camera . 
+two man on a ship be look into the camera . 
+
+object-prep-object	man on ship
+verb-prep-object	look into camera
+object-verb	man look
+object	man
+object	ship
+object	camera
+object	boat
+#####################################################
+Two men on a ship at sea are posing for a camera up close . 
+two man on a ship at sea be pose for a camera up close . 
+
+object-prep-object	ship at sea
+object-prep-object	man on ship
+verb-prep-object	pose for camera
+object-verb	man pose
+object	ship
+object	sea
+object	man
+object	camera
+object	boat
+#####################################################
+Two men on boat floating on the water . 
+two man on boat float on the water . 
+
+object-prep-object	man on boat
+object-prep-object	boat on water
+verb-prep-object	float on water
+object-verb	boat float
+object	man
+object	boat
+object	water
+object	boat
+#####################################################
+Two men , one blonde and one brunette , stand in a large boat on the ocean . 
+two man , one blonde and one brunette , stand in a large boat on the ocean . 
+
+object-prep-object	boat on ocean
+verb-prep-object	stand in boat
+object-prep-object	man in boat
+attribute-object	large boat
+object-verb	man stand
+attribute-object	blonde man
+attribute-object	brunette man
+object	boat
+object	ocean
+object	man
+object	boat
+#####################################################

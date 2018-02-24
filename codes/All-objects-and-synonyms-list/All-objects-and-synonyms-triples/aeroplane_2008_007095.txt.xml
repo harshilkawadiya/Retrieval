@@ -1,0 +1,61 @@
+An airplane flies against a colorful sky with the sun rising . 
+a airplane fly against a colorful sky with the sun rise . 
+
+verb-prep-object	fly against sky
+object-prep-object	aeroplane against sky
+object-prep-object	sky with sun
+attribute-object	colorful sky
+object-verb	aeroplane fly
+object-verb	sun rise
+object	sky
+object	aeroplane
+object	sun
+object	aeroplane
+#####################################################
+A plane flying near the sunset . 
+a plane fly near the sunset . 
+
+verb-prep-object	fly near sunset
+object-prep-object	aeroplane near sunset
+object-verb	aeroplane fly
+object	sunset
+object	aeroplane
+object	aeroplane
+#####################################################
+a silhouette of a plane taking off in the distance into the sunset . 
+a silhouette of a plane take off in the distance into the sunset . 
+
+verb-prep-object	takeoff into sunset
+verb-prep-object	takeoff in distance
+object-verb-object	aeroplane into sunset
+object-verb	aeroplane takeoff
+object-prep-object	silhouette of aeroplane
+object	sunset
+object	distance
+object	aeroplane
+object	silhouette
+object	aeroplane
+#####################################################
+Plane in mid-flight at sunset . 
+plane in mid-flight at sunset . 
+
+object-prep-object	aeroplane at sunset
+object-prep-object	aeroplane in mid-flight
+object	aeroplane
+object	sunset
+object	mid-flight
+object	aeroplane
+#####################################################
+The airplane is flying high in the yellow colored sky . 
+the airplane be fly high in the yellow color sky . 
+
+verb-prep-object	fly in sky
+object-verb-object	aeroplane in sky
+attribute-verb	high fly
+attribute-object	yellow sky
+attribute-object	color sky
+object-verb	aeroplane fly
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################

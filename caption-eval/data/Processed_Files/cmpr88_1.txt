@@ -1,0 +1,50 @@
+2	A black and white dog is running through a cow field .
+3	A black and white dog running in the grass where there are some cows .
+4	A calf is running in the fields while cows look on .
+5	A cow herd grazing in the pasture with a dog running in the foreground .
+6	A dog running in the grass around sheep .
+7	A black and white dog is running through a cow field .
+8	A black and white dog running in the grass where there are some cows .
+9	A calf is running in the fields while cows look on .
+10	A cow herd grazing in the pasture with a dog running in the foreground .
+11	A dog running in the grass around sheep .
+12	A black and white dog is running through a cow field .
+13	A black and white dog running in the grass where there are some cows .
+14	A calf is running in the fields while cows look on .
+15	A cow herd grazing in the pasture with a dog running in the foreground .
+16	A dog running in the grass around sheep .
+17	A black and white dog is running through a cow field .
+18	A black and white dog running in the grass where there are some cows .
+19	A calf is running in the fields while cows look on .
+20	A cow herd grazing in the pasture with a dog running in the foreground .
+21	A dog running in the grass around sheep .
+22	A black and white dog is running through a cow field .
+23	A black and white dog running in the grass where there are some cows .
+24	A calf is running in the fields while cows look on .
+25	A cow herd grazing in the pasture with a dog running in the foreground .
+26	A dog running in the grass around sheep .
+27	A black and white dog is running through a cow field .
+28	A black and white dog running in the grass where there are some cows .
+29	A calf is running in the fields while cows look on .
+30	A cow herd grazing in the pasture with a dog running in the foreground .
+31	A dog running in the grass around sheep .
+32	A black and white dog is running through a cow field .
+33	A black and white dog running in the grass where there are some cows .
+34	A calf is running in the fields while cows look on .
+35	A cow herd grazing in the pasture with a dog running in the foreground .
+36	A dog running in the grass around sheep .
+37	A black and white dog is running through a cow field .
+38	A black and white dog running in the grass where there are some cows .
+39	A calf is running in the fields while cows look on .
+40	A cow herd grazing in the pasture with a dog running in the foreground .
+41	A dog running in the grass around sheep .
+42	A black and white dog is running through a cow field .
+43	A black and white dog running in the grass where there are some cows .
+44	A calf is running in the fields while cows look on .
+45	A cow herd grazing in the pasture with a dog running in the foreground .
+46	A dog running in the grass around sheep .
+47	A black and white dog is running through a cow field .
+48	A black and white dog running in the grass where there are some cows .
+49	A calf is running in the fields while cows look on .
+50	A cow herd grazing in the pasture with a dog running in the foreground .
+51	A dog running in the grass around sheep .

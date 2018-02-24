@@ -1,0 +1,81 @@
+A man sitting in a chair with a laptop on his lap watching a TV set in the corner . 
+a man sit in a chair with a laptop on he lap watch a tv set in the corner . 
+
+object-prep-object	person with man
+object-prep-object	laptop on lap
+verb-prep-object	sit in chair
+object-prep-object	person in man
+object-verb	person sit
+object-verb-object	person watch tvmonitor
+object	person
+object	man
+object	laptop
+object	lap
+object	chair
+object	tvmonitor
+object	tvmonitor
+#####################################################
+A man sitting in a nearly empty room working on a computer and watching a small television . 
+a man sit in a nearly empty room work on a computer and watch a small television . 
+
+object-verb	person sit
+verb-prep-object	sit in room
+object-prep-object	person in man
+attribute-object	empty room
+object-verb	person work
+verb-prep-object	work on laptop
+object-verb-object	person watch tvmonitor
+attribute-object	small tvmonitor
+object	person
+object	man
+object	room
+object	laptop
+object	computer
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+A man sitting on a chair watching TV and using a laptop . 
+a man sit on a chair watch tv and use a laptop . 
+
+verb-prep-object	sit on chair
+object-verb	person sit
+object-prep-object	person on man
+object-verb-object	person watch tvmonitor
+object-verb-object	person use man
+object	chair
+object	person
+object	man
+object	tvmonitor
+object	tvmonitor
+#####################################################
+A young man is in a chair using a laptop while the television is on . 
+a young man be in a chair use a laptop while the television be on . 
+
+object-prep-object	person in man
+attribute-object	young person
+object-verb-object	person use man
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A young man using a laptop computer is sitting in a chair , looking at a turned on television . 
+a young man use a laptop computer be sit in a chair , look at a turn on television . 
+
+verb-prep-object	sit in chair
+object-prep-object	person in man
+attribute-object	young person
+attribute-object	laptop laptop
+object-verb-object	person use laptop
+object-verb	person sit
+object-verb	person look
+verb-prep-object	look at tvmonitor
+object	chair
+object	person
+object	man
+object	laptop
+object	computer
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################

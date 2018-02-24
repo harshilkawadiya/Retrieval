@@ -1,0 +1,56 @@
+A line outside of a bookstore on a street . 
+a line outside of a bookstore on a street . 
+
+object-prep-object	line outside bookstore
+object-prep-object	bookstore on road
+object	line
+object	bookstore
+object	road
+object	pottedplant
+#####################################################
+A woman with a baby stroller and others at a bookstore . 
+a woman with a baby stroller and other at a bookstore . 
+
+object-prep-object	person at woman
+object-prep-object	person with woman
+attribute-object	baby stroller
+object	person
+object	woman
+object	stroller
+object	pottedplant
+#####################################################
+Group of people walking into a book store . 
+Group of people walk into a book store . 
+
+verb-prep-object	walk into store
+attribute-object	book store
+object-verb	person walk
+object	store
+object	person
+object	people
+object	pottedplant
+#####################################################
+People stand outside a bookstore . 
+people stand outside a bookstore . 
+
+verb-prep-object	stand outside bookstore
+object-prep-object	person outside people
+object-verb	person stand
+object	bookstore
+object	person
+object	people
+object	pottedplant
+#####################################################
+Several people gather outside of a schoolbook store . 
+several people gather outside of a schoolbook store . 
+
+verb-prep-object	gather outside_of store
+object-prep-object	person outside_of people
+attribute-object	several person
+attribute-object	schoolbook store
+object-verb	person gather
+object	store
+object	person
+object	people
+object	pottedplant
+#####################################################

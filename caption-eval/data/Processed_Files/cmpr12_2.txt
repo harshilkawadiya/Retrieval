@@ -1,0 +1,50 @@
+beam_size_1	2	a man looks through his binoculars while another man holds a drink .
+beam_size_1	3	A man with a thermos is standing next to a man who is gazing through binoculars .
+beam_size_1	4	Two men are standing together while one looks through binoculars .
+beam_size_1	5	Two men look out as one is holding binoculars .
+beam_size_1	6	two people standing next to each other with mountains in the distance .
+beam_size_1	7	The camera focuses on two people 's legs .
+beam_size_1	8	The legs and mid-sections of two people with skateboards .
+beam_size_1	9	Two guys walking , one carrying a skateboard
+beam_size_1	10	two male skaters walk on sidewalk
+beam_size_1	11	two people wearing white shirts and jeans each carrying a skateboard
+beam_size_1	12	a lone surfboarder on a white surfboard flying through the air over a wave
+beam_size_1	13	An surfer airborne over a wave .
+beam_size_1	14	A surfer is jumping a wave .
+beam_size_1	15	A surfer jumps a wave .
+beam_size_1	16	Surfer does trick in wave as seen from behind
+beam_size_1	17	A man in a red striped soccer shirt heads a ball .
+beam_size_1	18	A man in red and black is hitting a soccer ball with his head .
+beam_size_1	19	A soccer ball is above the head of a man wearing black shorts and red and black striped shirt .
+beam_size_1	20	A soccer player in black shorts is jumping into the air .
+beam_size_1	21	The person in the red and black uniform has a ball above her head .
+beam_size_1	22	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	23	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	24	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	25	Two people riding a bike are riding towards a stop sign .
+beam_size_1	26	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	27	A boy in a black shirt punches a yellow punching bag while a boy in a blue sweatshirt holds the bag .
+beam_size_1	28	Many children playing outside in the grass practicing punching .
+beam_size_1	29	Some kids play outside on a nice day .
+beam_size_1	30	The boy in the black sweatshirt is hitting the yellow object held by the boy in the blue sweatshirt .
+beam_size_1	31	Two boys talk on a field near palm trees .
+beam_size_1	32	A girl and guy dressed up in costumes
+beam_size_1	33	A man dressed as " Teen Wolf " hugs a woman made up like a vampire .
+beam_size_1	34	A man in a werewolf mask is with a woman wearing elf ears .
+beam_size_1	35	The man wearing the mask and sunglasses has his arm around the woman who is wearing fake pointed ears .
+beam_size_1	36	Two individuals dressed up like animals are posing for the camera .
+beam_size_1	37	a man enjoying the view from top of a mountain
+beam_size_1	38	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	39	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	40	A man sits on a cliff and looks out over another mountain .
+beam_size_1	41	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	42	A group of men in a yellow boat with their dogs .
+beam_size_1	43	The men shake hands while another man and dogs look on .
+beam_size_1	44	The three men and three dogs floated in the yellow boat .
+beam_size_1	45	Three men in team uniforms are surrounding a yellow dog in a boat .
+beam_size_1	46	two men huddle around a dog .
+beam_size_1	47	Boy pulls other boy over back .
+beam_size_1	48	One boy hoists another boy up on his back .
+beam_size_1	49	One child lifts another on his back , inside a room .
+beam_size_1	50	The boy in the gray shirt is holding the boy in the red shirt on his back .
+beam_size_1	51	Two boys are back to back as one holds up the other .

@@ -1,0 +1,83 @@
+A child dressed in pink with a purse over her shoulder walks through a kitchen . 
+a child dress in pink with a purse over she shoulder walk through a kitchen . 
+
+object-verb	child dress
+verb-prep-object	dress in pink
+object-prep-object	child in pink
+object-prep-object	child with purse
+verb-prep-object	walk through kitchen
+object-prep-object	child through kitchen
+object-verb	child walk
+object	child
+object	pink
+object	purse
+object	kitchen
+object	chair
+#####################################################
+A girl walking away toward a dining room wearing a pink shirt and shorts . 
+a girl walk away toward a dining room wear a pink shirt and shorts . 
+
+verb-prep-object	walk toward room
+verb-attribute	walk away
+attribute-object	pink shirt
+object-verb-object	girl wear shirt
+object-verb-object	girl wear shorts
+attribute-object	dining room
+object-verb	girl walk
+object	room
+object	shirt
+object	girl
+object	shorts
+object	chair
+#####################################################
+A little girl in pink approaching a dining room table . 
+a little girl in pink approach a dining room table . 
+
+object-prep-object	girl in pink
+attribute-object	little girl
+object-verb-object	girl approach table
+attribute-object	dining table
+attribute-object	room table
+object	girl
+object	pink
+object	table
+object	chair
+#####################################################
+A small child walking across a tiled floor near a table and chairs . 
+a small child walk across a tiled floor near a table and chair . 
+
+verb-prep-object	walk across floor
+verb-prep-object	walk near table
+verb-prep-object	walk near chair
+object-prep-object	child near table
+object-prep-object	child near chair
+attribute-object	small child
+attribute-object	tiled floor
+object-verb	child walk
+object	floor
+object	table
+object	chair
+object	child
+object	chair
+#####################################################
+A small girl in a house with a tiled floor , wooden table and chairs , and glass patio door . 
+a small girl in a house with a tiled floor , wooden table and chair , and glass patio door . 
+
+object-prep-object	house with floor
+object-prep-object	house with table
+object-prep-object	house with chair
+object-prep-object	house with door
+object-prep-object	girl in house
+attribute-object	small girl
+attribute-object	tiled floor
+attribute-object	wooden table
+attribute-object	glass door
+attribute-object	patio door
+object	house
+object	floor
+object	table
+object	chair
+object	door
+object	girl
+object	chair
+#####################################################

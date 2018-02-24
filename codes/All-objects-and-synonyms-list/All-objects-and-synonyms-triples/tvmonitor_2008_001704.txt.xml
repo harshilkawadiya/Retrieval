@@ -1,0 +1,64 @@
+A laptop and a PC at a workstation . 
+a laptop and a pc at a workstation . 
+
+object-prep-object	laptop at laptop
+object-prep-object	laptop at laptop
+object	laptop
+object	pc
+object	tvmonitor
+#####################################################
+A laptop computer and a computer monitor . 
+a laptop computer and a computer monitor . 
+
+attribute-object	laptop laptop
+attribute-object	computer tvmonitor
+object	laptop
+object	computer
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+An HP laptop sits on a desk next to a Dell monitor . 
+a HP laptop sit on a desk next to a Dell monitor . 
+
+verb-prep-object	sit on table
+object-prep-object	laptop on diningtable
+verb-prep-object	sit next_to tvmonitor
+object-prep-object	laptop next_to tvmonitor
+attribute-object	hp laptop
+attribute-object	dell tvmonitor
+object-verb	laptop sit
+object	table
+object	diningtable
+object	laptop
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+Computer and two monitors . 
+computer and two monitor . 
+
+object	laptop
+object	tvmonitor
+object	laptop
+object	computer
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+Laptop and desktop computer screen sitting on desk . 
+laptop and desktop computer screen sit on desk . 
+
+verb-prep-object	sit on table
+object-prep-object	laptop on diningtable
+object-prep-object	screen on diningtable
+object-verb	laptop sit
+object-verb	screen sit
+attribute-object	desktop screen
+attribute-object	computer screen
+object	table
+object	diningtable
+object	laptop
+object	screen
+object	tvmonitor
+#####################################################

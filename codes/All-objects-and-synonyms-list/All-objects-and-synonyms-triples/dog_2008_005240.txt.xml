@@ -1,0 +1,45 @@
+a small dog running . 
+a small dog run . 
+
+attribute-object	small dog
+object-verb	dog run
+object	dog
+object	dog
+#####################################################
+A small running dog coming towards the camera . 
+a small run dog come towards the camera . 
+
+object-verb	dog come
+verb-prep-object	come towards camera
+attribute-object	small dog
+attribute-object	run dog
+object	dog
+object	camera
+object	dog
+#####################################################
+A yorkshire terrier running fast . 
+a yorkshire terrier run fast . 
+
+verb-attribute	run fast
+attribute-object	yorkshire dog
+object-verb	dog run
+object	dog
+object	terrier
+object	dog
+#####################################################
+Small brown dog . 
+small brown dog . 
+
+attribute-object	small dog
+attribute-object	brown dog
+object	dog
+object	dog
+#####################################################
+Yorkie in mid-run . 
+yorkie in mid-run . 
+
+object-prep-object	dog in yorkie
+object	dog
+object	yorkie
+object	dog
+#####################################################

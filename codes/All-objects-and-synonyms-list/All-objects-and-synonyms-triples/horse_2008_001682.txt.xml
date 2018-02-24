@@ -1,0 +1,59 @@
+A brown horse in a green field . 
+a brown horse in a green field . 
+
+object-prep-object	horse in field
+attribute-object	brown horse
+attribute-object	green field
+object	horse
+object	field
+object	horse
+#####################################################
+A brown horse is standing on grass and scrub . 
+a brown horse be stand on grass and scrub . 
+
+verb-prep-object	stand on grass
+object-prep-object	horse on grass
+verb-prep-object	stand on scrub
+object-prep-object	horse on scrub
+attribute-object	brown horse
+object-verb	horse stand
+object	grass
+object	horse
+object	scrub
+object	horse
+#####################################################
+A brown horse stands in a lush green field . 
+a brown horse stand in a lush green field . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+attribute-object	brown horse
+attribute-object	lush field
+attribute-object	green field
+object-verb	horse stand
+object	field
+object	horse
+object	horse
+#####################################################
+A dark brown horse standing in a field . 
+a dark brown horse standing in a field . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+attribute-object	dark horse
+attribute-object	brown horse
+object-verb	horse stand
+object	field
+object	horse
+object	horse
+#####################################################
+Horse standing in a field . 
+Horse standing in a field . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+object-verb	horse stand
+object	field
+object	horse
+object	horse
+#####################################################

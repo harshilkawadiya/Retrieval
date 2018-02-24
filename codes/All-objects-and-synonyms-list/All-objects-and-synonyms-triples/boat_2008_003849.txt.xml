@@ -1,0 +1,57 @@
+A big white ship is docked . 
+a big white ship be dock . 
+
+attribute-object	big boat
+attribute-object	white boat
+object-verb	boat dock
+object	boat
+object	ship
+object	boat
+#####################################################
+A large , rusted white ship is docked in brown waters just offshore . 
+a large , rust white ship be dock in brown water just offshore . 
+
+verb-prep-object	dock in water
+object-prep-object	boat in ship
+attribute-object	large boat
+attribute-object	rust boat
+attribute-object	white boat
+attribute-object	brown water
+object-verb	boat dock
+object	water
+object	boat
+object	ship
+object	boat
+#####################################################
+a large ship parallel to the muddy shore . 
+a large ship parallel to the muddy shore . 
+
+attribute-object	large boat
+attribute-object	dirty shore
+object	boat
+object	ship
+object	shore
+object	boat
+#####################################################
+A large ship that is docked . 
+a large ship that be dock . 
+
+attribute-object	large boat
+object-verb	boat dock
+object	boat
+object	ship
+object	boat
+#####################################################
+White cruise ship anchored near shore . 
+White cruise ship anchor near shore . 
+
+verb-prep-object	anchor near shore
+object-prep-object	boat near ship
+attribute-object	white boat
+attribute-object	cruise boat
+object-verb	boat anchor
+object	shore
+object	boat
+object	ship
+object	boat
+#####################################################

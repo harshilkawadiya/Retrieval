@@ -1,0 +1,54 @@
+A black dog is chasing an object . 
+a black dog be chase a object . 
+
+attribute-object	black dog
+object-verb-object	dog chase object
+object	dog
+object	object
+object	dog
+#####################################################
+A black dog running through dry grass with trees behind . 
+a black dog run through dry grass with tree behind . 
+
+verb-prep-object	run through grass
+object-prep-object	dog through grass
+object-prep-object	grass with tree
+attribute-object	black dog
+attribute-object	dry grass
+object-verb	dog run
+object	grass
+object	dog
+object	tree
+object	dog
+#####################################################
+A dog runs across a dry field . 
+a dog run across a dry field . 
+
+verb-prep-object	run across field
+object-prep-object	dog across field
+attribute-object	dry field
+object-verb	dog run
+object	field
+object	dog
+object	dog
+#####################################################
+Dog running through dry dead grass . 
+Dog run through dry dead grass . 
+
+verb-prep-object	run through grass
+object-prep-object	dog through grass
+attribute-object	dry grass
+attribute-object	dead grass
+object-verb	dog run
+object	grass
+object	dog
+object	dog
+#####################################################
+The dog retrieves the stick . 
+the dog retrieve the stick . 
+
+object-verb-object	dog retrieve stick
+object	dog
+object	stick
+object	dog
+#####################################################

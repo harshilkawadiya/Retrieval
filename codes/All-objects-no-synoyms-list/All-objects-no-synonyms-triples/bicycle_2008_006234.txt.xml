@@ -1,0 +1,64 @@
+A black and white photo of a bicycle . 
+a black and white photo of a bicycle . 
+
+object-prep-object	photo of bicycle
+attribute-object	black photo
+attribute-object	white photo
+object	photo
+object	bicycle
+object	bicycle
+#####################################################
+A black and white photo of an old style bike in a basic room . 
+a black and white photo of a old style bike in a basic room . 
+
+object-prep-object	bike in room
+object-prep-object	photo of bike
+attribute-object	black photo
+attribute-object	white photo
+attribute-object	old bike
+attribute-object	basic room
+attribute-object	style bike
+object	bike
+object	room
+object	photo
+object	bicycle
+#####################################################
+A girl 's bicycle with spring seat and wheel fenders , parked with its kickstand . 
+a girl 's bicycle with spring seat and wheel fender , park with its kickstand . 
+
+object-prep-object	bicycle with seat
+object-prep-object	bicycle with fender
+verb-prep-object	park with kickstand
+object-prep-object	bicycle with kickstand
+attribute-object	spring seat
+attribute-object	wheel fender
+object-verb	bicycle park
+object	bicycle
+object	seat
+object	fender
+object	kickstand
+object	bicycle
+#####################################################
+A white bicycle stands on a floor . 
+a white bicycle stand on a floor . 
+
+verb-prep-object	stand on floor
+object-prep-object	bicycle on floor
+attribute-object	white bicycle
+object-verb	bicycle stand
+object	floor
+object	bicycle
+object	bicycle
+#####################################################
+Old style bicycle parked on floor . 
+Old style bicycle park on floor . 
+
+verb-prep-object	park on floor
+object-prep-object	bicycle on floor
+attribute-object	old bicycle
+attribute-object	style bicycle
+object-verb	bicycle park
+object	floor
+object	bicycle
+object	bicycle
+#####################################################

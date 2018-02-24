@@ -1,0 +1,71 @@
+A group of people with a woman holding a small child and a birthday cake . 
+a group of people with a woman hold a small child and a birthday cake . 
+
+object-prep-object	people with woman
+attribute-object	small child
+object-verb-object	people hold child
+object-verb-object	people hold cake
+attribute-object	birthday cake
+object	people
+object	woman
+object	child
+object	cake
+object	tvmonitor
+#####################################################
+A woman holding a baby poses with two men and birthday decorations . 
+a woman hold a baby pose with two man and birthday decoration . 
+
+verb-prep-object	pose with man
+object-prep-object	woman with man
+verb-prep-object	pose with decoration
+object-prep-object	woman with decoration
+object-verb-object	woman hold baby
+attribute-object	birthday decoration
+object-verb	woman pose
+object	man
+object	woman
+object	decoration
+object	baby
+object	tvmonitor
+#####################################################
+Two men , a woman , and a small child are celebrating a birthday . 
+two man , a woman , and a small child be celebrate a birthday . 
+
+attribute-object	small child
+object-verb-object	man celebrate birthday
+object-verb-object	woman celebrate birthday
+object-verb-object	child celebrate birthday
+object	child
+object	man
+object	birthday
+object	woman
+object	tvmonitor
+#####################################################
+Two men with a young lady holding a small child in front of a table holding a birthday cake . 
+two man with a young lady hold a small child in front of a table hold a birthday cake . 
+
+object-prep-object	man with lady
+attribute-object	young lady
+attribute-object	small child
+object-verb-object	lady hold child
+object-verb-object	table hold cake
+attribute-object	birthday cake
+object	man
+object	lady
+object	child
+object	table
+object	cake
+object	tvmonitor
+#####################################################
+Woman holding baby and two men in front of birthday cake . 
+Woman hold baby and two man in front of birthday cake . 
+
+object-prep-object	man in_front_of cake
+object-verb-object	woman hold baby
+attribute-object	birthday cake
+object	man
+object	cake
+object	woman
+object	baby
+object	tvmonitor
+#####################################################

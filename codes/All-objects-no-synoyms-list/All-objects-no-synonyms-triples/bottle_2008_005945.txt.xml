@@ -1,0 +1,62 @@
+A dish of pasta being devoured off a paper plate . 
+a dish of pasta be devour off a paper plate . 
+
+object-prep-object	dish of pasta
+object-verb-object	dish devour plate
+attribute-object	paper plate
+verb-attribute	devour off
+object	dish
+object	pasta
+object	plate
+object	bottle
+#####################################################
+A plate full of pasta with two utensils in it . 
+a plate full of pasta with two utensil in it . 
+
+object-prep-object	plate with utensil
+object-prep-object	plate of pasta
+object	plate
+object	utensil
+object	pasta
+object	bottle
+#####################################################
+Pasta in white sauce on a paper plate . 
+pasta in white sauce on a paper plate . 
+
+object-prep-object	pasta on plate
+object-prep-object	pasta in sauce
+attribute-object	white sauce
+attribute-object	paper plate
+object	pasta
+object	plate
+object	sauce
+object	bottle
+#####################################################
+The pasta dish has a plastic spoon and a plastic knife sticking out of it . 
+the pasta dish have a plastic spoon and a plastic knife stick out of it . 
+
+object-verb-object	dish have spoon
+object-verb-object	dish have knife
+attribute-object	pasta dish
+attribute-object	plastic spoon
+attribute-object	plastic knife
+object-verb	knife stick_out
+object-verb	spoon stick_out
+object	dish
+object	spoon
+object	knife
+object	bottle
+#####################################################
+White pasta dish with fork and spoon stuck into it . 
+White pasta dish with fork and spoon stick into it . 
+
+object-prep-object	dish with fork
+object-prep-object	dish with spoon
+attribute-object	white dish
+attribute-object	pasta dish
+object-verb	dish stick_into
+object	dish
+object	fork
+object	spoon
+object	bottle
+#####################################################

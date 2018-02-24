@@ -1,0 +1,76 @@
+A small black and tan dog is wearing a pink jacket while laying on the pavement . 
+a small black and tan dog be wear a pink jacket while lay on the pavement . 
+
+verb-prep-object	lay on pavement
+object-verb	dog lay
+object-prep-object	dog on pavement
+attribute-object	pink jacket
+object-verb-object	dog wear jacket
+attribute-object	small dog
+attribute-object	black dog
+attribute-object	tan dog
+object	pavement
+object	dog
+object	jacket
+object	dog
+#####################################################
+A small dog wearing a pink shirt tied to a railing . 
+a small dog wear a pink shirt tie to a railing . 
+
+verb-prep-object	tie to railing
+attribute-object	small dog
+attribute-object	pink shirt
+object-verb-object	dog wear shirt
+object-verb	dog tie
+object	railing
+object	dog
+object	shirt
+object	dog
+#####################################################
+A small terrier wearing a pink raincoat sits on the pavement and gazes into the distance . 
+a small terrier wear a pink raincoat sit on the pavement and gaze into the distance . 
+
+verb-prep-object	sit on pavement
+object-prep-object	terrier on pavement
+verb-prep-object	gaze into distance
+attribute-object	small terrier
+attribute-object	pink raincoat
+object-verb-object	terrier wear raincoat
+object-verb	terrier sit
+object-verb	terrier gaze
+object	pavement
+object	terrier
+object	distance
+object	raincoat
+object	dog
+#####################################################
+Black and tan puppy dressed in pink outfit lying down on black top . 
+Black and tan puppy dress in pink outfit lie down on black top . 
+
+verb-prep-object	dress in outfit
+object-prep-object	puppy in outfit
+attribute-object	pink outfit
+attribute-object	black puppy
+attribute-object	tan puppy
+object-verb	puppy dress
+object-verb	puppy lie
+verb-attribute	lie down
+verb-prep-object	lie on top
+attribute-object	black top
+object	outfit
+object	puppy
+object	top
+object	dog
+#####################################################
+Dog in pink jackethalter tied to a fence . 
+Dog in pink jackethalter tie to a fence . 
+
+verb-prep-object	tie to fence
+object-prep-object	dog in jackethalter
+attribute-object	pink jackethalter
+object-verb	dog tie
+object	fence
+object	dog
+object	jackethalter
+object	dog
+#####################################################

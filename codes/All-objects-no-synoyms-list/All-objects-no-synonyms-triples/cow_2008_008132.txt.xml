@@ -1,0 +1,51 @@
+a hairless white cow . 
+a hairless white cow . 
+
+attribute-object	hairless cow
+attribute-object	white cow
+object	cow
+object	cow
+#####################################################
+A water buffalo . 
+a water buffalo . 
+
+attribute-object	water buffalo
+object	buffalo
+object	cow
+#####################################################
+A white bull in the pasture . 
+a white bull in the pasture . 
+
+object-prep-object	bull in pasture
+attribute-object	white bull
+object	bull
+object	pasture
+object	cow
+#####################################################
+A white bull standing in a field staring at the camera . 
+a white bull standing in a field stare at the camera . 
+
+verb-prep-object	stare at camera
+verb-prep-object	stand in field
+object-prep-object	bull in field
+attribute-object	white bull
+object-verb	bull stand
+object-verb	bull stare
+object	camera
+object	field
+object	bull
+object	cow
+#####################################################
+Bull looking towards camera on grassy field . 
+Bull look towards camera on grassy field . 
+
+verb-prep-object	look on field
+object-prep-object	bull on field
+verb-prep-object	look towards camera
+attribute-object	grassy field
+object-verb	bull look
+object	field
+object	bull
+object	camera
+object	cow
+#####################################################

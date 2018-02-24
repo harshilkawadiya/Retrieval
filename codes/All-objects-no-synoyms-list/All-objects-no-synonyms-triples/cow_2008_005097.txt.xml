@@ -1,0 +1,50 @@
+A group of cows in a field with yellow tags in their ears . 
+a group of cow in a field with yellow tag in they ear . 
+
+object-prep-object	field with tag
+object-prep-object	tag in ear
+object-prep-object	cow in field
+attribute-object	yellow tag
+object	field
+object	tag
+object	ear
+object	cow
+object	cow
+#####################################################
+Group of several cows standing close together . 
+Group of several cow stand close together . 
+
+attribute-object	several cow
+object-verb	cow stand
+object	cow
+object	cow
+#####################################################
+The tagged black cows gather for a group picture . 
+the tag black cow gather for a group picture . 
+
+verb-prep-object	gather for picture
+attribute-object	tag cow
+attribute-object	black cow
+attribute-object	group picture
+object-verb	cow gather
+object	picture
+object	cow
+object	cow
+#####################################################
+Three cows looking at the screen with one cow in the background . 
+three cow look at the screen with one cow in the background . 
+
+verb-prep-object	look at screen
+object-prep-object	cow with cow
+object-verb	cow look
+object	screen
+object	cow
+object	cow
+#####################################################
+Three cows staring forward and one in the background . 
+three cow stare forward and one in the background . 
+
+object-verb	cow stare
+object	cow
+object	cow
+#####################################################

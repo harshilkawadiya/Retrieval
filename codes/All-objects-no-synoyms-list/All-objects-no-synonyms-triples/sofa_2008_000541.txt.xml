@@ -1,0 +1,68 @@
+Four Asian young people sitting in a den or living room . 
+four asian young people sit in a den or living room . 
+
+verb-prep-object	sit in room
+verb-prep-object	sit in den
+object-prep-object	people in room
+object-prep-object	people in den
+attribute-object	asian people
+attribute-object	young people
+attribute-object	living room
+object-verb	people sit
+object	room
+object	den
+object	people
+object	sofa
+#####################################################
+Group of kids sitting on brown couch together . 
+Group of kid sit on brown couch together . 
+
+verb-prep-object	sit on couch
+object-prep-object	kid on couch
+attribute-object	brown couch
+object-verb	kid sit
+object	couch
+object	kid
+object	sofa
+#####################################################
+The girls watch highlights of the Laker game . 
+the girl watch highlight of the Laker game . 
+
+object-prep-object	highlight of game
+attribute-object	laker game
+object-verb-object	girl watch highlight
+object	highlight
+object	game
+object	girl
+object	sofa
+#####################################################
+Three girls are sitting on a couch and smiling next to one sitting on the floor . 
+three girl be sit on a couch and smile next to one sit on the floor . 
+
+object-verb	girl sit
+verb-prep-object	sit on couch
+object-prep-object	girl on couch
+object-verb	girl smile
+verb-prep-object	sit on floor
+object-prep-object	girl on floor
+object-verb	girl sit
+object	girl
+object	couch
+object	floor
+object	sofa
+#####################################################
+Three young teenagers sitting on a couch with another sitting on the floor . 
+three young teenager sit on a couch with another sit on the floor . 
+
+verb-prep-object	sit on couch
+object-prep-object	teenager on couch
+verb-prep-object	sit on floor
+object-prep-object	teenager on floor
+attribute-object	young teenager
+object-verb	teenager sit
+object-verb	teenager sit
+object	couch
+object	teenager
+object	floor
+object	sofa
+#####################################################

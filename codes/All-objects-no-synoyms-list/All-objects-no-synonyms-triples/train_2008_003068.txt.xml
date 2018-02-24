@@ -1,0 +1,58 @@
+A green steam engine traveling on the railroad tracks . 
+a green steam engine travel on the railroad track . 
+
+verb-prep-object	travel on track
+object-prep-object	engine on track
+attribute-object	green engine
+attribute-object	steam engine
+attribute-object	railroad track
+object-verb	engine travel
+object	track
+object	engine
+object	train
+#####################################################
+A green steam train running down the tracks . 
+a green steam train run down the track . 
+
+attribute-object	green train
+object-verb-object	train run track
+attribute-object	steam train
+verb-attribute	run down
+object	train
+object	track
+object	train
+#####################################################
+An old train travels in the country . 
+a old train travels in the country . 
+
+verb-prep-object	travels in country
+attribute-object	old train
+object-verb	train travels
+object	country
+object	train
+object	train
+#####################################################
+A steam engine comes down a train track near trees . 
+a steam engine come down a train track near tree . 
+
+object-prep-object	track near tree
+object-verb-object	engine come track
+attribute-object	steam engine
+attribute-object	train track
+verb-attribute	come down
+object	track
+object	tree
+object	engine
+object	train
+#####################################################
+Steamy locomotive speeding thou the forest . 
+steamy locomotive speed thou the forest . 
+
+verb-prep-object	speed thou forest
+object-prep-object	locomotive thou forest
+attribute-object	steamy locomotive
+object-verb	locomotive speed
+object	forest
+object	locomotive
+object	train
+#####################################################

@@ -1,0 +1,48 @@
+A coach bus parked near another in a parking lot . 
+a coach bus park near another in a parking lot . 
+
+verb-prep-object	park in lot
+object-prep-object	bus in lot
+attribute-object	coach bus
+attribute-object	parking lot
+object-verb	bus park
+object	lot
+object	bus
+object	bus
+#####################################################
+A Grayhound bus parked under a tree . 
+a Grayhound bus park under a tree . 
+
+verb-prep-object	park under tree
+object-prep-object	bus under tree
+attribute-object	grayhound bus
+object-verb	bus park
+object	tree
+object	bus
+object	bus
+#####################################################
+A grayhound bus with the word `` Vermont '' on the side . 
+a grayhound bus with the word `` Vermont '' on the side . 
+
+attribute-object	grayhound bus
+object	bus
+object	bus
+#####################################################
+The right side of a Grayhound Bus . 
+the right side of a Grayhound Bus . 
+
+attribute-object	grayhound bus
+object	bus
+object	bus
+#####################################################
+Two buses parked in a parking lot . 
+two bus park in a parking lot . 
+
+verb-prep-object	park in lot
+object-prep-object	bus in lot
+attribute-object	parking lot
+object-verb	bus park
+object	lot
+object	bus
+object	bus
+#####################################################

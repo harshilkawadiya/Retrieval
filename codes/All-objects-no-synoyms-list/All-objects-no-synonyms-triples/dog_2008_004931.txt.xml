@@ -1,0 +1,64 @@
+A black dog looking at the camera . 
+a black dog look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	black dog
+object-verb	dog look
+object	camera
+object	dog
+object	dog
+#####################################################
+A black dog sitting on grass next to a sidewalk . 
+a black dog sit on grass next to a sidewalk . 
+
+verb-prep-object	sit on grass
+verb-prep-object	sit next_to sidewalk
+object-prep-object	dog on grass
+object-prep-object	dog next_to sidewalk
+attribute-object	black dog
+object-verb	dog sit
+object	grass
+object	sidewalk
+object	dog
+object	dog
+#####################################################
+A black labrador lying in a landscaped area near a sidewalk . 
+a black labrador lie in a landscaped area near a sidewalk . 
+
+verb-prep-object	lie near sidewalk
+object-prep-object	labrador near sidewalk
+verb-prep-object	lie in area
+object-prep-object	labrador in area
+attribute-object	black labrador
+attribute-object	landscaped area
+object-verb	labrador lie
+object	sidewalk
+object	labrador
+object	area
+object	dog
+#####################################################
+A dog sits in some monkey grass next to a rock garden . 
+a dog sit in some monkey grass next to a rock garden . 
+
+verb-prep-object	sit next_to garden
+object-prep-object	dog next_to garden
+verb-prep-object	sit in grass
+object-prep-object	dog in grass
+attribute-object	monkey grass
+attribute-object	rock garden
+object-verb	dog sit
+object	garden
+object	dog
+object	grass
+object	dog
+#####################################################
+The black lab looks curiously at the photographer . 
+the black lab look curiously at the photographer . 
+
+verb-prep-object	look at photographer
+attribute-object	black lab
+object-verb	lab look
+object	photographer
+object	lab
+object	dog
+#####################################################

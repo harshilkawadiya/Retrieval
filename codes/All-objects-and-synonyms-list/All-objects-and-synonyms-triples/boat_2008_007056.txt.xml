@@ -1,0 +1,57 @@
+A bus parked by a harbor . 
+a bus park by a harbor . 
+
+verb-prep-object	park by harbor
+object-prep-object	bus by harbor
+object-verb	bus park
+object	harbor
+object	bus
+object	boat
+#####################################################
+A white bus with the word Julia is near water and a big ship . 
+a white bus with the word Julia be near water and a big ship . 
+
+object-prep-object	bus near water
+object-prep-object	bus near boat
+attribute-object	white bus
+attribute-object	big boat
+object	bus
+object	water
+object	boat
+object	ship
+object	boat
+#####################################################
+A white bus with water and a barge in the background . 
+a white bus with water and a barge in the background . 
+
+object-prep-object	bus with water
+object-prep-object	bus with boat
+attribute-object	white bus
+object	bus
+object	water
+object	boat
+object	boat
+#####################################################
+A white Julia bus passing by the waterfront . 
+a white Julia bus pass by the waterfront . 
+
+verb-prep-object	pass by waterfront
+attribute-object	white bus
+attribute-object	julia bus
+object-verb	bus pass
+object	waterfront
+object	bus
+object	boat
+#####################################################
+Large green boat floating on water . 
+large green boat float on water . 
+
+verb-prep-object	float on water
+object-prep-object	boat on water
+attribute-object	large boat
+attribute-object	green boat
+object-verb	boat float
+object	water
+object	boat
+object	boat
+#####################################################

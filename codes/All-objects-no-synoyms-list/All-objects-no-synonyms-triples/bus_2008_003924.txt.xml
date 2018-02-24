@@ -1,0 +1,54 @@
+A black and cream bus is parked near other buses . 
+a black and cream bus be park near other bus . 
+
+attribute-object	black bus
+attribute-object	cream bus
+object-verb	bus park
+object	bus
+object	bus
+#####################################################
+Black and white bus in bus yard . 
+Black and white bus in bus yard . 
+
+object-prep-object	bus in yard
+attribute-object	black bus
+attribute-object	white bus
+attribute-object	bus yard
+object	bus
+object	yard
+object	bus
+#####################################################
+E1 Bus to London with display next to it . 
+e1 bus to London with display next to it . 
+
+object-prep-object	bus to london
+attribute-object	e1 bus
+object-prep-object	bus with display
+object	bus
+object	london
+object	display
+object	bus
+#####################################################
+Many buses are parked in a lot . 
+many bus be park in a lot . 
+
+verb-prep-object	park in lot
+object-prep-object	bus in lot
+attribute-object	many bus
+object-verb	bus park
+object	lot
+object	bus
+object	bus
+#####################################################
+The cream and black London E1 bus is parked between other buses . 
+the cream and black London E1 bus be park between other bus . 
+
+verb-prep-object	park between bus
+attribute-object	cream bus
+attribute-object	black bus
+attribute-object	london bus
+attribute-object	e1 bus
+object-verb	bus park
+object	bus
+object	bus
+#####################################################

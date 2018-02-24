@@ -1,0 +1,58 @@
+A liquor store alongside a laundrette with a parking lot out front . 
+a liquor store alongside a laundrette with a parking lot out front . 
+
+object-prep-object	store alongside laundrette
+attribute-object	liquor store
+object-prep-object	store with lot
+attribute-object	parking lot
+object	store
+object	laundrette
+object	lot
+object	car
+#####################################################
+Empty parking lot in front of liquor store and laundromat . 
+empty parking lot in front of liquor store and laundromat . 
+
+object-prep-object	lot in_front_of store
+object-prep-object	lot in_front_of laundromat
+attribute-object	empty lot
+attribute-object	parking lot
+attribute-object	liquor store
+object	lot
+object	store
+object	laundromat
+object	car
+#####################################################
+Empty parking lot of liquor and laundry store . 
+empty parking lot of liquor and laundry store . 
+
+object-prep-object	lot of store
+attribute-object	empty lot
+attribute-object	parking lot
+attribute-object	liquor store
+attribute-object	laundry store
+object	lot
+object	store
+object	car
+#####################################################
+The local stores are open for business . 
+the local store be open for business . 
+
+verb-prep-object	open for business
+object-prep-object	store for business
+attribute-object	local store
+object-verb	store open
+object	business
+object	store
+object	car
+#####################################################
+the parking lot and storefront of Ham 's Liquor store . 
+the parking lot and storefront of ham 's Liquor store . 
+
+object-prep-object	lot of store
+attribute-object	parking lot
+attribute-object	liquor store
+object	lot
+object	store
+object	car
+#####################################################

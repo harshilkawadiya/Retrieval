@@ -1,0 +1,63 @@
+A kitchen dinette set sits on a backyard deck . 
+a kitchen dinette set sit on a backyard deck . 
+
+verb-prep-object	sit on deck
+object-prep-object	diningtable on room
+attribute-object	kitchen diningtable
+attribute-object	backyard deck
+object-verb	diningtable sit
+object	deck
+object	diningtable
+object	room
+object	diningtable
+#####################################################
+A wooden deck area outside a house containing a table and four chairs . 
+a wooden deck area outside a house contain a table and four chair . 
+
+object-prep-object	area outside building
+attribute-object	wooden area
+object-verb-object	building contain diningtable
+object-verb-object	building contain house
+attribute-object	deck area
+object	area
+object	building
+object	house
+object	diningtable
+object	diningtable
+#####################################################
+Patio furniture on an empty deck . 
+Patio furniture on a empty deck . 
+
+object-prep-object	furniture on deck
+attribute-object	empty deck
+attribute-object	patio furniture
+object	furniture
+object	deck
+object	diningtable
+#####################################################
+Wooden back porch with wooden dining table . 
+wooden back porch with wooden dining table . 
+
+object-prep-object	porch with diningtable
+attribute-object	wooden porch
+attribute-verb	back porch
+attribute-object	wooden diningtable
+attribute-object	dining diningtable
+object	porch
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+Wooden deck with wooden table and chairs . 
+wooden deck with wooden table and chair . 
+
+object-prep-object	deck with diningtable
+object-prep-object	deck with chair
+attribute-object	wooden deck
+attribute-object	wooden diningtable
+object	deck
+object	diningtable
+object	chair
+object	table
+object	diningtable
+#####################################################

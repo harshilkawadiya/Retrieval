@@ -1,0 +1,59 @@
+A blue couch with sparse surroundings . 
+a blue couch with sparse surroundings . 
+
+object-prep-object	couch with surroundings
+attribute-object	blue couch
+attribute-object	sparse surroundings
+object	couch
+object	surroundings
+object	sofa
+#####################################################
+A blue sofa in a modern room . 
+a blue sofa in a modern room . 
+
+object-prep-object	sofa in room
+attribute-object	blue sofa
+attribute-object	modern room
+object	sofa
+object	room
+object	sofa
+#####################################################
+A large blue couch on a wooden floor with three pictures on a wall shelf behind . 
+a large blue couch on a wooden floor with three picture on a wall shelf behind . 
+
+object-prep-object	couch on floor
+object-prep-object	picture on shelf
+attribute-object	large couch
+attribute-object	blue couch
+attribute-object	wooden floor
+attribute-object	wall shelf
+object	couch
+object	floor
+object	picture
+object	shelf
+object	sofa
+#####################################################
+Blue couch in room with sun shining in . 
+Blue couch in room with sun shine in . 
+
+object-prep-object	couch in room
+attribute-object	blue couch
+object-verb	sun shine
+object	couch
+object	room
+object	sun
+object	sofa
+#####################################################
+There is a blue sofa in the room with white and brown walls . 
+there be a blue sofa in the room with white and brown wall . 
+
+object-prep-object	room with wall
+object-prep-object	sofa in room
+attribute-object	blue sofa
+attribute-object	white wall
+attribute-object	brown wall
+object	room
+object	wall
+object	sofa
+object	sofa
+#####################################################

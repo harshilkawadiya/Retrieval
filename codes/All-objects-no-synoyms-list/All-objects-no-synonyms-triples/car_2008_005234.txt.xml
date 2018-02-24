@@ -1,0 +1,66 @@
+A yellow car is painted like a cartoon mouse . 
+a yellow car be paint like a cartoon mouse . 
+
+verb-prep-object	paint like mouse
+attribute-object	yellow car
+attribute-object	cartoon mouse
+object-verb	car paint
+object	mouse
+object	car
+object	car
+#####################################################
+A yellow four-door vehicle with whiskers , a mouth and buckteeth painted on it . 
+a yellow four-door vehicle with whisker , a mouth and bucktooth paint on it . 
+
+object-prep-object	vehicle with whisker
+object-prep-object	vehicle with mouth
+object-prep-object	vehicle with bucktooth
+attribute-object	yellow vehicle
+attribute-object	four-door vehicle
+object-verb	vehicle paint
+object	vehicle
+object	whisker
+object	mouth
+object	bucktooth
+object	car
+#####################################################
+A yellow stretch-beetle limo with a mouse face and ears . 
+a yellow stretch-beetle limo with a mouse face and ear . 
+
+object-prep-object	limo with face
+object-prep-object	limo with ear
+attribute-object	yellow limo
+attribute-object	stretch-beetle limo
+attribute-object	mouse face
+object	limo
+object	face
+object	ear
+object	car
+#####################################################
+Car painted bright yellow with red letters and big round black ears simulating a smiling mouse . 
+car paint bright yellow with red letter and big round black ear simulate a smile mouse . 
+
+object-verb-object	car paint yellow
+attribute-object	bright yellow
+attribute-object	smile mouse
+object-verb-object	car simulate mouse
+verb-prep-object	paint with letter
+verb-prep-object	paint with ear
+attribute-object	red letter
+attribute-object	big ear
+attribute-object	round ear
+attribute-object	black ear
+object	car
+object	yellow
+object	mouse
+object	letter
+object	ear
+object	car
+#####################################################
+Exterminators can use cars as driving billboards . 
+exterminator can use car as drive billboard . 
+
+object	car
+object	car
+object	car
+#####################################################

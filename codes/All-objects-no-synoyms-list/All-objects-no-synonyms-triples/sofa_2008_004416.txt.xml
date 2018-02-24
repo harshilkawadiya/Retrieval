@@ -1,0 +1,62 @@
+A blue , red , and white couch against a wall with accent tables . 
+a blue , red , and white couch against a wall with accent table . 
+
+object-prep-object	couch against wall
+object-prep-object	wall with table
+attribute-object	blue couch
+attribute-object	red couch
+attribute-object	white couch
+attribute-object	accent table
+object	couch
+object	wall
+object	table
+object	sofa
+#####################################################
+A couch with an Union Jack motif sits behind some glass . 
+a couch with a Union Jack motif sit behind some glass . 
+
+object-verb	couch sit
+verb-prep-object	sit behind glass
+object-prep-object	couch behind glass
+object-prep-object	couch with motif
+attribute-object	union motif
+attribute-object	jack motif
+object	couch
+object	glass
+object	motif
+object	sofa
+#####################################################
+An English-themed furniture set . 
+a english-themed furniture set . 
+
+attribute-object	english-themed set
+attribute-object	furniture set
+object	set
+object	sofa
+#####################################################
+a sofa with the union jack , a blond small table with a lamp . 
+a sofa with the union jack , a blond small table with a lamp . 
+
+object-prep-object	sofa with jack
+object-prep-object	table with lamp
+attribute-object	blond table
+attribute-object	small table
+attribute-object	union jack
+object	sofa
+object	jack
+object	table
+object	lamp
+object	sofa
+#####################################################
+There is a red , white , and blue sofa and two tables in the room . 
+there be a red , white , and blue sofa and two table in the room . 
+
+object-prep-object	table in room
+attribute-object	red sofa
+attribute-object	white sofa
+attribute-object	blue sofa
+object	table
+object	room
+object	sofa
+object	sofa
+#####################################################

@@ -1,0 +1,51 @@
+A black train engine is facing me on the tracks with its light on in the woods during the day . 
+a black train engine be face I on the track with its light on in the wood during the day . 
+
+object-prep-object	engine on track
+attribute-object	black engine
+attribute-object	train engine
+object	engine
+object	track
+object	train
+#####################################################
+A close-up of a black train engine . 
+a close-up of a black train engine . 
+
+attribute-object	black engine
+attribute-object	train engine
+object	engine
+object	train
+#####################################################
+A front view of a black train engine on the tracks with people standing on either side . 
+a front view of a black train engine on the track with people stand on either side . 
+
+object-prep-object	engine on track
+attribute-object	black engine
+attribute-object	train engine
+object-verb	people stand
+object	engine
+object	track
+object	people
+object	train
+#####################################################
+A group watches an old freight train engine . 
+a group watch a old freight train engine . 
+
+attribute-object	old engine
+object-verb-object	group watch engine
+attribute-object	freight engine
+attribute-object	train engine
+object	engine
+object	group
+object	train
+#####################################################
+The train is very old and has the number 1225 on it . 
+the train be very old and have the number 1225 on it . 
+
+object-verb-object	train have number
+object-object	train old
+object	train
+object	number
+object	old
+object	train
+#####################################################

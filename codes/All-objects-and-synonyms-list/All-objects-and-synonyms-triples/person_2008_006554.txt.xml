@@ -1,0 +1,69 @@
+A large white bus parked next to a blue truck with officers nearby . 
+a large white bus park next to a blue truck with officer nearby . 
+
+verb-prep-object	park next_to bus
+object-prep-object	bus next_to car
+attribute-object	large bus
+attribute-object	white bus
+attribute-object	blue bus
+object-verb	bus park
+object	bus
+object	car
+object	person
+#####################################################
+Two NYPD officers wait next to an MTA bus at night time . 
+two NYPD officer wait next to a MTA bus at night time . 
+
+verb-prep-object	wait at time
+verb-prep-object	wait next_to bus
+object-prep-object	officer next_to bus
+attribute-object	nypd officer
+attribute-object	mta bus
+attribute-object	night time
+object-verb	officer wait
+object	time
+object	bus
+object	officer
+object	person
+#####################################################
+Two police officers standing behind a van with a bus in the background . 
+two police officer stand behind a van with a bus in the background . 
+
+verb-prep-object	stand behind bus
+object-prep-object	officer behind car
+object-prep-object	bus with car
+attribute-object	police officer
+object-verb	officer stand
+object	bus
+object	car
+object	officer
+object	person
+#####################################################
+Two police officers standing in front of blue and white bus . 
+two police officer stand in front of blue and white bus . 
+
+verb-prep-object	stand in_front_of bus
+object-prep-object	officer in_front_of bus
+attribute-object	blue bus
+attribute-object	white bus
+attribute-object	police officer
+object-verb	officer stand
+object	bus
+object	officer
+object	person
+#####################################################
+Two police officers standing next to bus and open van . 
+two police officer stand next to bus and open van . 
+
+verb-prep-object	stand next_to bus
+verb-prep-object	stand next_to bus
+object-prep-object	officer next_to bus
+object-prep-object	officer next_to car
+attribute-object	open bus
+attribute-object	police officer
+object-verb	officer stand
+object	bus
+object	car
+object	officer
+object	person
+#####################################################

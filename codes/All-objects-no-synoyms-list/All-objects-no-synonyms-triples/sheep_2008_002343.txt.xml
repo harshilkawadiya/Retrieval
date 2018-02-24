@@ -1,0 +1,54 @@
+A ewe standing guard over her two newborn lambs . 
+a ewe standing guard over she two newborn lamb . 
+
+object-verb	ewe stand
+verb-prep-object	stand over lamb
+attribute-object	newborn lamb
+object	ewe
+object	lamb
+object	sheep
+#####################################################
+A lamb stands near two tiny animals . 
+a lamb stand near two tiny animal . 
+
+verb-prep-object	stand near animal
+object-prep-object	lamb near animal
+attribute-object	tiny animal
+object-verb	lamb stand
+object	animal
+object	lamb
+object	sheep
+#####################################################
+A sheep standing near her children . 
+a sheep standing near she child . 
+
+verb-prep-object	stand near child
+object-prep-object	sheep near child
+object-verb	sheep stand
+object	child
+object	sheep
+object	sheep
+#####################################################
+A white lamb in a pin with her new born babies . 
+a white lamb in a pin with she new bear baby . 
+
+object-prep-object	lamb in pin
+object-prep-object	lamb with baby
+attribute-object	white lamb
+attribute-object	new baby
+attribute-object	born baby
+object	lamb
+object	pin
+object	baby
+object	sheep
+#####################################################
+The baby sheep are protected by their mother . 
+the baby sheep be protect by they mother . 
+
+verb-prep-object	protect by mother
+attribute-object	baby sheep
+object-verb	sheep protect
+object	mother
+object	sheep
+object	sheep
+#####################################################

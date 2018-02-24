@@ -1,0 +1,60 @@
+A car parked in front of a small saloon . 
+a car park in front of a small saloon . 
+
+verb-prep-object	park in_front_of saloon
+object-prep-object	car in_front_of saloon
+attribute-object	small saloon
+object-verb	car park
+object	saloon
+object	car
+object	chair
+#####################################################
+A green car parked at a saloon . 
+a green car park at a saloon . 
+
+verb-prep-object	park at saloon
+object-prep-object	car at saloon
+attribute-object	green car
+object-verb	car park
+object	saloon
+object	car
+object	chair
+#####################################################
+A green car parked outside the saloon . 
+a green car park outside the saloon . 
+
+verb-prep-object	park outside saloon
+object-prep-object	car outside saloon
+attribute-object	green car
+object-verb	car park
+object	saloon
+object	car
+object	chair
+#####################################################
+An old green car is parked in front of the red and white Little Longhorn Saloon . 
+a old green car be park in front of the red and white little Longhorn Saloon . 
+
+verb-prep-object	park in_front_of saloon
+object-prep-object	car in_front_of saloon
+attribute-object	old car
+attribute-object	green car
+attribute-object	red saloon
+attribute-object	white saloon
+attribute-object	little saloon
+attribute-object	longhorn saloon
+object-verb	car park
+object	saloon
+object	car
+object	chair
+#####################################################
+The right side of a muscle car parked in front of a bar . 
+the right side of a muscle car park in front of a bar . 
+
+verb-prep-object	park in_front_of bar
+object-prep-object	car in_front_of bar
+attribute-object	muscle car
+object-verb	car park
+object	bar
+object	car
+object	chair
+#####################################################

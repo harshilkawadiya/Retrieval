@@ -1,0 +1,72 @@
+A young boy holds a puppy up in front of a spiderman poster . 
+a young boy hold a puppy up in front of a spiderman poster . 
+
+verb-prep-object	hold in_front_of poster
+object-prep-object	boy in_front_of poster
+attribute-object	young boy
+object-verb-object	boy hold puppy
+attribute-object	spiderman poster
+object	poster
+object	boy
+object	puppy
+object	dog
+#####################################################
+A young boy is holding a white puppy while standing in front of a large Spiderman picture . 
+a young boy be hold a white puppy while stand in front of a large Spiderman picture . 
+
+object-verb	boy stand
+verb-prep-object	stand in_front_of picture
+object-prep-object	boy in_front_of picture
+attribute-object	young boy
+attribute-object	white puppy
+attribute-object	large picture
+object-verb-object	boy hold puppy
+attribute-object	spiderman picture
+object	boy
+object	picture
+object	puppy
+object	dog
+#####################################################
+Little boy holding white puppy standing in front of Spiderman poster . 
+little boy hold white puppy standing in front of Spiderman poster . 
+
+verb-prep-object	stand in_front_of poster
+object-prep-object	boy in_front_of poster
+attribute-object	little boy
+attribute-object	white puppy
+object-verb-object	boy hold puppy
+object-verb	boy stand
+attribute-object	spiderman poster
+object	poster
+object	boy
+object	puppy
+object	dog
+#####################################################
+Small boy and puppy standing in front of a film poster . 
+small boy and puppy standing in front of a film poster . 
+
+object-prep-object	boy in_front_of poster
+object-prep-object	puppy in_front_of poster
+verb-prep-object	stand in_front_of poster
+attribute-object	small boy
+object-verb	boy stand
+object-verb	puppy stand
+attribute-object	film poster
+object	boy
+object	poster
+object	puppy
+object	dog
+#####################################################
+The young boy holds the puppy at a flea market . 
+the young boy hold the puppy at a flea market . 
+
+verb-prep-object	hold at market
+object-prep-object	boy at market
+attribute-object	young boy
+object-verb-object	boy hold puppy
+attribute-object	flea market
+object	market
+object	boy
+object	puppy
+object	dog
+#####################################################

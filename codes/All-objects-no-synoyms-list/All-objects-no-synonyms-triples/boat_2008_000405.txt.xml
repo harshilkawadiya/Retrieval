@@ -1,0 +1,55 @@
+A group of river barges with trees in the background . 
+a group of river barge with tree in the background . 
+
+object-prep-object	group of barge
+object-prep-object	tree in background
+object-prep-object	barge with tree
+attribute-object	river barge
+object	group
+object	barge
+object	tree
+object	background
+object	boat
+#####################################################
+A pier with the word `` Buchanan '' on it in the middle of the water . 
+a pier with the word `` Buchanan '' on it in the middle of the water . 
+
+object-prep-object	pier with buchanan
+object-prep-object	pier in middle
+object-prep-object	middle of water
+object	pier
+object	buchanan
+object	middle
+object	water
+object	boat
+#####################################################
+Barge floating through the water . 
+barge float through the water . 
+
+verb-prep-object	float through water
+object-prep-object	barge through water
+object-verb	barge float
+object	water
+object	barge
+object	boat
+#####################################################
+Empty barge floating down a river . 
+empty barge float down a river . 
+
+attribute-object	empty barge
+object-verb-object	barge float river
+verb-attribute	float down
+object	barge
+object	river
+object	boat
+#####################################################
+The Buchanan barge floats down the lake . 
+the Buchanan barge float down the lake . 
+
+object-verb-object	barge float lake
+attribute-object	buchanan barge
+verb-attribute	float down
+object	barge
+object	lake
+object	boat
+#####################################################

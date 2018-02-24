@@ -1,0 +1,67 @@
+Advertisement sign on top of yellow school bus . 
+advertisement sign on top of yellow school bus . 
+
+object-prep-object	sign on bus
+attribute-object	yellow bus
+attribute-object	advertisement sign
+attribute-object	school bus
+object	sign
+object	bus
+object	bus
+#####################################################
+A man and a woman standing on top of a school bus holding a cloth sign . 
+a man and a woman standing on top of a school bus hold a cloth sign . 
+
+verb-prep-object	stand on_top_of bus
+object-prep-object	man on_top_of bus
+object-prep-object	woman on_top_of bus
+object-verb-object	man hold sign
+object-verb-object	woman hold sign
+object-verb	man stand
+object-verb	woman stand
+attribute-object	school bus
+attribute-object	cloth sign
+object	bus
+object	man
+object	woman
+object	sign
+object	bus
+#####################################################
+Two people are on top of a school bus , holding a sign up . 
+two people be on top of a school bus , hold a sign up . 
+
+object-verb-object	people hold sign
+object-prep-object	people on_top_of bus
+attribute-object	school bus
+verb-attribute	hold up
+object	people
+object	sign
+object	bus
+object	bus
+#####################################################
+Two people holding a sign while standing on a school bus . 
+two people hold a sign while stand on a school bus . 
+
+object-verb	people stand
+verb-prep-object	stand on bus
+object-prep-object	people on bus
+object-verb-object	people hold sign
+attribute-object	school bus
+object	people
+object	bus
+object	sign
+object	bus
+#####################################################
+Two people stand on top of a bus and hold an advertising banner . 
+two people stand on top of a bus and hold a advertising banner . 
+
+verb-prep-object	stand on_top_of bus
+object-prep-object	people on_top_of bus
+object-verb-object	people hold banner
+attribute-object	advertising banner
+object-verb	people stand
+object	bus
+object	people
+object	banner
+object	bus
+#####################################################

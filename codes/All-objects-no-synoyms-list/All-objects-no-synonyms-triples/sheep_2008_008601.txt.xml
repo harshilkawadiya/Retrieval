@@ -1,0 +1,59 @@
+A black faced sheep . 
+a black face sheep . 
+
+attribute-object	black sheep
+attribute-object	face sheep
+object	sheep
+object	sheep
+#####################################################
+A black headed sheep covered in thick white wool stands in a pasture with other sheep . 
+a black head sheep cover in thick white wool stand in a pasture with other sheep . 
+
+object-verb	sheep cover
+attribute-object	black sheep
+attribute-object	head sheep
+verb-prep-object	cover in wool
+object-prep-object	sheep in wool
+attribute-object	thick wool
+attribute-object	white wool
+object-verb	sheep stand
+verb-prep-object	stand in pasture
+object-prep-object	sheep in pasture
+verb-prep-object	stand with sheep
+object-prep-object	sheep with sheep
+object	sheep
+object	wool
+object	pasture
+object	sheep
+#####################################################
+A close-up of a sheep with a black head . 
+a close-up of a sheep with a black head . 
+
+object-prep-object	sheep with head
+attribute-object	black head
+object	sheep
+object	head
+object	sheep
+#####################################################
+Sheep grazing on grass . 
+Sheep grazing on grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	sheep on grass
+object-verb	sheep graze
+object	grass
+object	sheep
+object	sheep
+#####################################################
+There is a black and white sheep standing on the grass . 
+there be a black and white sheep standing on the grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	sheep on grass
+attribute-object	black sheep
+attribute-object	white sheep
+object-verb	sheep stand
+object	grass
+object	sheep
+object	sheep
+#####################################################

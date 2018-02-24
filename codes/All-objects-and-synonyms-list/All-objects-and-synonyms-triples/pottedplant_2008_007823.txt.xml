@@ -1,0 +1,61 @@
+A close up of a potted plant . 
+a close up of a potted plant . 
+
+attribute-object	potted pottedplant
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A large green plant stork sitting in a large ceramic pot . 
+a large green plant stork sit in a large ceramic pot . 
+
+verb-prep-object	sit in pottedplant
+object-prep-object	bird in pottedplant
+attribute-object	large bird
+attribute-object	green bird
+attribute-object	large pottedplant
+attribute-object	ceramic pottedplant
+attribute-object	plant bird
+object-verb	bird sit
+object	pottedplant
+object	pot
+object	bird
+object	stork
+object	pottedplant
+#####################################################
+A plant grows inside a clay pot next to a Buddha figurine . 
+a plant grow inside a clay pot next to a Buddha figurine . 
+
+object-verb	pottedplant grow
+verb-prep-object	grow inside pottedplant
+object-prep-object	pottedplant inside pottedplant
+attribute-object	clay pottedplant
+object-prep-object	pottedplant next_to plant
+attribute-object	buddha figurine
+object	pottedplant
+object	plant
+object	pot
+object	figurine
+object	pottedplant
+#####################################################
+The stem of a plant in a terracotta pot with a little Buddha shot from above . 
+the stem of a plant in a terracotta pot with a little Buddha shot from above . 
+
+object-prep-object	pottedplant in pottedplant
+attribute-object	terracotta pottedplant
+object	pottedplant
+object	plant
+object	pot
+object	pottedplant
+#####################################################
+This is the green stem of a potted plant . 
+this be the green stem of a potted plant . 
+
+attribute-object	green stem
+attribute-object	potted pottedplant
+object-prep-object	stem of pottedplant
+object	stem
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################

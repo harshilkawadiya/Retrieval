@@ -1,0 +1,50 @@
+beam_size_1	2	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	3	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	4	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	5	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	6	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	7	Children participate in a sport on a green field while in uniforms .
+beam_size_1	8	The young soccer player enjoys the game .
+beam_size_1	9	Two girls in soccer strips are playing on a sports field .
+beam_size_1	10	Two girls play on a fenced in field .
+beam_size_1	11	Two girls wearing black and white uniforms run down a grassy field .
+beam_size_1	12	A baby eats and has food on his face .
+beam_size_1	13	A boy with lips messy from eating fruit
+beam_size_1	14	A little boy is eating something and got it all over his mouth .
+beam_size_1	15	A small child with berries all over its mouth .
+beam_size_1	16	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	17	A little baby climbing up the ladder after someone .
+beam_size_1	18	A little girl is climbing a ladder .
+beam_size_1	19	A person on a ladder with a baby underneath .
+beam_size_1	20	A person stands at the top of a ladder as a young girl begins to climb .
+beam_size_1	21	A person stands on a ladder and a small child climbs at the bottom of the ladder .
+beam_size_1	22	a man enjoying the view from top of a mountain
+beam_size_1	23	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	24	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	25	A man sits on a cliff and looks out over another mountain .
+beam_size_1	26	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	27	One climber is sitting on the rock overlooking the ocean whilst another climber is on her way up .
+beam_size_1	28	Two people are on a rock overlooking the ocean
+beam_size_1	29	Two people climb a rock overhanging water .
+beam_size_1	30	Two people climb rocks over some water .
+beam_size_1	31	Two people rock climbing near water .
+beam_size_1	32	A little boy is holding a skinny baseball bat while standing between two rows of blue seats .
+beam_size_1	33	A small boy dressed in a black sweatshirt with a logo on it , holds a red bat in front of blue stadium seats .
+beam_size_1	34	A young boy in a team sweatshirt is in a sports stadium near blue seats swinging a red bat .
+beam_size_1	35	A young boy practices his bat swing while in the stands with blue seats .
+beam_size_1	36	The boy wearing a black shirt and blue jeans is holding a red baseball bat .
+beam_size_1	37	A couple in an embrace looking at each other .
+beam_size_1	38	A man and woman are dancing nearby others who are doing the same .
+beam_size_1	39	A man in a white print shirt and a woman in a black dress dancing .
+beam_size_1	40	A man in a white shirt is dancing with a woman in black .
+beam_size_1	41	The red haired woman in the black dress has her arms around a man in white .
+beam_size_1	42	A girl is climbing a rock while someone is filming her .
+beam_size_1	43	A little girl is climbing up a rock as her mom 's shadow is casting over the rock .
+beam_size_1	44	A small child climbs a large rock while someone casting a shadow takes her picture .
+beam_size_1	45	A young girl is rock climbing .
+beam_size_1	46	The long black shadow casts a image on the rock while the young girl climbs the rock .
+beam_size_1	47	A man in a white shirt swinging a stick
+beam_size_1	48	A man in a white shirt walks in the tall grass holding a stick .
+beam_size_1	49	A man is walking in a field carrying a stick .
+beam_size_1	50	A man with a stick in his left hand in a field
+beam_size_1	51	Man near golf course preparing to throw a stick

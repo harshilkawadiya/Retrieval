@@ -1,0 +1,50 @@
+A sheep is being sheared by two young ladies . 
+a sheep be be shear by two young lady . 
+
+verb-prep-object	shear by person
+attribute-object	young person
+object-verb	sheep shear
+object	person
+object	lady
+object	sheep
+object	sheep
+#####################################################
+Two people cutting the wool off of a sheep . 
+two people cut the wool off of a sheep . 
+
+object-prep-object	wool of sheep
+object-verb-object	person cut people
+object	wool
+object	sheep
+object	person
+object	people
+object	sheep
+#####################################################
+Two women shearing a sheep on a table . 
+two woman shear a sheep on a table . 
+
+verb-prep-object	shear on diningtable
+object-verb-object	person shear woman
+object	diningtable
+object	table
+object	person
+object	woman
+object	sheep
+#####################################################
+Two women shearing a sheep . 
+two woman shear a sheep . 
+
+object-verb-object	person shear woman
+object	person
+object	woman
+object	sheep
+#####################################################
+Two young women shear a sheep . 
+two young woman shear a sheep . 
+
+attribute-object	young person
+object-verb-object	person shear woman
+object	person
+object	woman
+object	sheep
+#####################################################

@@ -1,0 +1,68 @@
+A man parking his bike near a building . 
+a man parking he bike near a building . 
+
+verb-prep-object	park near building
+object-prep-object	bike near building
+object-verb-object	man park bike
+object	building
+object	bike
+object	man
+object	bicycle
+#####################################################
+A man walks his bike towards the entrance of Longbottom Roasting Factory Deli . 
+a man walk he bike towards the entrance of Longbottom Roasting Factory Deli . 
+
+object-prep-object	entrance of deli
+verb-prep-object	walk towards entrance
+object-verb-object	man walk bike
+attribute-object	longbottom deli
+attribute-object	roasting deli
+attribute-object	factory deli
+object	entrance
+object	deli
+object	man
+object	bike
+object	bicycle
+#####################################################
+A man with a bicycle at a coffee house . 
+a man with a bicycle at a coffee house . 
+
+object-prep-object	man at house
+object-prep-object	man with bicycle
+attribute-object	coffee house
+object	man
+object	house
+object	bicycle
+object	bicycle
+#####################################################
+Man walking bicycle to patio of a coffee shop . 
+man walking bicycle to patio of a coffee shop . 
+
+verb-prep-object	walk to patio
+object-prep-object	patio of shop
+object-verb-object	man walk bicycle
+attribute-object	coffee shop
+object	patio
+object	shop
+object	man
+object	bicycle
+object	bicycle
+#####################################################
+The man with the bicycle is standing in front of the Coffe House Deli and Bakery building . 
+the man with the bicycle be stand in front of the Coffe House Deli and Bakery building . 
+
+object-prep-object	man with bicycle
+verb-prep-object	stand in_front_of deli
+object-prep-object	man in_front_of deli
+verb-prep-object	stand in_front_of building
+object-prep-object	man in_front_of building
+attribute-object	coffe deli
+attribute-object	house deli
+attribute-object	bakery building
+object-verb	man stand
+object	man
+object	bicycle
+object	deli
+object	building
+object	bicycle
+#####################################################

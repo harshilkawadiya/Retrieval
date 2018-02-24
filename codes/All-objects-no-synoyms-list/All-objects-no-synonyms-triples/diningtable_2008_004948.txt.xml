@@ -1,0 +1,63 @@
+A group of people sit around a table with food and beer . 
+a group of people sit around a table with food and beer . 
+
+object-verb	people sit
+verb-prep-object	sit around table
+object-prep-object	people around table
+object-prep-object	table with food
+object-prep-object	table with beer
+object	people
+object	table
+object	food
+object	beer
+object	diningtable
+#####################################################
+four people sitting at a table . 
+four people sit at a table . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-verb	people sit
+object	table
+object	people
+object	diningtable
+#####################################################
+Three men eating in a kitchen . 
+three man eat in a kitchen . 
+
+verb-prep-object	eat in kitchen
+object-prep-object	man in kitchen
+object-verb	man eat
+object	kitchen
+object	man
+object	diningtable
+#####################################################
+Three men sitting at the table with beer and food . 
+three man sit at the table with beer and food . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	table with beer
+object-prep-object	table with food
+object-verb	man sit
+object	table
+object	man
+object	beer
+object	food
+object	diningtable
+#####################################################
+Three older men sitting at table drinking beer and eating soup . 
+three older man sit at table drinking beer and eat soup . 
+
+object-verb	man sit
+verb-prep-object	sit at table
+attribute-object	older man
+object-prep-object	man at table
+object-verb-object	man drink beer
+object-verb-object	man eat soup
+object	man
+object	table
+object	beer
+object	soup
+object	diningtable
+#####################################################

@@ -1,0 +1,65 @@
+Children playing catch with baseball . 
+child play catch with baseball . 
+
+verb-prep-object	play with baseball
+object-prep-object	person with child
+object-verb-object	person play child
+object	baseball
+object	person
+object	child
+object	person
+#####################################################
+Two boys in baseball uniforms play catch with a baseball . 
+two boy in baseball uniform play catch with a baseball . 
+
+verb-prep-object	play with baseball
+object-prep-object	person with boy
+object-prep-object	person in suit
+object-verb-object	person play boy
+attribute-object	baseball suit
+object	baseball
+object	person
+object	boy
+object	suit
+object	uniform
+object	person
+#####################################################
+Two boys in gray uniforms throwing a baseball to each other . 
+two boy in gray uniform throw a baseball to each other . 
+
+object-prep-object	person in suit
+attribute-object	gray suit
+object-verb-object	person throw boy
+object	person
+object	boy
+object	suit
+object	uniform
+object	person
+#####################################################
+Two boys , wearing baseball uniforms , are playing catch . 
+two boy , wear baseball uniform , be play catch . 
+
+object-verb-object	person wear suit
+object-verb-object	person play boy
+attribute-object	baseball suit
+object	person
+object	boy
+object	suit
+object	uniform
+object	person
+#####################################################
+Two young boys wearing black and gray baseball uniforms playing catch . 
+two young boy wear black and gray baseball uniform play catch . 
+
+attribute-object	young person
+attribute-object	black suit
+attribute-object	gray suit
+attribute-object	baseball suit
+object-verb-object	person wear suit
+object-verb-object	person play boy
+object	person
+object	boy
+object	suit
+object	uniform
+object	person
+#####################################################

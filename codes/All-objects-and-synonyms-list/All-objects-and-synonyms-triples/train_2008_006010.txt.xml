@@ -1,0 +1,56 @@
+A train car at a large group of railroad tracks . 
+a train car at a large group of railroad track . 
+
+object-prep-object	car at group
+attribute-object	large group
+attribute-object	train car
+object-prep-object	group of track
+attribute-object	railroad track
+object	car
+object	group
+object	track
+object	train
+#####################################################
+A train sitting on the tracks in a train yard . 
+a train sit on the track in a train yard . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+verb-prep-object	sit in yard
+object-prep-object	train in yard
+attribute-object	train yard
+object-verb	train sit
+object	track
+object	train
+object	yard
+object	train
+#####################################################
+A train travels down one track amongst many . 
+a train travel down one track amongst many . 
+
+object-verb-object	train travel track
+verb-attribute	travel down
+object	train
+object	track
+object	train
+#####################################################
+Caboose on train track . 
+caboose on train track . 
+
+object-prep-object	kitchen on caboose
+attribute-object	train track
+object	kitchen
+object	caboose
+object	track
+object	train
+#####################################################
+Two train engines in a rail yard . 
+two train engine in a rail yard . 
+
+object-prep-object	engine in yard
+attribute-object	train engine
+attribute-object	rail yard
+object	engine
+object	yard
+object	train
+#####################################################

@@ -1,0 +1,51 @@
+A man fixing the back tire of his bicycle . 
+a man fix the back tire of he bicycle . 
+
+object-prep-object	tire of bicycle
+attribute-object	back tire
+object-verb-object	person fix tire
+object	tire
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A man works on his silver bicycle outside . 
+a man work on he silver bicycle outside . 
+
+verb-prep-object	work on bicycle
+object-prep-object	person on bicycle
+attribute-object	silver bicycle
+object-verb	person work
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A person fixing a bicycle placed upside down . 
+a person fix a bicycle place upside down . 
+
+object-verb-object	person fix bicycle
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+Bicycle upside down with person repairing back tire . 
+Bicycle upside down with person repair back tire . 
+
+object-prep-object	bicycle with person
+object-verb-object	person repair tire
+object	bicycle
+object	person
+object	tire
+object	bicycle
+#####################################################
+Someone attempting to fix a bicycle . 
+someone attempt to fix a bicycle . 
+
+object-verb	person attempt
+verb-prep-verb	attempt to fix
+verb-object	fix bicycle
+object	person
+object	someone
+object	bicycle
+object	bicycle
+#####################################################

@@ -1,0 +1,61 @@
+Two blue macaws sit on a perch in a lush green garden . 
+two blue macaw sit on a perch in a lush green garden . 
+
+verb-prep-object	sit on perch
+object-prep-object	macaw on perch
+verb-prep-object	sit in garden
+object-prep-object	macaw in garden
+attribute-object	blue macaw
+attribute-object	lush garden
+attribute-object	green garden
+object-verb	macaw sit
+object	perch
+object	macaw
+object	garden
+object	pottedplant
+#####################################################
+Two brightly colored parrots sitting on a fence . 
+two brightly color parrot sit on a fence . 
+
+object-verb	bird sit
+verb-prep-object	sit on fence
+object-prep-object	bird on parrot
+attribute-object	bright bird
+attribute-object	color bird
+object	bird
+object	parrot
+object	fence
+object	pottedplant
+#####################################################
+Two colorful birds sitting on a tree branch . 
+two colorful bird sit on a tree branch . 
+
+verb-prep-object	sit on tree
+object-prep-object	bird on tree
+attribute-object	colorful bird
+attribute-object	tree tree
+object-verb	bird sit
+object	tree
+object	branch
+object	bird
+object	pottedplant
+#####################################################
+two macaws sitting on a branch . 
+two macaw sit on a branch . 
+
+verb-prep-object	sit on tree
+object-prep-object	macaw on tree
+object-verb	macaw sit
+object	tree
+object	branch
+object	macaw
+object	pottedplant
+#####################################################
+Two parrots . 
+two parrot . 
+
+object	bird
+object	bird
+object	parrot
+object	pottedplant
+#####################################################

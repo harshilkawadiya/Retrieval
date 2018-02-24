@@ -1,0 +1,62 @@
+A cat lays on a white towel . 
+a cat lay on a white towel . 
+
+verb-prep-object	lay on towel
+object-prep-object	cat on towel
+attribute-object	white towel
+object-verb	cat lay
+object	towel
+object	cat
+object	cat
+#####################################################
+A white cat laying on an office chair . 
+a white cat lay on a office chair . 
+
+verb-prep-object	lay on chair
+object-prep-object	cat on chair
+attribute-object	white cat
+attribute-object	office chair
+object-verb	cat lay
+object	chair
+object	cat
+object	cat
+#####################################################
+A white cat laying on a sheet . 
+a white cat lay on a sheet . 
+
+verb-prep-object	lay on sheet
+object-prep-object	cat on sheet
+attribute-object	white cat
+object-verb	cat lay
+object	sheet
+object	cat
+object	cat
+#####################################################
+This is a white cat with a black tail lying on white fabric . 
+this be a white cat with a black tail lie on white fabric . 
+
+object-prep-object	cat with tail
+verb-prep-object	lie on fabric
+object-prep-object	cat on fabric
+attribute-object	white cat
+attribute-object	black tail
+attribute-object	white fabric
+object-verb	cat lie
+object	cat
+object	tail
+object	fabric
+object	cat
+#####################################################
+White cat lying on a white sheet relaxing . 
+White cat lie on a white sheet relax . 
+
+verb-prep-object	lie on sheet
+object-prep-object	cat on sheet
+attribute-object	white sheet
+attribute-object	white cat
+object-verb	cat lie
+object-verb	cat relax
+object	sheet
+object	cat
+object	cat
+#####################################################

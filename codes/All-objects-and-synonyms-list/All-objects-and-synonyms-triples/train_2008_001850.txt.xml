@@ -1,0 +1,49 @@
+A close up of a silver train . 
+a close up of a silver train . 
+
+attribute-object	silver train
+object	train
+object	train
+#####################################################
+A close-up of a silver train engine with a red stripe . 
+a close-up of a silver train engine with a red stripe . 
+
+object-prep-object	engine with striped
+attribute-object	red striped
+attribute-object	silver engine
+attribute-object	train engine
+object	engine
+object	striped
+object	stripe
+object	train
+#####################################################
+Large silver locomotive engine in a shed . 
+large silver locomotive engine in a shed . 
+
+attribute-object	large engine
+attribute-object	silver engine
+attribute-object	locomotive engine
+object-prep-object	engine in shed
+object	engine
+object	shed
+object	train
+#####################################################
+Left side of a silver train engine . 
+leave side of a silver train engine . 
+
+attribute-object	silver engine
+attribute-object	train engine
+object	engine
+object	train
+#####################################################
+The silver train is parked in a station . 
+the silver train be park in a station . 
+
+verb-prep-object	park in station
+object-prep-object	train in station
+attribute-object	silver train
+object-verb	train park
+object	station
+object	train
+object	train
+#####################################################

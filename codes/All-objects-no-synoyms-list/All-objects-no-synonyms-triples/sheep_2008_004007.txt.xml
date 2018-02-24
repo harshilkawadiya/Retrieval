@@ -1,0 +1,50 @@
+A baby white sheep in a wooden enclosure . 
+a baby white sheep in a wooden enclosure . 
+
+object-prep-object	sheep in enclosure
+attribute-object	baby sheep
+attribute-object	white sheep
+attribute-object	wooden enclosure
+object	sheep
+object	enclosure
+object	sheep
+#####################################################
+A lamb smelling wood . 
+a lamb smell wood . 
+
+object-verb-object	lamb smell wood
+object	lamb
+object	wood
+object	sheep
+#####################################################
+A white lamb with its nose against a wooden box . 
+a white lamb with its nose against a wooden box . 
+
+object-prep-object	lamb with nose
+object-prep-object	nose against box
+attribute-object	white lamb
+attribute-object	wooden box
+object	lamb
+object	nose
+object	box
+object	sheep
+#####################################################
+Little white lamb with nose to wood . 
+Little white lamb with nose to wood . 
+
+object-prep-object	lamb with nose
+attribute-object	little lamb
+attribute-object	white lamb
+object	lamb
+object	nose
+object	sheep
+#####################################################
+White lamb smelling wood . 
+White lamb smell wood . 
+
+object-verb-object	lamb smell wood
+attribute-object	white lamb
+object	lamb
+object	wood
+object	sheep
+#####################################################

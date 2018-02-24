@@ -1,0 +1,58 @@
+A large passenger plane on a landing strip . 
+a large passenger plane on a landing strip . 
+
+object-prep-object	plane on strip
+attribute-object	large plane
+attribute-object	passenger plane
+attribute-object	landing strip
+object	plane
+object	strip
+object	aeroplane
+#####################################################
+A Lufthansa jumbo passenger jet taxing at an airport . 
+a Lufthansa jumbo passenger jet tax at a airport . 
+
+object-verb	jet tax
+attribute-object	jumbo jet
+attribute-object	lufthansa jet
+attribute-object	passenger jet
+object-prep-object	jet at airport
+verb-prep-object	tax at airport
+object	jet
+object	airport
+object	aeroplane
+#####################################################
+A yellow-and-black checkered van drives in front of a grounded passenger jet . 
+a yellow-and-black checkered van drive in front of a ground passenger jet . 
+
+verb-prep-object	drive in_front_of jet
+object-prep-object	van in_front_of jet
+attribute-object	yellow-and-black van
+attribute-object	checkered van
+attribute-object	ground jet
+object-verb	van drive
+attribute-object	passenger jet
+object	jet
+object	van
+object	aeroplane
+#####################################################
+Large Lufthansa airliner parked on runway . 
+large Lufthansa airliner park on runway . 
+
+verb-prep-object	park on runway
+object-prep-object	airliner on runway
+attribute-object	large airliner
+attribute-object	lufthansa airliner
+object-verb	airliner park
+object	runway
+object	airliner
+object	aeroplane
+#####################################################
+The Lufthansa arrives safely again . 
+the Lufthansa arrive safely again . 
+
+attribute-verb	safely arrive
+object-verb	lufthansa arrive
+object	lufthansa
+object	aeroplane
+#####################################################

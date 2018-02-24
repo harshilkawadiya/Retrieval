@@ -1,0 +1,77 @@
+A decorated room with blue carpeting , a cream sofa and chair , and a patio door . 
+a decorate room with blue carpeting , a cream sofa and chair , and a patio door . 
+
+object-prep-object	room with carpeting
+object-prep-object	room with sofa
+object-prep-object	room with chair
+object-prep-object	room with door
+attribute-object	decorate room
+attribute-object	blue carpeting
+attribute-object	cream sofa
+attribute-object	patio door
+object	room
+object	carpeting
+object	sofa
+object	chair
+object	door
+object	sofa
+#####################################################
+A living room with a sofa , chair , coffee table , and a sliding glass door . 
+a living room with a sofa , chair , coffee table , and a slide glass door . 
+
+object-prep-object	room with sofa
+object-prep-object	room with chair
+object-prep-object	room with table
+object-prep-object	room with door
+attribute-object	slide door
+attribute-object	living room
+attribute-object	coffee table
+attribute-object	glass door
+object	room
+object	sofa
+object	chair
+object	table
+object	door
+object	sofa
+#####################################################
+Living room with white couch and blue carpeting . 
+live room with white couch and blue carpeting . 
+
+object-prep-object	room with couch
+object-prep-object	room with carpeting
+attribute-object	live room
+attribute-object	white couch
+attribute-object	blue carpeting
+object	room
+object	couch
+object	carpeting
+object	sofa
+#####################################################
+The living room in the apartment gets some afternoon sun . 
+the living room in the apartment get some afternoon sun . 
+
+object-prep-object	room in apartment
+object-verb-object	room get sun
+attribute-object	living room
+attribute-object	afternoon sun
+object	room
+object	apartment
+object	sun
+object	sofa
+#####################################################
+There is a living room with blue carpet , white furniture , and coffee table . 
+there be a living room with blue carpet , white furniture , and coffee table . 
+
+object-prep-object	room with carpet
+object-prep-object	room with furniture
+object-prep-object	room with table
+attribute-object	blue carpet
+attribute-object	white furniture
+attribute-object	living room
+attribute-object	coffee table
+object	room
+object	carpet
+object	furniture
+object	table
+object	sofa
+#####################################################

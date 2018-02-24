@@ -1,0 +1,68 @@
+A black calf and a smaller brown calf standing next to a fence in front of a red barn . 
+a black calf and a smaller brown calf stand next to a fence in front of a red barn . 
+
+object-verb	cow stand
+object-verb	cow stand
+verb-prep-object	stand next_to fence
+object-prep-object	cow next_to calf
+verb-prep-object	stand in_front_of barn
+object-prep-object	cow in_front_of calf
+attribute-object	black cow
+attribute-object	smaller cow
+attribute-object	brown cow
+attribute-object	red barn
+object	cow
+object	calf
+object	fence
+object	barn
+object	cow
+#####################################################
+A large black cow and a smaller brown cow stand together in front a fence with a barn behind it . 
+a large black cow and a smaller brown cow stand together in front a fence with a barn behind it . 
+
+object-prep-object	fence with barn
+verb-prep-object	stand in_front_of fence
+object-prep-object	cow in_front_of fence
+attribute-object	large cow
+attribute-object	black cow
+attribute-object	smaller cow
+attribute-object	brown cow
+object-verb	cow stand
+object-verb	cow stand
+object	fence
+object	barn
+object	cow
+object	cow
+#####################################################
+Black and brown cow standing alongside wood fence . 
+Black and brown cow standing alongside wood fence . 
+
+object-verb	cow stand
+verb-prep-object	stand alongside fence
+object-prep-object	cow alongside fence
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	wooden fence
+object	cow
+object	fence
+object	cow
+#####################################################
+The cows find a comfortable spot near a fence to spend the afternoon . 
+the cow find a comfortable spot near a fence to spend the afternoon . 
+
+object-prep-object	spot near fence
+attribute-object	comfortable spot
+object-verb-object	cow find spot
+object	spot
+object	fence
+object	cow
+object	cow
+#####################################################
+Two calves outside next to fence . 
+two calf outside next to fence . 
+
+object-prep-object	cow next_to calf
+object	cow
+object	calf
+object	cow
+#####################################################

@@ -1,0 +1,75 @@
+A family preparing to ride dirt bikes . 
+a family prepare to ride dirt bike . 
+
+attribute-object	dirt bicycle
+object-verb	person prepare
+verb-prep-verb	prepare to ride
+verb-object	ride bicycle
+object	bicycle
+object	bike
+object	person
+object	family
+object	motorbike
+#####################################################
+A man and a child on a green dirt bike and a couple getting on a blue dirt bike . 
+a man and a child on a green dirt bike and a couple get on a blue dirt bike . 
+
+object-prep-object	person on bicycle
+object-prep-object	person on bicycle
+attribute-object	green bicycle
+attribute-object	dirt bicycle
+verb-prep-object	get on bicycle
+object-prep-object	person on bicycle
+attribute-object	blue bicycle
+attribute-object	dirt bicycle
+object-verb	person get
+object	person
+object	man
+object	bicycle
+object	child
+object	bike
+object	couple
+object	motorbike
+#####################################################
+A man and a woman beside a blue motor bike and two people on a green motor bike . 
+a man and a woman beside a blue motor bike and two people on a green motor bike . 
+
+object-prep-object	person beside bicycle
+object-prep-object	person beside bicycle
+attribute-object	blue bicycle
+attribute-object	motor bicycle
+object-prep-object	person on bicycle
+attribute-object	green bicycle
+attribute-object	motor bicycle
+object	person
+object	man
+object	bicycle
+object	woman
+object	bike
+object	people
+object	motorbike
+#####################################################
+Four people and two motorcycles on a sunny day . 
+four people and two motorcycle on a sunny day . 
+
+object-prep-object	person on people
+object-prep-object	motorbike on motorcycle
+attribute-object	sunny day
+object	person
+object	people
+object	motorbike
+object	motorcycle
+object	day
+object	motorbike
+#####################################################
+Two couples and two dirt bikes . 
+two couple and two dirt bike . 
+
+attribute-object	dirt bicycle
+object	person
+object	bicycle
+object	bike
+object	person
+object	couple
+object	motorbike
+#####################################################

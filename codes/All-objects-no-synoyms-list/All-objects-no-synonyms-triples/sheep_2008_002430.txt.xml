@@ -1,0 +1,50 @@
+A dog chasing its prey through a field of grass . 
+a dog chase its prey through a field of grass . 
+
+verb-prep-object	chase through field
+object-prep-object	field of grass
+object-verb-object	dog chase prey
+object	field
+object	grass
+object	dog
+object	prey
+object	sheep
+#####################################################
+Sheep being herded by black and white dog . 
+Sheep be herd by black and white dog . 
+
+verb-prep-object	herd by dog
+attribute-object	black dog
+attribute-object	white dog
+object-verb	sheep herd
+object	dog
+object	sheep
+object	sheep
+#####################################################
+The dog is herding three sheep . 
+the dog be herd three sheep . 
+
+object-verb-object	dog herd sheep
+object	dog
+object	sheep
+object	sheep
+#####################################################
+Three goats are being rounded up by a dog . 
+three goat be be round up by a dog . 
+
+verb-prep-object	round by dog
+object-verb	goat round
+verb-attribute	round up
+object	dog
+object	goat
+object	sheep
+#####################################################
+Three goats are chased by a dog . 
+three goat be chase by a dog . 
+
+verb-prep-object	chase by dog
+object-verb	goat chase
+object	dog
+object	goat
+object	sheep
+#####################################################

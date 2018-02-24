@@ -1,0 +1,65 @@
+A mother and her child . 
+a mother and she child . 
+
+object	mother
+object	child
+object	mother
+object	child
+object	diningtable
+#####################################################
+A tiny blonde child in a blue dress sits on a table near her mother . 
+a tiny blonde child in a blue dress sit on a table near she mother . 
+
+verb-prep-object	sit on table
+verb-prep-object	sit near mother
+object-prep-object	child near mother
+object-prep-object	child on table
+object-prep-object	child in dress
+attribute-object	tiny child
+attribute-object	blonde child
+attribute-object	blue dress
+object-verb	child sit
+object	table
+object	mother
+object	child
+object	dress
+object	diningtable
+#####################################################
+A woman with a smiling baby sitting on the table . 
+a woman with a smile baby sit on the table . 
+
+verb-prep-object	sit on table
+object-prep-object	woman on table
+object-prep-object	woman with baby
+attribute-object	smile baby
+object-verb	woman sit
+object	table
+object	woman
+object	baby
+object	diningtable
+#####################################################
+Smiling infant girl sitting near blonde woman . 
+smile infant girl sit near blonde woman . 
+
+verb-prep-object	sit near woman
+object-prep-object	girl near woman
+attribute-object	blonde woman
+attribute-object	smile girl
+attribute-object	infant girl
+object-verb	girl sit
+object	woman
+object	girl
+object	diningtable
+#####################################################
+Young baby girl sitting on table . 
+Young baby girl sit on table . 
+
+verb-prep-object	sit on table
+object-prep-object	girl on table
+attribute-object	young girl
+attribute-object	baby girl
+object-verb	girl sit
+object	table
+object	girl
+object	diningtable
+#####################################################

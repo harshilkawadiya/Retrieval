@@ -1,0 +1,58 @@
+Two brown horses in a pasture . 
+two brown horse in a pasture . 
+
+object-prep-object	horse in pasture
+attribute-object	brown horse
+object	horse
+object	pasture
+object	horse
+#####################################################
+Two brown horses standing in a green meadow . 
+two brown horse stand in a green meadow . 
+
+verb-prep-object	stand in meadow
+object-prep-object	horse in meadow
+attribute-object	brown horse
+attribute-object	green meadow
+object-verb	horse stand
+object	meadow
+object	horse
+object	horse
+#####################################################
+Two brown horses standing in grassy field . 
+two brown horse stand in grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+attribute-object	brown horse
+attribute-object	grassy field
+object-verb	horse stand
+object	field
+object	horse
+object	horse
+#####################################################
+Two horses stand in a green field with trees . 
+two horse stand in a green field with tree . 
+
+object-prep-object	field with tree
+verb-prep-object	stand in field
+object-prep-object	horse in field
+attribute-object	green field
+object-verb	horse stand
+object	field
+object	tree
+object	horse
+object	horse
+#####################################################
+Two horses standing in a field with trees in the background . 
+two horse stand in a field with tree in the background . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+object-prep-object	field with tree
+object-verb	horse stand
+object	field
+object	horse
+object	tree
+object	horse
+#####################################################

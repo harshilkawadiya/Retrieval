@@ -1,0 +1,57 @@
+An airliner is loaded with supplies for its next flight . 
+a airliner be load with supplies for its next flight . 
+
+verb-prep-object	load with supplies
+object-prep-object	aeroplane with supplies
+object-verb	aeroplane load
+object	supplies
+object	aeroplane
+object	aeroplane
+#####################################################
+An airliner on the ground is being loaded for flight . 
+a airliner on the ground be be load for flight . 
+
+object-prep-object	aeroplane on ground
+verb-prep-object	load for aeroplane
+object-verb	aeroplane load
+object	aeroplane
+object	ground
+object	flight
+object	aeroplane
+#####################################################
+A passenger plane sitting on the runway with loading equipment attached to it . 
+a passenger plane sit on the runway with load equipment attach to it . 
+
+verb-prep-object	sit on airport
+object-prep-object	aeroplane on airport
+attribute-object	passenger aeroplane
+object-verb	aeroplane sit
+object-prep-object	aeroplane with equipment
+attribute-object	loading equipment
+object	airport
+object	aeroplane
+object	equipment
+object	aeroplane
+#####################################################
+A plane is docked at a terminal . 
+a plane be dock at a terminal . 
+
+verb-prep-object	dock at airport
+object-prep-object	aeroplane at airport
+object-verb	aeroplane dock
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+Large white and blue airplane in a parked position . 
+large white and blue airplane in a park position . 
+
+object-prep-object	aeroplane in position
+attribute-object	large aeroplane
+attribute-object	white aeroplane
+attribute-object	blue aeroplane
+attribute-object	park position
+object	aeroplane
+object	position
+object	aeroplane
+#####################################################

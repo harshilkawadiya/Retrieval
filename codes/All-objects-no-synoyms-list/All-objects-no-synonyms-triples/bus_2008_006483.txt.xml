@@ -1,0 +1,71 @@
+A bus and two cars driving during a snowstorm . 
+a bus and two car drive during a snowstorm . 
+
+verb-prep-object	drive during snowstorm
+object-prep-object	bus during snowstorm
+object-prep-object	car during snowstorm
+object-verb	bus drive
+object-verb	car drive
+object	snowstorm
+object	bus
+object	car
+object	bus
+#####################################################
+A bus picking up passengers in deep snow . 
+a bus pick up passenger in deep snow . 
+
+object-prep-object	passenger in snow
+verb-prep-object	pick in snow
+attribute-object	deep snow
+object-verb-object	bus pick passenger
+verb-attribute	pick up
+object	passenger
+object	snow
+object	bus
+object	bus
+#####################################################
+A snowy road with a bus that has become stuck in a snow bank . 
+a snowy road with a bus that have become stick in a snow bank . 
+
+object-prep-object	road with bus
+verb-prep-object	stick in bank
+object-prep-object	bus in bank
+attribute-object	snowy road
+attribute-object	snow bank
+object-verb	bus stick
+object	road
+object	bus
+object	bank
+object	bus
+#####################################################
+A white bus partially in the snow on a public street . 
+a white bus partially in the snow on a public street . 
+
+object-prep-object	snow on street
+object-prep-object	bus on street
+object-prep-object	bus in snow
+attribute-object	white bus
+attribute-object	public street
+object	snow
+object	street
+object	bus
+object	bus
+#####################################################
+Green and white bus stuck in the snow with two cars and onlookers . 
+Green and white bus stick in the snow with two car and onlooker . 
+
+verb-prep-object	stick with car
+verb-prep-object	stick with onlooker
+object-prep-object	bus with car
+object-prep-object	bus with onlooker
+verb-prep-object	stick in snow
+object-prep-object	bus in snow
+attribute-object	white bus
+attribute-object	green bus
+object-verb	bus stick
+object	car
+object	onlooker
+object	bus
+object	snow
+object	bus
+#####################################################

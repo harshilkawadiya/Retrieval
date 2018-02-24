@@ -1,0 +1,50 @@
+beam_size_1	2	A blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake .
+beam_size_1	3	A boy diving backward off a pier in a large lake .
+beam_size_1	4	A boy in a blue life jacket jumps into the water .
+beam_size_1	5	A boy in a blue life jacket jumps off a board into the lake .
+beam_size_1	6	A boy is holding his nose and jumping off a diving board backwards into a lake .
+beam_size_1	7	A man in a tropical enviorment holding a camera to his face .
+beam_size_1	8	A man in blue takes a photo of the person taking a photo of him .
+beam_size_1	9	A man taking a picture with a silver camera .
+beam_size_1	10	Man in a blue shirt with a camera .
+beam_size_1	11	The man is outdoors , holding a camera .
+beam_size_1	12	A man in a red striped soccer shirt heads a ball .
+beam_size_1	13	A man in red and black is hitting a soccer ball with his head .
+beam_size_1	14	A soccer ball is above the head of a man wearing black shorts and red and black striped shirt .
+beam_size_1	15	A soccer player in black shorts is jumping into the air .
+beam_size_1	16	The person in the red and black uniform has a ball above her head .
+beam_size_1	17	A person is laughing on a roller coaster ride .
+beam_size_1	18	A photo of a ride at an amusement park on an overcast day .
+beam_size_1	19	People are in a ride that drops you from a great height .
+beam_size_1	20	People on an amusement park ride .
+beam_size_1	21	People on a ride at a fair .
+beam_size_1	22	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	23	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	24	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	25	Two people riding a bike are riding towards a stop sign .
+beam_size_1	26	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	27	A couple are looking at an area map .
+beam_size_1	28	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	29	Tourists examine a sign .
+beam_size_1	30	Two people are reading a sign in front of a museum .
+beam_size_1	31	Two people read a sign in front of a museum .
+beam_size_1	32	A brown dog is sitting on a cobbled pavement .
+beam_size_1	33	A brown god relaxes on a brick sidewalk .
+beam_size_1	34	A dog lies down on a cobblestone street .
+beam_size_1	35	A yellow dog is lying near where people are walking .
+beam_size_1	36	The dog is lying on the cobblestone street .
+beam_size_1	37	A child is happily playing on the slide .
+beam_size_1	38	A child is holding on to the top of a playground slide .
+beam_size_1	39	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	40	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	41	Child getting ready to go down a slide .
+beam_size_1	42	A girl in a red shirt takes a picture on a phone .
+beam_size_1	43	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	44	A woman in a red shirt holding a cellphone .
+beam_size_1	45	A woman taking pictures with her phone .
+beam_size_1	46	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	47	A black dog jumping from a wooden deck into a lake .
+beam_size_1	48	A black dog jumping off a dock into water .
+beam_size_1	49	A black dog jumps into the water off a dock .
+beam_size_1	50	A black dog jumps off of a pier into a lake .
+beam_size_1	51	The dog is leaping into the pond .

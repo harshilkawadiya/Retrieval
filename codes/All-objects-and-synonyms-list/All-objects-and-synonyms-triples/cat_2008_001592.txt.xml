@@ -1,0 +1,57 @@
+a brown and white fat cat looking out of an iron gate . 
+a brown and white fat cat look out of a iron gate . 
+
+verb-prep-object	look out_of gate
+attribute-object	brown cat
+attribute-object	white cat
+attribute-object	fat cat
+attribute-object	iron gate
+object-verb	cat look
+object	gate
+object	cat
+object	cat
+#####################################################
+A cat is looking outside through a screen door . 
+a cat be look outside through a screen door . 
+
+verb-prep-object	look through door
+attribute-object	screen door
+object-verb	cat look
+object	door
+object	cat
+object	cat
+#####################################################
+A cat sitting on the ground looks out through a clear door screen . 
+a cat sit on the ground look out through a clear door screen . 
+
+verb-prep-object	look through screen
+verb-prep-object	sit on ground
+object-prep-object	cat on ground
+attribute-object	clear screen
+attribute-object	door screen
+object-verb	cat look
+object-verb	cat sit
+verb-attribute	look out
+object	screen
+object	ground
+object	cat
+object	cat
+#####################################################
+Cat looking out screen door . 
+cat look out screen door . 
+
+object-verb-object	cat look door
+attribute-object	screen door
+verb-attribute	look out
+object	cat
+object	door
+object	cat
+#####################################################
+The cat admires the sunshine outside . 
+the cat admire the sunshine outside . 
+
+object-verb-object	cat admire sunny
+object	cat
+object	sunny
+object	cat
+#####################################################

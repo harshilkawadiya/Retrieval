@@ -1,0 +1,76 @@
+A black and white bench next to a window . 
+a black and white bench next to a window . 
+
+object-prep-object	bench next_to window
+attribute-object	black bench
+attribute-object	white bench
+object	bench
+object	window
+object	chair
+#####################################################
+A black and white chair sitting in front of a brick wall and a window with a bamboo plant in a vase . 
+a black and white chair sit in front of a brick wall and a window with a bamboo plant in a vase . 
+
+object-prep-object	plant in vase
+verb-prep-object	sit in_front_of wall
+object-prep-object	chair in_front_of wall
+verb-prep-object	sit in_front_of window
+object-prep-object	chair in_front_of window
+object-prep-object	window with plant
+attribute-object	black chair
+attribute-object	white chair
+attribute-object	brick wall
+attribute-object	bamboo plant
+object-verb	chair sit
+object	plant
+object	vase
+object	wall
+object	chair
+object	window
+object	chair
+#####################################################
+A black and white designer chair against a brick wall . 
+a black and white designer chair against a brick wall . 
+
+object-prep-object	chair against wall
+attribute-object	black chair
+attribute-object	white chair
+attribute-object	designer chair
+attribute-object	brick wall
+object	chair
+object	wall
+object	chair
+#####################################################
+A modern styled , black and white armless chair with a metal frame sits against a brick wall by the window . 
+a modern style , black and white armless chair with a metal frame sit against a brick wall by the window . 
+
+verb-prep-object	sit against wall
+object-prep-object	chair against wall
+object-prep-object	wall by window
+object-prep-object	chair by window
+object-prep-object	chair with frame
+attribute-object	modern chair
+attribute-object	style chair
+attribute-object	black chair
+attribute-object	white chair
+attribute-object	armless chair
+attribute-object	metal frame
+attribute-object	brick wall
+object-verb	chair sit
+object	wall
+object	chair
+object	window
+object	frame
+object	chair
+#####################################################
+Two tone chair in black and beige . 
+two tone chair in black and beige . 
+
+object-prep-object	chair in black
+object-prep-object	chair in beige
+attribute-object	tone chair
+object	chair
+object	black
+object	beige
+object	chair
+#####################################################

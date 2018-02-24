@@ -1,0 +1,58 @@
+A field with many black cows in it . 
+a field with many black cow in it . 
+
+object-prep-object	field with cow
+attribute-object	black cow
+object	field
+object	cow
+object	cow
+#####################################################
+A group of black cows and calf in a field . 
+a group of black cow and calf in a field . 
+
+attribute-object	black cow
+object-prep-object	cow in field
+object-prep-object	cow in calf
+object	cow
+object	field
+object	calf
+object	cow
+#####################################################
+Black cows with tagged ears are standing in a hay-covered field . 
+Black cow with tag ear be stand in a hay-covered field . 
+
+object-prep-object	cow with ear
+attribute-object	black cow
+attribute-object	tag ear
+object-verb	cow stand
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	hay-covered field
+object	cow
+object	ear
+object	field
+object	cow
+#####################################################
+Small black cows are near big black cows . 
+small black cow be near big black cow . 
+
+object-prep-object	cow near cow
+attribute-object	small cow
+attribute-object	black cow
+attribute-object	big cow
+attribute-object	black cow
+object	cow
+object	cow
+#####################################################
+These feedlot cattle are sporting numbered ear tags that help their owner identify them as his property . 
+these feedlot cattle be sport number ear tag that help they owner identify they as he property . 
+
+object-verb-object	cow sport cattle
+attribute-object	feddlot cow
+attribute-object	number tag
+attribute-object	ear tag
+object	cow
+object	cattle
+object	tag
+object	cow
+#####################################################

@@ -1,0 +1,55 @@
+Two dogs playing in the water . 
+two dog play in the water . 
+
+verb-prep-object	play in water
+object-prep-object	dog in water
+object-verb	dog play
+object	water
+object	dog
+object	dog
+#####################################################
+Two dogs swimming in a body of water . 
+two dog swimming in a body of water . 
+
+verb-prep-object	swimming in water
+object-verb	dog swimming
+object-prep-object	dog in water
+object	water
+object	dog
+object	dog
+#####################################################
+Two white dogs are swimming in the water . 
+two white dog be swim in the water . 
+
+verb-prep-object	swim in water
+object-prep-object	dog in water
+attribute-object	white dog
+object-verb	dog swim
+object	water
+object	dog
+object	dog
+#####################################################
+two white dogs playing in shallow water . 
+two white dog play in shallow water . 
+
+verb-prep-object	play in water
+object-prep-object	dog in water
+attribute-object	white dog
+attribute-object	shallow water
+object-verb	dog play
+object	water
+object	dog
+object	dog
+#####################################################
+Two white dogs play in shallow water . 
+two white dog play in shallow water . 
+
+verb-prep-object	play in water
+object-prep-object	dog in water
+attribute-object	white dog
+attribute-object	shallow water
+object-verb	dog play
+object	water
+object	dog
+object	dog
+#####################################################

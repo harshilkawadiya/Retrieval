@@ -1,0 +1,59 @@
+A bicyclist sticking his tongue out at the camera . 
+a bicyclist stick he tongue out at the camera . 
+
+verb-prep-object	stick at camera
+object-verb-object	bicyclist stick tongue
+verb-attribute	stick out
+object	camera
+object	bicyclist
+object	tongue
+object	bicycle
+#####################################################
+A male biker , dressed in white , rides on pavement , a landscape of trees and grass behind him . 
+a male biker , dress in white , ride on pavement , a landscape of tree and grass behind he . 
+
+object-prep-object	grass behind biker
+object-prep-object	tree behind biker
+verb-prep-object	ride on pavement
+object-prep-object	biker on pavement
+verb-prep-object	dress in white
+object-prep-object	biker in white
+attribute-object	male biker
+object-verb	biker ride
+object-verb	biker dress
+object	grass
+object	biker
+object	tree
+object	pavement
+object	white
+object	bicycle
+#####################################################
+A man riding a bike with one hand . 
+a man ride a bike with one hand . 
+
+verb-prep-object	ride with hand
+object-verb-object	man ride bike
+object	hand
+object	man
+object	bike
+object	bicycle
+#####################################################
+A man riding a small bicycle . 
+a man ride a small bicycle . 
+
+attribute-object	small bicycle
+object-verb-object	man ride bicycle
+object	bicycle
+object	man
+object	bicycle
+#####################################################
+Cyclist giving you the Bird . 
+cyclist give you the Bird . 
+
+object-verb-object	cyclist give bird
+object-verb-object	cyclist give you
+object	cyclist
+object	bird
+object	you
+object	bicycle
+#####################################################

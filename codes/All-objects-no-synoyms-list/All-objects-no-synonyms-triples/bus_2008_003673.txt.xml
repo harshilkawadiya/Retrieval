@@ -1,0 +1,56 @@
+A Continental air liner parked at an airport . 
+a Continental air liner park at a airport . 
+
+verb-prep-object	park at airport
+object-prep-object	liner at airport
+attribute-object	continental liner
+attribute-object	air liner
+object-verb	liner park
+object	airport
+object	liner
+object	bus
+#####################################################
+A Continental airplane is parked at an airport . 
+a Continental airplane be park at a airport . 
+
+verb-prep-object	park at airport
+object-prep-object	airplane at airport
+attribute-object	continental airplane
+object-verb	airplane park
+object	airport
+object	airplane
+object	bus
+#####################################################
+A parked Continental airplane . 
+a park Continental airplane . 
+
+attribute-object	park airplane
+attribute-object	continental airplane
+object	airplane
+object	bus
+#####################################################
+Baggage carts pass in front of a white Continental airplane parked at the airport . 
+baggage cart pass in front of a white Continental airplane park at the airport . 
+
+verb-prep-object	park at airport
+object-prep-object	airplane at airport
+verb-prep-object	pass in_front_of airplane
+object-prep-object	cart in_front_of airplane
+attribute-object	white airplane
+attribute-object	baggage cart
+attribute-object	continental airplane
+object-verb	cart pass
+object-verb	airplane park
+object	airport
+object	airplane
+object	cart
+object	bus
+#####################################################
+Plane on the ground . 
+plane on the ground . 
+
+object-prep-object	plane on ground
+object	plane
+object	ground
+object	bus
+#####################################################

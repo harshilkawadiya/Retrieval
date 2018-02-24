@@ -1,0 +1,52 @@
+A white colored room with closed blinds and two dark sofas . 
+a white color room with closed blind and two dark sofa . 
+
+object-prep-object	room with blind
+object-prep-object	room with sofa
+attribute-object	white room
+attribute-object	color room
+attribute-object	closed blind
+attribute-object	dark sofa
+object	room
+object	blind
+object	sofa
+object	sofa
+#####################################################
+Living room with two black couches . 
+live room with two black couch . 
+
+object-prep-object	room with couch
+attribute-object	live room
+attribute-object	black couch
+object	room
+object	couch
+object	sofa
+#####################################################
+This is a white , empty room except for two black couches , which are opposite from each other . 
+this be a white , empty room except for two black couch , which be opposite from each other . 
+
+attribute-object	white room
+attribute-object	empty room
+attribute-object	black couch
+object	room
+object	couch
+object	sofa
+#####################################################
+Two black couches in an all white room . 
+two black couch in a all white room . 
+
+object-prep-object	couch in room
+attribute-object	black couch
+attribute-object	white room
+object	couch
+object	room
+object	sofa
+#####################################################
+Two black love seats facing each other . 
+two black love seat face each other . 
+
+attribute-object	black seat
+attribute-object	love seat
+object	seat
+object	sofa
+#####################################################

@@ -1,0 +1,64 @@
+A car with a canoe on top is parked on the street near a moped . 
+a car with a canoe on top be park on the street near a mope . 
+
+object-prep-object	car with canoe
+verb-prep-object	park on street
+object-prep-object	car on street
+object-prep-object	canoe on top
+verb-prep-object	park near moped
+object-prep-object	car near moped
+object-verb	car park
+object	car
+object	canoe
+object	street
+object	top
+object	moped
+object	boat
+#####################################################
+A parked car with two canoes on the roof . 
+a park car with two canoe on the roof . 
+
+object-prep-object	canoe on roof
+object-prep-object	car with canoe
+attribute-object	park car
+object	canoe
+object	roof
+object	car
+object	boat
+#####################################################
+Car with kayak strapped on the top . 
+car with kayak strap on the top . 
+
+verb-prep-object	strap on top
+object-prep-object	car with kayak
+object-verb	car strap
+object	top
+object	car
+object	kayak
+object	boat
+#####################################################
+Station wagon with canoe on top . 
+Station wagon with canoe on top . 
+
+object-prep-object	canoe on top
+object-prep-object	wagon with canoe
+attribute-object	station wagon
+object	canoe
+object	top
+object	wagon
+object	boat
+#####################################################
+Subaru with two kayaks on top , and a scooter on the back . 
+Subaru with two kayak on top , and a scooter on the back . 
+
+object-prep-object	kayak on top
+object-prep-object	scooter on back
+object-prep-object	subaru with kayak
+object-prep-object	subaru with scooter
+object	kayak
+object	top
+object	scooter
+object	back
+object	subaru
+object	boat
+#####################################################

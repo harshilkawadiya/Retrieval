@@ -1,0 +1,45 @@
+A black and white photo of a love seat . 
+a black and white photo of a love seat . 
+
+attribute-object	love seat
+object	seat
+object	sofa
+#####################################################
+A black-and-white photo of a loveseat . 
+a black-and-white photo of a loveseat . 
+
+object	sofa
+object	sofa
+object	loveseat
+object	sofa
+#####################################################
+A loveseat is near a table . 
+a loveseat be near a table . 
+
+object-prep-object	sofa near diningtable
+object	sofa
+object	loveseat
+object	diningtable
+object	sofa
+#####################################################
+A white leather couch with a purse and throw blanket on it . 
+a white leather couch with a purse and throw blanket on it . 
+
+object-prep-object	sofa with bed
+object-prep-object	sofa with bed
+attribute-object	white sofa
+attribute-object	leather sofa
+attribute-object	throw blanket
+object	sofa
+object	bed
+object	blanket
+object	sofa
+#####################################################
+Black and white photo of couch with purse at one end . 
+Black and white photo of couch with purse at one end . 
+
+object-prep-object	sofa with bed
+object	sofa
+object	bed
+object	sofa
+#####################################################

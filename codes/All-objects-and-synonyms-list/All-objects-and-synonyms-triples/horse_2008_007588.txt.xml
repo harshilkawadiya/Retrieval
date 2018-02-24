@@ -1,0 +1,67 @@
+A brown and white pony facing the camera . 
+a brown and white pony face the camera . 
+
+attribute-object	brown horse
+attribute-object	white horse
+object-verb-object	horse face pony
+object	horse
+object	pony
+object	horse
+#####################################################
+A group of horses grazing in a field . 
+a group of horse grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	horse in field
+object-verb	horse graze
+object	field
+object	horse
+object	horse
+#####################################################
+A palomino stands apart from the herd on the barest spot in the field . 
+a palomino stand apart from the herd on the barest spot in the field . 
+
+verb-prep-object	stand on spot
+object-prep-object	horse on palomino
+object-prep-object	spot in field
+verb-prep-object	stand apart_from herd
+object-prep-object	horse apart_from palomino
+attribute-object	barest spot
+object-verb	horse stand
+object	spot
+object	horse
+object	palomino
+object	field
+object	herd
+object	horse
+#####################################################
+A stocky horse with golden main and white hooves and nose in a pasture with other horses . 
+a stocky horse with golden main and white hoof and nose in a pasture with other horse . 
+
+object-prep-object	horse with main
+object-prep-object	horse with hoof
+object-prep-object	horse with nose
+object-prep-object	horse with horse
+object-prep-object	horse in pasture
+attribute-object	stocky horse
+attribute-object	golden main
+attribute-object	white hoof
+object	horse
+object	main
+object	hoof
+object	nose
+object	pasture
+object	horse
+#####################################################
+Pony walking through grass field . 
+Pony walk through grass field . 
+
+verb-prep-object	walk through field
+object-prep-object	horse through pony
+attribute-object	grass field
+object-verb	horse walk
+object	field
+object	horse
+object	pony
+object	horse
+#####################################################

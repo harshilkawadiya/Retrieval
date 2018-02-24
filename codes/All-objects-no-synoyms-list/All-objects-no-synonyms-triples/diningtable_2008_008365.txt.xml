@@ -1,0 +1,71 @@
+A bright , lovely dining room is shown , decorated with clean , rich , antique furniture . 
+a bright , lovely dining room be show , decorate with clean , rich , antique furniture . 
+
+verb-prep-object	decorate with furniture
+object-prep-object	room with furniture
+attribute-object	bright room
+attribute-object	lovely room
+attribute-object	clean furniture
+attribute-object	rich furniture
+attribute-object	antique furniture
+attribute-object	dining room
+object-verb	room show
+object-verb	room decorate
+object	furniture
+object	room
+object	diningtable
+#####################################################
+A formal dining room has a china cabinet , buffet , and table and chairs . 
+a formal dining room have a china cabinet , buffet , and table and chair . 
+
+attribute-object	formal room
+object-verb-object	room have cabinet
+object-verb-object	room have buffet
+object-verb-object	room have table
+object-verb-object	room have chair
+attribute-object	dining room
+attribute-object	china cabinet
+object	room
+object	cabinet
+object	buffet
+object	table
+object	chair
+object	diningtable
+#####################################################
+An elegant pink dining room with wooden furniture . 
+a elegant pink dining room with wooden furniture . 
+
+object-prep-object	room with furniture
+attribute-object	elegant room
+attribute-object	pink room
+attribute-object	wooden furniture
+attribute-object	dining room
+object	room
+object	furniture
+object	diningtable
+#####################################################
+A stately dining room contains a funky chandelier and antique furniture . 
+a stately dining room contain a funky chandelier and antique furniture . 
+
+attribute-object	stately room
+attribute-object	funky chandelier
+attribute-object	antique furniture
+object-verb-object	room contain chandelier
+object-verb-object	room contain furniture
+attribute-object	dining room
+object	room
+object	chandelier
+object	furniture
+object	diningtable
+#####################################################
+The room is very ornately decorated and has pink walls . 
+the room be very ornately decorate and have pink wall . 
+
+attribute-verb	ornately decorate
+attribute-object	pink wall
+object-verb-object	room have wall
+object-verb	room decorate
+object	wall
+object	room
+object	diningtable
+#####################################################

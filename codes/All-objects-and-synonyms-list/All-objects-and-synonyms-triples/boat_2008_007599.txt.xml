@@ -1,0 +1,55 @@
+A cruise ship coming into port . 
+a cruise ship come into port . 
+
+verb-prep-object	come into port
+attribute-object	cruise boat
+object-verb	boat come
+object	port
+object	boat
+object	ship
+object	boat
+#####################################################
+An ocean liner near shore . 
+a ocean liner near shore . 
+
+object-prep-object	ship near boat
+attribute-object	ocean ship
+object	ship
+object	boat
+object	boat
+#####################################################
+The big white boat is in the ocean . 
+the big white boat be in the ocean . 
+
+object-prep-object	boat in water
+attribute-object	big boat
+attribute-object	white boat
+object	boat
+object	water
+object	boat
+#####################################################
+The bow and port side of a cruise ship in a narrow channel . 
+the bow and port side of a cruise ship in a narrow channel . 
+
+object-prep-object	boat in ship
+attribute-object	narrow channel
+attribute-object	cruise boat
+object	boat
+object	ship
+object	channel
+object	boat
+#####################################################
+The large white cruise ship sails close to the beach . 
+the large white cruise ship sail close to the beach . 
+
+verb-prep-object	sail close_to beach
+object-prep-object	boat close_to ship
+attribute-object	large boat
+attribute-object	white boat
+attribute-object	cruise boat
+object-verb	boat sail
+object	beach
+object	boat
+object	ship
+object	boat
+#####################################################

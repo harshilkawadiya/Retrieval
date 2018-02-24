@@ -1,0 +1,71 @@
+A man is reading the label on a beverage bottle . 
+a man be read the label on a beverage bottle . 
+
+object-prep-object	label on bottle
+object-verb-object	person read man
+attribute-object	beverage bottle
+object	label
+object	bottle
+object	person
+object	man
+object	bottle
+#####################################################
+A man looking at the bottle of beer that he is holding . 
+a man look at the bottle of beer that he be hold . 
+
+verb-prep-object	look at bottle
+object-prep-object	bottle of beer
+object-verb	person look
+object-verb-object	person hold man
+object	bottle
+object	beer
+object	person
+object	man
+object	bottle
+#####################################################
+The man in a white tee shirt is holding a beer bottle and looking at it . 
+the man in a white tee shirt be hold a beer bottle and look at it . 
+
+object-verb-object	person hold man
+object-prep-object	person in man
+verb-prep-object	look at bottle
+attribute-object	white shirt
+attribute-object	tee shirt
+attribute-object	beer bottle
+object-verb	person look
+object	person
+object	man
+object	bottle
+object	shirt
+object	bottle
+#####################################################
+The scraggly haired man is holding up and admiring his bottle of beer . 
+the scraggly haired man be hold up and admire he bottle of beer . 
+
+object-prep-object	bottle of beer
+attribute-object	scraggly person
+attribute-object	haired person
+object-verb-object	person admire man
+object-verb-object	person hold man
+verb-attribute	hold up
+object	bottle
+object	beer
+object	person
+object	man
+object	bottle
+#####################################################
+Young man with curly black hair holding a beer bottle . 
+Young man with curly black hair hold a beer bottle . 
+
+object-prep-object	person with man
+attribute-object	curly hair
+attribute-object	black hair
+object-verb-object	person hold man
+attribute-object	young person
+attribute-object	beer bottle
+object	person
+object	man
+object	hair
+object	bottle
+object	bottle
+#####################################################

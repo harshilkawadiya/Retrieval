@@ -1,0 +1,59 @@
+A bird is flapping its wings in the water . 
+a bird be flap its wing in the water . 
+
+verb-prep-object	flap in water
+object-prep-object	bird in water
+object-verb-object	bird flap wing
+object	water
+object	bird
+object	wing
+object	bird
+#####################################################
+A black swan flapping its wings on the water . 
+a black swan flap its wing on the water . 
+
+verb-prep-object	flap on water
+object-prep-object	bird on water
+attribute-object	black bird
+object-verb-object	bird flap wing
+object	water
+object	bird
+object	wing
+object	bird
+#####################################################
+A goose flapping its wings in a body of water . 
+a goose flap its wing in a body of water . 
+
+verb-prep-object	flap in body
+object-prep-object	body of water
+object-verb-object	bird flap wing
+object	body
+object	water
+object	bird
+object	wing
+object	bird
+#####################################################
+A large black bird is sitting in the water . 
+a large black bird be sit in the water . 
+
+verb-prep-object	sit in water
+object-prep-object	bird in water
+attribute-object	large bird
+attribute-object	black bird
+object-verb	bird sit
+object	water
+object	bird
+object	bird
+#####################################################
+Black duck flapping wings in the water . 
+Black duck flap wing in the water . 
+
+object-verb-object	bird flap wing
+verb-prep-object	flap in water
+object-prep-object	bird in water
+attribute-object	black bird
+object	bird
+object	wing
+object	water
+object	bird
+#####################################################

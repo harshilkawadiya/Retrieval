@@ -1,0 +1,68 @@
+A little girl in a pink and white floral dress . 
+a little girl in a pink and white floral dress . 
+
+object-prep-object	person in girl
+attribute-object	little person
+attribute-object	pink dress
+attribute-object	white dress
+attribute-object	floral dress
+object	person
+object	girl
+object	dress
+object	person
+#####################################################
+A little girl in a pink dress . 
+a little girl in a pink dress . 
+
+object-prep-object	person in girl
+attribute-object	little person
+attribute-object	pink dress
+object	person
+object	girl
+object	dress
+object	person
+#####################################################
+A small child in a pink dress sits on a table . 
+a small child in a pink dress sit on a table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	person on diningtable
+object-prep-object	person in child
+attribute-object	small person
+attribute-object	pink dress
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	child
+object	dress
+object	person
+#####################################################
+A young girl in a lavender frock sits on a wooden table . 
+a young girl in a lavender frock sit on a wooden table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	person on diningtable
+object-prep-object	person in girl
+attribute-object	young person
+attribute-object	wooden diningtable
+attribute-object	lavender frock
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	girl
+object	frock
+object	person
+#####################################################
+Little girl in pink dress . 
+Little girl in pink dress . 
+
+object-prep-object	person in girl
+attribute-object	pink dress
+attribute-object	little person
+object	person
+object	girl
+object	dress
+object	person
+#####################################################

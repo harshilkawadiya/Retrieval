@@ -1,0 +1,75 @@
+A brown cat wearing a shiny collar with a blue pendant sits on the floor . 
+a brown cat wear a shiny collar with a blue pendant sit on the floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	cat on floor
+attribute-object	brown cat
+attribute-object	shiny collar
+attribute-object	blue pendant
+object-prep-object	collar with pendant
+object-verb-object	cat wear collar
+object-verb	cat sit
+object	floor
+object	cat
+object	collar
+object	pendant
+object	cat
+#####################################################
+A ginger cat with a blue name tag sitting on a carpet . 
+a ginger cat with a blue name tag sit on a carpet . 
+
+object-prep-object	cat with tag
+verb-prep-object	sit on carpet
+object-prep-object	cat on carpet
+attribute-object	blue tag
+attribute-object	ginger cat
+attribute-object	name tag
+object-verb	cat sit
+object	cat
+object	tag
+object	carpet
+object	cat
+#####################################################
+A golden cat sits on carpet near a computer . 
+a golden cat sit on carpet near a computer . 
+
+verb-prep-object	sit on carpet
+object-prep-object	cat on carpet
+object-prep-object	carpet near laptop
+verb-prep-object	sit near laptop
+object-prep-object	cat near laptop
+attribute-object	golden cat
+object-verb	cat sit
+object	carpet
+object	cat
+object	laptop
+object	computer
+object	cat
+#####################################################
+A large orange tabby cat sits wondering about the computer in front of it . 
+a large orange tabby cat sit wonder about the computer in front of it . 
+
+object-prep-object	laptop in_front_of computer
+attribute-object	large cat
+attribute-object	orange cat
+attribute-object	tabby cat
+object-verb	cat sit
+object	laptop
+object	computer
+object	cat
+object	cat
+#####################################################
+Blue eyed yellow cat wearing a bone tag sitting sweetly . 
+Blue eye yellow cat wear a bone tag sit sweetly . 
+
+object-verb	cat sit
+object-verb-object	cat wear tag
+attribute-verb	sweetly sit
+attribute-object	blue cat
+attribute-object	eye cat
+attribute-object	yellow cat
+attribute-object	bone tag
+object	cat
+object	tag
+object	cat
+#####################################################

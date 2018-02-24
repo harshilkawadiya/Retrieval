@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog and a tan dog fighting .
+beam_size_1	3	A black dog and a white dog are wrestling on the ground .
+beam_size_1	4	A black dog bites a white dog while standing on the sand .
+beam_size_1	5	two dogs fight .
+beam_size_1	6	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	7	a black dog plays with a ball in the water .
+beam_size_1	8	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	9	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	10	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	11	The black dog is running though the water with a pink ball .
+beam_size_1	12	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	13	An elderly woman rides a bicycle along a city street .
+beam_size_1	14	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	15	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	16	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	17	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	18	A black dog with a purple collar is running .
+beam_size_1	19	A black dog with a purple collar running .
+beam_size_1	20	a black dog with purple collar running
+beam_size_1	21	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	22	A beagle walks through the grass .
+beam_size_1	23	A black and tan dog standing in a field near trees
+beam_size_1	24	A brown and tan dog walks through the green grass .
+beam_size_1	25	a smal hound dog walking through the grass outside .
+beam_size_1	26	The dog is walking through a grassy area .
+beam_size_1	27	A black and brown dog with a tan dog on a cement path in front of grass
+beam_size_1	28	A black dog and a yellow dog are walking on asphalt next to a field of grass .
+beam_size_1	29	A blurry photo of two dogs .
+beam_size_1	30	a white dog is running behind a black dog on a paved path by some grass .
+beam_size_1	31	Two dogs walk along a path beside the grass .
+beam_size_1	32	A large dog sniffing a human hand while a small dog is sniffing the large dog 's butt .
+beam_size_1	33	A person reaches for a large grey dog while a black dog trails .
+beam_size_1	34	A smaller dog sniffs a larger dog in the hills .
+beam_size_1	35	the black dog is sniffing the brown dog 's butt .
+beam_size_1	36	The lady ask the dog to give her the ball on their beach walk .
+beam_size_1	37	The three dogs are standing in the sand .
+beam_size_1	38	Three small dogs stand in the sand and stare at each other .
+beam_size_1	39	Three small dogs , two of which are sniffing noses .
+beam_size_1	40	Two dogs meet and check out a third dog at the beach .
+beam_size_1	41	Two small dogs facing a third dog .
+beam_size_1	42	A beige puppy walks across the floor .
+beam_size_1	43	A small puppy rungs towards the camera .
+beam_size_1	44	A white puppy is running on a tiled floor .
+beam_size_1	45	puppy running on the floor
+beam_size_1	46	The white dog ran across the tile floor .
+beam_size_1	47	The three dogs ran in the yard .
+beam_size_1	48	three dogs are running across the grass near to a blue industrial building .
+beam_size_1	49	Three dogs are running in a field .
+beam_size_1	50	Three dogs run away from a patch of non-grassy surface leaving one another dog behind .
+beam_size_1	51	Three dogs that are different shades of brown and white are running in a field .

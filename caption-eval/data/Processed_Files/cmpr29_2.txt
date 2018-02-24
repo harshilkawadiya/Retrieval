@@ -1,0 +1,50 @@
+beam_size_1	2	A man in a red striped soccer shirt heads a ball .
+beam_size_1	3	A man in red and black is hitting a soccer ball with his head .
+beam_size_1	4	A soccer ball is above the head of a man wearing black shorts and red and black striped shirt .
+beam_size_1	5	A soccer player in black shorts is jumping into the air .
+beam_size_1	6	The person in the red and black uniform has a ball above her head .
+beam_size_1	7	A man chains his bike to a rack while a woman in black and red walks .
+beam_size_1	8	Several people , one being a woman in a black dress , are outside , near a bike rack .
+beam_size_1	9	The woman wearing a red bow walks past a bicycle .
+beam_size_1	10	Woman in a black dress walking on the street .
+beam_size_1	11	Woman in black dress with red accessories is walking down the street .
+beam_size_1	12	A toddler girl plays with another younger toddler girl .
+beam_size_1	13	Two babies sitting on a playmat reaching for something
+beam_size_1	14	Two babies are sitting close together while reaching for something .
+beam_size_1	15	Two children sitting on the floor .
+beam_size_1	16	Two young children sitting together playing .
+beam_size_1	17	A girl in a blue swimsuit walks into the ocean .
+beam_size_1	18	A woman running into surf .
+beam_size_1	19	A woman walking into the waves .
+beam_size_1	20	Girl is wading through the gray ocean .
+beam_size_1	21	woman in blue bathing suit going into the water
+beam_size_1	22	A group of basketball players wearing yellow and green reach for a ball .
+beam_size_1	23	Basketball players shoot for a goal during a game .
+beam_size_1	24	Four men jumping in a basketball game
+beam_size_1	25	In this picture all men from both basketball teams with red and green jerseys are jumping .
+beam_size_1	26	The man on the yellow basketball team tries to score while the men on the opposing team try to block his shot .
+beam_size_1	27	A black dog is leaping into a creek .
+beam_size_1	28	A black dog is leaping over a stream of running water .
+beam_size_1	29	A black dog jumping off a river bank near a wooded area .
+beam_size_1	30	A wet black dog jumping into a lake .
+beam_size_1	31	A wet black dog leaps across a stream .
+beam_size_1	32	A dog jumps up towards a woman in a car , while another dog is outside the car .
+beam_size_1	33	An orange dog and a little white dog with black spots are next to a white car .
+beam_size_1	34	A small black and white dog jumps at a woman in a white jeep while a golden dog follows beside them .
+beam_size_1	35	A small dog jumps by a car to reach a lady 's face while another dog watches .
+beam_size_1	36	White and black dog jumps at someone through car window .
+beam_size_1	37	A person wearing a blue jacket , blue jacket and black earmuffs is holding up a newspaper .
+beam_size_1	38	A woman holding a newspaper .
+beam_size_1	39	A woman holds a newspaper that says " Real change " .
+beam_size_1	40	A woman with ear muffs holds a paper that says " real change " on the cover .
+beam_size_1	41	A woman in holding up a newspaper headline reading " Real Change . "
+beam_size_1	42	Killer whales perform for a crowd .
+beam_size_1	43	Three dolphins are jumping out of a pool in front of a crowd of people .
+beam_size_1	44	Three Orca whales jump in a pool at seaworld .
+beam_size_1	45	Three whales are jumping into the air at the same time in front of a very large crowd .
+beam_size_1	46	Three whales are jumping in the air while people watch .
+beam_size_1	47	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	48	A firetruck with ladder extended on the side of the road .
+beam_size_1	49	A jogger with a dog approaches a ladder truck .
+beam_size_1	50	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	51	A man walks on a sidewalk and a firetruck is nearby .

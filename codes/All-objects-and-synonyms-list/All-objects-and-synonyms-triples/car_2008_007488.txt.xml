@@ -1,0 +1,66 @@
+a side view of a red double decker bus on a busy street . 
+a side view of a red double decker bus on a busy street . 
+
+object-prep-object	bus on road
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	busy road
+attribute-object	decker bus
+object	bus
+object	road
+object	street
+object	car
+#####################################################
+A two-story red and blue bus is traveling on the street . 
+a two-story red and blue bus be travel on the street . 
+
+verb-prep-object	travel on road
+object-prep-object	bus on road
+attribute-object	two-story bus
+attribute-object	red bus
+attribute-object	blue bus
+object-verb	bus travel
+object	road
+object	street
+object	bus
+object	car
+#####################################################
+Double decker passenger bus driving with traffic . 
+double decker passenger bus drive with traffic . 
+
+verb-prep-object	drive with traffic
+object-prep-object	bus with traffic
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	passenger bus
+object-verb	bus drive
+object	traffic
+object	bus
+object	car
+#####################################################
+Red double decker bus driving through the streets . 
+Red double decker bus drive through the street . 
+
+verb-prep-object	drive through road
+object-prep-object	bus through road
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus drive
+object	road
+object	street
+object	bus
+object	car
+#####################################################
+The double decker bus is red and blue . 
+the double decker bus be red and blue . 
+
+attribute-object	double bus
+attribute-object	decker bus
+object-object	bus red
+object-object	bus blue
+object	bus
+object	red
+object	blue
+object	car
+#####################################################

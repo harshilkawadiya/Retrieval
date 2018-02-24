@@ -1,0 +1,79 @@
+A couple wearing black sits in a restaurant with a log cabin decor . 
+a couple wear black sit in a restaurant with a log cabin decor . 
+
+verb-prep-object	sit in restaurant
+object-prep-object	couple in restaurant
+object-verb-object	couple wear black
+object-prep-object	restaurant with decor
+attribute-object	log decor
+attribute-object	cabin decor
+object-verb	couple sit
+object	restaurant
+object	couple
+object	black
+object	decor
+object	chair
+#####################################################
+A man and woman pose at a restaurant table with a maroon table cloth . 
+a man and woman pose at a restaurant table with a maroon table cloth . 
+
+verb-prep-object	pose at table
+object-prep-object	man at table
+object-prep-object	woman at table
+object-prep-object	table with cloth
+attribute-object	maroon cloth
+attribute-object	restaurant table
+attribute-object	table cloth
+object-verb	man pose
+object-verb	woman pose
+object	table
+object	man
+object	woman
+object	cloth
+object	chair
+#####################################################
+A man and woman sit at a table in a restaurant . 
+a man and woman sit at a table in a restaurant . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	woman at table
+object-prep-object	table in restaurant
+object-prep-object	man in restaurant
+object-prep-object	woman in restaurant
+object-verb	man sit
+object-verb	woman sit
+object	table
+object	man
+object	woman
+object	restaurant
+object	chair
+#####################################################
+Two people sitting at a table at a restaurant . 
+two people sit at a table at a restaurant . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table at restaurant
+object-prep-object	people at restaurant
+object-verb	people sit
+object	table
+object	people
+object	restaurant
+object	chair
+#####################################################
+Wine and roses adorn the table while a happy couple poses for the photo . 
+wine and rose adorn the table while a happy couple pose for the photo . 
+
+verb-prep-object	pose for photo
+attribute-object	happy couple
+object-verb-object	wine adorn table
+object-verb-object	rose adorn table
+object-verb	couple pose
+object	photo
+object	couple
+object	wine
+object	table
+object	rose
+object	chair
+#####################################################

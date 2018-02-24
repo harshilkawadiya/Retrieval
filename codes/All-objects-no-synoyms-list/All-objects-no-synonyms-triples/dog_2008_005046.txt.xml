@@ -1,0 +1,66 @@
+A small boy laying on a sofa with a dog . 
+a small boy lay on a sofa with a dog . 
+
+verb-prep-object	lay on sofa
+object-prep-object	boy on sofa
+object-prep-object	boy with dog
+attribute-object	small boy
+object-verb	boy lay
+object	sofa
+object	boy
+object	dog
+object	dog
+#####################################################
+A young boy laying on a sofa with a dog . 
+a young boy lay on a sofa with a dog . 
+
+verb-prep-object	lay on sofa
+object-prep-object	boy on sofa
+object-prep-object	boy with dog
+attribute-object	young boy
+object-verb	boy lay
+object	sofa
+object	boy
+object	dog
+object	dog
+#####################################################
+Boy laying on couch with dog . 
+Boy lay on couch with dog . 
+
+verb-prep-object	lay on couch
+object-prep-object	boy on couch
+object-prep-object	boy with dog
+object-verb	boy lay
+object	couch
+object	boy
+object	dog
+object	dog
+#####################################################
+Boy lying on couch with small white dog . 
+Boy lie on couch with small white dog . 
+
+verb-prep-object	lie on couch
+object-prep-object	boy on couch
+verb-prep-object	lie with dog
+object-prep-object	boy with dog
+attribute-object	small dog
+attribute-object	white dog
+object-verb	boy lie
+object	couch
+object	boy
+object	dog
+object	dog
+#####################################################
+The boy is lying on a couch with a puppy . 
+the boy be lie on a couch with a puppy . 
+
+verb-prep-object	lie on couch
+object-prep-object	boy on couch
+verb-prep-object	lie with puppy
+object-prep-object	boy with puppy
+object-verb	boy lie
+object	couch
+object	boy
+object	puppy
+object	dog
+#####################################################

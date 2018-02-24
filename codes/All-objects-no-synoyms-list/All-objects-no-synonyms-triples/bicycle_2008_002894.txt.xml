@@ -1,0 +1,63 @@
+A bicycle racer on a road in a rural area . 
+a bicycle racer on a road in a rural area . 
+
+object-prep-object	racer on road
+object-prep-object	racer in area
+attribute-object	rural area
+attribute-object	bicycle racer
+object	racer
+object	road
+object	area
+object	bicycle
+#####################################################
+A man in green and yellow lira riding a bike through the countryside . 
+a man in green and yellow lira ride a bike through the countryside . 
+
+verb-prep-object	ride through countryside
+object-prep-object	man in lira
+attribute-object	green lira
+attribute-object	yellow lira
+object-verb-object	man ride bike
+object	countryside
+object	man
+object	lira
+object	bike
+object	bicycle
+#####################################################
+A man on a bicycle with a racing suit . 
+a man on a bicycle with a racing suit . 
+
+object-prep-object	man on bicycle
+object-prep-object	man with suit
+attribute-object	racing suit
+object	man
+object	bicycle
+object	suit
+object	bicycle
+#####################################################
+Cyclist pedaling down country road . 
+cyclist pedal down country road . 
+
+object-verb-object	cyclist pedal road
+attribute-object	country road
+verb-attribute	pedal down
+object	cyclist
+object	road
+object	bicycle
+#####################################################
+The cyclist is speeding along on a country road in his yellow and green suit . 
+the cyclist be speed along on a country road in he yellow and green suit . 
+
+verb-prep-object	speed on road
+object-prep-object	cyclist on road
+object-prep-object	cyclist in suit
+attribute-object	yellow suit
+attribute-object	green suit
+attribute-object	country road
+object-verb	cyclist speed
+verb-attribute	speed along
+object	road
+object	cyclist
+object	suit
+object	bicycle
+#####################################################

@@ -1,0 +1,61 @@
+A cluttered living space is typical of a small apartment . 
+a cluttered living space be typical of a small apartment . 
+
+attribute-object	cluttered space
+attribute-object	living space
+object	space
+object	tvmonitor
+#####################################################
+a small room with a fan and a small coffee table . 
+a small room with a fan and a small coffee table . 
+
+object-prep-object	room with fan
+object-prep-object	room with diningtable
+attribute-object	small room
+attribute-object	small diningtable
+attribute-object	coffee diningtable
+object	room
+object	fan
+object	diningtable
+object	table
+object	tvmonitor
+#####################################################
+A small TV along with a coffee table , shelves and fan . 
+a small tv along with a coffee table , shelf and fan . 
+
+object-prep-object	tvmonitor along_with diningtable
+object-prep-object	tvmonitor along_with tv
+object-prep-object	tvmonitor along_with tv
+attribute-object	small tvmonitor
+attribute-object	coffee diningtable
+object	tvmonitor
+object	tv
+object	diningtable
+object	table
+object	tvmonitor
+#####################################################
+Living room with table and entertainment center . 
+live room with table and entertainment center . 
+
+object-prep-object	room with diningtable
+object-prep-object	room with center
+attribute-object	live room
+attribute-object	entertainment center
+object	room
+object	diningtable
+object	center
+object	tvmonitor
+#####################################################
+Person writing on notepad in living room . 
+person writing on notepad in live room . 
+
+verb-prep-object	write on notepad
+verb-prep-object	write in room
+object-prep-object	person in room
+attribute-object	live room
+object-verb	person write
+object	notepad
+object	room
+object	person
+object	tvmonitor
+#####################################################

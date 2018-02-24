@@ -1,0 +1,54 @@
+A bus . 
+a bus . 
+
+object	bus
+object	bus
+object	bus
+#####################################################
+A white bus parked by a building . 
+a white bus park by a building . 
+
+verb-prep-object	park by building
+object-prep-object	bus by building
+attribute-object	white bus
+object-verb	bus park
+object	building
+object	bus
+object	bus
+#####################################################
+The back and left side of a small bus and a woman in a blue dress . 
+the back and leave side of a small bus and a woman in a blue dress . 
+
+object-prep-object	person in woman
+attribute-object	small bus
+attribute-object	blue dress
+object	person
+object	woman
+object	bus
+object	dress
+object	bus
+#####################################################
+The bus arrives in the village . 
+the bus arrive in the village . 
+
+verb-prep-object	arrive in village
+object-prep-object	bus in village
+object-verb	bus arrive
+object	village
+object	bus
+object	bus
+#####################################################
+White bus parked in grass in front of building . 
+White bus park in grass in front of building . 
+
+verb-prep-object	park in_front_of building
+object-prep-object	bus in_front_of building
+verb-prep-object	park in grass
+object-prep-object	bus in grass
+attribute-object	white bus
+object-verb	bus park
+object	building
+object	bus
+object	grass
+object	bus
+#####################################################

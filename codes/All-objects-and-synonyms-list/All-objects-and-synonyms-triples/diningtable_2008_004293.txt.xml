@@ -1,0 +1,68 @@
+A pug dog and pup play with a bone on the floor . 
+a pug dog and pup play with a bone on the floor . 
+
+object-verb	dog play
+object-verb	pup play
+object-prep-object	dog on floor
+verb-prep-object	play with bone
+object-prep-object	dog with bone
+object-prep-object	pup with bone
+object-prep-object	bone on floor
+attribute-object	pug dog
+object	dog
+object	pup
+object	floor
+object	bone
+object	diningtable
+#####################################################
+A standing dog looks at a dog lying on the floor . 
+a standing dog look at a dog lie on the floor . 
+
+verb-prep-object	look at dog
+verb-prep-object	lie on floor
+object-prep-object	dog on floor
+attribute-object	standing dog
+object-verb	dog look
+object-verb	dog lie
+object	dog
+object	floor
+object	diningtable
+#####################################################
+A young pug lying down with adult pug staring down at him . 
+a young pug lie down with adult pug stare down at he . 
+
+verb-prep-object	lie with dog
+object-prep-object	dog with dog
+attribute-object	young dog
+attribute-object	adult dog
+object-verb	dog lie
+verb-attribute	lie down
+object	dog
+object	pug
+object	diningtable
+#####################################################
+Two dogs are playing on the carpet with a bone . 
+two dog be play on the carpet with a bone . 
+
+verb-prep-object	play with bone
+object-prep-object	dog with bone
+verb-prep-object	play on carpet
+object-prep-object	dog on carpet
+object-verb	dog play
+object	bone
+object	dog
+object	carpet
+object	diningtable
+#####################################################
+Two dogs with one bone on a green and blue carpet . 
+two dog with one bone on a green and blue carpet . 
+
+object-prep-object	dog with bone
+object-prep-object	dog on carpet
+attribute-object	green carpet
+attribute-object	blue carpet
+object	dog
+object	bone
+object	carpet
+object	diningtable
+#####################################################

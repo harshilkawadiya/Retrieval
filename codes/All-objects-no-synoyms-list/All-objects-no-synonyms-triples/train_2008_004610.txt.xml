@@ -1,0 +1,47 @@
+A long train is on train tracks . 
+a long train be on train track . 
+
+object-prep-object	train on track
+attribute-object	long train
+attribute-object	train track
+object	train
+object	track
+object	train
+#####################################################
+A yellow freight train . 
+a yellow freight train . 
+
+attribute-object	yellow train
+attribute-object	freight train
+object	train
+object	train
+#####################################################
+Locomotive attached to a train . 
+Locomotive attach to a train . 
+
+verb-prep-object	attach to train
+object-verb	locomotive attach
+object	train
+object	locomotive
+object	train
+#####################################################
+The front of a yellow freight train . 
+the front of a yellow freight train . 
+
+attribute-object	yellow train
+attribute-object	freight train
+object	train
+object	train
+#####################################################
+The long yellow train is sitting on the tracks . 
+the long yellow train be sit on the track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	long train
+attribute-object	yellow train
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################

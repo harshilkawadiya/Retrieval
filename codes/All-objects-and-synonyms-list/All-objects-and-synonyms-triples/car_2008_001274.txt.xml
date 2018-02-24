@@ -1,0 +1,62 @@
+A black Ferrari parked in front of trees . 
+a black Ferrari park in front of tree . 
+
+verb-prep-object	park in_front_of tree
+object-prep-object	car in_front_of ferrari
+attribute-object	black car
+object-verb	car park
+object	tree
+object	car
+object	ferrari
+object	car
+#####################################################
+A black sports car parked on an empty street . 
+a black sport car park on a empty street . 
+
+verb-prep-object	park on road
+object-prep-object	car on road
+attribute-object	black car
+attribute-object	empty road
+attribute-object	sport car
+object-verb	car park
+object	road
+object	street
+object	car
+object	car
+#####################################################
+A gray convertible sports car is parked in front of the trees . 
+a gray convertible sport car be park in front of the tree . 
+
+verb-prep-object	park in_front_of tree
+object-prep-object	car in_front_of tree
+attribute-object	gray car
+attribute-object	convertible car
+attribute-object	sport car
+object-verb	car park
+object	tree
+object	car
+object	car
+#####################################################
+Black shiny sports car parked on concrete driveway . 
+Black shiny sport car park on concrete driveway . 
+
+verb-prep-object	park on driveway
+object-prep-object	car on driveway
+attribute-object	black car
+attribute-object	shiny car
+attribute-object	sport car
+attribute-object	concrete driveway
+object-verb	car park
+object	driveway
+object	car
+object	car
+#####################################################
+Parked black sports car . 
+park black sport car . 
+
+attribute-object	park car
+attribute-object	black car
+attribute-object	sport car
+object	car
+object	car
+#####################################################

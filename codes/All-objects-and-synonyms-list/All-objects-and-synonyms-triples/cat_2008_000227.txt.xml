@@ -1,0 +1,68 @@
+A gray cat laying on a brown table . 
+a gray cat lay on a brown table . 
+
+verb-prep-object	lay on diningtable
+object-prep-object	cat on diningtable
+attribute-object	gray cat
+attribute-object	brown diningtable
+object-verb	cat lay
+object	diningtable
+object	table
+object	cat
+object	cat
+#####################################################
+A gray cat laying on a dining table . 
+a gray cat lay on a dining table . 
+
+verb-prep-object	lay on diningtable
+object-prep-object	cat on diningtable
+attribute-object	gray cat
+attribute-object	dining diningtable
+object-verb	cat lay
+object	diningtable
+object	table
+object	cat
+object	cat
+#####################################################
+A gray cat lying on a wooden table . 
+a gray cat lie on a wooden table . 
+
+verb-prep-object	lie on diningtable
+object-prep-object	cat on diningtable
+attribute-object	gray cat
+attribute-object	wooden diningtable
+object-verb	cat lie
+object	diningtable
+object	table
+object	cat
+object	cat
+#####################################################
+Black domestic cat lying on brown table . 
+Black domestic cat lie on brown table . 
+
+verb-prep-object	lie on diningtable
+object-prep-object	cat on diningtable
+attribute-object	domestic cat
+attribute-object	brown diningtable
+attribute-object	black cat
+object-verb	cat lie
+object	diningtable
+object	table
+object	cat
+object	cat
+#####################################################
+Gray cat on a dining room table looking at the camera . 
+Gray cat on a dining room table look at the camera . 
+
+object-prep-object	cat on diningtable
+verb-prep-object	look at camera
+attribute-object	gray cat
+attribute-object	dining diningtable
+attribute-object	room diningtable
+object-verb	cat look
+object	cat
+object	diningtable
+object	camera
+object	table
+object	cat
+#####################################################

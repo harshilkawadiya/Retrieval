@@ -1,0 +1,61 @@
+Two cats are looking at a window . 
+two cat be look at a window . 
+
+verb-prep-object	look at window
+object-verb	cat look
+object	window
+object	cat
+object	cat
+#####################################################
+Two cats are sitting on the back of a couch and looking out the window in a sea photo . 
+two cat be sit on the back of a couch and look out the window in a sea photo . 
+
+verb-prep-object	sit on couch
+object-prep-object	cat on couch
+object-verb-object	cat look window
+object-verb	cat sit
+verb-attribute	look out
+object	couch
+object	cat
+object	window
+object	cat
+#####################################################
+Two cats sit on the back of a couch looking out the window . 
+two cat sit on the back of a couch look out the window . 
+
+verb-prep-object	sit on couch
+object-prep-object	cat on couch
+object-verb-object	cat look window
+object-verb	cat sit
+verb-attribute	look out
+object	couch
+object	cat
+object	window
+object	cat
+#####################################################
+Two cats sitting on a couch looking out the window . 
+two cat sit on a couch look out the window . 
+
+verb-prep-object	sit on couch
+object-prep-object	cat on couch
+object-verb-object	cat look window
+object-verb	cat sit
+verb-attribute	look out
+object	couch
+object	cat
+object	window
+object	cat
+#####################################################
+Two cats sitting together on the sofa looking out the window . 
+two cat sit together on the sofa look out the window . 
+
+verb-prep-object	sit on sofa
+object-prep-object	cat on sofa
+object-verb-object	cat look window
+object-verb	cat sit
+verb-attribute	look out
+object	sofa
+object	cat
+object	window
+object	cat
+#####################################################

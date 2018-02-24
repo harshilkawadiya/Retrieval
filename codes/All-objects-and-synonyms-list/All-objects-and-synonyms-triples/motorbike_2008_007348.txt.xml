@@ -1,0 +1,65 @@
+A motocross rider and bike flying over a dirt track . 
+a motocross rider and bike fly over a dirt track . 
+
+verb-prep-object	fly over track
+attribute-object	motocross person
+attribute-object	dirt track
+object-verb	person fly
+object-verb	bicycle fly
+object	track
+object	person
+object	rider
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+A person jumping a motorbike in the air . 
+a person jump a motorbike in the air . 
+
+object-prep-object	motorbike in sky
+object-verb-object	person jump motorbike
+verb-prep-object	jump in sky
+object	motorbike
+object	sky
+object	person
+object	air
+object	motorbike
+#####################################################
+Person in midair on motorbike . 
+person in midair on motorbike . 
+
+object-prep-object	person on motorbike
+object-prep-object	person in midair
+object	person
+object	motorbike
+object	midair
+object	motorbike
+#####################################################
+The dirt bike rider wearing a red helmet jumps high into the air as a man looks on . 
+the dirt bike rider wear a red helmet jump high into the air as a man look on . 
+
+verb-prep-object	jump into sky
+object-verb-object	person jump rider
+attribute-object	red helmet
+object-verb-object	person wear rider
+attribute-object	dirt person
+attribute-object	bike person
+object-verb	person look
+object	sky
+object	air
+object	person
+object	rider
+object	helmet
+object	man
+object	motorbike
+#####################################################
+The motorcyclist is urban during the race . 
+the motorcyclist be urban during the race . 
+
+object-prep-object	urban during race
+object-object	motorcyclist urban
+object	urban
+object	race
+object	motorcyclist
+object	motorbike
+#####################################################

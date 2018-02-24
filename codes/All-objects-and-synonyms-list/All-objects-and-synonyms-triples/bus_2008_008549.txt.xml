@@ -1,0 +1,73 @@
+A crowded double-decker bus station in the city . 
+a crowded double-decker bus station in the city . 
+
+object-prep-object	station in city
+attribute-object	crowded station
+attribute-object	double-decker station
+attribute-object	bus station
+object	station
+object	city
+object	bus
+#####################################################
+A double decker bus drives past a sidewalk with pedestrians walking on it . 
+a double decker bus drive past a sidewalk with pedestrian walk on it . 
+
+object-verb-object	bus drive sidewalk
+verb-attribute	drive past
+attribute-object	double bus
+attribute-object	decker bus
+object-prep-object	sidewalk with person
+object-verb	person walk
+object	bus
+object	sidewalk
+object	person
+object	pedestrian
+object	bus
+#####################################################
+A red and gray double decker bus pulling into a bus station . 
+a red and gray double decker bus pull into a bus station . 
+
+object-verb	bus pull
+verb-prep-object	pull into station
+attribute-object	red bus
+attribute-object	gray bus
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	bus station
+object	bus
+object	station
+object	bus
+#####################################################
+A red double decker bus on a city street . 
+a red double decker bus on a city street . 
+
+object-prep-object	bus on road
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	city road
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+Red passenger bus cruising thou streets , while several people walk on the sidewalk and a tall building can be seen in the background . 
+Red passenger bus cruise thou street , while several people walk on the sidewalk and a tall building can be see in the background . 
+
+attribute-object	red bus
+attribute-object	passenger bus
+object-verb	person walk
+object-verb	bus cruise
+verb-prep-object	cruise thou road
+verb-prep-object	walk on sidewalk
+object-prep-object	person on people
+attribute-object	tall building
+object	bus
+object	person
+object	people
+object	road
+object	street
+object	sidewalk
+object	building
+object	bus
+#####################################################

@@ -1,0 +1,61 @@
+A yellow taxi passing two school buses . 
+a yellow taxi pass two school bus . 
+
+attribute-object	yellow taxi
+object-verb-object	taxi pass bus
+attribute-object	school bus
+object	taxi
+object	bus
+object	bus
+#####################################################
+There are two yellow school buses being passed by a blurry , yellow taxi . 
+there be two yellow school bus be pass by a blurry , yellow taxi . 
+
+verb-prep-object	pass by taxi
+object-prep-object	bus by taxi
+attribute-object	yellow bus
+attribute-object	blurry taxi
+attribute-object	yellow taxi
+attribute-object	school bus
+object-verb	bus pass
+object	taxi
+object	bus
+object	bus
+#####################################################
+Two buses parked on a street . 
+two bus park on a street . 
+
+verb-prep-object	park on street
+object-prep-object	bus on street
+object-verb	bus park
+object	street
+object	bus
+object	bus
+#####################################################
+Two school buses parked up while a yellow cab drives past . 
+two school bus park up while a yellow cab drive past . 
+
+attribute-object	yellow cab
+verb-attribute	drive past
+attribute-object	school bus
+object-verb	cab drive
+object-verb	bus park
+verb-attribute	park up
+object	cab
+object	bus
+object	bus
+#####################################################
+Two yellow school buses on side of road and yellow taxi passing by . 
+two yellow school bus on side of road and yellow taxi pass by . 
+
+object-prep-object	bus on road
+attribute-object	yellow bus
+attribute-object	school bus
+attribute-object	yellow taxi
+object-verb	bus pass
+object-verb	taxi pass
+object	bus
+object	road
+object	taxi
+object	bus
+#####################################################

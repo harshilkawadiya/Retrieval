@@ -1,0 +1,72 @@
+A black leather couch with a chew ' lounge and a coffee table with light candles in glasses . 
+a black leather couch with a chew ' lounge and a coffee table with light candle in glass . 
+
+object-prep-object	couch with lounge
+attribute-object	chew lounge
+object-prep-object	table with candle
+attribute-object	coffee table
+attribute-object	light candle
+attribute-object	black couch
+attribute-object	leather couch
+object-prep-object	candle in glass
+object	couch
+object	lounge
+object	table
+object	candle
+object	glass
+object	sofa
+#####################################################
+A brown leather sofa with a wooden coffee table in front of it . 
+a brown leather sofa with a wooden coffee table in front of it . 
+
+object-prep-object	sofa with table
+attribute-object	brown sofa
+attribute-object	wooden table
+attribute-object	leather sofa
+attribute-object	coffee table
+object	sofa
+object	table
+object	sofa
+#####################################################
+A leather couch and wooden table in a living room . 
+a leather couch and wooden table in a living room . 
+
+object-prep-object	couch in room
+object-prep-object	table in room
+attribute-object	wooden table
+attribute-object	leather couch
+attribute-object	living room
+object	couch
+object	room
+object	table
+object	sofa
+#####################################################
+A living room with a brown leather couch and a coffee table . 
+a living room with a brown leather couch and a coffee table . 
+
+object-prep-object	room with couch
+object-prep-object	room with table
+attribute-object	brown couch
+attribute-object	living room
+attribute-object	leather couch
+attribute-object	coffee table
+object	room
+object	couch
+object	table
+object	sofa
+#####################################################
+The leather couch is behind the coffee table set with glasses and place mats . 
+the leather couch be behind the coffee table set with glass and place mat . 
+
+object-prep-object	couch behind table
+attribute-object	leather couch
+attribute-object	coffee table
+object-prep-object	table with glass
+object-prep-object	table with mat
+attribute-object	place mat
+object	couch
+object	table
+object	glass
+object	mat
+object	sofa
+#####################################################

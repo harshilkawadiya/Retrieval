@@ -1,0 +1,66 @@
+A few people and a dog are inside a lean-to type structure . 
+a few people and a dog be inside a lean-to type structure . 
+
+object-prep-object	people inside structure
+object-prep-object	dog inside structure
+attribute-object	few people
+attribute-object	lean-to structure
+attribute-object	type structure
+object	people
+object	structure
+object	dog
+object	dog
+#####################################################
+A group of people and a black and white dog standing in a construction site . 
+a group of people and a black and white dog standing in a construction site . 
+
+object-verb	people stand
+object-verb	dog stand
+verb-prep-object	stand in site
+object-prep-object	people in site
+object-prep-object	dog in site
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	construction site
+object	people
+object	dog
+object	site
+object	dog
+#####################################################
+A group of people in an incomplete house shot from outside . 
+a group of people in a incomplete house shot from outside . 
+
+object-prep-object	people in house
+attribute-object	incomplete house
+object	people
+object	house
+object	dog
+#####################################################
+People gathered in an unfinished building . 
+people gather in a unfinished building . 
+
+verb-prep-object	gather in building
+object-prep-object	people in building
+attribute-object	unfinished building
+object-verb	people gather
+object	building
+object	people
+object	dog
+#####################################################
+Several people standing inside of house with black and white dog lying down . 
+several people stand inside of house with black and white dog lie down . 
+
+object-prep-object	house with dog
+verb-prep-object	stand inside_of house
+object-prep-object	people inside_of house
+attribute-object	several people
+attribute-object	black dog
+attribute-object	white dog
+object-verb	people stand
+object-verb	dog lie
+verb-attribute	lie down
+object	house
+object	dog
+object	people
+object	dog
+#####################################################

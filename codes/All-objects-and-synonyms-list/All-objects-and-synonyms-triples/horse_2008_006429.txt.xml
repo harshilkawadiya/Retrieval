@@ -1,0 +1,60 @@
+A beige horse poses for the camera with her foal . 
+a beige horse pose for the camera with she foal . 
+
+verb-prep-object	pose with horse
+object-prep-object	horse with horse
+verb-prep-object	pose for camera
+attribute-object	brown horse
+object-verb	horse pose
+object	horse
+object	foal
+object	camera
+object	horse
+#####################################################
+A brown horse and brown pony in a forest . 
+a brown horse and brown pony in a forest . 
+
+object-prep-object	horse in forest
+object-prep-object	horse in pony
+attribute-object	brown horse
+attribute-object	brown horse
+object	horse
+object	forest
+object	pony
+object	horse
+#####################################################
+Adult horse and foal standing in forest . 
+adult horse and foal standing in forest . 
+
+verb-prep-object	stand in forest
+object-prep-object	horse in forest
+object-prep-object	horse in foal
+attribute-object	adult horse
+object-verb	horse stand
+object-verb	horse stand
+object	forest
+object	horse
+object	foal
+object	horse
+#####################################################
+A mare and her foal in the woods . 
+a mare and she foal in the wood . 
+
+object-prep-object	horse in wooden
+object-prep-object	horse in wooden
+object	horse
+object	foal
+object	wooden
+object	mare
+object	horse
+#####################################################
+Horse with colt in a forested area . 
+Horse with colt in a forested area . 
+
+object-prep-object	horse with horse
+object-prep-object	horse in area
+attribute-object	forested area
+object	horse
+object	area
+object	horse
+#####################################################

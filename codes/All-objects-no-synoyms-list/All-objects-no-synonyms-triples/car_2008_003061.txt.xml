@@ -1,0 +1,59 @@
+A man in a cowboy hat check approaches a small red sports car . 
+a man in a cowboy hat check approach a small red sport car . 
+
+object-prep-object	man in hat
+attribute-object	cowboy hat
+object-verb-object	man approach car
+attribute-object	small car
+attribute-object	red car
+attribute-object	sport car
+object	man
+object	hat
+object	car
+object	car
+#####################################################
+The back and left side of a red Ferrari and two men admiring it . 
+the back and leave side of a red Ferrari and two man admire it . 
+
+attribute-object	red ferrari
+object-verb-object	man admire ferrari
+object	ferrari
+object	man
+object	car
+#####################################################
+The sporty car is admired by passer by . 
+the sporty car be admire by passer by . 
+
+verb-prep-object	admire by passer
+attribute-object	sporty car
+object-verb	car admire
+object	passer
+object	car
+object	car
+#####################################################
+Two men next to a red sports car in a parking lot . 
+two man next to a red sport car in a parking lot . 
+
+object-prep-object	man next_to car
+object-prep-object	car in lot
+object-prep-object	man in lot
+attribute-object	red car
+attribute-object	sport car
+attribute-object	parking lot
+object	man
+object	car
+object	lot
+object	car
+#####################################################
+Two men stand beside a red sports car . 
+two man stand beside a red sport car . 
+
+verb-prep-object	stand beside car
+object-prep-object	man beside car
+attribute-object	red car
+attribute-object	sport car
+object-verb	man stand
+object	car
+object	man
+object	car
+#####################################################

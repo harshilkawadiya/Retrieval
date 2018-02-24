@@ -1,0 +1,45 @@
+A colorful train . 
+a colorful train . 
+
+attribute-object	colorful train
+object	train
+object	train
+#####################################################
+An old American steam engine with flags flying . 
+a old american steam engine with flag fly . 
+
+object-prep-object	engine with flag
+attribute-object	old engine
+attribute-object	american engine
+attribute-object	steam engine
+object-verb	engine fly
+object	engine
+object	flag
+object	train
+#####################################################
+A train coming head on . 
+a train come head on . 
+
+object-verb	train come
+object	train
+object	train
+#####################################################
+Black train idle on the tracks . 
+Black train idle on the track . 
+
+verb-prep-object	idle on track
+object-prep-object	train on track
+attribute-object	black train
+object-verb	train idle
+object	track
+object	train
+object	train
+#####################################################
+The front of a gilded steam engine . 
+the front of a gilded steam engine . 
+
+attribute-object	gilded engine
+attribute-object	steam engine
+object	engine
+object	train
+#####################################################

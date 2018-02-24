@@ -1,0 +1,57 @@
+A cows ass and some buildings . 
+a cow ass and some building . 
+
+attribute-object	cow ass
+object	building
+object	ass
+object	building
+object	cow
+#####################################################
+Back end of cow that is grazing on grass . 
+back end of cow that be grazing on grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	cow on grass
+object-verb	cow graze
+object	grass
+object	cow
+object	cow
+#####################################################
+The black and brown cow is standing on the green grass . 
+the black and brown cow be stand on the green grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	cow on grass
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	green grass
+object-verb	cow stand
+object	grass
+object	cow
+object	cow
+#####################################################
+The udders of a dairy cow that is standing in a pasture near a large building . 
+the udder of a dairy cow that be stand in a pasture near a large building . 
+
+object-prep-object	pasture near building
+verb-prep-object	stand in pasture
+object-prep-object	cow in pasture
+object-prep-object	udder of cow
+attribute-object	large building
+attribute-object	dairy cow
+object-verb	cow stand
+object	pasture
+object	building
+object	cow
+object	udder
+object	cow
+#####################################################
+View of a cow 's udder in a field . 
+View of a cow 's udder in a field . 
+
+object-prep-object	udder in field
+attribute-object	cow udder
+object	udder
+object	field
+object	cow
+#####################################################

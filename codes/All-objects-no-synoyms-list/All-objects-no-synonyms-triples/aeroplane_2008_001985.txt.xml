@@ -1,0 +1,67 @@
+Fighter jet formation flying over lake . 
+Fighter jet formation fly over lake . 
+
+verb-prep-object	fly over lake
+attribute-object	fighter jet
+object-verb	jet fly
+object-prep-object	jet over lake
+object	lake
+object	jet
+object	aeroplane
+#####################################################
+Five jets screech across the sky at low altitude above a river in a small city . 
+five jet screech across the sky at low altitude above a river in a small city . 
+
+verb-prep-object	screech across sky
+verb-prep-object	screech at altitude
+verb-prep-object	screech above river
+verb-prep-object	screech in city
+object-prep-object	jet across sky
+object-prep-object	jet above river
+object-prep-object	jet in city
+attribute-object	low altitude
+attribute-object	small city
+object-verb	jet screech
+object	sky
+object	altitude
+object	river
+object	city
+object	jet
+object	aeroplane
+#####################################################
+Jets flying across the sky over the water by a city . 
+jet fly across the sky over the water by a city . 
+
+verb-prep-object	fly across sky
+verb-prep-object	fly over water
+verb-prep-object	fly by city
+object-verb	jet fly
+object-prep-object	jet across sky
+object-prep-object	jet over water
+object-prep-object	jet by city
+object	sky
+object	water
+object	city
+object	jet
+object	aeroplane
+#####################################################
+Six jets are flying over the ocean . 
+six jet be fly over the ocean . 
+
+verb-prep-object	fly over ocean
+object-prep-object	jet over ocean
+object-verb	jet fly
+object	ocean
+object	jet
+object	aeroplane
+#####################################################
+The Blue Angels flying over a river with a skyline in the background . 
+the Blue Angels fly over a river with a skyline in the background . 
+
+verb-prep-object	fly over river
+attribute-object	blue angels
+object-verb	angels fly
+object	river
+object	angels
+object	aeroplane
+#####################################################

@@ -1,0 +1,66 @@
+A computer monitor is turned on in a room with a chest of drawers and a terrier lamp . 
+a computer monitor be turn on in a room with a chest of drawer and a terrier lamp . 
+
+object-verb	monitor turn
+verb-attribute	turn on
+object-prep-object	monitor in room
+object-prep-object	room with drawer
+object-prep-object	room with lamp
+attribute-object	computer monitor
+attribute-object	terrier lamp
+object	monitor
+object	room
+object	drawer
+object	lamp
+object	chair
+#####################################################
+A light is on in the cluttered , butterscotch room with a computer desk and dresser . 
+a light be on in the cluttered , butterscotch room with a computer desk and dresser . 
+
+attribute-object	cluttered room
+attribute-object	butterscotch room
+object-prep-object	room with desk
+attribute-object	computer desk
+object-prep-object	room with dresser
+object	room
+object	desk
+object	dresser
+object	chair
+#####################################################
+An orange room has a bureau and a desk with a computer . 
+a orange room have a bureau and a desk with a computer . 
+
+object-prep-object	desk with computer
+attribute-object	orange room
+object-verb-object	room have bureau
+object-verb-object	room have desk
+object	desk
+object	computer
+object	room
+object	bureau
+object	chair
+#####################################################
+This is a cluttered youths bedroom . 
+this be a cluttered youth bedroom . 
+
+attribute-object	cluttered bedroom
+attribute-object	youth bedroom
+object	bedroom
+object	chair
+#####################################################
+This room has orange walls , a white dresser , a computer and a lot of clutter . 
+this room have orange wall , a white dresser , a computer and a lot of clutter . 
+
+attribute-object	orange wall
+attribute-object	white dresser
+object-verb-object	room have wall
+object-verb-object	room have dresser
+object-verb-object	room have computer
+object-verb-object	room have clutter
+object	wall
+object	dresser
+object	room
+object	computer
+object	clutter
+object	chair
+#####################################################

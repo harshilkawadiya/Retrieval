@@ -1,0 +1,80 @@
+A man and two women smiling at the camera while sitting on a blue sofa . 
+a man and two woman smile at the camera while sit on a blue sofa . 
+
+verb-prep-object	smile at camera
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+object-prep-object	person on woman
+attribute-object	blue sofa
+object-verb	person smile
+object-verb	person smile
+object-verb	person sit
+object-verb	person sit
+object	camera
+object	sofa
+object	person
+object	man
+object	woman
+object	sofa
+#####################################################
+an older couple and a girl sitting on a blue futon . 
+a older couple and a girl sit on a blue futon . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on sofa
+object-prep-object	person on sofa
+attribute-object	older person
+attribute-object	blue sofa
+object-verb	person sit
+object-verb	person sit
+object	sofa
+object	futon
+object	person
+object	couple
+object	girl
+object	sofa
+#####################################################
+An older man sits with an older and a younger woman on a blue couch . 
+a older man sit with a older and a younger woman on a blue couch . 
+
+verb-prep-object	sit with person
+object-prep-object	person with person
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	older person
+attribute-object	younger person
+attribute-object	blue sofa
+object-verb	person sit
+attribute-object	older person
+object	person
+object	woman
+object	man
+object	sofa
+object	bed
+object	sofa
+#####################################################
+People sitting on a couch . 
+people sit on a couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	people
+object	sofa
+#####################################################
+The people are posing on a blue futon . 
+the people be pose on a blue futon . 
+
+verb-prep-object	pose on sofa
+object-prep-object	person on sofa
+attribute-object	blue sofa
+object-verb	person pose
+object	sofa
+object	futon
+object	person
+object	people
+object	sofa
+#####################################################

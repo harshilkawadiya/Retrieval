@@ -1,0 +1,49 @@
+A channel of water runs through a city with boats and fairies as seen over a rail . 
+a channel of water run through a city with boat and fairy as see over a rail . 
+
+verb-prep-object	run through city
+object-prep-object	city with boat
+object-prep-object	city with fairy
+object-verb	water run
+object	city
+object	boat
+object	fairy
+object	water
+object	boat
+#####################################################
+A city skyline and river . 
+a city skyline and river . 
+
+attribute-object	city skyline
+object	water
+object	skyline
+object	water
+object	river
+object	boat
+#####################################################
+A long view of a river by a city . 
+a long view of a river by a city . 
+
+object-prep-object	water by river
+object	water
+object	river
+object	boat
+#####################################################
+There is a bridge over the top of the water with boats in it . 
+there be a bridge over the top of the water with boat in it . 
+
+object-prep-object	bridge over water
+object-prep-object	water with boat
+object	bridge
+object	water
+object	boat
+object	boat
+#####################################################
+View of river from a railing . 
+View of river from a railing . 
+
+object-prep-object	water from river
+object	water
+object	river
+object	boat
+#####################################################

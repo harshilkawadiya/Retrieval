@@ -1,0 +1,53 @@
+A carpeted kitchen with the dining room in the foreground . 
+a carpet kitchen with the dining room in the foreground . 
+
+object-prep-object	kitchen with room
+attribute-object	carpet kitchen
+attribute-object	dining room
+object	kitchen
+object	room
+object	chair
+#####################################################
+A kitchen with wood cabinets and dining table . 
+a kitchen with wood cabinet and dining table . 
+
+object-prep-object	kitchen with cabinet
+object-prep-object	kitchen with table
+attribute-object	wood cabinet
+attribute-object	dining table
+object	kitchen
+object	cabinet
+object	table
+object	chair
+#####################################################
+A kitchen with wooden cabinets and furniture . 
+a kitchen with wooden cabinet and furniture . 
+
+object-prep-object	kitchen with cabinet
+object-prep-object	kitchen with furniture
+attribute-object	wooden cabinet
+object	kitchen
+object	cabinet
+object	furniture
+object	chair
+#####################################################
+A large wooden kitchen diner . 
+a large wooden kitchen diner . 
+
+attribute-object	large diner
+attribute-object	wooden diner
+attribute-object	kitchen diner
+object	diner
+object	chair
+#####################################################
+Kitchen with wooden table and cabinets . 
+kitchen with wooden table and cabinet . 
+
+object-prep-object	kitchen with table
+object-prep-object	kitchen with cabinet
+attribute-object	wooden table
+object	kitchen
+object	table
+object	cabinet
+object	chair
+#####################################################

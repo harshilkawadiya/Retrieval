@@ -1,0 +1,72 @@
+A bulldog is sitting on a yellow chair , which is next to a plant and a dumpster . 
+a bulldog be sit on a yellow chair , which be next to a plant and a dumpster . 
+
+object-prep-object	chair next_to plant
+object-prep-object	chair next_to dumpster
+verb-prep-object	sit on chair
+object-prep-object	bulldog on chair
+attribute-object	yellow chair
+object-verb	bulldog sit
+object	chair
+object	plant
+object	dumpster
+object	bulldog
+object	chair
+#####################################################
+A bulldog sitting on a yellow chair beside a large waste receptacle . 
+a bulldog sit on a yellow chair beside a large waste receptacle . 
+
+verb-prep-object	sit beside receptacle
+object-prep-object	bulldog beside receptacle
+verb-prep-object	sit on chair
+object-prep-object	bulldog on chair
+attribute-object	yellow chair
+attribute-object	large receptacle
+attribute-object	waste receptacle
+object-verb	bulldog sit
+object	receptacle
+object	bulldog
+object	chair
+object	chair
+#####################################################
+A dog sitting on a yellow chair next to a green dumpster . 
+a dog sit on a yellow chair next to a green dumpster . 
+
+verb-prep-object	sit on chair
+object-prep-object	dog on chair
+verb-prep-object	sit next_to dumpster
+object-prep-object	dog next_to dumpster
+attribute-object	yellow chair
+attribute-object	green dumpster
+object-verb	dog sit
+object	chair
+object	dog
+object	dumpster
+object	chair
+#####################################################
+A pug dog wits on a yellow chair next to a green dumpster . 
+a pug dog wit on a yellow chair next to a green dumpster . 
+
+verb-prep-object	wit on chair
+object-prep-object	dog on chair
+verb-prep-object	wit next_to dumpster
+object-prep-object	dog next_to dumpster
+attribute-object	yellow chair
+attribute-object	green dumpster
+attribute-object	pug dog
+object-verb	dog wit
+object	chair
+object	dog
+object	dumpster
+object	chair
+#####################################################
+Dog sitting next to a dumpster . 
+Dog sit next to a dumpster . 
+
+verb-prep-object	sit next_to dumpster
+object-prep-object	dog next_to dumpster
+object-verb	dog sit
+object	dumpster
+object	dog
+object	chair
+#####################################################

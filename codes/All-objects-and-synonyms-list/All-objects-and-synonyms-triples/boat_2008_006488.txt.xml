@@ -1,0 +1,64 @@
+A fisherman in a small boat in the middle of a peaceful lake . 
+a fisherman in a small boat in the middle of a peaceful lake . 
+
+object-prep-object	person in fisherman
+object-prep-object	boat in water
+object-prep-object	person in water
+attribute-object	small boat
+attribute-object	peaceful water
+object	person
+object	fisherman
+object	boat
+object	water
+object	lake
+object	boat
+#####################################################
+A man fishing on a small boat while on a lake . 
+a man fishing on a small boat while on a lake . 
+
+verb-prep-object	fishing on boat
+object-prep-object	person on water
+attribute-object	small boat
+object-verb	person fishing
+object	boat
+object	person
+object	man
+object	water
+object	boat
+#####################################################
+a person on a canoe on a lake . 
+a person on a canoe on a lake . 
+
+object-prep-object	person on boat
+object-prep-object	boat on water
+object	person
+object	boat
+object	canoe
+object	water
+object	boat
+#####################################################
+The person holds a fishing reel in a small boat on calm waters . 
+the person hold a fishing reel in a small boat on calm water . 
+
+object-prep-object	boat on water
+verb-prep-object	hold in boat
+object-prep-object	person in boat
+attribute-object	small boat
+attribute-object	calm water
+object-verb-object	person hold reel
+attribute-object	fishing reel
+object	boat
+object	water
+object	person
+object	reel
+object	boat
+#####################################################
+The solitude of the lake is a fisherman 's delight . 
+the solitude of the lake be a fisherman 's delight . 
+
+object-prep-object	solitude of water
+object-verb	solitude delight
+object	solitude
+object	water
+object	boat
+#####################################################

@@ -1,0 +1,68 @@
+a living room with a birdcage in the left corner and two lit lamps . 
+a living room with a birdcage in the left corner and two light lamp . 
+
+object-prep-object	room with birdcage
+attribute-object	living room
+attribute-object	light lamp
+object	room
+object	birdcage
+object	lamp
+object	sofa
+#####################################################
+A living room with a wood floor and red furniture . 
+a living room with a wood floor and red furniture . 
+
+object-prep-object	room with floor
+object-prep-object	room with furniture
+attribute-object	red furniture
+attribute-object	living room
+attribute-object	wood floor
+object	room
+object	floor
+object	furniture
+object	sofa
+#####################################################
+A living room with red sofas and a bird cage in the corner . 
+a living room with red sofa and a bird cage in the corner . 
+
+object-prep-object	room with sofa
+object-prep-object	room with cage
+attribute-object	red sofa
+attribute-object	living room
+attribute-object	bird cage
+object	room
+object	sofa
+object	cage
+object	sofa
+#####################################################
+A living room with sofa , love seat , chair and coffee table . 
+a living room with sofa , love seat , chair and coffee table . 
+
+object-prep-object	room with sofa
+object-prep-object	room with seat
+object-prep-object	room with chair
+object-prep-object	room with table
+attribute-object	living room
+attribute-object	love seat
+attribute-object	coffee table
+object	room
+object	sofa
+object	seat
+object	chair
+object	table
+object	sofa
+#####################################################
+A room decorated with mostly red furniture , with hardwood floors . 
+a room decorate with mostly red furniture , with hardwood floor . 
+
+object-verb	room decorate
+verb-prep-object	decorate with furniture
+object-prep-object	room with furniture
+attribute-object	red furniture
+verb-prep-object	decorate with floor
+attribute-object	hardwood floor
+object	room
+object	furniture
+object	floor
+object	sofa
+#####################################################

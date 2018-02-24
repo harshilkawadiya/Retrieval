@@ -1,0 +1,47 @@
+A black steam engine with yellow stars on it . 
+a black steam engine with yellow star on it . 
+
+object-prep-object	engine with star
+attribute-object	black engine
+attribute-object	yellow star
+attribute-object	steam engine
+object	engine
+object	star
+object	train
+#####################################################
+A close-up of a black train engine . 
+a close-up of a black train engine . 
+
+attribute-object	black engine
+attribute-object	train engine
+object	engine
+object	train
+#####################################################
+A steam engine train . 
+a steam engine train . 
+
+attribute-object	steam train
+attribute-object	engine train
+object	train
+object	train
+#####################################################
+Idle black train at station . 
+idle black train at station . 
+
+object-prep-object	train at station
+attribute-object	idle train
+attribute-object	black train
+object	train
+object	station
+object	train
+#####################################################
+Old train engine with stars on its side . 
+Old train engine with star on its side . 
+
+object-prep-object	engine with star
+attribute-object	old engine
+attribute-object	train engine
+object	engine
+object	star
+object	train
+#####################################################

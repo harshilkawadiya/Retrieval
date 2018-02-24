@@ -1,0 +1,63 @@
+A black and white cow in a pen with hay . 
+a black and white cow in a pen with hay . 
+
+object-prep-object	pen with hay
+object-prep-object	cow in pen
+attribute-object	black cow
+attribute-object	white cow
+object	pen
+object	hay
+object	cow
+object	cow
+#####################################################
+a black and white cow in hay . 
+a black and white cow in hay . 
+
+object-prep-object	cow in hay
+attribute-object	black cow
+attribute-object	white cow
+object	cow
+object	hay
+object	cow
+#####################################################
+A black and white cow standing in hay looks back at the camera . 
+a black and white cow standing in hay look back at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	stand in hay
+object-prep-object	cow in hay
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow stand
+object-verb	cow look
+object	camera
+object	hay
+object	cow
+object	cow
+#####################################################
+A jersey cow takes a break to pose for a photo . 
+a jersey cow take a break to pose for a photo . 
+
+object-verb	cow pose
+verb-prep-object	pose for photo
+object-verb-object	cow take break
+attribute-object	jersey cow
+object	cow
+object	photo
+object	break
+object	cow
+#####################################################
+Black and white cow grazing on hay in the stockyard . 
+Black and white cow grazing on hay in the stockyard . 
+
+object-verb	cow graze
+verb-prep-object	graze on hay
+object-prep-object	cow on hay
+object-prep-object	hay in stockyard
+attribute-object	black cow
+attribute-object	white cow
+object	cow
+object	hay
+object	stockyard
+object	cow
+#####################################################

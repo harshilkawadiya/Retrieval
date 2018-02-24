@@ -1,0 +1,58 @@
+A blue bird standing on a lawn . 
+a blue bird standing on a lawn . 
+
+verb-prep-object	stand on lawn
+object-prep-object	bird on lawn
+attribute-object	blue bird
+object-verb	bird stand
+object	lawn
+object	bird
+object	bird
+#####################################################
+A blue jay standing in a grassy field . 
+a blue jay standing in a grassy field . 
+
+verb-prep-object	stand in field
+attribute-object	blue jay
+attribute-object	grassy field
+object-verb	jay stand
+object	field
+object	jay
+object	bird
+#####################################################
+A small blue bird standing in grass . 
+a small blue bird standing in grass . 
+
+verb-prep-object	stand in grass
+object-prep-object	bird in grass
+attribute-object	small bird
+attribute-object	blue bird
+object-verb	bird stand
+object	grass
+object	bird
+object	bird
+#####################################################
+Blue bird standing on green grass . 
+Blue bird standing on green grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	bird on grass
+attribute-object	green grass
+attribute-object	blue bird
+object-verb	bird stand
+object	grass
+object	bird
+object	bird
+#####################################################
+There is a blue jay in the center of some green grass . 
+there be a blue jay in the center of some green grass . 
+
+object-prep-object	jay in center
+object-prep-object	center of grass
+attribute-object	blue jay
+attribute-object	green grass
+object	jay
+object	center
+object	grass
+object	bird
+#####################################################

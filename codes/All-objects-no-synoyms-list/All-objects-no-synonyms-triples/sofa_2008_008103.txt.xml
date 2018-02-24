@@ -1,0 +1,71 @@
+a blue couch with Power Puff Girls cushions with a brown coffee table in front . 
+a blue couch with Power Puff Girls cushion with a brown coffee table in front . 
+
+object-prep-object	couch with cushion
+object-prep-object	couch with table
+attribute-object	blue couch
+attribute-object	brown table
+attribute-object	power cushion
+attribute-object	puff cushion
+attribute-object	girls cushion
+attribute-object	coffee table
+object	couch
+object	cushion
+object	table
+object	sofa
+#####################################################
+A living room containing a blue sofa with a wooden coffee table . 
+a living room contain a blue sofa with a wooden coffee table . 
+
+object-prep-object	sofa with table
+attribute-object	blue sofa
+attribute-object	wooden table
+object-verb-object	room contain sofa
+attribute-object	living room
+attribute-object	coffee table
+object	sofa
+object	table
+object	room
+object	sofa
+#####################################################
+A living room with a window , sofa , coffee table , and yellow paint . 
+a living room with a window , sofa , coffee table , and yellow paint . 
+
+object-prep-object	room with window
+object-prep-object	room with sofa
+object-prep-object	room with table
+object-prep-object	room with paint
+attribute-object	yellow paint
+attribute-object	living room
+attribute-object	coffee table
+object	room
+object	window
+object	sofa
+object	table
+object	paint
+object	sofa
+#####################################################
+A room with cartoon pillows on a couch . 
+a room with cartoon pillow on a couch . 
+
+object-prep-object	pillow on couch
+object-prep-object	room with pillow
+attribute-object	cartoon pillow
+object	pillow
+object	couch
+object	room
+object	sofa
+#####################################################
+A tidy living room with sun shining through the windows . 
+a tidy living room with sun shine through the window . 
+
+verb-prep-object	shine through window
+object-prep-object	room with sun
+attribute-object	tidy room
+attribute-object	living room
+object-verb	sun shine
+object	window
+object	room
+object	sun
+object	sofa
+#####################################################

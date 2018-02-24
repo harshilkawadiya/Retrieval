@@ -1,0 +1,55 @@
+A boy and his mom feeding ponies through the fence . 
+a boy and he mom feed pony through the fence . 
+
+verb-prep-object	feed through fence
+object-verb-object	boy feed pony
+object-verb-object	mom feed pony
+object	fence
+object	boy
+object	pony
+object	mom
+object	horse
+#####################################################
+A woman and a little boy greeting horses . 
+a woman and a little boy greet horse . 
+
+attribute-object	little boy
+object-verb-object	woman greet horse
+object-verb-object	boy greet horse
+object	boy
+object	woman
+object	horse
+object	horse
+#####################################################
+A woman and young boy feeding three horses . 
+a woman and young boy feed three horse . 
+
+object-verb-object	woman feed horse
+object-verb-object	boy feed horse
+attribute-object	young boy
+object	woman
+object	horse
+object	boy
+object	horse
+#####################################################
+A woman and child feeding a group of three horses . 
+a woman and child feed a group of three horse . 
+
+object-verb-object	woman feed horse
+object-verb-object	child feed horse
+object	woman
+object	horse
+object	child
+object	horse
+#####################################################
+Two brown horses being fed in a pen . 
+two brown horse be feed in a pen . 
+
+verb-prep-object	feed in pen
+object-prep-object	horse in pen
+attribute-object	brown horse
+object-verb	horse feed
+object	pen
+object	horse
+object	horse
+#####################################################

@@ -1,0 +1,66 @@
+A motocross rider about to get back on his stunt bike . 
+a motocross rider about to get back on he stunt bike . 
+
+attribute-object	motocross person
+attribute-object	stunt bicycle
+object	person
+object	rider
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+A motorbike kicking up dust with the rider holding the handlebar while standing to the side . 
+a motorbike kick up dust with the rider hold the handlebar while stand to the side . 
+
+object-verb-object	motorbike kick dust
+object-prep-object	motorbike with person
+object-verb-object	person hold rider
+verb-attribute	kick up
+object	motorbike
+object	dust
+object	person
+object	rider
+object	motorbike
+#####################################################
+A motor-cross rider trying to catch his bike . 
+a motor-cross rider try to catch he bike . 
+
+attribute-object	motor-cross person
+object-verb	person try
+verb-prep-verb	try to catch
+verb-object	catch bicycle
+object	person
+object	rider
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+A person in a helmet and race jacket is running after a riderless , running motorcycle . 
+a person in a helmet and race jacket be run after a riderless , run motorcycle . 
+
+verb-prep-object	run after motorbike
+object-prep-object	person after motorbike
+object-prep-object	person in helmet
+object-prep-object	person in jacket
+attribute-object	race jacket
+attribute-object	riderless motorbike
+attribute-object	run motorbike
+object-verb	person run
+object	motorbike
+object	motorcycle
+object	person
+object	helmet
+object	jacket
+object	motorbike
+#####################################################
+A person wearing a helmet is by a moving motorbike . 
+a person wear a helmet be by a move motorbike . 
+
+object-prep-object	person by motorbike
+attribute-object	move motorbike
+object-verb-object	person wear helmet
+object	person
+object	motorbike
+object	helmet
+object	motorbike
+#####################################################

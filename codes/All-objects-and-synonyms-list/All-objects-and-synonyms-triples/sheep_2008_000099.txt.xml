@@ -1,0 +1,57 @@
+A black and tan dog looks at a black sheep . 
+a black and tan dog look at a black sheep . 
+
+verb-prep-object	look at sheep
+attribute-object	black dog
+attribute-object	tan dog
+attribute-object	black sheep
+object-verb	dog look
+object	sheep
+object	dog
+object	sheep
+#####################################################
+A black dog is staring at a sheep . 
+a black dog be stare at a sheep . 
+
+verb-prep-object	stare at sheep
+attribute-object	black dog
+object-verb	dog stare
+object	sheep
+object	dog
+object	sheep
+#####################################################
+A black dog looking at a brown sheep in a pen . 
+a black dog look at a brown sheep in a pen . 
+
+verb-prep-object	look at sheep
+object-prep-object	sheep in pen
+attribute-object	black dog
+attribute-object	brown sheep
+object-verb	dog look
+object	sheep
+object	pen
+object	dog
+object	sheep
+#####################################################
+A large dog stands next to a sheep in a field . 
+a large dog stand next to a sheep in a field . 
+
+verb-prep-object	stand next_to sheep
+object-prep-object	dog next_to sheep
+object-prep-object	sheep in field
+object-verb	dog stand
+attribute-object	large dog
+object	sheep
+object	dog
+object	field
+object	sheep
+#####################################################
+The dog is looking at the sheep . 
+the dog be look at the sheep . 
+
+verb-prep-object	look at sheep
+object-verb	dog look
+object	sheep
+object	dog
+object	sheep
+#####################################################

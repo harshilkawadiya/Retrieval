@@ -1,0 +1,51 @@
+A white bird flying up onto a tree . 
+a white bird fly up onto a tree . 
+
+verb-prep-object	fly onto tree
+attribute-verb	up fly
+attribute-object	white bird
+object-verb	bird fly
+object	tree
+object	bird
+object	bird
+#####################################################
+A white bird with wings open . 
+a white bird with wing open . 
+
+object-prep-object	bird with wing
+object-attribute	wing open
+attribute-object	white bird
+object	bird
+object	wing
+object	bird
+#####################################################
+A white crane . 
+a white crane . 
+
+attribute-object	white crane
+object	crane
+object	bird
+#####################################################
+Heron flapping its wings while holding on to a twig in its beak . 
+Heron flap its wing while hold on to a twig in its beak . 
+
+object-verb-object	heron hold twig
+object-prep-object	twig in beak
+object-verb-object	heron flap wing
+object	heron
+object	twig
+object	beak
+object	wing
+object	bird
+#####################################################
+The back of a white , long necked bird with its wings spread . 
+the back of a white , long necked bird with its wing spread . 
+
+object-prep-object	bird with wing
+attribute-object	white bird
+attribute-object	long bird
+attribute-object	necked bird
+object	bird
+object	wing
+object	bird
+#####################################################

@@ -1,0 +1,67 @@
+A black cat on a pillow and a gray dog on a sofa . 
+a black cat on a pillow and a gray dog on a sofa . 
+
+object-prep-object	cat on pillow
+object-prep-object	dog on sofa
+attribute-object	black cat
+attribute-object	gray dog
+object	cat
+object	pillow
+object	dog
+object	sofa
+object	dog
+#####################################################
+A cat and a dog look at each other from across a room . 
+a cat and a dog look at each other from across a room . 
+
+object-verb	cat look
+object-verb	dog look
+object	cat
+object	dog
+object	dog
+#####################################################
+A cat lays on a rug and a dog lays on a couch . 
+a cat lay on a rug and a dog lay on a couch . 
+
+verb-prep-object	lay on rug
+object-prep-object	cat on rug
+verb-prep-object	lay on couch
+object-prep-object	dog on couch
+object-verb	cat lay
+object-verb	dog lay
+object	rug
+object	cat
+object	couch
+object	dog
+object	dog
+#####################################################
+A dog sleeping on a sofa while a black cat sits on a cushion . 
+a dog sleep on a sofa while a black cat sit on a cushion . 
+
+verb-prep-object	sleep on sofa
+object-prep-object	dog on sofa
+verb-prep-object	sit on cushion
+object-prep-object	cat on cushion
+attribute-object	black cat
+object-verb	cat sit
+object-verb	dog sleep
+object	sofa
+object	dog
+object	cushion
+object	cat
+object	dog
+#####################################################
+A shaggy black dog on a couch to the left and a black cat on a cushion to the right . 
+a shaggy black dog on a couch to the left and a black cat on a cushion to the right . 
+
+object-prep-object	dog on couch
+object-prep-object	cat on cushion
+attribute-object	shaggy dog
+attribute-object	black dog
+attribute-object	black cat
+object	dog
+object	couch
+object	cat
+object	cushion
+object	dog
+#####################################################

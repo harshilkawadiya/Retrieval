@@ -1,0 +1,60 @@
+A man walking past the red and yellow train . 
+a man walk past the red and yellow train . 
+
+verb-prep-object	walk past train
+object-prep-object	man past train
+attribute-object	red train
+attribute-object	yellow train
+object-verb	man walk
+object	train
+object	man
+object	train
+#####################################################
+A passenger train in the snow . 
+a passenger train in the snow . 
+
+object-prep-object	train in snow
+attribute-object	passenger train
+object	train
+object	snow
+object	train
+#####################################################
+A red train driving through a snow covered city . 
+a red train drive through a snow cover city . 
+
+verb-prep-object	drive through city
+object-prep-object	train through city
+attribute-object	red train
+attribute-object	snow city
+attribute-object	cover city
+object-verb	train drive
+object	city
+object	train
+object	train
+#####################################################
+The train is riding on the tracks in the snow . 
+the train be ride on the track in the snow . 
+
+verb-prep-object	ride on track
+object-prep-object	train on track
+verb-prep-object	ride in snow
+object-prep-object	train in snow
+object-verb	train ride
+object	track
+object	train
+object	snow
+object	train
+#####################################################
+Yellow and red train on tracks in winter time . 
+Yellow and red train on track in winter time . 
+
+object-prep-object	train on track
+object-prep-object	train in time
+attribute-object	yellow train
+attribute-object	red train
+attribute-object	winter time
+object	train
+object	track
+object	time
+object	train
+#####################################################

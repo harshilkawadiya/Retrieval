@@ -1,0 +1,62 @@
+A red and brown bird is perched on branches . 
+a red and brown bird be perch on branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	bird on branch
+attribute-object	red bird
+attribute-object	brown bird
+object-verb	bird perch
+object	branch
+object	bird
+object	bird
+#####################################################
+A red bird is perched in a tree . 
+a red bird be perch in a tree . 
+
+verb-prep-object	perch in tree
+object-prep-object	bird in tree
+attribute-object	red bird
+object-verb	bird perch
+object	tree
+object	bird
+object	bird
+#####################################################
+A small red and gray bird perched amongst the bare branches of a tree . 
+a small red and gray bird perch amongst the bare branch of a tree . 
+
+verb-prep-object	perch amongst branch
+object-prep-object	bird amongst branch
+object-prep-object	branch of tree
+attribute-object	small bird
+attribute-object	red bird
+attribute-object	gray bird
+attribute-object	bare branch
+object-verb	bird perch
+object	branch
+object	bird
+object	tree
+object	bird
+#####################################################
+A small red and gray bird perched in a tree . 
+a small red and gray bird perch in a tree . 
+
+verb-prep-object	perch in tree
+object-prep-object	bird in tree
+attribute-object	small bird
+attribute-object	red bird
+attribute-object	gray bird
+object-verb	bird perch
+object	tree
+object	bird
+object	bird
+#####################################################
+The bird is sitting on the branch . 
+the bird be sit on the branch . 
+
+verb-prep-object	sit on branch
+object-prep-object	bird on branch
+object-verb	bird sit
+object	branch
+object	bird
+object	bird
+#####################################################

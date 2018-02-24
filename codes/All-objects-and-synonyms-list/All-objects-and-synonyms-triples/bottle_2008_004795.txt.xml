@@ -1,0 +1,51 @@
+A black and white picture of a kitchen shelf with a lamp overhead . 
+a black and white picture of a kitchen shelf with a lamp overhead . 
+
+object-prep-object	shelf with lamp
+attribute-object	kitchen shelf
+object	shelf
+object	lamp
+object	bottle
+#####################################################
+A kitchen nook with vintage cans , jars and bottles on display . 
+a kitchen nook with vintage can , jar and bottle on display . 
+
+object-prep-object	nook with can
+object-prep-object	nook with jar
+object-prep-object	nook with bottle
+attribute-object	vintage can
+attribute-object	kitchen nook
+object	nook
+object	can
+object	jar
+object	bottle
+object	bottle
+#####################################################
+Black and white picture of a shelf . 
+Black and white picture of a shelf . 
+
+object	shelf
+object	shelf
+object	bottle
+#####################################################
+Ledge with antique cans . 
+ledge with antique can . 
+
+object-prep-object	ledge with can
+attribute-object	antique can
+object	ledge
+object	can
+object	bottle
+#####################################################
+There are various old spices and tools on a shelf . 
+there be various old spice and tool on a shelf . 
+
+object-prep-object	spice on shelf
+object-prep-object	tool on shelf
+attribute-object	various spice
+attribute-object	old spice
+object	spice
+object	shelf
+object	tool
+object	bottle
+#####################################################

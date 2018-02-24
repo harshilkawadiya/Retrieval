@@ -1,0 +1,71 @@
+A little girl with a bike helmet posing by her bicycle . 
+a little girl with a bike helmet pose by she bicycle . 
+
+verb-prep-object	girl with helmet
+verb-prep-object	pose by bicycle
+object-prep-object	girl by bicycle
+attribute-object	little girl
+attribute-object	bike helmet
+object-verb	girl pose
+object	helmet
+object	bicycle
+object	girl
+object	bicycle
+#####################################################
+A smiling young blonde girl wearing a helmet sits in front of her bicycle . 
+a smile young blonde girl wear a helmet sit in front of she bicycle . 
+
+verb-prep-object	sit in_front_of bicycle
+object-prep-object	girl in_front_of bicycle
+attribute-object	smile girl
+attribute-object	young girl
+attribute-object	blonde girl
+object-verb-object	girl wear helmet
+object-verb	girl sit
+object	bicycle
+object	girl
+object	helmet
+object	bicycle
+#####################################################
+A young blonde girl wearing a helmet sits with a red bicycle behind her . 
+a young blonde girl wear a helmet sit with a red bicycle behind she . 
+
+verb-prep-object	sit with bicycle
+object-prep-object	girl with bicycle
+attribute-object	young girl
+attribute-object	blonde girl
+attribute-object	red bicycle
+object-verb-object	girl wear helmet
+object-verb	girl sit
+object	bicycle
+object	girl
+object	helmet
+object	bicycle
+#####################################################
+A young blonde girl wearing a smile and a bicycle helmet . 
+a young blonde girl wear a smile and a bicycle helmet . 
+
+attribute-object	young girl
+attribute-object	blonde girl
+object-verb-object	girl wear smile
+object-verb-object	girl wear helmet
+attribute-object	bicycle helmet
+object	girl
+object	smile
+object	helmet
+object	bicycle
+#####################################################
+A young girl wearing a bike helmet with a bicycle in the background . 
+a young girl wear a bike helmet with a bicycle in the background . 
+
+object-prep-object	girl with bicycle
+object-prep-object	bicycle in background
+attribute-object	young girl
+object-verb-object	girl wear helmet
+attribute-object	bike helmet
+object	girl
+object	bicycle
+object	background
+object	helmet
+object	bicycle
+#####################################################

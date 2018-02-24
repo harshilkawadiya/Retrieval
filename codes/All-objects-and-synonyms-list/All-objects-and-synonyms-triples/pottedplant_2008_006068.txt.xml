@@ -1,0 +1,79 @@
+A black and white cat along with a purple African violet plant atop a windowsill . 
+a black and white cat along with a purple african violet plant atop a windowsill . 
+
+object-prep-object	cat atop window
+object-prep-object	cat along_with pottedplant
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	purple pottedplant
+attribute-object	african pottedplant
+attribute-object	violet pottedplant
+object	cat
+object	window
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A black and white cat is lying on a windowsill with a cyclamen in a pot next to it . 
+a black and white cat be lie on a windowsill with a cyclamen in a pot next to it . 
+
+object-verb	cat lie
+verb-prep-object	lie on window
+object-prep-object	cat on window
+attribute-object	black cat
+attribute-object	white cat
+object-prep-object	cat with cyclamen
+object-prep-object	cyclamen in pottedplant
+object	cat
+object	window
+object	windowsill
+object	cyclamen
+object	pottedplant
+object	pottedplant
+#####################################################
+A black and white cat is sleeping next to a plant in the window . 
+a black and white cat be sleep next to a plant in the window . 
+
+verb-prep-object	sleep next_to pottedplant
+object-prep-object	cat next_to pottedplant
+object-prep-object	cat in window
+verb-prep-object	sleep in window
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat sleep
+object	pottedplant
+object	plant
+object	cat
+object	window
+object	pottedplant
+#####################################################
+A cat sleeps on a window sill next to a flowering plant . 
+a cat sleep on a window sill next to a flowering plant . 
+
+verb-prep-object	sleep on sill
+object-prep-object	cat on sill
+verb-prep-object	sleep next_to pottedplant
+object-prep-object	cat next_to pottedplant
+attribute-object	window sill
+attribute-object	flowering pottedplant
+object-verb	cat sleep
+object	sill
+object	cat
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+Large black and white cat resting on a windowsill . 
+large black and white cat rest on a windowsill . 
+
+verb-prep-object	rest on window
+object-prep-object	cat on window
+attribute-object	large cat
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat rest
+object	window
+object	windowsill
+object	cat
+object	pottedplant
+#####################################################

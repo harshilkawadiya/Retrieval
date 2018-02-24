@@ -1,0 +1,65 @@
+A red moped is parked by a building with graffiti . 
+a red moped be park by a building with graffitus . 
+
+object-prep-object	building with graffitus
+verb-prep-object	park by building
+object-prep-object	moped by building
+attribute-object	red moped
+object-verb	moped park
+object	building
+object	graffitus
+object	moped
+object	motorbike
+#####################################################
+A red moped parked on a sidewalk in front of graffiti . 
+a red moped park on a sidewalk in front of graffitus . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	moped on sidewalk
+verb-prep-object	park in_front_of graffitus
+object-prep-object	moped in_front_of graffitus
+attribute-object	red moped
+object-verb	moped park
+object	sidewalk
+object	moped
+object	graffitus
+object	motorbike
+#####################################################
+A red scooter is parked near the door step . 
+a red scooter be park near the door step . 
+
+verb-prep-object	park near step
+object-prep-object	scooter near step
+attribute-object	red scooter
+attribute-object	door step
+object-verb	scooter park
+object	step
+object	scooter
+object	motorbike
+#####################################################
+Graffiti and a red scooter in an urban area . 
+Graffiti and a red scooter in a urban area . 
+
+object-prep-object	graffiti in area
+object-prep-object	scooter in area
+attribute-object	red scooter
+attribute-object	urban area
+object	graffiti
+object	area
+object	scooter
+object	motorbike
+#####################################################
+The red scooter is sitting on the street in front of the building . 
+the red scooter be sit on the street in front of the building . 
+
+verb-prep-object	sit on street
+object-prep-object	scooter on street
+verb-prep-object	sit in_front_of building
+object-prep-object	scooter in_front_of building
+attribute-object	red scooter
+object-verb	scooter sit
+object	street
+object	scooter
+object	building
+object	motorbike
+#####################################################

@@ -1,0 +1,71 @@
+Three dark haired young women in white , red and black sweaters . 
+three dark haired young woman in white , red and black sweater . 
+
+object-prep-object	person in woman
+attribute-object	dark person
+attribute-object	haired person
+attribute-object	young person
+attribute-object	white sweater
+attribute-object	red sweater
+attribute-object	black sweater
+object	person
+object	woman
+object	sweater
+object	pottedplant
+#####################################################
+Three females wearing sweaters line up in the living room . 
+three female wear sweater line up in the living room . 
+
+object-verb-object	female wear sweater
+object-verb	female line
+verb-attribute	line up
+verb-prep-object	line in room
+attribute-object	living room
+object-prep-object	female in room
+object	female
+object	sweater
+object	room
+object	pottedplant
+#####################################################
+Three women posing for a picture in a home . 
+three woman pose for a picture in a home . 
+
+verb-prep-object	pose for picture
+verb-prep-object	pose in home
+object-prep-object	person in woman
+object-verb	person pose
+object	picture
+object	home
+object	person
+object	woman
+object	pottedplant
+#####################################################
+Three women wearing white , red , and black are smiling at the camera in a living room . 
+three woman wear white , red , and black be smile at the camera in a living room . 
+
+verb-prep-object	smile at camera
+verb-prep-object	smile in room
+object-prep-object	person in woman
+object-verb-object	person wear woman
+object-verb-object	person wear woman
+object-verb-object	person wear woman
+attribute-object	living room
+object-verb	person smile
+object	camera
+object	room
+object	person
+object	woman
+object	pottedplant
+#####################################################
+Three young women standing in a room together . 
+three young woman stand in a room together . 
+
+verb-prep-object	stand in room
+object-prep-object	person in woman
+attribute-object	young person
+object-verb	person stand
+object	room
+object	person
+object	woman
+object	pottedplant
+#####################################################

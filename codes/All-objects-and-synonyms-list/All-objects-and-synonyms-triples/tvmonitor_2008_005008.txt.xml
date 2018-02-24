@@ -1,0 +1,68 @@
+A home office set up complete with a can of soda ! 
+a home office set up complete with a can of soda ! 
+
+object-prep-object	office with can
+object-prep-object	can of soda
+object-verb-object	office set complete
+attribute-object	home office
+verb-attribute	set up
+object	office
+object	can
+object	soda
+object	complete
+object	tvmonitor
+#####################################################
+An Apple computer is sitting on a desk next to a can and another computer . 
+a Apple computer be sit on a desk next to a can and another computer . 
+
+verb-prep-object	sit on table
+object-prep-object	laptop on diningtable
+verb-prep-object	sit next_to can
+object-prep-object	laptop next_to computer
+verb-prep-object	sit next_to laptop
+object-prep-object	laptop next_to laptop
+attribute-object	apple laptop
+object-verb	laptop sit
+object	table
+object	diningtable
+object	laptop
+object	computer
+object	can
+object	tvmonitor
+#####################################################
+Computer desk with computer monitor and soda can sitting in front of keyboard . 
+Computer desk with computer monitor and soda can sit in front of keyboard . 
+
+object-prep-object	table with tvmonitor
+object-prep-object	table with diningtable
+object-prep-object	table in_front_of diningtable
+attribute-object	computer table
+attribute-object	computer tvmonitor
+attribute-object	soda can
+object	table
+object	diningtable
+object	tvmonitor
+object	monitor
+object	can
+object	tvmonitor
+#####################################################
+Desk with computer keyboard and monitor . 
+desk with computer keyboard and monitor . 
+
+object-prep-object	table with diningtable
+object-prep-object	table with tvmonitor
+attribute-object	computer keyboard
+object	table
+object	diningtable
+object	tvmonitor
+object	keyboard
+object	tvmonitor
+#####################################################
+Two computers at a workstation . 
+two computer at a workstation . 
+
+object-prep-object	laptop at laptop
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################

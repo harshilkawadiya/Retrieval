@@ -1,0 +1,61 @@
+A desk and chair are illuminated and near a laundry closet . 
+a desk and chair be illuminate and near a laundry closet . 
+
+attribute-object	laundry closet
+object-prep-object	desk near closet
+object-prep-object	chair near closet
+object-verb	desk illuminate
+object-verb	chair illuminate
+object	closet
+object	desk
+object	chair
+object	chair
+#####################################################
+A room with tan walls and a washer and dryer . 
+a room with tan wall and a washer and dryer . 
+
+object-prep-object	room with wall
+object-prep-object	room with washer
+object-prep-object	room with dryer
+attribute-object	tan wall
+object	room
+object	wall
+object	washer
+object	dryer
+object	chair
+#####################################################
+A small desk with chair near a laundry closet . 
+a small desk with chair near a laundry closet . 
+
+object-prep-object	desk near closet
+object-prep-object	desk with chair
+attribute-object	small desk
+attribute-object	laundry closet
+object	desk
+object	closet
+object	chair
+object	chair
+#####################################################
+Small wood desk with papers spread on it . 
+small wood desk with papers spread on it . 
+
+object-prep-object	desk with papers
+attribute-object	small desk
+attribute-object	wood desk
+object-verb	papers spread
+object	desk
+object	papers
+object	chair
+#####################################################
+There is a small desk and chair in front of the laundry room . 
+there be a small desk and chair in front of the laundry room . 
+
+object-prep-object	desk in_front_of room
+object-prep-object	chair in_front_of room
+attribute-object	small desk
+attribute-object	laundry room
+object	desk
+object	room
+object	chair
+object	chair
+#####################################################

@@ -1,0 +1,64 @@
+A race car driving along a dirt road . 
+a race car drive along a dirt road . 
+
+verb-prep-object	drive along road
+object-prep-object	car along road
+attribute-object	race car
+attribute-object	dirt road
+object-verb	car drive
+object	road
+object	car
+object	car
+#####################################################
+A racing car with it wheels just barely off of the dirt road . 
+a racing car with it wheel just barely off of the dirt road . 
+
+object-prep-object	car with wheel
+object-prep-object	car off_of road
+attribute-object	racing car
+attribute-object	dirt road
+object	car
+object	wheel
+object	road
+object	car
+#####################################################
+A white car is near a red and white Toyota sign . 
+a white car be near a red and white Toyota sign . 
+
+object-prep-object	car near sign
+attribute-object	white car
+attribute-object	red sign
+attribute-object	white sign
+attribute-object	toyota sign
+object	car
+object	sign
+object	car
+#####################################################
+A white racing car soars just above the dirt road near a red Toyota sign . 
+a white racing car soar just above the dirt road near a red Toyota sign . 
+
+object-verb	car soar
+attribute-object	white car
+attribute-object	racing car
+verb-prep-object	soar above road
+object-prep-object	car above road
+verb-prep-object	soar near sign
+object-prep-object	car near sign
+attribute-object	red sign
+attribute-object	dirt road
+attribute-object	toyota sign
+object	car
+object	road
+object	sign
+object	car
+#####################################################
+Car speeding down dirt track . 
+car speed down dirt track . 
+
+object-verb-object	car speed track
+attribute-object	dirt track
+verb-attribute	speed down
+object	car
+object	track
+object	car
+#####################################################

@@ -1,0 +1,65 @@
+A woman in a black bikini top and jeans . 
+a woman in a black bikini top and jeans . 
+
+object-prep-object	woman in top
+object-prep-object	woman in jeans
+attribute-object	black top
+attribute-object	bikini top
+object	woman
+object	top
+object	jeans
+object	person
+#####################################################
+A woman wearing jeans , a dark bikini top , and a bracelet . 
+a woman wear jeans , a dark bikini top , and a bracelet . 
+
+attribute-object	dark top
+object-verb-object	woman wear jeans
+object-verb-object	woman wear top
+object-verb-object	woman wear bracelet
+attribute-object	bikini top
+object	top
+object	woman
+object	jeans
+object	bracelet
+object	person
+#####################################################
+A woman wearing a bikini top and jeans . 
+a woman wear a bikini top and jeans . 
+
+object-verb-object	woman wear top
+object-verb-object	woman wear jeans
+attribute-object	bikini top
+object	woman
+object	top
+object	jeans
+object	person
+#####################################################
+A young woman with a bracelet is wearing a bikini top and jeans . 
+a young woman with a bracelet be wear a bikini top and jeans . 
+
+object-prep-object	woman with bracelet
+attribute-object	young woman
+object-verb-object	woman wear top
+object-verb-object	woman wear jeans
+attribute-object	bikini top
+object	woman
+object	bracelet
+object	top
+object	jeans
+object	person
+#####################################################
+Girl poses in bikini top and jeans . 
+Girl pose in bikini top and jeans . 
+
+verb-prep-object	pose in top
+object-prep-object	girl in top
+verb-prep-object	pose in jeans
+object-prep-object	girl in jeans
+attribute-object	bikini top
+object-verb	girl pose
+object	top
+object	girl
+object	jeans
+object	person
+#####################################################

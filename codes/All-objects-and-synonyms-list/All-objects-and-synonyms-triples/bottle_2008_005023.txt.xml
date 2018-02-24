@@ -1,0 +1,55 @@
+A crowded refrigerator with four levels contains blue lunch bags , yogurt , apples , rolls , leftover containers , and more . 
+a crowded refrigerator with four level contain blue lunch bag , yogurt , apple , roll , leftover container , and more . 
+
+object-prep-object	refrigerator with level
+attribute-object	crowded refrigerator
+attribute-object	blue bag
+attribute-object	lunch bag
+object-verb-object	refrigerator contain bag
+object-verb-object	refrigerator contain yogurt
+object-verb-object	refrigerator contain apple
+object-verb-object	refrigerator contain roll
+object-verb-object	refrigerator contain container
+attribute-object	leftover container
+object	refrigerator
+object	level
+object	bag
+object	yogurt
+object	apple
+object	roll
+object	container
+object	bottle
+#####################################################
+A fridge full of various food and drink items . 
+a fridge full of various food and drink item . 
+
+object-prep-object	fridge full_of item
+attribute-object	food item
+attribute-object	drink item
+object	fridge
+object	item
+object	bottle
+#####################################################
+A fully stocked refrigerator . 
+a fully stock refrigerator . 
+
+attribute-object	fully refrigerator
+attribute-object	stocked refrigerator
+object	refrigerator
+object	bottle
+#####################################################
+A refrigerator filled with no extra space . 
+a refrigerator fill with no extra space . 
+
+object-verb	refrigerator fill
+object	refrigerator
+object	bottle
+#####################################################
+A well stocked refrigerator . 
+a well stock refrigerator . 
+
+attribute-object	fully refrigerator
+attribute-object	stocked refrigerator
+object	refrigerator
+object	bottle
+#####################################################

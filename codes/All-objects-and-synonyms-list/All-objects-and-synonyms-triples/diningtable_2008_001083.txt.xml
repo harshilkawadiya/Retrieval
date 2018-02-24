@@ -1,0 +1,70 @@
+A group of elderly people pose around a dining table . 
+a group of elderly people pose around a dining table . 
+
+verb-prep-object	pose around diningtable
+object-prep-object	person around diningtable
+attribute-object	elderly person
+attribute-object	dining diningtable
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+A group of elderly people sitting around a dining table . 
+a group of elderly people sit around a dining table . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+attribute-object	elderly person
+attribute-object	dining diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+A picture of elderly people waiting in front of a dinner table . 
+a picture of elderly people wait in front of a dinner table . 
+
+verb-prep-object	wait in_front_of diningtable
+object-prep-object	person in_front_of diningtable
+attribute-object	elderly person
+attribute-object	dinner diningtable
+object-verb	person wait
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Friends and family gather for a evening meal . 
+Friends and family gather for a evening meal . 
+
+verb-prep-object	gather for meal
+object-prep-object	person for friends
+object-prep-object	person for family
+attribute-object	evening meal
+object-verb	person gather
+object-verb	person gather
+object	meal
+object	person
+object	friends
+object	family
+object	diningtable
+#####################################################
+Group of elderly people sitting around a table . 
+Group of elderly people sit around a table . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+attribute-object	elderly person
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################

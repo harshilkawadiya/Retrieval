@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	3	A black dog with a purple collar is running .
+beam_size_1	4	A black dog with a purple collar running .
+beam_size_1	5	a black dog with purple collar running
+beam_size_1	6	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	7	A black dog and a tan dog fighting .
+beam_size_1	8	A black dog and a white dog are wrestling on the ground .
+beam_size_1	9	A black dog bites a white dog while standing on the sand .
+beam_size_1	10	two dogs fight .
+beam_size_1	11	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	12	a black dog plays with a ball in the water .
+beam_size_1	13	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	14	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	15	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	16	The black dog is running though the water with a pink ball .
+beam_size_1	17	A dog hops in a field while another dog stands next to it .
+beam_size_1	18	One dog is jumping up at another dog in a grassy field .
+beam_size_1	19	The two tan colored dogs are in a field , and one is jumping in the air .
+beam_size_1	20	Two brown dogs in a field .
+beam_size_1	21	Two brown dogs play with one another in the field .
+beam_size_1	22	A brown and black dog on a leash is sniffed by a black and white dog .
+beam_size_1	23	A dog on a leash walks on the sidewalk while another dog follows .
+beam_size_1	24	A small dog on a leash is being smelled by another animal .
+beam_size_1	25	The black and white dog is sniffing the butt of the brown dog that is on a leash .
+beam_size_1	26	Two small dogs , one black-and-white and one brown-and-black , walk down the street .
+beam_size_1	27	a black dog jumping to catch a rope toy
+beam_size_1	28	A black dog playing fetch with a ball of rope .
+beam_size_1	29	A black dog pounces to get a rope toy .
+beam_size_1	30	A black dog running after his rope toy .
+beam_size_1	31	A large black dog is playing in a grassy yard .
+beam_size_1	32	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	33	An elderly woman rides a bicycle along a city street .
+beam_size_1	34	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	35	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	36	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	37	A black and tan dog is running with a white and gray dog along dirt .
+beam_size_1	38	The two dogs are running into the woods .
+beam_size_1	39	Two dogs run down a dirt path in the forest .
+beam_size_1	40	Two dogs running away from the camera in the woods .
+beam_size_1	41	Two dogs run on a dirt area near a forest .
+beam_size_1	42	A fluffy white dog runs through the woods with his ears flapping in the breeze .
+beam_size_1	43	A small white dog is running across a grassy field .
+beam_size_1	44	A white dog runs in the grass ,
+beam_size_1	45	A white dog wearing a red harness runs though the woods .
+beam_size_1	46	The little white dog wearing the red collar is running in the grass .
+beam_size_1	47	A brown and white dog stands outside while it snows .
+beam_size_1	48	A dog is looking at something near the water .
+beam_size_1	49	A furry dog attempts to dry itself by shaking the water off its coat .
+beam_size_1	50	A white and brown dog shaking its self dry .
+beam_size_1	51	The large brown and white dog shakes off water .

@@ -1,0 +1,63 @@
+A group of men sitting in a classroom . 
+a group of man sit in a classroom . 
+
+verb-prep-object	sit in room
+object-prep-object	person in room
+object-verb	person sit
+object	room
+object	classroom
+object	person
+object	man
+object	tvmonitor
+#####################################################
+Students sit in a room using laptop computers . 
+student sit in a room use laptop computer . 
+
+verb-prep-object	sit in room
+object-prep-object	student in room
+object-verb-object	student use laptop
+attribute-object	laptop laptop
+object-verb	student sit
+object	room
+object	student
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+Three dark-haired young men sit in a classroom with one looking at his laptop . 
+three dark-haired young man sit in a classroom with one look at he laptop . 
+
+verb-prep-object	look at laptop
+verb-prep-object	sit in room
+object-prep-object	person in room
+attribute-object	dark-haired person
+attribute-object	young person
+object-verb	person sit
+object-verb	person look
+object	laptop
+object	room
+object	classroom
+object	person
+object	man
+object	tvmonitor
+#####################################################
+Three men surfing the internet . 
+three man surf the internet . 
+
+object-verb-object	person surf man
+object	person
+object	man
+object	tvmonitor
+#####################################################
+Young men sitting in what appears to be a class . 
+Young man sit in what appear to be a class . 
+
+attribute-object	young person
+object-verb	person sit
+verb-prep-object	sit in class
+object-prep-object	person in man
+object	person
+object	man
+object	class
+object	tvmonitor
+#####################################################

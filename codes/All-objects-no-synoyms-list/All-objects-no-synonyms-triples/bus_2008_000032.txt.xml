@@ -1,0 +1,55 @@
+A city bus driving past a building . 
+a city bus drive past a building . 
+
+verb-prep-object	drive past building
+object-prep-object	bus past building
+attribute-object	city bus
+object-verb	bus drive
+object	building
+object	bus
+object	bus
+#####################################################
+A red bus picks up new passengers . 
+a red bus pick up new passenger . 
+
+attribute-object	red bus
+attribute-object	new passenger
+object-verb-object	bus pick passenger
+verb-attribute	pick up
+object	bus
+object	passenger
+object	bus
+#####################################################
+A red trolley bus passing by on the opposite side of a city street . 
+a red trolley bus pass by on the opposite side of a city street . 
+
+object-verb	bus pass
+attribute-object	red bus
+attribute-object	trolley bus
+verb-attribute	pass by
+verb-prep-object	pass on street
+attribute-object	city street
+object	bus
+object	street
+object	bus
+#####################################################
+Red bus in front of building . 
+Red bus in front of building . 
+
+object-prep-object	bus in_front_of building
+attribute-object	red bus
+object	bus
+object	building
+object	bus
+#####################################################
+The bus makes the rounds in the quaint town . 
+the bus make the round in the quaint town . 
+
+object-prep-object	bus in town
+attribute-object	quaint town
+object-verb-object	bus make round
+object	bus
+object	town
+object	round
+object	bus
+#####################################################

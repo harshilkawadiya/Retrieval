@@ -1,0 +1,67 @@
+A school bus driving down a remote dirt road . 
+a school bus drive down a remote dirt road . 
+
+attribute-object	remote road
+object-verb-object	bus drive road
+attribute-object	school bus
+attribute-object	dirt road
+verb-attribute	drive down
+object	road
+object	bus
+object	bus
+#####################################################
+A school bus is driving uphill on a rural road . 
+a school bus be drive uphill on a rural road . 
+
+verb-prep-object	drive on road
+object-prep-object	bus on road
+object-verb-object	bus drive uphill
+attribute-object	rural road
+attribute-object	school bus
+object	road
+object	bus
+object	uphill
+object	bus
+#####################################################
+A yellow school bus is traveling on a dirt road . 
+a yellow school bus be travel on a dirt road . 
+
+verb-prep-object	travel on road
+object-prep-object	bus on road
+attribute-object	yellow bus
+attribute-object	school bus
+attribute-object	dirt road
+object-verb	bus travel
+object	road
+object	bus
+object	bus
+#####################################################
+Bus climbing hill in rural area . 
+bus climb hill in rural area . 
+
+object-prep-object	hill in area
+object-prep-object	bus in area
+verb-prep-object	climb in area
+attribute-object	rural area
+object-verb-object	bus climb hill
+object	hill
+object	area
+object	bus
+object	bus
+#####################################################
+Yellow school bus driving up a hill in a rural area . 
+yellow school bus drive up a hill in a rural area . 
+
+object-prep-object	hill in area
+verb-prep-object	drive in area
+object-prep-object	bus in area
+attribute-object	yellow bus
+attribute-object	rural area
+object-verb-object	bus drive hill
+attribute-object	school bus
+verb-attribute	drive up
+object	hill
+object	area
+object	bus
+object	bus
+#####################################################

@@ -1,0 +1,71 @@
+A man and two women smiling at the camera while sitting on a blue sofa . 
+a man and two woman smile at the camera while sit on a blue sofa . 
+
+verb-prep-object	smile at camera
+verb-prep-object	sit on sofa
+object-prep-object	man on sofa
+object-prep-object	woman on sofa
+attribute-object	blue sofa
+object-verb	man smile
+object-verb	woman smile
+object-verb	man sit
+object-verb	woman sit
+object	camera
+object	sofa
+object	man
+object	woman
+object	sofa
+#####################################################
+an older couple and a girl sitting on a blue futon . 
+a older couple and a girl sit on a blue futon . 
+
+verb-prep-object	sit on futon
+object-prep-object	couple on futon
+object-prep-object	girl on futon
+attribute-object	older couple
+attribute-object	blue futon
+object-verb	couple sit
+object-verb	girl sit
+object	futon
+object	couple
+object	girl
+object	sofa
+#####################################################
+An older man sits with an older and a younger woman on a blue couch . 
+a older man sit with a older and a younger woman on a blue couch . 
+
+verb-prep-object	sit with woman
+object-prep-object	man with woman
+verb-prep-object	sit on couch
+object-prep-object	man on couch
+attribute-object	older woman
+attribute-object	younger woman
+attribute-object	blue couch
+object-verb	man sit
+attribute-object	older man
+object	woman
+object	man
+object	couch
+object	sofa
+#####################################################
+People sitting on a couch . 
+people sit on a couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	people on couch
+object-verb	people sit
+object	couch
+object	people
+object	sofa
+#####################################################
+The people are posing on a blue futon . 
+the people be pose on a blue futon . 
+
+verb-prep-object	pose on futon
+object-prep-object	people on futon
+attribute-object	blue futon
+object-verb	people pose
+object	futon
+object	people
+object	sofa
+#####################################################

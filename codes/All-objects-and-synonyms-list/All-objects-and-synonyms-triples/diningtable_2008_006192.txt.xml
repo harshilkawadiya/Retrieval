@@ -1,0 +1,79 @@
+A country dinner setting with a bounty of food such as , steak , fruit , salad and coffee . 
+a country dinner set with a bounty of food such as , steak , fruit , salad and coffee . 
+
+verb-prep-object	set with food
+verb-prep-object	set with steak
+verb-prep-object	set with fruit
+verb-prep-object	set with salad
+verb-prep-object	set with coffee
+object-prep-object	dinner with food
+object-prep-object	dinner with steak
+object-prep-object	dinner with fruit
+object-prep-object	dinner with salad
+object-prep-object	dinner with coffee
+attribute-object	country dinner
+object-verb	dinner set
+object	food
+object	steak
+object	fruit
+object	salad
+object	coffee
+object	dinner
+object	diningtable
+#####################################################
+A dining table set and full of food in serving platters . 
+a dining table set and full of food in serve platter . 
+
+object-verb	diningtable set
+object-verb	diningtable full
+verb-prep-object	full of food
+object-prep-object	food in platter
+attribute-object	serve platter
+attribute-object	dining diningtable
+object	diningtable
+object	table
+object	food
+object	platter
+object	diningtable
+#####################################################
+A dinner set up on a family 's table . 
+a dinner set up on a family 's table . 
+
+object-prep-object	dinner on diningtable
+attribute-object	family diningtable
+object	dinner
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+A table is set for more than five people to eat beef , pie , salad , and fruit . 
+a table be set for more than five people to eat beef , pie , salad , and fruit . 
+
+verb-prep-object	set for person
+object-prep-object	diningtable for person
+verb-prep-verb	set to eat
+verb-object	eat beef
+verb-object	eat pie
+verb-object	eat salad
+verb-object	eat fruit
+object-verb	diningtable set
+object	person
+object	people
+object	diningtable
+object	table
+object	beef
+object	pie
+object	salad
+object	fruit
+object	diningtable
+#####################################################
+Kitchen table with food and plates set on it . 
+kitchen table with food and plate set on it . 
+
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+attribute-object	kitchen diningtable
+object	diningtable
+object	table
+object	diningtable
+#####################################################

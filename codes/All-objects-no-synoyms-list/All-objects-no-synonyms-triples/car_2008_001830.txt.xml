@@ -1,0 +1,57 @@
+A red Dodge Ram spinning its rear tires and a black truck , whom appear to be racing . 
+a red Dodge Ram spinning its rear tire and a black truck , whom appear to be race . 
+
+object-verb-object	ram spinning tire
+attribute-object	red ram
+attribute-object	dodge ram
+attribute-object	rear tire
+attribute-object	black truck
+object	ram
+object	tire
+object	truck
+object	car
+#####################################################
+A red truck spins their tires while a black one leaves the frame . 
+a red truck spin they tire while a black one leave the frame . 
+
+attribute-object	red truck
+attribute-object	black one
+object-verb-object	truck spin tire
+object	truck
+object	one
+object	tire
+object	car
+#####################################################
+A truck is creating a lot of smoke . 
+a truck be create a lot of smoke . 
+
+object-verb-object	truck create smoke
+object	truck
+object	smoke
+object	car
+#####################################################
+Red truck spinning tires and emitting smoke from behind . 
+Red truck spinning tire and emit smoke from behind . 
+
+object-verb-object	truck spinning tire
+object-verb-object	truck emit smoke
+attribute-object	red truck
+object	truck
+object	tire
+object	smoke
+object	car
+#####################################################
+There is a red Dodge truck doing a burnout with the bed of a black truck in the foreground . 
+there be a red Dodge truck do a burnout with the bed of a black truck in the foreground . 
+
+object-verb-object	truck do burnout
+object-prep-object	bed of truck
+verb-prep-object	do with bed
+attribute-object	red truck
+attribute-object	black truck
+attribute-object	dodge truck
+object	truck
+object	burnout
+object	bed
+object	car
+#####################################################

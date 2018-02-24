@@ -1,0 +1,66 @@
+A backpack standing beside a train . 
+a backpack standing beside a train . 
+
+verb-prep-object	stand beside train
+object-prep-object	backpack beside train
+object-verb	backpack stand
+object	train
+object	backpack
+object	train
+#####################################################
+A guy with a backpack standing next to a train . 
+a guy with a backpack stand next to a train . 
+
+object-prep-object	guy with backpack
+verb-prep-object	stand next_to train
+object-prep-object	guy next_to train
+object-verb	guy stand
+object	guy
+object	backpack
+object	train
+object	train
+#####################################################
+A man in black shorts stands beside a green train . 
+a man in black shorts stand beside a green train . 
+
+object-prep-object	man in shorts
+attribute-object	black shorts
+attribute-object	green train
+verb-prep-object	stand beside train
+object-prep-object	man beside train
+object-verb	man stand
+object	man
+object	shorts
+object	train
+object	train
+#####################################################
+A man standing on a platform next to a green and yellow train . 
+a man standing on a platform next to a green and yellow train . 
+
+verb-prep-object	stand on platform
+object-verb	man stand
+object-prep-object	man on platform
+verb-prep-object	stand next_to train
+object-prep-object	man next_to train
+attribute-object	green train
+attribute-object	yellow train
+object	platform
+object	man
+object	train
+object	train
+#####################################################
+A man wearing white gym shoes stands near a green train . 
+a man wear white gym shoe stand near a green train . 
+
+object-verb	man stand
+object-verb-object	man wear shoe
+attribute-object	white shoe
+attribute-object	gym shoe
+verb-prep-object	stand near train
+object-prep-object	man near train
+attribute-object	green train
+object	man
+object	shoe
+object	train
+object	train
+#####################################################

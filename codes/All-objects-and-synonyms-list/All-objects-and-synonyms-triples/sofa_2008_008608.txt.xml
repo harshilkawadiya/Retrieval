@@ -1,0 +1,77 @@
+A living room with a beige sofa and love seat , television , and coffee table . 
+a living room with a beige sofa and love seat , television , and coffee table . 
+
+object-prep-object	room with sofa
+object-prep-object	room with seat
+object-prep-object	room with tvmonitor
+object-prep-object	room with diningtable
+attribute-object	brown sofa
+attribute-object	living room
+attribute-object	love seat
+attribute-object	coffee diningtable
+object	room
+object	sofa
+object	seat
+object	tvmonitor
+object	diningtable
+object	table
+object	sofa
+#####################################################
+A living room with two sofas and a large TV along with a palm in the corner . 
+a living room with two sofa and a large tv along with a palm in the corner . 
+
+object-prep-object	room with sofa
+object-prep-object	room with tvmonitor
+object-prep-object	room along_with palm
+attribute-object	large tvmonitor
+attribute-object	living room
+object	room
+object	sofa
+object	tvmonitor
+object	palm
+object	tv
+object	sofa
+#####################################################
+Cream furniture and a television in a living room with palm tree decorations . 
+Cream furniture and a television in a living room with palm tree decoration . 
+
+object-prep-object	furniture in room
+object-prep-object	tvmonitor in television
+attribute-object	cream furniture
+object-prep-object	room with decoration
+attribute-object	living room
+attribute-object	palm decoration
+attribute-object	tree decoration
+object	furniture
+object	room
+object	tvmonitor
+object	television
+object	decoration
+object	sofa
+#####################################################
+Living room with tan furniture and flat screen television . 
+live room with tan furniture and flat screen television . 
+
+object-prep-object	room with furniture
+object-prep-object	room with tvmonitor
+attribute-object	live room
+attribute-object	flat tvmonitor
+attribute-object	tan furniture
+attribute-object	screen tvmonitor
+object	room
+object	furniture
+object	tvmonitor
+object	television
+object	sofa
+#####################################################
+The model home allows a comfortable seating arrangement to watch television . 
+the model home allow a comfortable seating arrangement to watch television . 
+
+attribute-object	comfortable arrangement
+object-verb-object	home allow arrangement
+attribute-object	model home
+attribute-object	seating arrangement
+object	arrangement
+object	home
+object	sofa
+#####################################################

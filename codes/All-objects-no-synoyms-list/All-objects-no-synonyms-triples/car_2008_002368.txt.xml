@@ -1,0 +1,48 @@
+A four-wheel-drive vehicle is crossing a stream . 
+a four-wheel-drive vehicle be cross a stream . 
+
+attribute-object	four-wheel-drive vehicle
+object-verb-object	vehicle cross stream
+object	vehicle
+object	stream
+object	car
+#####################################################
+A green Landrover fords a stream . 
+a green landrover ford a stream . 
+
+attribute-object	green landrover
+object-verb-object	landrover ford stream
+object	landrover
+object	stream
+object	car
+#####################################################
+A hummer drives through water . 
+a hummer drive through water . 
+
+verb-prep-object	drive through water
+object-prep-object	hummer through water
+object-verb	hummer drive
+object	water
+object	hummer
+object	car
+#####################################################
+A jeep is going through shallow water . 
+a jeep be go through shallow water . 
+
+verb-prep-object	go through water
+object-prep-object	jeep through water
+attribute-object	shallow water
+object-verb	jeep go
+object	water
+object	jeep
+object	car
+#####################################################
+This all-terrain vehicle easily crosses the streams in its path . 
+this all-terrain vehicle easily cross the stream in its path . 
+
+attribute-object	all-terrain vehicle
+object-verb-object	vehicle cross stream
+object	vehicle
+object	stream
+object	car
+#####################################################

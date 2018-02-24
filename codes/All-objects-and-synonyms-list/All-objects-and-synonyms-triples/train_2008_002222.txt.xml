@@ -1,0 +1,64 @@
+A man waits on the platform as the light rail train approaches . 
+a man wait on the platform as the light rail train approach . 
+
+verb-prep-object	wait on platform
+object-prep-object	person on man
+attribute-object	light train
+attribute-object	rail train
+object-verb	person wait
+object-verb	train approach
+object	platform
+object	person
+object	man
+object	train
+object	train
+#####################################################
+A train pulls into a stop surrounded by trees . 
+a train pull into a stop surround by tree . 
+
+verb-prep-object	pull into stop
+object-prep-object	train into stop
+verb-prep-object	surround by tree
+object-verb	train pull
+object-verb	stop surround
+object	stop
+object	train
+object	tree
+object	train
+#####################################################
+People wait for the train to stop so that they can board . 
+people wait for the train to stop so that they can board . 
+
+verb-prep-object	wait for train
+object-verb	person wait
+object-prep-object	train to stop
+object	train
+object	person
+object	people
+object	stop
+object	train
+#####################################################
+People waiting for yellow and white train to stop . 
+people wait for yellow and white train to stop . 
+
+verb-prep-object	wait for train
+attribute-object	yellow train
+attribute-object	white train
+object-verb	person wait
+object-prep-object	train to stop
+object	train
+object	person
+object	people
+object	stop
+object	train
+#####################################################
+Two men watching the oncoming train . 
+two man watch the oncoming train . 
+
+attribute-object	oncoming train
+object-verb-object	person watch man
+object	train
+object	person
+object	man
+object	train
+#####################################################

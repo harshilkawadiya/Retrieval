@@ -1,0 +1,62 @@
+A black and brown dog lays on the top step of a wooden deck . 
+a black and brown dog lay on the top step of a wooden deck . 
+
+verb-prep-object	lay on deck
+object-prep-object	dog on deck
+attribute-object	black dog
+attribute-object	brown dog
+attribute-object	wooden deck
+object-verb	dog lay
+object	deck
+object	dog
+object	dog
+#####################################################
+A black , white and brown dog lays at the top of some stairs . 
+a black , white and brown dog lay at the top of some stair . 
+
+verb-prep-object	lay at stair
+object-prep-object	dog at stair
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	brown dog
+object-verb	dog lay
+object	stair
+object	dog
+object	dog
+#####################################################
+A dog lies down at the top of the deck steps . 
+a dog lie down at the top of the deck step . 
+
+verb-prep-object	lie at deck
+object-prep-object	dog at deck
+object-verb	dog lie
+verb-attribute	lie down
+object	deck
+object	dog
+object	dog
+#####################################################
+A large dog sitting at the top of some wooden stairs with a house behind . 
+a large dog sit at the top of some wooden stair with a house behind . 
+
+verb-prep-object	sit at stair
+object-prep-object	dog at stair
+attribute-object	large dog
+attribute-object	wooden stair
+object-prep-object	stair with house
+object-verb	dog sit
+object	stair
+object	dog
+object	house
+object	dog
+#####################################################
+The dog on the porch at the top of a staircase is yawning . 
+the dog on the porch at the top of a staircase be yawning . 
+
+object-prep-object	dog at staircase
+object-prep-object	dog on porch
+object-verb	dog yawning
+object	dog
+object	staircase
+object	porch
+object	dog
+#####################################################

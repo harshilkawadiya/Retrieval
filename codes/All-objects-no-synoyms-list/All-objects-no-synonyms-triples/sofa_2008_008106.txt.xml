@@ -1,0 +1,70 @@
+A bright blue couch sits near a overturned chaise lounge and bench . 
+a bright blue couch sit near a overturn chaise lounge and bench . 
+
+object-verb	couch sit
+attribute-object	bright couch
+attribute-object	blue couch
+verb-prep-object	sit near lounge
+object-prep-object	couch near lounge
+attribute-object	overturn lounge
+attribute-object	chaise lounge
+verb-prep-object	sit near bench
+object-prep-object	couch near bench
+object	couch
+object	lounge
+object	bench
+object	sofa
+#####################################################
+A living room with a blue sofa , camp bed , wooden bench and dresser . 
+a living room with a blue sofa , camp bed , wooden bench and dresser . 
+
+object-prep-object	room with sofa
+object-prep-object	room with bed
+object-prep-object	room with bench
+object-prep-object	room with dresser
+attribute-object	blue sofa
+attribute-object	wooden bench
+attribute-object	living room
+attribute-object	camp bed
+object	room
+object	sofa
+object	bed
+object	bench
+object	dresser
+object	sofa
+#####################################################
+An empty living room with a blue couch . 
+a empty living room with a blue couch . 
+
+object-prep-object	room with couch
+attribute-object	empty room
+attribute-object	blue couch
+attribute-object	living room
+object	room
+object	couch
+object	sofa
+#####################################################
+A room with a blue sofa and an overturned cot . 
+a room with a blue sofa and a overturn cot . 
+
+object-prep-object	room with sofa
+object-prep-object	room with cot
+attribute-object	blue sofa
+attribute-object	overturn cot
+object	room
+object	sofa
+object	cot
+object	sofa
+#####################################################
+A sparse room in an apartment is a little disheveled . 
+a sparse room in a apartment be a little disheveled . 
+
+object-prep-object	room in apartment
+attribute-object	sparse room
+attribute-object	little disheveled
+object-object	room disheveled
+object	room
+object	apartment
+object	disheveled
+object	sofa
+#####################################################

@@ -1,0 +1,63 @@
+A boy sits on a horse near a group of people and another horse . 
+a boy sit on a horse near a group of people and another horse . 
+
+object-verb	boy sit
+verb-prep-object	sit on horse
+verb-prep-object	sit near people
+verb-prep-object	sit near horse
+object-prep-object	boy on horse
+object-prep-object	boy near people
+object-prep-object	boy near horse
+object	boy
+object	horse
+object	people
+object	car
+#####################################################
+A girl sitting on one of two horses as five other people watch . 
+a girl sit on one of two horse as five other people watch . 
+
+verb-prep-object	sit on horse
+object-prep-object	girl on horse
+object-verb	people watch
+object-verb	girl sit
+object	horse
+object	girl
+object	people
+object	car
+#####################################################
+A group of people standing near a small child sitting on a horse . 
+a group of people stand near a small child sit on a horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	child on horse
+verb-prep-object	stand near child
+object-prep-object	people near child
+attribute-object	small child
+object-verb	people stand
+object-verb	child sit
+object	horse
+object	child
+object	people
+object	car
+#####################################################
+Here is a roan horse mounted by a child , attended by two adults and another roan horse in the background with three other people . 
+here be a roan horse mount by a child , attend by two adult and another roan horse in the background with three other people . 
+
+object-verb	horse mount
+attribute-object	roan horse
+verb-prep-object	mount by child
+object	horse
+object	child
+object	car
+#####################################################
+Young girl on horse preparing to ride . 
+Young girl on horse prepare to ride . 
+
+object-prep-object	girl on horse
+attribute-object	young girl
+object-verb	girl prepare
+verb-prep-verb	prepare to ride
+object	girl
+object	horse
+object	car
+#####################################################

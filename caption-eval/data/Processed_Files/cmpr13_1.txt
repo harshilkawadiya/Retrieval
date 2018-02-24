@@ -1,0 +1,50 @@
+2	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+3	A man stands at a busy bus stop .
+4	a man stands next to a bus .
+5	People in the city .
+6	People walking down the street and past an open bus .
+7	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+8	A man stands at a busy bus stop .
+9	a man stands next to a bus .
+10	People in the city .
+11	People walking down the street and past an open bus .
+12	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+13	A man stands at a busy bus stop .
+14	a man stands next to a bus .
+15	People in the city .
+16	People walking down the street and past an open bus .
+17	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+18	A man stands at a busy bus stop .
+19	a man stands next to a bus .
+20	People in the city .
+21	People walking down the street and past an open bus .
+22	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+23	A man stands at a busy bus stop .
+24	a man stands next to a bus .
+25	People in the city .
+26	People walking down the street and past an open bus .
+27	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+28	A man stands at a busy bus stop .
+29	a man stands next to a bus .
+30	People in the city .
+31	People walking down the street and past an open bus .
+32	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+33	A man stands at a busy bus stop .
+34	a man stands next to a bus .
+35	People in the city .
+36	People walking down the street and past an open bus .
+37	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+38	A man stands at a busy bus stop .
+39	a man stands next to a bus .
+40	People in the city .
+41	People walking down the street and past an open bus .
+42	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+43	A man stands at a busy bus stop .
+44	a man stands next to a bus .
+45	People in the city .
+46	People walking down the street and past an open bus .
+47	A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .
+48	A man stands at a busy bus stop .
+49	a man stands next to a bus .
+50	People in the city .
+51	People walking down the street and past an open bus .

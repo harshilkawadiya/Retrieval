@@ -1,0 +1,77 @@
+a group of people sitting outside at a picnic table under a canopy . 
+a group of people sit outside at a picnic table under a canopy . 
+
+object-verb	people sit
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table under canopy
+attribute-object	picnic table
+object	people
+object	table
+object	canopy
+object	diningtable
+#####################################################
+A group of people sit under a tent , at a table with an orange table cloth . 
+a group of people sit under a tent , at a table with a orange table cloth . 
+
+object-verb	people sit
+verb-prep-object	sit under tent
+object-prep-object	people under tent
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table with cloth
+attribute-object	orange cloth
+attribute-object	table cloth
+object	people
+object	tent
+object	table
+object	cloth
+object	diningtable
+#####################################################
+Several people mingle at an outdoor party . 
+several people mingle at a outdoor party . 
+
+verb-prep-object	mingle at party
+object-prep-object	people at party
+attribute-object	several people
+attribute-object	outdoor party
+object-verb	people mingle
+object	party
+object	people
+object	diningtable
+#####################################################
+Several people sit under an awning , talking and eating , while others stand out in the sun . 
+several people sit under a awning , talk and eat , while other stand out in the sun . 
+
+verb-prep-object	sit under awning
+object-prep-object	people under awning
+verb-prep-object	stand in sun
+object-prep-object	people in sun
+attribute-object	several people
+object-verb	people sit
+object-verb	people talk
+object-verb	people eat
+object-verb	people stand
+verb-attribute	stand out
+object	awning
+object	people
+object	sun
+object	diningtable
+#####################################################
+The people are sitting down and eating on a table covered with an orange tablecloth . 
+the people be sit down and eat on a table cover with a orange tablecloth . 
+
+verb-prep-object	cover with tablecloth
+object-prep-object	table with tablecloth
+verb-prep-object	eat on table
+object-prep-object	people on table
+verb-attribute	sit down
+attribute-object	orange tablecloth
+object-verb	people sit
+object-verb	people eat
+object-verb	table cover
+object	tablecloth
+object	table
+object	people
+object	diningtable
+#####################################################

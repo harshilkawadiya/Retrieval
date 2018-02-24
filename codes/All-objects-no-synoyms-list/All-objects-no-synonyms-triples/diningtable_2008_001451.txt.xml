@@ -1,0 +1,59 @@
+A blond woman mingles with guests at a party . 
+a blond woman mingle with guest at a party . 
+
+object-prep-object	guest at party
+verb-prep-object	mingle with guest
+object-prep-object	woman with guest
+attribute-object	blond woman
+object-verb	woman mingle
+object	guest
+object	party
+object	woman
+object	diningtable
+#####################################################
+A gathering of people of different cultures in a house . 
+a gathering of people of different culture in a house . 
+
+object-prep-object	gathering of people
+object-prep-object	people in house
+object	gathering
+object	people
+object	house
+object	diningtable
+#####################################################
+A group of people standing near an open doorway chatting . 
+a group of people stand near a open doorway chat . 
+
+verb-prep-object	stand near doorway
+object-prep-object	people near doorway
+attribute-object	open doorway
+object-verb	people stand
+object-verb	people chat
+object	doorway
+object	people
+object	diningtable
+#####################################################
+Six people mingling at a party . 
+six people mingle at a party . 
+
+verb-prep-object	mingle at party
+object-prep-object	people at party
+object-verb	people mingle
+object	party
+object	people
+object	diningtable
+#####################################################
+Young woman in pink dress wearing white necklace smiling . 
+Young woman in pink dress wear white necklace smile . 
+
+object-prep-object	woman in dress
+attribute-object	young woman
+attribute-object	pink dress
+object-verb-object	woman wear necklace
+attribute-object	white necklace
+object-verb	woman smile
+object	woman
+object	dress
+object	necklace
+object	diningtable
+#####################################################

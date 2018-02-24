@@ -1,0 +1,73 @@
+A few people and a dog are inside a lean-to type structure . 
+a few people and a dog be inside a lean-to type structure . 
+
+object-prep-object	person inside people
+object-prep-object	dog inside structure
+attribute-object	few person
+attribute-object	lean-to structure
+attribute-object	type structure
+object	person
+object	people
+object	dog
+object	structure
+object	dog
+#####################################################
+A group of people and a black and white dog standing in a construction site . 
+a group of people and a black and white dog standing in a construction site . 
+
+object-verb	person stand
+object-verb	dog stand
+verb-prep-object	stand in site
+object-prep-object	person in people
+object-prep-object	dog in site
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	construction site
+object	person
+object	people
+object	dog
+object	site
+object	dog
+#####################################################
+A group of people in an incomplete house shot from outside . 
+a group of people in a incomplete house shot from outside . 
+
+object-prep-object	person in building
+attribute-object	incomplete building
+object	person
+object	people
+object	building
+object	house
+object	dog
+#####################################################
+People gathered in an unfinished building . 
+people gather in a unfinished building . 
+
+verb-prep-object	gather in building
+object-prep-object	person in people
+attribute-object	unfinished building
+object-verb	person gather
+object	building
+object	person
+object	people
+object	dog
+#####################################################
+Several people standing inside of house with black and white dog lying down . 
+several people stand inside of house with black and white dog lie down . 
+
+object-prep-object	building with house
+verb-prep-object	stand inside_of building
+object-prep-object	person inside_of building
+attribute-object	several person
+attribute-object	black dog
+attribute-object	white dog
+object-verb	person stand
+object-verb	dog lie
+verb-attribute	lie down
+object	building
+object	house
+object	person
+object	people
+object	dog
+object	dog
+#####################################################

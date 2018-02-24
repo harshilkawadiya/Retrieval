@@ -1,0 +1,55 @@
+A Hummingbird landing on a selection of glassware outside . 
+a Hummingbird landing on a selection of glassware outside . 
+
+verb-prep-object	land on selection
+object-prep-object	selection of glassware
+object-attribute	glassware outside
+object-verb	bird land
+object	selection
+object	glassware
+object	bird
+object	bird
+#####################################################
+A hummingbird perched on a feeder . 
+a hummingbird perch on a feeder . 
+
+verb-prep-object	perch on person
+object-prep-object	bird on person
+object-verb	bird perch
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+Humming bird and feeders . 
+hum bird and feeder . 
+
+attribute-object	humming bird
+object	person
+object	bird
+object	person
+object	feeder
+object	bird
+#####################################################
+Humming bird perched on metal bar . 
+hum bird perch on metal bar . 
+
+verb-prep-object	perch on bar
+attribute-object	metal bar
+attribute-object	humming bird
+object-verb	bird perch
+object	bar
+object	bird
+object	bird
+#####################################################
+Two hummingbird feeders , one blue one red , with a hummingbird above . 
+two hummingbird feeder , one blue one red , with a hummingbird above . 
+
+object-prep-object	person with feeder
+attribute-object	blue person
+attribute-object	red person
+attribute-object	bird person
+object	person
+object	feeder
+object	bird
+#####################################################

@@ -1,0 +1,46 @@
+A black and white image of a cat laying on a rug . 
+a black and white image of a cat lay on a rug . 
+
+verb-prep-object	lay on rug
+object-prep-object	cat on rug
+object-verb	cat lay
+object	rug
+object	cat
+object	cat
+#####################################################
+a black and white photo of a cat lying down . 
+a black and white photo of a cat lie down . 
+
+object-verb	cat lie
+verb-attribute	lie down
+object	cat
+object	cat
+#####################################################
+A black and white photo of a cat sitting on a sofa . 
+a black and white photo of a cat sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	cat on sofa
+object-verb	cat sit
+object	sofa
+object	cat
+object	cat
+#####################################################
+A tabby cat relaxing . 
+a tabby cat relax . 
+
+attribute-object	tabby cat
+object-verb	cat relax
+object	cat
+object	cat
+#####################################################
+Black and white picture of a cat laying on a rug . 
+Black and white picture of a cat lay on a rug . 
+
+verb-prep-object	lay on rug
+object-prep-object	cat on rug
+object-verb	cat lay
+object	rug
+object	cat
+object	cat
+#####################################################

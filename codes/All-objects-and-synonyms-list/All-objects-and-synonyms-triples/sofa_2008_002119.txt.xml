@@ -1,0 +1,69 @@
+A bright red couch in a room with mostly wooden furniture . 
+a bright red couch in a room with mostly wooden furniture . 
+
+object-prep-object	room with furniture
+object-prep-object	sofa in bed
+attribute-object	bright sofa
+attribute-object	red sofa
+attribute-object	wooden furniture
+object	room
+object	furniture
+object	sofa
+object	bed
+object	sofa
+#####################################################
+A living room with a large red sofa behind a small wooden table . 
+a living room with a large red sofa behind a small wooden table . 
+
+object-prep-object	sofa behind diningtable
+object-prep-object	room with sofa
+attribute-object	large sofa
+attribute-object	red sofa
+attribute-object	small diningtable
+attribute-object	wooden diningtable
+attribute-object	living room
+object	sofa
+object	diningtable
+object	room
+object	table
+object	sofa
+#####################################################
+A red couch with plaid pillows rests against a white wall . 
+a red couch with plaid pillow rest against a white wall . 
+
+verb-prep-object	rest against wall
+object-prep-object	sofa against bed
+object-prep-object	sofa with bed
+attribute-object	red sofa
+attribute-object	plaid pillow
+attribute-object	white wall
+object-verb	sofa rest
+object	wall
+object	sofa
+object	bed
+object	pillow
+object	sofa
+#####################################################
+Red sofa in den or living room . 
+Red sofa in den or living room . 
+
+object-prep-object	sofa in room
+object-prep-object	sofa in room
+attribute-object	red sofa
+attribute-object	living room
+object	sofa
+object	room
+object	sofa
+#####################################################
+The old red couch looks handsome in the den . 
+the old red couch look handsome in the den . 
+
+object-prep-object	sofa in room
+attribute-object	old sofa
+attribute-object	red sofa
+object-verb-object	sofa look bed
+object	sofa
+object	bed
+object	room
+object	sofa
+#####################################################

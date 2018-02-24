@@ -1,0 +1,58 @@
+A bus drives down a busy road . 
+a bus drive down a busy road . 
+
+attribute-object	busy road
+object-verb-object	bus drive road
+verb-attribute	drive down
+object	road
+object	bus
+object	bus
+#####################################################
+a bus driving in a street . 
+a bus drive in a street . 
+
+verb-prep-object	drive in road
+object-prep-object	bus in road
+object-verb	bus drive
+object	road
+object	street
+object	bus
+object	bus
+#####################################################
+A passenger bus going down a busy city street . 
+a passenger bus go down a busy city street . 
+
+attribute-object	busy road
+object-verb-object	bus go road
+attribute-object	passenger bus
+attribute-object	city road
+verb-attribute	go down
+object	road
+object	street
+object	bus
+object	bus
+#####################################################
+A white and red bus traveling on the street . 
+a white and red bus travel on the street . 
+
+verb-prep-object	travel on road
+object-prep-object	bus on road
+attribute-object	white bus
+attribute-object	red bus
+object-verb	bus travel
+object	road
+object	street
+object	bus
+object	bus
+#####################################################
+Red and white bus driving down road . 
+Red and white bus drive down road . 
+
+attribute-object	red bus
+attribute-object	white bus
+object-verb-object	bus drive road
+verb-attribute	drive down
+object	bus
+object	road
+object	bus
+#####################################################

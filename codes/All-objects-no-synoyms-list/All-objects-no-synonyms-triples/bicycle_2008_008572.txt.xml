@@ -1,0 +1,65 @@
+A mountain biker is caught in mid jump with his bike on a dirt hill . 
+a mountain biker be catch in mid jump with he bike on a dirt hill . 
+
+verb-prep-object	catch with bike
+verb-prep-object	catch on hill
+verb-prep-object	catch in jump
+object-prep-object	biker with bike
+object-prep-object	biker on hill
+object-prep-object	biker in jump
+attribute-object	mid jump
+attribute-object	mountain biker
+attribute-object	dirt hill
+object-verb	biker catch
+object	bike
+object	hill
+object	jump
+object	biker
+object	bicycle
+#####################################################
+A person is jumping a bicycle and performing a trick . 
+a person be jump a bicycle and perform a trick . 
+
+object-verb-object	person jump bicycle
+object-verb-object	person perform trick
+object	person
+object	bicycle
+object	trick
+object	bicycle
+#####################################################
+A person leaping in the air with a bicycle . 
+a person leap in the air with a bicycle . 
+
+verb-prep-object	leap in air
+verb-prep-object	leap with bicycle
+object-prep-object	person in air
+object-prep-object	person with bicycle
+object-verb	person leap
+object	air
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A person performs a stunt as he jumps his dirt bike . 
+a person perform a stunt as he jump he dirt bike . 
+
+object-verb-object	person perform stunt
+object-verb-object	person jump bike
+attribute-object	dirt bike
+object	person
+object	stunt
+object	bike
+object	bicycle
+#####################################################
+A person riding a dirt bike in the outdoors . 
+a person ride a dirt bike in the outdoors . 
+
+verb-prep-object	ride in outdoors
+object-prep-object	person in outdoors
+object-verb-object	person ride bike
+attribute-object	dirt bike
+object	outdoors
+object	person
+object	bike
+object	bicycle
+#####################################################

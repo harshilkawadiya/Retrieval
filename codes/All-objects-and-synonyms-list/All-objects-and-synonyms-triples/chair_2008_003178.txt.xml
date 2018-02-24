@@ -1,0 +1,62 @@
+A group of red plastic chairs in a hall . 
+a group of red plastic chair in a hall . 
+
+attribute-object	red chair
+attribute-object	plastic chair
+object-prep-object	chair in room
+object	chair
+object	room
+object	chair
+#####################################################
+Red chair in a tiled room . 
+Red chair in a tiled room . 
+
+object-prep-object	chair in room
+attribute-object	tiled room
+attribute-object	red chair
+object	chair
+object	room
+object	chair
+#####################################################
+Red plastic chairs on a linoleum floor . 
+Red plastic chair on a linoleum floor . 
+
+object-prep-object	chair on floor
+attribute-object	red chair
+attribute-object	plastic chair
+attribute-object	linoleum floor
+object	chair
+object	floor
+object	chair
+#####################################################
+There are red chairs , a yellow wall , a blue green designed wall and a table in this room . 
+there be red chair , a yellow wall , a blue green design wall and a table in this room . 
+
+object-prep-object	chair in room
+object-prep-object	wall in room
+object-prep-object	wall in room
+object-prep-object	diningtable in table
+attribute-object	red chair
+attribute-object	yellow wall
+attribute-object	blue wall
+attribute-object	green wall
+attribute-object	design wall
+object	chair
+object	room
+object	wall
+object	diningtable
+object	table
+object	chair
+#####################################################
+This brightly lit floorspace is littered with red plastic chairs . 
+this brightly light floorspace be litter with red plastic chair . 
+
+verb-prep-object	litter with chair
+object-prep-object	floorspace with chair
+attribute-object	red chair
+attribute-object	plastic chair
+object-verb	floorspace litter
+object	chair
+object	floorspace
+object	chair
+#####################################################

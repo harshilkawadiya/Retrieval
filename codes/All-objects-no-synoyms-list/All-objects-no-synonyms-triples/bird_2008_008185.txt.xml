@@ -1,0 +1,78 @@
+A man and a boy take a serene walk on the beach . 
+a man and a boy take a serene walk on the beach . 
+
+object-prep-object	walk on beach
+object-prep-object	man on beach
+object-prep-object	boy on beach
+attribute-object	serene walk
+object-verb-object	man take walk
+object-verb-object	boy take walk
+object	walk
+object	beach
+object	man
+object	boy
+object	bird
+#####################################################
+A man and a woman holding hands walking along the beach . 
+a man and a woman hold hand walk along the beach . 
+
+verb-prep-object	walk along beach
+object-verb-object	man hold hand
+object-verb-object	woman hold hand
+object-verb	man walk
+object-verb	woman walk
+object	beach
+object	man
+object	hand
+object	woman
+object	bird
+#####################################################
+A man and boy walking along a beach with the sea in the background . 
+a man and boy walking along a beach with the sea in the background . 
+
+verb-prep-object	walk with sea
+verb-prep-object	walk along beach
+object-prep-object	sea in background
+object-prep-object	man along beach
+object-prep-object	woman along beach
+object-verb	man walk
+object-verb	boy walk
+object	sea
+object	beach
+object	background
+object	man
+object	woman
+object	boy
+object	bird
+#####################################################
+A man with a beard and a skullcap and a boy walk along the ocean 's shore . 
+a man with a beard and a skullcap and a boy walk along the ocean 's shore . 
+
+object-prep-object	man with beard
+object-prep-object	man with skullcap
+verb-prep-object	walk along shore
+object-prep-object	man along shore
+object-prep-object	boy along shore
+attribute-object	ocean shore
+object-verb	man walk
+object-verb	boy walk
+object	man
+object	beard
+object	skullcap
+object	shore
+object	boy
+object	bird
+#####################################################
+Man and boy walking on beach . 
+man and boy walking on beach . 
+
+verb-prep-object	walk on beach
+object-prep-object	man on beach
+object-prep-object	boy on beach
+object-verb	man walk
+object-verb	boy walk
+object	beach
+object	man
+object	boy
+object	bird
+#####################################################

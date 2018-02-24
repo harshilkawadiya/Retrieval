@@ -1,0 +1,80 @@
+A blue moped parked near a graffiti covered while alongside a dog laying down . 
+a blue moped park near a graffitus cover while alongside a dog lay down . 
+
+object-verb	moped park
+verb-prep-object	park near graffitus
+object-prep-object	moped near graffitus
+attribute-object	blue moped
+object-verb	moped cover
+object-verb	dog lay
+verb-attribute	lay down
+object	moped
+object	graffitus
+object	dog
+object	motorbike
+#####################################################
+A dog laying down looking at a motorcycle parked beside him . 
+a dog lay down look at a motorcycle park beside he . 
+
+verb-prep-object	look at motorcycle
+object-verb	motorcycle park
+object-verb	dog look
+object-verb	dog lay
+verb-attribute	lay down
+object	motorcycle
+object	dog
+object	motorbike
+#####################################################
+A moped is parked on a path near where a dog lies on a stone platform . 
+a moped be park on a path near where a dog lie on a stone platform . 
+
+verb-prep-object	path near dog
+verb-prep-object	park on path
+object-prep-object	moped near dog
+object-prep-object	moped on path
+verb-prep-object	lie on platform
+object-prep-object	dog on platform
+attribute-object	stone platform
+object-verb	dog lie
+object-verb	moped park
+object	dog
+object	path
+object	moped
+object	platform
+object	motorbike
+#####################################################
+A tan dog rests on a concrete pedestal near a parked motorcycle and a wall with graffiti . 
+a tan dog rest on a concrete pedestal near a park motorcycle and a wall with graffitus . 
+
+object-prep-object	wall with graffitus
+verb-prep-object	rest on pedestal
+object-prep-object	dog on pedestal
+verb-prep-object	rest near motorcycle
+object-prep-object	dog near motorcycle
+attribute-object	concrete pedestal
+attribute-object	park motorcycle
+attribute-object	tan dog
+object-verb	dog rest
+object	wall
+object	graffitus
+object	pedestal
+object	dog
+object	motorcycle
+object	motorbike
+#####################################################
+The brown dog is sitting next to a wall covered in graffiti and a motorcycle . 
+the brown dog be sit next to a wall cover in graffitus and a motorcycle . 
+
+verb-prep-object	sit next_to wall
+object-prep-object	dog next_to wall
+verb-prep-object	cover in graffitus
+attribute-object	brown dog
+object-verb	dog sit
+object-verb	wall cover
+object	motorcycle
+object	wall
+object	dog
+object	graffitus
+object	motorcycle
+object	motorbike
+#####################################################

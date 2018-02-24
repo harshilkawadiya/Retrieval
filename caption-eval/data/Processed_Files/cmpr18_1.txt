@@ -1,0 +1,50 @@
+2	A big dog chases a little dog on the grass .
+3	A black dog is chasing a smaller brown dog over grass .
+4	The large brown dog is chasing after the little brown dog .
+5	Two brown dogs run through the grass together .
+6	two dogs play in the grass .
+7	A big dog chases a little dog on the grass .
+8	A black dog is chasing a smaller brown dog over grass .
+9	The large brown dog is chasing after the little brown dog .
+10	Two brown dogs run through the grass together .
+11	two dogs play in the grass .
+12	A big dog chases a little dog on the grass .
+13	A black dog is chasing a smaller brown dog over grass .
+14	The large brown dog is chasing after the little brown dog .
+15	Two brown dogs run through the grass together .
+16	two dogs play in the grass .
+17	A big dog chases a little dog on the grass .
+18	A black dog is chasing a smaller brown dog over grass .
+19	The large brown dog is chasing after the little brown dog .
+20	Two brown dogs run through the grass together .
+21	two dogs play in the grass .
+22	A big dog chases a little dog on the grass .
+23	A black dog is chasing a smaller brown dog over grass .
+24	The large brown dog is chasing after the little brown dog .
+25	Two brown dogs run through the grass together .
+26	two dogs play in the grass .
+27	A big dog chases a little dog on the grass .
+28	A black dog is chasing a smaller brown dog over grass .
+29	The large brown dog is chasing after the little brown dog .
+30	Two brown dogs run through the grass together .
+31	two dogs play in the grass .
+32	A big dog chases a little dog on the grass .
+33	A black dog is chasing a smaller brown dog over grass .
+34	The large brown dog is chasing after the little brown dog .
+35	Two brown dogs run through the grass together .
+36	two dogs play in the grass .
+37	A big dog chases a little dog on the grass .
+38	A black dog is chasing a smaller brown dog over grass .
+39	The large brown dog is chasing after the little brown dog .
+40	Two brown dogs run through the grass together .
+41	two dogs play in the grass .
+42	A big dog chases a little dog on the grass .
+43	A black dog is chasing a smaller brown dog over grass .
+44	The large brown dog is chasing after the little brown dog .
+45	Two brown dogs run through the grass together .
+46	two dogs play in the grass .
+47	A big dog chases a little dog on the grass .
+48	A black dog is chasing a smaller brown dog over grass .
+49	The large brown dog is chasing after the little brown dog .
+50	Two brown dogs run through the grass together .
+51	two dogs play in the grass .

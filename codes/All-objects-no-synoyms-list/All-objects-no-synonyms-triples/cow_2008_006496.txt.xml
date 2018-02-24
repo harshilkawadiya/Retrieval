@@ -1,0 +1,56 @@
+Two black ox with goods on their back . 
+two black ox with goods on they back . 
+
+object-prep-object	ox with goods
+object-prep-object	goods on back
+attribute-object	black ox
+object	ox
+object	goods
+object	back
+object	cow
+#####################################################
+Two large animals standing loaded with burdens to carry . 
+two large animal stand load with burden to carry . 
+
+verb-prep-object	load with burden
+object-prep-object	animal with burden
+attribute-object	large animal
+object-verb	animal load
+object-verb	animal stand
+object	burden
+object	animal
+object	cow
+#####################################################
+Two pack animals loaded with baggage . 
+two pack animal load with baggage . 
+
+verb-prep-object	load with baggage
+object-prep-object	animal with baggage
+attribute-object	pack animal
+object-verb	animal load
+object	baggage
+object	animal
+object	cow
+#####################################################
+Two steer loaded with hiking equipment . 
+two steer load with hiking equipment . 
+
+verb-prep-object	load with equipment
+object-prep-object	steer with equipment
+attribute-object	hiking equipment
+object-verb	steer load
+object	equipment
+object	steer
+object	cow
+#####################################################
+Two yaks are carrying sacks in a rural village . 
+two yak be carry sack in a rural village . 
+
+object-prep-object	sack in village
+attribute-object	rural village
+object-verb-object	yak carry sack
+object	sack
+object	village
+object	yak
+object	cow
+#####################################################

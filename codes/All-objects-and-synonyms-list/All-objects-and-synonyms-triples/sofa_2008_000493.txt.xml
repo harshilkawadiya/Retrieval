@@ -1,0 +1,79 @@
+A woman holds a baby on a sofa with a small boy sitting next to her . 
+a woman hold a baby on a sofa with a small boy sit next to she . 
+
+verb-prep-object	sit next_to person
+object-prep-object	person next_to person
+verb-prep-object	hold on sofa
+object-prep-object	person on woman
+attribute-object	small person
+object-verb-object	person hold woman
+object-verb	person sit
+object	person
+object	woman
+object	boy
+object	sofa
+object	sofa
+#####################################################
+Older woman holding newborn baby on couch . 
+older woman hold newborn baby on couch . 
+
+verb-prep-object	hold on sofa
+object-prep-object	person on bed
+attribute-object	older person
+attribute-object	newborn baby
+object-verb-object	person hold woman
+object	sofa
+object	bed
+object	person
+object	woman
+object	baby
+object	sofa
+#####################################################
+Woman holding newborn and sitting next to young boy . 
+Woman hold newborn and sit next to young boy . 
+
+verb-prep-object	sit next_to person
+object-prep-object	person next_to person
+object-verb-object	person hold woman
+object-verb	person sit
+attribute-object	young person
+object	person
+object	boy
+object	woman
+object	sofa
+#####################################################
+Woman with infant , and child sitting next to her on couch . 
+Woman with infant , and child sit next to she on couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	person with person
+verb-prep-object	sit next_to person
+object-prep-object	person next_to person
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	child
+object	woman
+object	sofa
+#####################################################
+Woman with short haircut sitting on brown couch is holding a baby while another child watches . 
+Woman with short haircut sit on brown couch be hold a baby while another child watch . 
+
+object-prep-object	person with woman
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	short haircut
+attribute-object	brown sofa
+object-verb-object	person hold woman
+object-verb	person watch
+object-verb	person sit
+object	person
+object	woman
+object	sofa
+object	bed
+object	haircut
+object	child
+object	sofa
+#####################################################

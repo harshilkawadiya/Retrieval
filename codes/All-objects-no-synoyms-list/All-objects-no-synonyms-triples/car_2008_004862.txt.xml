@@ -1,0 +1,63 @@
+A line of parked cars and people fixing bicycles . 
+a line of park car and people fix bicycle . 
+
+attribute-object	park car
+object-verb-object	people fix bicycle
+object	car
+object	people
+object	bicycle
+object	car
+#####################################################
+A man and woman stand beside a line of cars and trees preparing a bicycle . 
+a man and woman stand beside a line of car and tree prepare a bicycle . 
+
+object-verb	man stand
+object-verb	woman stand
+verb-prep-object	stand beside car
+object-prep-object	man beside car
+object-prep-object	woman beside car
+verb-prep-object	stand beside tree
+object-prep-object	man beside tree
+object-prep-object	woman beside tree
+object-verb-object	man prepare bicycle
+object-verb-object	woman prepare bicycle
+object	man
+object	woman
+object	car
+object	tree
+object	bicycle
+object	car
+#####################################################
+A man fixing a bicycle in front of a row of parked cars . 
+a man fix a bicycle in front of a row of park car . 
+
+verb-prep-object	fix in_front_of car
+object-prep-object	man in_front_of car
+attribute-object	park car
+object-verb-object	man fix bicycle
+object	car
+object	man
+object	bicycle
+object	car
+#####################################################
+A rider standing next to his bike and a row of cars . 
+a rider stand next to he bike and a row of car . 
+
+verb-prep-object	stand next_to bike
+object-prep-object	rider next_to bike
+verb-prep-object	stand next_to car
+object-prep-object	rider next_to car
+object-verb	rider stand
+object	bike
+object	rider
+object	car
+object	car
+#####################################################
+Man fixing bicycle that is upside down . 
+man fix bicycle that be upside down . 
+
+object-verb-object	man fix bicycle
+object	man
+object	bicycle
+object	car
+#####################################################

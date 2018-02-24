@@ -1,0 +1,50 @@
+beam_size_1	2	A dog hops in a field while another dog stands next to it .
+beam_size_1	3	One dog is jumping up at another dog in a grassy field .
+beam_size_1	4	The two tan colored dogs are in a field , and one is jumping in the air .
+beam_size_1	5	Two brown dogs in a field .
+beam_size_1	6	Two brown dogs play with one another in the field .
+beam_size_1	7	The two greyhound dogs wearing sweaters are playing in the grass .
+beam_size_1	8	Two dogs play in the grass .
+beam_size_1	9	Two dogs wearing shirts play in the green grass .
+beam_size_1	10	Two dogs wearing sweaters play in a field .
+beam_size_1	11	Two dogs wearing sweaters play in the grass .
+beam_size_1	12	A black dog and a tan dog fighting .
+beam_size_1	13	A black dog and a white dog are wrestling on the ground .
+beam_size_1	14	A black dog bites a white dog while standing on the sand .
+beam_size_1	15	two dogs fight .
+beam_size_1	16	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	17	The three dogs are standing in the sand .
+beam_size_1	18	Three small dogs stand in the sand and stare at each other .
+beam_size_1	19	Three small dogs , two of which are sniffing noses .
+beam_size_1	20	Two dogs meet and check out a third dog at the beach .
+beam_size_1	21	Two small dogs facing a third dog .
+beam_size_1	22	a black dog jumping to catch a rope toy
+beam_size_1	23	A black dog playing fetch with a ball of rope .
+beam_size_1	24	A black dog pounces to get a rope toy .
+beam_size_1	25	A black dog running after his rope toy .
+beam_size_1	26	A large black dog is playing in a grassy yard .
+beam_size_1	27	a black dog plays with a ball in the water .
+beam_size_1	28	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	29	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	30	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	31	The black dog is running though the water with a pink ball .
+beam_size_1	32	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	33	An elderly woman rides a bicycle along a city street .
+beam_size_1	34	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	35	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	36	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	37	A man performing a skateboard jump off the top of a ramp .
+beam_size_1	38	A skateboarder becomes airborne at the top of a black and yellow ramp .
+beam_size_1	39	A skateboarder does a trick on a black and yellow striped ramp .
+beam_size_1	40	Skateboarder flying over ramp outside .
+beam_size_1	41	This man is doing a stunt on a skateboard outdoors .
+beam_size_1	42	A group of dogs runs beside a pond through a field .
+beam_size_1	43	several multicolored dogs running through the grass .
+beam_size_1	44	Three black dogs , two with tan markings , are running along grass .
+beam_size_1	45	Three dogs running through a field .
+beam_size_1	46	Three dogs run on scrubby grass , a lake and picnic table nearby .
+beam_size_1	47	A brown dog possessively grabs a purple Frisbee in a field .
+beam_size_1	48	A brown dog running to catch a Frisbee in a field of grass .
+beam_size_1	49	A brown dog with a purple Frisbee in its mouth .
+beam_size_1	50	A dog in a field with a Frisbee .
+beam_size_1	51	The dog is concerned with a purple object lying in an uncut field .

@@ -1,0 +1,66 @@
+A black and white cow in a grassy field stares at the camera . 
+a black and white cow in a grassy field stare at the camera . 
+
+verb-prep-object	stare at camera
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	grassy field
+object-verb	cow stare
+object	camera
+object	cow
+object	field
+object	cow
+#####################################################
+A black and white cow standing in a grassy field . 
+a black and white cow standing in a grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	grassy field
+object-verb	cow stand
+object	field
+object	cow
+object	cow
+#####################################################
+A black and white cow stands on grass against a partly cloudy blue sky . 
+a black and white cow stand on grass against a partly cloudy blue sky . 
+
+verb-prep-object	stand against sky
+verb-prep-object	stand on grass
+object-prep-object	cow on grass
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	cloudy sky
+attribute-object	blue sky
+object-verb	cow stand
+object	sky
+object	grass
+object	cow
+object	cow
+#####################################################
+a cow is gazing over the grass he is about to graze . 
+a cow be gaze over the grass he be about to graze . 
+
+verb-prep-object	gaze over grass
+object-prep-object	cow over grass
+object-verb	cow gaze
+object	grass
+object	cow
+object	cow
+#####################################################
+Black and white cow standing in grassy field . 
+Black and white cow standing in grassy field . 
+
+object-verb	cow stand
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	grassy field
+object	cow
+object	field
+object	cow
+#####################################################

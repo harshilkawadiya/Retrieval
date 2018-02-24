@@ -1,0 +1,80 @@
+A girl in a black desktop holds up an open box of Corn Flakes and a carton of milk . 
+a girl in a black desktop hold up a open box of Corn Flakes and a carton of milk . 
+
+object-prep-object	girl in desktop
+object-prep-object	box of flakes
+object-prep-object	carton of milk
+attribute-object	black desktop
+attribute-object	open box
+object-verb-object	girl hold box
+object-verb-object	girl hold carton
+attribute-object	corn flakes
+verb-attribute	hold up
+object	girl
+object	desktop
+object	box
+object	flakes
+object	carton
+object	milk
+object	bottle
+#####################################################
+A woman holding a bottle of milk and a box of corn flakes . 
+a woman hold a bottle of milk and a box of corn flake . 
+
+object-prep-object	bottle of milk
+object-prep-object	box of flake
+object-verb-object	woman hold bottle
+object-verb-object	woman hold box
+attribute-object	corn flake
+object	bottle
+object	milk
+object	box
+object	flake
+object	woman
+object	bottle
+#####################################################
+A woman at a party holding a box of Corn Flakes and milk . 
+a woman at a party hold a box of Corn Flakes and milk . 
+
+object-prep-object	woman at party
+object-prep-object	box of flakes
+object-prep-object	box of milk
+object-verb-object	woman hold box
+attribute-object	corn flakes
+object	woman
+object	party
+object	box
+object	flakes
+object	milk
+object	bottle
+#####################################################
+Woman posing in library with corn flakes and milk . 
+Woman pose in library with corn flake and milk . 
+
+verb-prep-object	pose with flake
+verb-prep-object	pose with milk
+verb-prep-object	pose in library
+object-prep-object	woman with flake
+object-prep-object	woman with milk
+object-prep-object	woman in library
+attribute-object	corn flake
+object-verb	woman pose
+object	flake
+object	milk
+object	library
+object	woman
+object	bottle
+#####################################################
+Young woman with corn flake cereal and drink in left hand . 
+Young woman with corn flake cereal and drink in left hand . 
+
+object-prep-object	woman with cereal
+object-prep-object	woman with drink
+attribute-object	young woman
+attribute-object	corn cereal
+attribute-object	flake cereal
+object	woman
+object	cereal
+object	drink
+object	bottle
+#####################################################

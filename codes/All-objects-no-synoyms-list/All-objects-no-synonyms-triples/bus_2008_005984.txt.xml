@@ -1,0 +1,46 @@
+A close-up of a yellow school bus . 
+a close-up of a yellow school bus . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	bus
+#####################################################
+a yellow school bus . 
+a yellow school bus . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	bus
+#####################################################
+A yellow school bus . 
+a yellow school bus . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	bus
+#####################################################
+A yellow school bus with it 's door open . 
+a yellow school bus with it be door open . 
+
+object-prep-object	bus with door
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	door
+object	bus
+#####################################################
+Yellow school bus parked in gravel . 
+yellow school bus park in gravel . 
+
+verb-prep-object	park in gravel
+object-prep-object	bus in gravel
+attribute-object	yellow bus
+attribute-object	school bus
+object-verb	bus park
+object	gravel
+object	bus
+object	bus
+#####################################################

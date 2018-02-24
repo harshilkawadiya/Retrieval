@@ -1,0 +1,67 @@
+A girl sitting in a living chair . 
+a girl sit in a living chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	girl in chair
+attribute-object	living chair
+object-verb	girl sit
+object	chair
+object	girl
+object	pottedplant
+#####################################################
+A girl with a backpack sits in a flower-patterned armchair in an office area . 
+a girl with a backpack sit in a flower-patterned armchair in a office area . 
+
+object-prep-object	girl with backpack
+verb-prep-object	sit in armchair
+object-prep-object	girl in armchair
+verb-prep-object	sit in area
+object-prep-object	girl in area
+attribute-object	flower-patterned armchair
+attribute-object	office area
+object-verb	girl sit
+object	girl
+object	backpack
+object	armchair
+object	area
+object	pottedplant
+#####################################################
+An Asian woman sitting in a waiting area in an office . 
+a asian woman sit in a wait area in a office . 
+
+verb-prep-object	sit in area
+object-prep-object	woman in area
+verb-prep-object	sit in office
+object-prep-object	woman in office
+attribute-object	asian woman
+attribute-object	wait area
+object-verb	woman sit
+object	area
+object	woman
+object	office
+object	pottedplant
+#####################################################
+A woman sitting on a chair in a lobby area . 
+a woman sit on a chair in a lobby area . 
+
+verb-prep-object	sit on chair
+object-prep-object	woman on chair
+verb-prep-object	sit in area
+object-prep-object	woman in area
+attribute-object	lobby area
+object-verb	woman sit
+object	chair
+object	woman
+object	area
+object	pottedplant
+#####################################################
+Young woman in glasses sitting . 
+Young woman in glass sit . 
+
+object-prep-object	woman in glass
+attribute-object	young woman
+object-verb	woman sit
+object	woman
+object	glass
+object	pottedplant
+#####################################################

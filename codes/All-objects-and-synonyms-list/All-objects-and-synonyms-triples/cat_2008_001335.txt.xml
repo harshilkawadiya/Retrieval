@@ -1,0 +1,56 @@
+a close up of a gray cat with a yellow collar . 
+a close up of a gray cat with a yellow collar . 
+
+object-prep-object	cat with collar
+attribute-object	gray cat
+attribute-object	yellow collar
+object	cat
+object	collar
+object	cat
+#####################################################
+A close-up of a gray cat with green eyes . 
+a close-up of a gray cat with green eye . 
+
+object-prep-object	cat with eye
+attribute-object	gray cat
+attribute-object	green eye
+object	cat
+object	eye
+object	cat
+#####################################################
+A gray cat wearing a yellow collar . 
+a gray cat wear a yellow collar . 
+
+attribute-object	gray cat
+attribute-object	yellow collar
+object-verb-object	cat wear collar
+object	cat
+object	collar
+object	cat
+#####################################################
+A gray cat with green eyes looks at the camera . 
+a gray cat with green eye look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	cat with eye
+attribute-object	gray cat
+attribute-object	green eye
+object-verb	cat look
+object	camera
+object	cat
+object	eye
+object	cat
+#####################################################
+A gray cat with green eyes looking into the camera . 
+a gray cat with green eye look into the camera . 
+
+verb-prep-object	look into camera
+object-prep-object	cat with eye
+attribute-object	gray cat
+attribute-object	green eye
+object-verb	cat look
+object	camera
+object	cat
+object	eye
+object	cat
+#####################################################

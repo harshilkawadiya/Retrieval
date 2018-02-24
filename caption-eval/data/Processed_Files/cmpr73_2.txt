@@ -1,0 +1,50 @@
+beam_size_1	2	A man snowboards .
+beam_size_1	3	A red-clothed snowboarder is performing an aerial trick .
+beam_size_1	4	A snowboarder in the air over a snowy mountain .
+beam_size_1	5	A snowboarder is in the air .
+beam_size_1	6	A snowboarder is jumping in the air over a snow slope .
+beam_size_1	7	a boy wearing a white shirt and pink shoelaces jumping on a railing
+beam_size_1	8	A man jumps of the handrail of an outdoor staircase .
+beam_size_1	9	A person on a skateboard .
+beam_size_1	10	A skateboarder is balancing on the rail of stairs .
+beam_size_1	11	A teenage boy jumps off a rail .
+beam_size_1	12	A pack of black dogs running in grass .
+beam_size_1	13	Five black dogs run in a field .
+beam_size_1	14	Five black dogs running across the grass .
+beam_size_1	15	Many black dogs run in a grassy area .
+beam_size_1	16	The black dogs are running in a grassy field
+beam_size_1	17	A boy in a black shirt punches a yellow punching bag while a boy in a blue sweatshirt holds the bag .
+beam_size_1	18	Many children playing outside in the grass practicing punching .
+beam_size_1	19	Some kids play outside on a nice day .
+beam_size_1	20	The boy in the black sweatshirt is hitting the yellow object held by the boy in the blue sweatshirt .
+beam_size_1	21	Two boys talk on a field near palm trees .
+beam_size_1	22	One climber is sitting on the rock overlooking the ocean whilst another climber is on her way up .
+beam_size_1	23	Two people are on a rock overlooking the ocean
+beam_size_1	24	Two people climb a rock overhanging water .
+beam_size_1	25	Two people climb rocks over some water .
+beam_size_1	26	Two people rock climbing near water .
+beam_size_1	27	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	28	A firetruck with ladder extended on the side of the road .
+beam_size_1	29	A jogger with a dog approaches a ladder truck .
+beam_size_1	30	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	31	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	32	A bunch of asian children on steps .
+beam_size_1	33	A large group of Asian children sit on or stand near steps .
+beam_size_1	34	Group of children in blue uniforms sitting on steps .
+beam_size_1	35	Little children in school uniforms congregate on the steps .
+beam_size_1	36	Many school children dressed in the same uniform are sitting on stairs .
+beam_size_1	37	A blonde haired man is doing a demonstration in front of a small crowd of people .
+beam_size_1	38	A man demonstrates his product to an audience .
+beam_size_1	39	A man in a striped shirt is demonstrating a product .
+beam_size_1	40	A man is standing behind and desk and there is part of a red car hanging above his head .
+beam_size_1	41	a man shows off his exibit to many people .
+beam_size_1	42	A woman in a blue sweater with a blue scarf around her head .
+beam_size_1	43	A woman in a head covering is looking away from the camera .
+beam_size_1	44	A woman is wearing a blue headscarf and a blue sweater .
+beam_size_1	45	A woman wearing a teal cardigan with a teal scarf and sunglasses on her head .
+beam_size_1	46	There is a woman with a green scarf around her head .
+beam_size_1	47	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	48	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	49	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	50	Two people riding a bike are riding towards a stop sign .
+beam_size_1	51	two young children riding on a bike down a dirt road through a puddle .

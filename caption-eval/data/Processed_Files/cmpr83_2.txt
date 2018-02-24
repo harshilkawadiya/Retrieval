@@ -1,0 +1,50 @@
+beam_size_1	2	A man performing a skateboard jump off the top of a ramp .
+beam_size_1	3	A skateboarder becomes airborne at the top of a black and yellow ramp .
+beam_size_1	4	A skateboarder does a trick on a black and yellow striped ramp .
+beam_size_1	5	Skateboarder flying over ramp outside .
+beam_size_1	6	This man is doing a stunt on a skateboard outdoors .
+beam_size_1	7	The three dogs are standing in the sand .
+beam_size_1	8	Three small dogs stand in the sand and stare at each other .
+beam_size_1	9	Three small dogs , two of which are sniffing noses .
+beam_size_1	10	Two dogs meet and check out a third dog at the beach .
+beam_size_1	11	Two small dogs facing a third dog .
+beam_size_1	12	A fluffy white dog runs through the woods with his ears flapping in the breeze .
+beam_size_1	13	A small white dog is running across a grassy field .
+beam_size_1	14	A white dog runs in the grass ,
+beam_size_1	15	A white dog wearing a red harness runs though the woods .
+beam_size_1	16	The little white dog wearing the red collar is running in the grass .
+beam_size_1	17	a black dog plays with a ball in the water .
+beam_size_1	18	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	19	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	20	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	21	The black dog is running though the water with a pink ball .
+beam_size_1	22	A dog leaps out of the water .
+beam_size_1	23	a small dog jumping threw some a lake
+beam_size_1	24	A tan dog jumps into water .
+beam_size_1	25	A white dog is splashing through the water .
+beam_size_1	26	Dog jumping out of water in a lake .
+beam_size_1	27	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	28	An elderly woman rides a bicycle along a city street .
+beam_size_1	29	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	30	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	31	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	32	A black dog and a tan dog fighting .
+beam_size_1	33	A black dog and a white dog are wrestling on the ground .
+beam_size_1	34	A black dog bites a white dog while standing on the sand .
+beam_size_1	35	two dogs fight .
+beam_size_1	36	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	37	A brown , black , and white dog runs along on the gravel .
+beam_size_1	38	A dog runs
+beam_size_1	39	A little dog running on sand .
+beam_size_1	40	The brown , white and black dog runs on a gravel surface .
+beam_size_1	41	The dog is running across the gravel .
+beam_size_1	42	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	43	A black dog with a purple collar is running .
+beam_size_1	44	A black dog with a purple collar running .
+beam_size_1	45	a black dog with purple collar running
+beam_size_1	46	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	47	The three dogs ran in the yard .
+beam_size_1	48	three dogs are running across the grass near to a blue industrial building .
+beam_size_1	49	Three dogs are running in a field .
+beam_size_1	50	Three dogs run away from a patch of non-grassy surface leaving one another dog behind .
+beam_size_1	51	Three dogs that are different shades of brown and white are running in a field .

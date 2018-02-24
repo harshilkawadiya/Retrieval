@@ -1,0 +1,50 @@
+beam_size_1	2	A dog is fetching a stick from a lake .
+beam_size_1	3	A dog swimming with a stick in its mouth .
+beam_size_1	4	a grey dog swimming through a river with a stick in his mouth
+beam_size_1	5	Dog carries stick in mouth while in water .
+beam_size_1	6	Dog swimming through water carrying stick in its mouth
+beam_size_1	7	A hiker is walking a treeless path up a hill .
+beam_size_1	8	A man is backpacking up a grassy hill .
+beam_size_1	9	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	10	Person hiking up a grassy trail toward a large hill .
+beam_size_1	11	The hiker is following a trail uphill .
+beam_size_1	12	a boy wearing a white shirt and pink shoelaces jumping on a railing
+beam_size_1	13	A man jumps of the handrail of an outdoor staircase .
+beam_size_1	14	A person on a skateboard .
+beam_size_1	15	A skateboarder is balancing on the rail of stairs .
+beam_size_1	16	A teenage boy jumps off a rail .
+beam_size_1	17	A man chains his bike to a rack while a woman in black and red walks .
+beam_size_1	18	Several people , one being a woman in a black dress , are outside , near a bike rack .
+beam_size_1	19	The woman wearing a red bow walks past a bicycle .
+beam_size_1	20	Woman in a black dress walking on the street .
+beam_size_1	21	Woman in black dress with red accessories is walking down the street .
+beam_size_1	22	A man parasails in the waves ,
+beam_size_1	23	A man rides large waves on a wind sail .
+beam_size_1	24	A man windsurfs in the ocean .
+beam_size_1	25	A person parasails on the crest of a wave .
+beam_size_1	26	A windsurfer in the waves of the ocean .
+beam_size_1	27	a skier helping a fellow skier get up from the snow
+beam_size_1	28	One climber helps another in the snow .
+beam_size_1	29	One mountaineer is kneeling on the ground next to another mountaineer who is standing .
+beam_size_1	30	two hikers in the snow adjusting rope equipment
+beam_size_1	31	Two people are hiking in the snow .
+beam_size_1	32	A man does a handstand in the sand .
+beam_size_1	33	A man doing a handstand in shallow water on the beach .
+beam_size_1	34	A man is performing a handstand on the beach .
+beam_size_1	35	A topless male does a handstand on a beach .
+beam_size_1	36	The male is doing a handstand on the wet sand at the edge of the water at the beach .
+beam_size_1	37	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	38	A man in red trunks flies through the air with a boogie board .
+beam_size_1	39	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	40	A shirtless man bodysurfs .
+beam_size_1	41	Man is diving onto his wakeboard .
+beam_size_1	42	A dog swims towards a waterfall .
+beam_size_1	43	a tan and white dog swimming towards a waterfall
+beam_size_1	44	A yellow dog swims towards a waterfall .
+beam_size_1	45	The dog swims through the water toward the waterfall .
+beam_size_1	46	The dog swims towards a waterfall .
+beam_size_1	47	A boy in a green shirt above something blue .
+beam_size_1	48	a small boy getting tossed into the air
+beam_size_1	49	A young boy jumps around on a blue mat with a half-smile on his face .
+beam_size_1	50	A young boy plays in front of a blue object .
+beam_size_1	51	The boy wearing the green shirt is climbing on a blue inflatable .

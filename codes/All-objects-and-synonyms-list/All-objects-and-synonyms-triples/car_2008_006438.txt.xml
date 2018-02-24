@@ -1,0 +1,57 @@
+A black car with no hood . 
+a black car with no hood . 
+
+object-prep-object	car with no_hood
+attribute-object	black car
+object	car
+object	no_hood
+object	car
+#####################################################
+A compact car with no hood is parked in a parking lot . 
+a compact car with no hood be park in a parking lot . 
+
+object-prep-object	car with no_hood
+verb-prep-object	park in lot
+object-prep-object	car in lot
+attribute-object	compact car
+attribute-object	parking lot
+object-verb	car park
+object	car
+object	no_hood
+object	lot
+object	car
+#####################################################
+Black car missing the engine hood in a parking lot . 
+Black car miss the engine hood in a parking lot . 
+
+object-prep-object	car in lot
+object-verb-object	car miss hood
+attribute-object	black car
+attribute-object	engine hood
+attribute-object	parking lot
+object	car
+object	lot
+object	hood
+object	car
+#####################################################
+Exposed engine on small black car . 
+exposed engine on small black car . 
+
+object-prep-object	engine on car
+attribute-object	exposed engine
+attribute-object	small car
+attribute-object	black car
+object	engine
+object	car
+object	car
+#####################################################
+The front of a black parked car without a hood . 
+the front of a black park car without a hood . 
+
+object-prep-object	car without hood
+attribute-object	black car
+attribute-object	park car
+object	car
+object	hood
+object	car
+#####################################################

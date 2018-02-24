@@ -1,0 +1,60 @@
+a man in a straw hat with three calves in front and a cliff face behind him . 
+a man in a straw hat with three calf in front and a cliff face behind he . 
+
+object-prep-object	man in hat
+attribute-object	straw hat
+object-prep-object	man with calf
+object-prep-object	man with face
+attribute-object	cliff face
+object	man
+object	hat
+object	calf
+object	face
+object	cow
+#####################################################
+A person leads three brown cows down a trail near the water . 
+a person lead three brown cow down a trail near the water . 
+
+object-verb-object	person lead cow
+attribute-object	brown cow
+verb-prep-object	lead down trail
+object-prep-object	trail near water
+object	person
+object	cow
+object	trail
+object	water
+object	cow
+#####################################################
+A person walks with three cows . 
+a person walk with three cow . 
+
+verb-prep-object	walk with cow
+object-prep-object	person with cow
+object-verb	person walk
+object	cow
+object	person
+object	cow
+#####################################################
+A woman following three cows down a dirt road next to a pond . 
+a woman follow three cow down a dirt road next to a pond . 
+
+object-verb-object	woman follow cow
+verb-prep-object	follow next_to pond
+verb-prep-object	follow down road
+object-prep-object	woman next_to pond
+attribute-object	dirt road
+object	woman
+object	cow
+object	pond
+object	road
+object	cow
+#####################################################
+Three cows and a woman walking . 
+three cow and a woman walking . 
+
+object-verb	woman walk
+object-verb	cow walk
+object	woman
+object	cow
+object	cow
+#####################################################

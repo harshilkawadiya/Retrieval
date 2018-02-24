@@ -1,0 +1,62 @@
+An elderly woman catches a ride on the back of the bicycle . 
+a elderly woman catch a ride on the back of the bicycle . 
+
+verb-prep-object	ride on bicycle
+object-prep-object	woman on bicycle
+attribute-object	elderly woman
+object-verb-object	woman catch ride
+object	bicycle
+object	woman
+object	ride
+object	bus
+#####################################################
+A person is getting a ride on the back of a bicycle . 
+a person be get a ride on the back of a bicycle . 
+
+object-prep-object	person on bicycle
+verb-prep-object	ride on bicycle
+object-verb-object	person get ride
+object	person
+object	bicycle
+object	ride
+object	bus
+#####################################################
+A woman rides as a bicycle drives pulls her in traffic . 
+a woman ride as a bicycle drive pull she in traffic . 
+
+object-verb	woman ride
+object-verb	bicycle drive
+object	woman
+object	bicycle
+object	bus
+#####################################################
+The person in a hat carries a passenger on his bike in the road . 
+the person in a hat carry a passenger on he bike in the road . 
+
+object-prep-object	passenger on bike
+verb-prep-object	carry on bike
+object-prep-object	person in hat
+verb-prep-object	carry in road
+object-prep-object	passenger in road
+object-verb-object	person carry passenger
+object	passenger
+object	bike
+object	person
+object	hat
+object	road
+object	bus
+#####################################################
+There is a man riding on the back of a three wheeled bicycle in traffic . 
+there be a man ride on the back of a three wheel bicycle in traffic . 
+
+verb-prep-object	ride on bicycle
+verb-prep-object	ride in traffic
+object-prep-object	bicycle in traffic
+object-prep-object	man on bicycle
+attribute-object	wheel bicycle
+object-verb	man ride
+object	bicycle
+object	traffic
+object	man
+object	bus
+#####################################################

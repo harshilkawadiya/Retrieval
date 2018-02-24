@@ -1,0 +1,50 @@
+beam_size_1	2	A group of dogs stand in the snow .
+beam_size_1	3	Four dogs stand in the snow .
+beam_size_1	4	three black dogs and a white dog are standing in the snow .
+beam_size_1	5	Two black dogs , a black puppy , and a white dog in the snow .
+beam_size_1	6	Two large black dogs , one small black dog , and one large white dog are standing in some snow .
+beam_size_1	7	A bird flies above the water .
+beam_size_1	8	A heron is flying through the air near foliage .
+beam_size_1	9	A large white bird flying over water .
+beam_size_1	10	A large white bird swoops over water .
+beam_size_1	11	A white bird with yellow feet is flying over water .
+beam_size_1	12	A person has just thrown a snowball and hit someone in the back .
+beam_size_1	13	People outside a house in snow .
+beam_size_1	14	People stand outside a house .
+beam_size_1	15	Several people standing in front of a pile of snow in front of a house , with one person shoveling .
+beam_size_1	16	Some people are gathered by a mound of snow outside a house .
+beam_size_1	17	A man fly fishes in a large river .
+beam_size_1	18	A man stands on the edge of the water and holds a fishing pole .
+beam_size_1	19	A man with a tan hat and jacket is fishing in green waters .
+beam_size_1	20	one lone fisherman with his line cast out into the river .
+beam_size_1	21	The man is fishing at the water 's edge .
+beam_size_1	22	A man drives an ATV down a dirt road with a power line behind him .
+beam_size_1	23	a man is driving a red ATV up a rugged hill .
+beam_size_1	24	A man wearing a white hat is on a red ATV driving on the dirt .
+beam_size_1	25	Man riding four-wheel , off-road vehicle in rural area .
+beam_size_1	26	The man rides his quad through a rural area followed by his dog .
+beam_size_1	27	A group of young men clowning around while enjoying a beverage .
+beam_size_1	28	Five men pose awkwardly on steps .
+beam_size_1	29	Five young men pose on the steps .
+beam_size_1	30	Four boys posing while one boy sets his drink down .
+beam_size_1	31	Group of young men posing and holding cans .
+beam_size_1	32	A group of girls sit back to back .
+beam_size_1	33	a group of girls sitting in a circle
+beam_size_1	34	Little girl in bare feet sitting in a circle .
+beam_size_1	35	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	36	The young girls sat in a circle on the wood floor .
+beam_size_1	37	A man among steep and snowy mountains .
+beam_size_1	38	Someone hikes down a steep , frozen mountainside .
+beam_size_1	39	The grass has ice on it and there is a mountain in the background .
+beam_size_1	40	The man is climbing up a steep snowy mountain .
+beam_size_1	41	The person is high on a mountain during sunset .
+beam_size_1	42	A boxy building , A group of trees , a church at sunset .
+beam_size_1	43	A crowd of people are gathered with a sky scene in the background .
+beam_size_1	44	A crowd of people at an outdoor event
+beam_size_1	45	A very large group of people stand outdoors under the beautiful clouds .
+beam_size_1	46	Large crowd of people gathered together .
+beam_size_1	47	A little boy takes a picture at the park .
+beam_size_1	48	A young boy is looking through binoculars at a playground .
+beam_size_1	49	A young boy wearing a blue and red hat is using a camera near a swing set .
+beam_size_1	50	Little boy takes photos outside .
+beam_size_1	51	The little boy is taking a picture with the camera .

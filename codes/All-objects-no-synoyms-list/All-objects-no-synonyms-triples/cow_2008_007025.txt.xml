@@ -1,0 +1,67 @@
+A black cow and a brown bull eat hay and graze on a remote farm . 
+a black cow and a brown bull eat hay and graze on a remote farm . 
+
+verb-prep-object	graze on farm
+object-prep-object	cow on farm
+object-prep-object	bull on farm
+attribute-object	black cow
+attribute-object	brown bull
+attribute-object	remote farm
+object-verb-object	cow eat hay
+object-verb-object	bull eat hay
+object-verb	cow graze
+object-verb	bull graze
+object	farm
+object	cow
+object	bull
+object	hay
+object	cow
+#####################################################
+A black cow and red cow grazing . 
+a black cow and red cow grazing . 
+
+attribute-object	black cow
+attribute-object	red cow
+object-verb	cow graze
+object	cow
+object	cow
+#####################################################
+A black cow grazing in a field alongside a brown horned cow . 
+a black cow grazing in a field alongside a brown horned cow . 
+
+object-verb	cow graze
+attribute-object	black cow
+verb-prep-object	graze in field
+object-prep-object	cow in field
+verb-prep-object	graze alongside cow
+object-prep-object	cow alongside cow
+attribute-object	brown cow
+attribute-object	horned cow
+object	cow
+object	field
+object	cow
+#####################################################
+Brown and black cows grazing on grass . 
+Brown and black cow grazing on grass . 
+
+object-verb	cow graze
+verb-prep-object	graze on grass
+object-prep-object	cow on grass
+attribute-object	brown cow
+attribute-object	black cow
+object	cow
+object	grass
+object	cow
+#####################################################
+The two cows , one black and one brown , are grazing in a field . 
+the two cow , one black and one brown , be grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	brown cow
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################

@@ -1,0 +1,73 @@
+A brown haired woman with a crying baby on her knee sitting on a couch . 
+a brown haired woman with a cry baby on she knee sit on a couch . 
+
+object-prep-object	woman with baby
+object-prep-object	baby on knee
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+attribute-object	brown woman
+attribute-object	haired woman
+attribute-object	cry baby
+object-verb	woman sit
+object	woman
+object	baby
+object	knee
+object	couch
+object	sofa
+#####################################################
+A lady in a red sweater sitting on the couch holding her crying baby on her knee who is wearing blue pajamas with a blue elephant . 
+a lady in a red sweater sit on the couch hold she cry baby on she knee who be wear blue pajamas with a blue elephant . 
+
+object-prep-object	lady in sweater
+attribute-object	red sweater
+object-verb	lady sit
+verb-prep-object	sit on couch
+object-prep-object	lady on couch
+object-verb-object	lady hold baby
+verb-prep-object	hold on knee
+attribute-object	cry baby
+attribute-object	blue pajamas
+attribute-object	blue elephant
+object-prep-object	pajamas with elephant
+object-verb-object	baby wear pajamas
+object	lady
+object	sweater
+object	couch
+object	baby
+object	knee
+object	pajamas
+object	elephant
+object	sofa
+#####################################################
+A woman holding a crying baby sits on a sofa . 
+a woman hold a cry baby sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	woman on sofa
+attribute-object	cry baby
+object-verb-object	woman hold baby
+object-verb	woman sit
+object	sofa
+object	woman
+object	baby
+object	sofa
+#####################################################
+A woman in a red sweater holding a crying baby . 
+a woman in a red sweater hold a cry baby . 
+
+object-prep-object	woman in sweater
+attribute-object	red sweater
+attribute-object	cry baby
+object-verb-object	woman hold baby
+object	woman
+object	sweater
+object	baby
+object	sofa
+#####################################################
+Mom tries to get her child to stop crying . 
+mom try to get she child to stop cry . 
+
+object-verb	mom try
+object	mom
+object	sofa
+#####################################################

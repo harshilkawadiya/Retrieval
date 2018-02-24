@@ -1,0 +1,71 @@
+A man poses on a maroon chair near a sofa with a bright pillow . 
+a man pose on a maroon chair near a sofa with a bright pillow . 
+
+object-prep-object	sofa with pillow
+verb-prep-object	pose on chair
+object-prep-object	person on man
+object-prep-object	chair near sofa
+attribute-object	bright pillow
+attribute-object	maroon chair
+object-verb	person pose
+object	sofa
+object	pillow
+object	chair
+object	person
+object	man
+object	chair
+#####################################################
+A man sitting on a chair with legs crossed smiling at the camera . 
+a man sit on a chair with leg cross smile at the camera . 
+
+verb-prep-object	smile at camera
+verb-prep-object	sit on chair
+object-prep-object	person on man
+object-verb	person cross
+object-verb	person smile
+object	camera
+object	chair
+object	person
+object	man
+object	chair
+#####################################################
+A smiling man who is wearing glasses is sitting on a chair with his legs crossed . 
+a smile man who be wear glass be sit on a chair with he leg cross . 
+
+object-verb-object	person wear man
+verb-prep-object	sit on chair
+object-prep-object	person on man
+attribute-object	smile person
+object-verb	person sit
+object	person
+object	man
+object	chair
+object	chair
+#####################################################
+Man sitting on red chair . 
+man sit on red chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	person on man
+attribute-object	red chair
+object-verb	person sit
+object	chair
+object	person
+object	man
+object	chair
+#####################################################
+Young man with glasses sitting on red couch . 
+Young man with glass sit on red couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	person with man
+attribute-object	red sofa
+attribute-object	young person
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	chair
+#####################################################

@@ -1,0 +1,56 @@
+A black coal train passes many overhead wires . 
+a black coal train pass many overhead wire . 
+
+attribute-object	black train
+attribute-object	many wire
+attribute-object	overhead wire
+object-verb-object	train pass wire
+attribute-object	coal train
+object	train
+object	wire
+object	train
+#####################################################
+A black locomotive goes by on the train tracks . 
+a black locomotive go by on the train track . 
+
+attribute-object	black locomotive
+attribute-object	train track
+verb-prep-object	go on track
+object-prep-object	locomotive on track
+object-verb	locomotive go
+object	locomotive
+object	track
+object	train
+#####################################################
+A black steam engine passes a fence . 
+a black steam engine pass a fence . 
+
+attribute-object	black engine
+object-verb-object	engine pass fence
+attribute-object	steam engine
+object	engine
+object	fence
+object	train
+#####################################################
+A black train moves down the tracks . 
+a black train move down the track . 
+
+object-verb-object	train move track
+verb-attribute	move down
+attribute-object	black train
+object	train
+object	track
+object	train
+#####################################################
+An antique freight engine rides on the tracks . 
+a antique freight engine ride on the track . 
+
+object-verb	engine ride
+verb-prep-object	ride on track
+object-prep-object	engine on track
+attribute-object	antique engine
+attribute-object	freight engine
+object	engine
+object	track
+object	train
+#####################################################

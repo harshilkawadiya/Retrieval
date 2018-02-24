@@ -1,0 +1,65 @@
+A family sitting down for dinner . 
+a family sit down for dinner . 
+
+verb-prep-object	sit for dinner
+object-prep-object	family for dinner
+object-verb	family sit
+verb-attribute	sit down
+object	dinner
+object	family
+object	diningtable
+#####################################################
+Three people posing at the dinner table . 
+three people pose at the dinner table . 
+
+verb-prep-object	pose at table
+object-prep-object	people at table
+attribute-object	dinner table
+object-verb	people pose
+object	table
+object	people
+object	diningtable
+#####################################################
+three people sitting at a table with food and wine . 
+three people sit at a table with food and wine . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table with food
+object-prep-object	table with wine
+object-verb	people sit
+object	table
+object	people
+object	food
+object	wine
+object	diningtable
+#####################################################
+Three people sitting at dinner table smiling at camera . 
+three people sit at dinner table smile at camera . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+verb-prep-object	smile at camera
+attribute-object	dinner table
+object-verb	people sit
+object-verb	people smile
+object	table
+object	people
+object	camera
+object	diningtable
+#####################################################
+Two elderly women sit at a dinner table with a man . 
+two elderly woman sit at a dinner table with a man . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+verb-prep-object	sit with man
+object-prep-object	woman with man
+attribute-object	dinner table
+attribute-object	elderly woman
+object-verb	woman sit
+object	table
+object	woman
+object	man
+object	diningtable
+#####################################################

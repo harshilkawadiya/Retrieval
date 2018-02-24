@@ -1,0 +1,76 @@
+A man sitting cross legged on the grass , with a tree in the background . 
+a man sit cross leg on the grass , with a tree in the background . 
+
+object-verb	person sit
+verb-prep-object	sit on grass
+object-prep-object	person on man
+object	tree
+object	person
+object	man
+object	grass
+object	tree
+object	bottle
+#####################################################
+a man sitting on a lawn opening a bottle of champagne . 
+a man sit on a lawn open a bottle of champagne . 
+
+verb-prep-object	sit on lawn
+object-prep-object	person on man
+object-prep-object	bottle of champagne
+object-verb-object	person open man
+object-verb	person sit
+object	lawn
+object	person
+object	man
+object	bottle
+object	champagne
+object	bottle
+#####################################################
+A man sitting on the grass looking toward the sky . 
+a man sit on the grass look toward the sky . 
+
+verb-prep-object	sit on grass
+object-prep-object	person on man
+verb-prep-object	look toward sky
+object-verb	person sit
+object-verb	person look
+object	grass
+object	person
+object	man
+object	sky
+object	bottle
+#####################################################
+A young man prepares to open a bottle of champagne in a park . 
+a young man prepare to open a bottle of champagne in a park . 
+
+verb-prep-object	open in park
+object-prep-object	bottle in park
+object-prep-object	bottle of champagne
+attribute-object	young person
+object-verb	person prepare
+verb-prep-verb	prepare to open
+verb-object	open bottle
+object	park
+object	bottle
+object	champagne
+object	person
+object	man
+object	bottle
+#####################################################
+Young gentlemen sitting down on grass popping a cork on champagne bottle . 
+Young gentleman sit down on grass pop a cork on champagne bottle . 
+
+verb-prep-object	sit on grass
+object-prep-object	person on gentleman
+verb-prep-object	pop on bottle
+attribute-object	champagne bottle
+attribute-object	young person
+object-verb	person sit
+object-verb-object	person pop gentleman
+verb-attribute	sit down
+object	grass
+object	person
+object	gentleman
+object	bottle
+object	bottle
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	a man enjoying the view from top of a mountain
+beam_size_1	3	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	4	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	5	A man sits on a cliff and looks out over another mountain .
+beam_size_1	6	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	7	Children participate in a sport on a green field while in uniforms .
+beam_size_1	8	The young soccer player enjoys the game .
+beam_size_1	9	Two girls in soccer strips are playing on a sports field .
+beam_size_1	10	Two girls play on a fenced in field .
+beam_size_1	11	Two girls wearing black and white uniforms run down a grassy field .
+beam_size_1	12	A boy with his hands above his head stands on a cement pillar above the cobblestones .
+beam_size_1	13	A child in colorful shorts is standing on a post in the street .
+beam_size_1	14	A small boy stands on a cement stump in a park with his hands on his head .
+beam_size_1	15	a young man wearing a white t-shirt and green and black shorts standing on a stump .
+beam_size_1	16	Small child in white shirt and print shorts with hands over their head standing on object .
+beam_size_1	17	There are women in St Patrick 's Day costumes
+beam_size_1	18	Three women celebrate St Patrick 's day by dressing up in green and white on a busy street .
+beam_size_1	19	Three women dressed in green celebrating St Patricks Day .
+beam_size_1	20	Three women dressed up in green and shamrocks .
+beam_size_1	21	Three women wearing plenty of green and shamrocks .
+beam_size_1	22	A young girl in jeans is standing on a tree limb posing for the camera .
+beam_size_1	23	A young girl posing for a photo while standing in a tree .
+beam_size_1	24	girl posing on tree
+beam_size_1	25	There is a young girl in jeans and a striped shirt standing on a tree branch .
+beam_size_1	26	The young girl is standing in a tree .
+beam_size_1	27	A person in a black wetsuit is surfing in the ocean with a wave coming down .
+beam_size_1	28	A person is surfing .
+beam_size_1	29	A surfer in all black is riding a wave .
+beam_size_1	30	A surfer rides the waves .
+beam_size_1	31	A woman in a black wetsuit surfs in bad weather .
+beam_size_1	32	A man in a rowboat is rowing across blue water .
+beam_size_1	33	A man is rowing in a small boat called Neptuno
+beam_size_1	34	A man rows his boat below .
+beam_size_1	35	Man rowing a boat .
+beam_size_1	36	The fisherman paddles in his to a new spot .
+beam_size_1	37	A man in a green shirt climbs an indoor climbing wall .
+beam_size_1	38	A man in a green shirt is climbing an obstacle course .
+beam_size_1	39	A teenage boy climbs an indoor climbing wall .
+beam_size_1	40	A teenager climbs a rock wall .
+beam_size_1	41	Someone climbs an indoor climbing wall .
+beam_size_1	42	A girl in a black coat next to some school kids .
+beam_size_1	43	Four teenagers are standing at the foot of some steps by a brick wall .
+beam_size_1	44	Kids are waiting at the bottom of a staircase attached to a brick building .
+beam_size_1	45	Peoople stand outside a building near a street .
+beam_size_1	46	Teenagers congregate outside a brick building
+beam_size_1	47	A costumes woman applies makeup while looking in a mirror .
+beam_size_1	48	A showgirl , holding lipstick in her hand , and wearing a feather headdress , looks in a mirror .
+beam_size_1	49	A showgirl puts on her lipstick in the mirror .
+beam_size_1	50	A woman in a fancy costume is fixer her makeup in front of a mirror .
+beam_size_1	51	Costumed woman applying lipstick .

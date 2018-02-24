@@ -1,0 +1,64 @@
+A cow stands at a milking machine . 
+a cow stand at a milk machine . 
+
+verb-prep-object	stand at machine
+object-prep-object	cow at machine
+attribute-object	milk machine
+object-verb	cow stand
+object	machine
+object	cow
+object	cow
+#####################################################
+A spotted brown and white cow being milked by a machine . 
+a spotted brown and white cow be milk by a machine . 
+
+verb-prep-object	milk by machine
+object-prep-object	cow by machine
+attribute-object	spotted cow
+attribute-object	brown cow
+attribute-object	white cow
+object-verb	cow milk
+object	machine
+object	cow
+object	cow
+#####################################################
+A white cow with brown speckles and brown head being attached to a milking machine . 
+a white cow with brown speckle and brown head be attach to a milk machine . 
+
+object-prep-object	cow with speckle
+object-prep-object	cow with head
+verb-prep-object	attach to machine
+attribute-object	white cow
+attribute-object	brown speckle
+attribute-object	brown head
+attribute-object	milk machine
+object-verb	cow attach
+object	cow
+object	speckle
+object	head
+object	machine
+object	cow
+#####################################################
+A white spotted cow being milked at a dairy . 
+a white spotted cow be milk at a dairy . 
+
+verb-prep-object	milk at dairy
+object-prep-object	cow at dairy
+attribute-object	white cow
+attribute-object	spotted cow
+object-verb	cow milk
+object	dairy
+object	cow
+object	cow
+#####################################################
+Cow being milked at a milk station . 
+cow be milk at a milk station . 
+
+verb-prep-object	milk at station
+object-prep-object	cow at station
+attribute-object	milk station
+object-verb	cow milk
+object	station
+object	cow
+object	cow
+#####################################################

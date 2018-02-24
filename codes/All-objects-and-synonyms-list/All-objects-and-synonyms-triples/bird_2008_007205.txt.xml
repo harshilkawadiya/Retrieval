@@ -1,0 +1,54 @@
+A baby penguin eats out of its mothers mouth . 
+a baby penguin eat out of its mother mouth . 
+
+verb-prep-object	eat out_of mouth
+attribute-object	baby bird
+attribute-object	mother mouth
+object-verb	bird eat
+object	mouth
+object	bird
+object	bird
+#####################################################
+Adult penguin feeding its young . 
+adult penguin feed its young . 
+
+object-verb-object	bird feed young
+attribute-object	adult bird
+object	bird
+object	young
+object	bird
+#####################################################
+An adult penguin feeding a younger penguin . 
+a adult penguin feed a younger penguin . 
+
+attribute-object	younger bird
+object-verb-object	bird feed bird
+attribute-object	adult bird
+object	bird
+object	bird
+#####################################################
+an adult penguin regurgitating food for its young . 
+a adult penguin regurgitate food for its young . 
+
+object-prep-object	food for young
+verb-prep-object	regurgitate for young
+object-verb-object	bird regurgitate food
+attribute-object	adult bird
+object	food
+object	young
+object	bird
+object	bird
+#####################################################
+Four penguins are standing on rocks near the water . 
+four penguin be stand on rock near the water . 
+
+verb-prep-object	stand on rock
+object-prep-object	bird on rock
+object-prep-object	bird near water
+verb-prep-object	stand near water
+object-verb	bird stand
+object	rock
+object	bird
+object	water
+object	bird
+#####################################################

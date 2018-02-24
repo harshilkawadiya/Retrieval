@@ -1,0 +1,60 @@
+A comfortable entertainment center in an apartment . 
+a comfortable entertainment center in a apartment . 
+
+object-prep-object	center in room
+attribute-object	comfortable center
+attribute-object	entertainment center
+object	center
+object	room
+object	tvmonitor
+#####################################################
+A living room TV on which someone is playing a video game . 
+a living room tv on which someone be play a video game . 
+
+attribute-object	living tvmonitor
+attribute-object	room tvmonitor
+object-verb-object	person play someone
+verb-prep-object	play on tvmonitor
+attribute-object	video game
+object	tvmonitor
+object	tv
+object	person
+object	someone
+object	game
+object	tvmonitor
+#####################################################
+A television is turned on , in a room with bookshelves . 
+a television be turn on , in a room with bookshelf . 
+
+object-prep-object	room with bookshelf
+object-prep-object	tvmonitor in television
+object-verb	tvmonitor turn
+verb-attribute	turn on
+object	room
+object	bookshelf
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+A view of a living room with a television and shelves . 
+a view of a living room with a television and shelf . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with shelf
+attribute-object	living room
+object	room
+object	tvmonitor
+object	shelf
+object	tvmonitor
+#####################################################
+Television sitting next to two shelves full of neck knacks . 
+Television sit next to two shelf full of neck knack . 
+
+verb-prep-object	sit next_to shelf
+object-prep-object	tvmonitor next_to television
+object-verb	tvmonitor sit
+object	shelf
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################

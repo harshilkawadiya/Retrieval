@@ -1,0 +1,78 @@
+Two women and a black dog are near a sofa and chair . 
+two woman and a black dog be near a sofa and chair . 
+
+object-prep-object	person near woman
+object-prep-object	dog near sofa
+object-prep-object	person near woman
+object-prep-object	dog near chair
+attribute-object	black dog
+object	person
+object	woman
+object	dog
+object	sofa
+object	chair
+object	sofa
+#####################################################
+Two women in a room with a large black dog . 
+two woman in a room with a large black dog . 
+
+object-prep-object	room with dog
+object-prep-object	person in woman
+attribute-object	large dog
+attribute-object	black dog
+object	room
+object	dog
+object	person
+object	woman
+object	sofa
+#####################################################
+Two women reluctantly look at the camera in their home as a black dog looks on . 
+two woman reluctantly look at the camera in they home as a black dog look on . 
+
+verb-prep-object	look at camera
+object-prep-object	camera in home
+attribute-object	black dog
+object-verb	person look
+object-verb	dog look
+object	camera
+object	home
+object	dog
+object	person
+object	woman
+object	sofa
+#####################################################
+Two women stand in a living room with a black dog . 
+two woman stand in a living room with a black dog . 
+
+verb-prep-object	stand with dog
+object-prep-object	person with woman
+verb-prep-object	stand in room
+object-prep-object	person in woman
+attribute-object	black dog
+attribute-object	living room
+object-verb	person stand
+object	dog
+object	person
+object	woman
+object	room
+object	sofa
+#####################################################
+Two women standing in a living room with a black dog looking towards the camera . 
+two woman stand in a living room with a black dog look towards the camera . 
+
+verb-prep-object	stand in room
+object-prep-object	person in woman
+verb-prep-object	look towards camera
+verb-prep-object	stand with dog
+object-prep-object	person with woman
+attribute-object	black dog
+attribute-object	living room
+object-verb	person stand
+object-verb	dog look
+object	room
+object	person
+object	woman
+object	camera
+object	dog
+object	sofa
+#####################################################

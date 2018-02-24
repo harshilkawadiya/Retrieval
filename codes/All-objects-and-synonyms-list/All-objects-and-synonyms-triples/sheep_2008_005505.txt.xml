@@ -1,0 +1,55 @@
+A large sheep standing on a hill . 
+a large sheep standing on a hill . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+attribute-object	large sheep
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	sheep
+#####################################################
+a sheep in the mountains . 
+a sheep in the mountain . 
+
+object-prep-object	sheep in mountain
+object	sheep
+object	mountain
+object	sheep
+#####################################################
+A sheep standing in a mountainous area . 
+a sheep standing in a mountainous area . 
+
+verb-prep-object	stand in area
+object-prep-object	sheep in area
+attribute-object	mountainous area
+object-verb	sheep stand
+object	area
+object	sheep
+object	sheep
+#####################################################
+A sheep stands on a hillside . 
+a sheep stand on a hillside . 
+
+verb-prep-object	stand on hillside
+object-prep-object	sheep on hillside
+object-verb	sheep stand
+object	hillside
+object	sheep
+object	sheep
+#####################################################
+The sheep is standing on the hill in front of the trees . 
+the sheep be stand on the hill in front of the tree . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+verb-prep-object	stand in_front_of tree
+object-prep-object	sheep in_front_of tree
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	tree
+object	sheep
+#####################################################

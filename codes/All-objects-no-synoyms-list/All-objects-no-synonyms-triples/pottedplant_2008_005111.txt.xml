@@ -1,0 +1,58 @@
+a girl holding a black white dog with a blue dog chain . 
+a girl hold a black white dog with a blue dog chain . 
+
+verb-prep-object	hold with chain
+object-prep-object	girl with chain
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	blue chain
+object-verb-object	girl hold dog
+attribute-object	dog chain
+object	chain
+object	girl
+object	dog
+object	pottedplant
+#####################################################
+A woman holds a small dog on a leash with chairs in the background . 
+a woman hold a small dog on a leash with chair in the background . 
+
+verb-prep-object	hold on leash
+object-prep-object	woman on leash
+attribute-object	small dog
+object-verb-object	woman hold dog
+object	leash
+object	woman
+object	dog
+object	pottedplant
+#####################################################
+Cute redhead walking a puppy . 
+cute redhead walk a puppy . 
+
+attribute-object	cute redhead
+object-verb-object	redhead walk puppy
+object	redhead
+object	puppy
+object	pottedplant
+#####################################################
+The girl stands holding leash attached to a small dog . 
+the girl stand hold leash attach to a small dog . 
+
+attribute-object	small dog
+object-verb	girl stand
+object-verb-object	girl hold leash
+object-verb	leash attach
+verb-prep-object	attach to dog
+object	dog
+object	girl
+object	leash
+object	pottedplant
+#####################################################
+The small dog protects its owner . 
+the small dog protect its owner . 
+
+attribute-object	small dog
+object-verb-object	dog protect owner
+object	dog
+object	owner
+object	pottedplant
+#####################################################

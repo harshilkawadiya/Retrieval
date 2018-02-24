@@ -1,0 +1,56 @@
+An Air Canada airplane flying in the sky . 
+a Air Canada airplane fly in the sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	airplane in sky
+attribute-object	air airplane
+attribute-object	canada airplane
+object-verb	airplane fly
+object	sky
+object	airplane
+object	aeroplane
+#####################################################
+An airplane with a canadian symbols , flying . 
+a airplane with a canadian symbol , fly . 
+
+object-prep-object	airplane with symbol
+attribute-object	canadian symbol
+object-verb	airplane fly
+object	airplane
+object	symbol
+object	aeroplane
+#####################################################
+A small Air Canada jet coming in to land . 
+a small Air Canada jet come in to land . 
+
+attribute-object	small jet
+attribute-object	air jet
+attribute-object	canada jet
+object-verb	jet come
+object	jet
+object	aeroplane
+#####################################################
+The white airplane is flying in the blue sky . 
+the white airplane be fly in the blue sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	airplane in sky
+attribute-object	white airplane
+attribute-object	blue sky
+object-verb	airplane fly
+object	sky
+object	airplane
+object	aeroplane
+#####################################################
+This passenger jet has its landing gear and flaps down in preparation for landing . 
+this passenger jet have its landing gear and flap down in preparation for landing . 
+
+object-verb-object	jet have gear
+object-verb-object	jet have flap
+attribute-object	passenger jet
+attribute-object	landing gear
+object	jet
+object	gear
+object	flap
+object	aeroplane
+#####################################################

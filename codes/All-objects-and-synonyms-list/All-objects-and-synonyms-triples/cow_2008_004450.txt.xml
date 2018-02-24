@@ -1,0 +1,60 @@
+Farmyard animals sitting under a group of trees and bushes while grazing . 
+farmyard animal sit under a group of tree and bush while grazing . 
+
+attribute-object	farmyard animal
+object-verb	animal sit
+verb-prep-object	sit under tree
+object-prep-object	animal under tree
+verb-prep-object	sit under bush
+object-prep-object	animal under bush
+object-verb	animal graze
+object	animal
+object	tree
+object	bush
+object	cow
+#####################################################
+Pig and piglet lying beneath the tree . 
+pig and piglet lie beneath the tree . 
+
+verb-prep-object	lie beneath tree
+object-prep-object	pig beneath tree
+object-prep-object	piglet beneath tree
+object-verb	pig lie
+object-verb	piglet lie
+object	tree
+object	pig
+object	piglet
+object	cow
+#####################################################
+The back of a pig under a tree with a cow in the background . 
+the back of a pig under a tree with a cow in the background . 
+
+object-prep-object	pig under tree
+object-prep-object	pig with cow
+object	pig
+object	tree
+object	cow
+object	cow
+#####################################################
+Three small animals rest under the shade of a tree . 
+three small animal rest under the shade of a tree . 
+
+object-verb	animal rest
+verb-prep-object	rest under tree
+object-prep-object	animal under tree
+attribute-object	small animal
+object	animal
+object	tree
+object	cow
+#####################################################
+Various animals in a field with trees . 
+various animal in a field with tree . 
+
+object-prep-object	field with tree
+object-prep-object	animal in field
+attribute-object	various animal
+object	field
+object	tree
+object	animal
+object	cow
+#####################################################

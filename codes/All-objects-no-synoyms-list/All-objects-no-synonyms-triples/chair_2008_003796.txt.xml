@@ -1,0 +1,61 @@
+A group of people having a drink . 
+a group of people have a drink . 
+
+object-verb-object	people have drink
+object	people
+object	drink
+object	chair
+#####################################################
+Four males and two females seated around a table with beverage . 
+four male and two female seat around a table with beverage . 
+
+object-prep-object	table with beverage
+verb-prep-object	seat around table
+object-prep-object	male around table
+object-prep-object	female around table
+object-verb	male seat
+object-verb	female seat
+object	table
+object	beverage
+object	male
+object	female
+object	chair
+#####################################################
+Group of people sitting at table with drinks . 
+Group of people sit at table with drink . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table with drink
+object-verb	people sit
+object	table
+object	people
+object	drink
+object	chair
+#####################################################
+Six people drinking at a long table at night . 
+six people drink at a long table at night . 
+
+verb-prep-object	drink at table
+object-prep-object	people at table
+verb-prep-object	drint at night
+attribute-object	long table
+object-verb	people drink
+object	table
+object	people
+object	night
+object	chair
+#####################################################
+The people are sitting down to the table and they are drinking alcohol . 
+the people be sit down to the table and they be drink alcohol . 
+
+verb-prep-object	sit to table
+object-prep-object	people to table
+object-verb-object	people drink alcohol
+object-verb	people sit
+verb-attribute	sit down
+object	table
+object	people
+object	alcohol
+object	chair
+#####################################################

@@ -1,0 +1,51 @@
+A city street with a bus stop sign . 
+a city street with a bus stop sign . 
+
+object-prep-object	street with sign
+attribute-object	city street
+attribute-object	bus sign
+attribute-object	stop sign
+object	street
+object	sign
+object	person
+#####################################################
+A street view of urban buildings and a bus stop . 
+a street view of urban building and a bus stop . 
+
+attribute-object	urban building
+attribute-object	bus stop
+object	building
+object	stop
+object	person
+#####################################################
+A street view with large buildings on either side near a bus stop . 
+a street view with large building on either side near a bus stop . 
+
+attribute-object	large building
+attribute-object	bus stop
+object-prep-object	building near stop
+object	building
+object	stop
+object	person
+#####################################################
+Blue bus sign on the corner of a street in between rows of buildings . 
+Blue bus sign on the corner of a street in between row of building . 
+
+object-prep-object	sign on street
+attribute-object	blue sign
+attribute-object	bus sign
+object	sign
+object	street
+object	person
+#####################################################
+Bus stop sign on a city street . 
+bus stop sign on a city street . 
+
+object-prep-object	sign on street
+attribute-object	bus sign
+attribute-object	stop sign
+attribute-object	city street
+object	sign
+object	street
+object	person
+#####################################################

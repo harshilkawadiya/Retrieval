@@ -1,0 +1,55 @@
+A multicolored , open air bus with a yellow flag . 
+a multicolor , open air bus with a yellow flag . 
+
+object-prep-object	bus with flag
+attribute-object	yellow flag
+attribute-object	multicolor bus
+attribute-object	open bus
+attribute-object	air bus
+object	bus
+object	flag
+object	bus
+#####################################################
+An old fashioned passenger bus with open windows . 
+a old fashion passenger bus with open window . 
+
+object-prep-object	bus with window
+attribute-object	open window
+attribute-object	old bus
+attribute-object	fashion bus
+attribute-object	passenger bus
+object	bus
+object	window
+object	bus
+#####################################################
+Bus with yellow flag sticking out window . 
+bus with yellow flag stick out window . 
+
+object-prep-object	bus with flag
+attribute-object	yellow flag
+object-verb-object	flag stick window
+verb-attribute	stick out
+object	bus
+object	flag
+object	window
+object	bus
+#####################################################
+The front of a red , blue , and yellow bus . 
+the front of a red , blue , and yellow bus . 
+
+attribute-object	red bus
+attribute-object	blue bus
+attribute-object	yellow bus
+object	bus
+object	bus
+#####################################################
+The idle tourist bus awaits its passengers . 
+the idle tourist bus await its passenger . 
+
+attribute-object	idle bus
+object-verb-object	bus await passenger
+attribute-object	tourist bus
+object	bus
+object	passenger
+object	bus
+#####################################################

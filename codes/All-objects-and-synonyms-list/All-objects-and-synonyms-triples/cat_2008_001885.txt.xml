@@ -1,0 +1,48 @@
+A cat is looking out the window . 
+a cat be look out the window . 
+
+object-verb-object	cat look window
+verb-attribute	look out
+object	cat
+object	window
+object	cat
+#####################################################
+A cat looking out of a window . 
+a cat look out of a window . 
+
+object-verb-object	cat look window
+verb-attribute	look out
+object	cat
+object	window
+object	cat
+#####################################################
+A white cat looking out of a window . 
+a white cat look out of a window . 
+
+object-verb-object	cat look window
+verb-attribute	look out
+attribute-object	white cat
+object	cat
+object	window
+object	cat
+#####################################################
+Domestic cat looking out window . 
+domestic cat look out window . 
+
+attribute-object	domestic cat
+object-verb-object	cat look window
+verb-attribute	look out
+object	cat
+object	window
+object	cat
+#####################################################
+Gray cat looking out the window . 
+Gray cat look out the window . 
+
+object-verb-object	cat look window
+attribute-object	gray cat
+verb-attribute	look out
+object	cat
+object	window
+object	cat
+#####################################################

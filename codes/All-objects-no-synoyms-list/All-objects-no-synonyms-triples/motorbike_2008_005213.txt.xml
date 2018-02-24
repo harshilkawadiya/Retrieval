@@ -1,0 +1,55 @@
+Four bikers are riding on a dirt hill . 
+four biker be ride on a dirt hill . 
+
+object-verb	biker ride
+verb-prep-object	ride on hill
+object-prep-object	biker on hill
+attribute-object	dirt hill
+object	biker
+object	hill
+object	motorbike
+#####################################################
+four motorbikes competing in the dirt . 
+four motorbike compete in the dirt . 
+
+verb-prep-object	compete in dirt
+object-prep-object	motorbike in dirt
+object-verb	motorbike compete
+object	dirt
+object	motorbike
+object	motorbike
+#####################################################
+Four people race through the dirt on BMX bikes . 
+four people race through the dirt on BMX bike . 
+
+object-verb	people race
+verb-prep-object	race through dirt
+object-prep-object	people through dirt
+verb-prep-object	race on bike
+object-prep-object	people on bike
+attribute-object	bmx bike
+object	people
+object	dirt
+object	bike
+object	motorbike
+#####################################################
+Four people racing motor bikes . 
+four people race motor bike . 
+
+object-verb-object	people race bike
+attribute-object	motor bike
+object	people
+object	bike
+object	motorbike
+#####################################################
+Group of four dirt bikers riding down dirt trail . 
+Group of four dirt biker ride down dirt trail . 
+
+object-verb-object	biker ride trail
+attribute-object	dirt biker
+attribute-object	dirt trail
+verb-attribute	ride down
+object	biker
+object	trail
+object	motorbike
+#####################################################

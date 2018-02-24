@@ -1,0 +1,56 @@
+A loft with a black bookcase beneath it . 
+a loft with a black bookcase beneath it . 
+
+object-prep-object	loft with bookcase
+attribute-object	black bookcase
+object	loft
+object	bookcase
+object	pottedplant
+#####################################################
+An interior room with a shelf of books and decorative items below a loft area . 
+a interior room with a shelf of book and decorative item below a loft area . 
+
+object-prep-object	room with shelf
+object-prep-object	shelf of book
+object-prep-object	shelf of item
+attribute-object	interior room
+attribute-object	decorative item
+object	room
+object	shelf
+object	book
+object	item
+object	pottedplant
+#####################################################
+An open plan living area with a mezzanine level . 
+a open plan live area with a mezzanine level . 
+
+object-prep-object	area with level
+attribute-object	open area
+attribute-object	plan area
+attribute-object	live area
+attribute-object	mezzanine level
+object	area
+object	level
+object	pottedplant
+#####################################################
+Black book shelf in a white room . 
+Black book shelf in a white room . 
+
+object-prep-object	shelf in room
+attribute-object	white room
+attribute-object	black shelf
+attribute-object	book shelf
+object	shelf
+object	room
+object	pottedplant
+#####################################################
+This is someone 's living room and second-floor inside balcony . 
+this be someone 's living room and second-floor inside balcony . 
+
+object-prep-object	second-floor inside balcony
+attribute-object	living room
+object	second-floor
+object	balcony
+object	room
+object	pottedplant
+#####################################################

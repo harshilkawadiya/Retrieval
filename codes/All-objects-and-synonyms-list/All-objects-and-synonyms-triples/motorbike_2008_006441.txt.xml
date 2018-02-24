@@ -1,0 +1,58 @@
+A gray haired man inspects a red Suzuki motorcycle . 
+a gray haired man inspect a red Suzuki motorcycle . 
+
+attribute-object	gray person
+attribute-object	haired person
+attribute-object	red motorbike
+object-verb-object	person inspect motorbike
+attribute-object	suzuki motorbike
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A man inspects a red motorbike . 
+a man inspect a red motorbike . 
+
+attribute-object	red motorbike
+object-verb-object	person inspect man
+object	motorbike
+object	person
+object	man
+object	motorbike
+#####################################################
+A man looking at a red motorcycle . 
+a man look at a red motorcycle . 
+
+verb-prep-object	look at motorbike
+attribute-object	red motorbike
+object-verb	person look
+object	motorbike
+object	motorcycle
+object	person
+object	man
+object	motorbike
+#####################################################
+Man inspecting motorcycle . 
+man inspect motorcycle . 
+
+object-verb-object	person inspect motorbike
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+Older gentleman looking at red motorcycle . 
+older gentleman look at red motorcycle . 
+
+verb-prep-object	look at motorbike
+attribute-object	older person
+attribute-object	red motorbike
+object-verb	person look
+object	motorbike
+object	motorcycle
+object	person
+object	gentleman
+object	motorbike
+#####################################################

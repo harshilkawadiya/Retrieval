@@ -1,0 +1,63 @@
+A green and gray plane is taking off from the runway . 
+a green and gray plane be take off from the runway . 
+
+verb-prep-object	takeoff from runway
+object-prep-object	plane from runway
+attribute-object	green plane
+attribute-object	gray plane
+object-verb	plane take_off
+object	runway
+object	plane
+object	aeroplane
+#####################################################
+A green and white cargo plane taking off from an airport . 
+a green and white cargo plane take off from a airport . 
+
+verb-prep-object	takeoff from airport
+object-prep-object	plane from airport
+attribute-object	white plane
+attribute-object	green plane
+attribute-object	cargo plane
+object-verb	plane take_off
+object	airport
+object	plane
+object	aeroplane
+#####################################################
+A green and white jet taking off . 
+a green and white jet take off . 
+
+attribute-object	green jet
+attribute-object	white jet
+object-verb	jet take_off
+object	jet
+object	aeroplane
+#####################################################
+A Jade Cargo jet in green and white taking off from an airport . 
+a Jade Cargo jet in green and white take off from a airport . 
+
+verb-prep-object	takeoff from airport
+object-prep-object	jet from airport
+object-prep-object	jet in green
+object-prep-object	jet in white
+attribute-object	jade jet
+attribute-object	cargo jet
+object-verb	jet take_off
+object	airport
+object	jet
+object	green
+object	white
+object	aeroplane
+#####################################################
+White and green commercial airliner taking off of runway . 
+White and green commercial airliner take off of runway . 
+
+verb-prep-object	take_off of runway
+object-prep-object	airliner of runway
+attribute-object	white airliner
+attribute-object	green airliner
+attribute-object	commercial airliner
+object-verb	airliner take_off
+object	runway
+object	airliner
+object	aeroplane
+#####################################################

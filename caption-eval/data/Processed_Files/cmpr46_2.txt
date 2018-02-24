@@ -1,0 +1,50 @@
+beam_size_1	2	a man looks through his binoculars while another man holds a drink .
+beam_size_1	3	A man with a thermos is standing next to a man who is gazing through binoculars .
+beam_size_1	4	Two men are standing together while one looks through binoculars .
+beam_size_1	5	Two men look out as one is holding binoculars .
+beam_size_1	6	two people standing next to each other with mountains in the distance .
+beam_size_1	7	One climber is sitting on the rock overlooking the ocean whilst another climber is on her way up .
+beam_size_1	8	Two people are on a rock overlooking the ocean
+beam_size_1	9	Two people climb a rock overhanging water .
+beam_size_1	10	Two people climb rocks over some water .
+beam_size_1	11	Two people rock climbing near water .
+beam_size_1	12	a lone surfboarder on a white surfboard flying through the air over a wave
+beam_size_1	13	An surfer airborne over a wave .
+beam_size_1	14	A surfer is jumping a wave .
+beam_size_1	15	A surfer jumps a wave .
+beam_size_1	16	Surfer does trick in wave as seen from behind
+beam_size_1	17	A group of basketball players wearing yellow and green reach for a ball .
+beam_size_1	18	Basketball players shoot for a goal during a game .
+beam_size_1	19	Four men jumping in a basketball game
+beam_size_1	20	In this picture all men from both basketball teams with red and green jerseys are jumping .
+beam_size_1	21	The man on the yellow basketball team tries to score while the men on the opposing team try to block his shot .
+beam_size_1	22	A hiker is walking a treeless path up a hill .
+beam_size_1	23	A man is backpacking up a grassy hill .
+beam_size_1	24	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	25	Person hiking up a grassy trail toward a large hill .
+beam_size_1	26	The hiker is following a trail uphill .
+beam_size_1	27	A crowd of people are standing in front of Italian style buildings .
+beam_size_1	28	A crowd of people stand looking at somthing in a European courtyard .
+beam_size_1	29	A crowd of people stands attentively in a plaza with buildings in the background .
+beam_size_1	30	A group of people are looking at the buildings .
+beam_size_1	31	Group of people standing in the town square looking up .
+beam_size_1	32	Children skating while people watch on the side .
+beam_size_1	33	Two boys ice skate with other people .
+beam_size_1	34	Two boys on ice skates race on an outdoor ice rink .
+beam_size_1	35	Two boys race on ice skates while others watch .
+beam_size_1	36	Two children are skating quickly on ice .
+beam_size_1	37	a man enjoying the view from top of a mountain
+beam_size_1	38	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	39	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	40	A man sits on a cliff and looks out over another mountain .
+beam_size_1	41	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	42	A man stands atop a mountain with arms extended .
+beam_size_1	43	A person on top of a mountain with arms over head .
+beam_size_1	44	A person stands at the top of a mountain and raises his arms .
+beam_size_1	45	Man on top of a mountain with his arms in the air .
+beam_size_1	46	The man is standing on the rocks above the river with his arms in the air .
+beam_size_1	47	a boy wearing a white shirt and pink shoelaces jumping on a railing
+beam_size_1	48	A man jumps of the handrail of an outdoor staircase .
+beam_size_1	49	A person on a skateboard .
+beam_size_1	50	A skateboarder is balancing on the rail of stairs .
+beam_size_1	51	A teenage boy jumps off a rail .

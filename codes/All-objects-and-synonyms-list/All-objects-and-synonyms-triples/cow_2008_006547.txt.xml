@@ -1,0 +1,52 @@
+Several cows grazing on grass in field . 
+several cow grazing on grass in field . 
+
+verb-prep-object	graze on grass
+object-prep-object	cow on grass
+object-prep-object	grass in field
+attribute-object	several cow
+object-verb	cow graze
+object	grass
+object	cow
+object	field
+object	cow
+#####################################################
+Three cows are grazing in a grassy field . 
+three cow be grazing in a grassy field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+attribute-object	grassy field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################
+three cows are in a field in the country . 
+three cow be in a field in the country . 
+
+object-prep-object	cow in field
+object-prep-object	field in country
+object	cow
+object	field
+object	country
+object	cow
+#####################################################
+Three cows grazing in a field . 
+three cow grazing in a field . 
+
+object-verb	cow graze
+verb-prep-object	graze in field
+object-prep-object	cow in field
+object	cow
+object	field
+object	cow
+#####################################################
+Three farm animals are grazing . 
+three farm animal be grazing . 
+
+attribute-object	farm animal
+object-verb	animal graze
+object	animal
+object	cow
+#####################################################

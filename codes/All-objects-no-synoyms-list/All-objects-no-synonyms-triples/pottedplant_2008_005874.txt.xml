@@ -1,0 +1,56 @@
+A potted plant with only a few sprouting . 
+a potted plant with only a few sprout . 
+
+object-prep-object	plant with sprouting
+attribute-object	potted plant
+attribute-object	few sprouting
+object	plant
+object	sprouting
+object	pottedplant
+#####################################################
+Birds-eye view of a potted plant . 
+birds-eye view of a potted plant . 
+
+attribute-object	potted plant
+object	plant
+object	pottedplant
+#####################################################
+Newly sprouted plants in a pot . 
+newly sprout plant in a pot . 
+
+object-prep-object	plant in pot
+attribute-object	newly plant
+attribute-object	sprout plant
+object	plant
+object	pot
+object	pottedplant
+#####################################################
+Soil in a terracotta pot with green fertilizer pellets on top . 
+soil in a terracotta pot with green fertilizer pellet on top . 
+
+object-prep-object	soil in pot
+attribute-object	terracotta pot
+object-prep-object	pot with pellet
+attribute-object	green pellet
+attribute-object	fertilizer pellet
+object	soil
+object	pot
+object	pellet
+object	pottedplant
+#####################################################
+Tiny green plants are growing in a terra cotta pot of dirt . 
+Tiny green plant be grow in a terra cotta pot of dirt . 
+
+object-verb	plant grow
+attribute-object	tiny plant
+attribute-object	green plant
+verb-prep-object	grow in pot
+object-prep-object	plant in pot
+object-prep-object	pot of dirt
+attribute-object	terra pot
+attribute-object	cotta pot
+object	plant
+object	pot
+object	dirt
+object	pottedplant
+#####################################################

@@ -1,0 +1,71 @@
+A father napping in a chair with a baby on his lap . 
+a father nap in a chair with a baby on he lap . 
+
+object-prep-object	person with father
+object-prep-object	baby on lap
+verb-prep-object	nap in chair
+object-prep-object	person in father
+object-verb	person nap
+object	person
+object	father
+object	baby
+object	lap
+object	chair
+object	bottle
+#####################################################
+A man asleep in a chair holding a baby . 
+a man asleep in a chair hold a baby . 
+
+object-prep-object	person in man
+attribute-object	asleep person
+object-verb-object	person hold man
+object	person
+object	man
+object	bottle
+#####################################################
+A man in a pink shirt sleeping with a baby in his lap . 
+a man in a pink shirt sleep with a baby in he lap . 
+
+verb-prep-object	sleep with baby
+object-prep-object	person with man
+object-prep-object	person in man
+object-prep-object	baby in lap
+attribute-object	pink shirt
+object-verb	person sleep
+object	baby
+object	person
+object	man
+object	lap
+object	shirt
+object	bottle
+#####################################################
+A man sleeps with a baby in his lap . 
+a man sleep with a baby in he lap . 
+
+verb-prep-object	sleep with baby
+object-prep-object	person with man
+object-prep-object	baby in lap
+object-verb	person sleep
+object	baby
+object	person
+object	man
+object	lap
+object	bottle
+#####################################################
+Man with pink shirt sleeping on chair with infant . 
+man with pink shirt sleep on chair with infant . 
+
+verb-prep-object	sleep on chair
+verb-prep-object	sleep with person
+object-prep-object	person on man
+object-prep-object	person with person
+object-prep-object	person with man
+attribute-object	pink shirt
+object-verb	person sleep
+object	chair
+object	person
+object	infant
+object	man
+object	shirt
+object	bottle
+#####################################################

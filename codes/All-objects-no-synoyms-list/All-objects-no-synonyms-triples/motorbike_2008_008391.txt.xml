@@ -1,0 +1,56 @@
+A motorcycle rider rides splashes mud . 
+a motorcycle rider ride splash mud . 
+
+object-verb-object	rider ride mud
+attribute-object	motorcycle rider
+attribute-object	splash mud
+object	rider
+object	mud
+object	motorbike
+#####################################################
+A person riding a dirt bike is covered in mud . 
+a person ride a dirt bike be cover in mud . 
+
+verb-prep-object	cover in mud
+object-prep-object	person in mud
+object-verb-object	person ride bike
+attribute-object	dirt bike
+object-verb	person cover
+object	mud
+object	person
+object	bike
+object	motorbike
+#####################################################
+Motor cross racer number 984 speeding through the mud . 
+Motor cross racer number 984 speeding through the mud . 
+
+object-verb	racer speed
+verb-prep-object	speed through mud
+object-prep-object	racer through mud
+attribute-object	motor racer
+attribute-object	cross racer
+object	racer
+object	mud
+object	motorbike
+#####################################################
+Person in a dirt bike race . 
+person in a dirt bike race . 
+
+object-prep-object	person in race
+attribute-object	dirt race
+attribute-object	bike race
+object	person
+object	race
+object	motorbike
+#####################################################
+The person in the center is wearing a helmet and riding a dirt bike , with another person partially visible behind and a third dirt bike partially visible to the right . 
+the person in the center be wear a helmet and ride a dirt bike , with another person partially visible behind and a third dirt bike partially visible to the right . 
+
+attribute-object	dirt bike
+object-verb-object	person ride bike
+object-verb-object	person wear helmet
+object	bike
+object	person
+object	helmet
+object	motorbike
+#####################################################

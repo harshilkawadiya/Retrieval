@@ -1,0 +1,50 @@
+beam_size_1	2	a boy wearing a white shirt and pink shoelaces jumping on a railing
+beam_size_1	3	A man jumps of the handrail of an outdoor staircase .
+beam_size_1	4	A person on a skateboard .
+beam_size_1	5	A skateboarder is balancing on the rail of stairs .
+beam_size_1	6	A teenage boy jumps off a rail .
+beam_size_1	7	A pack of black dogs running in grass .
+beam_size_1	8	Five black dogs run in a field .
+beam_size_1	9	Five black dogs running across the grass .
+beam_size_1	10	Many black dogs run in a grassy area .
+beam_size_1	11	The black dogs are running in a grassy field
+beam_size_1	12	A girl wrings out a wet shirt .
+beam_size_1	13	A girl wearing green twists something in her hands .
+beam_size_1	14	A little girl in a green outfit wringing out an orange rag .
+beam_size_1	15	A young girl plays outside .
+beam_size_1	16	The little girl in the green outfit is playing with a piece of orange material .
+beam_size_1	17	A break dancer spins on his head outside as onlookers watch the performance .
+beam_size_1	18	A man spinning on his head on a city sidewalk near a checkerboard mat .
+beam_size_1	19	A man stands on his head in front of a crowd .
+beam_size_1	20	Man standing on his head near a black and white pattern in the street .
+beam_size_1	21	Young man break dancing in the street .
+beam_size_1	22	A person in a black wetsuit is surfing in the ocean with a wave coming down .
+beam_size_1	23	A person is surfing .
+beam_size_1	24	A surfer in all black is riding a wave .
+beam_size_1	25	A surfer rides the waves .
+beam_size_1	26	A woman in a black wetsuit surfs in bad weather .
+beam_size_1	27	A group of people are gathered on a white pillared porch for a photo .
+beam_size_1	28	A group of people are sitting in front of a red brick and white trim building .
+beam_size_1	29	A group of people are sitting on the porch of a brick building .
+beam_size_1	30	A group of people gather in front of a red house .
+beam_size_1	31	A group of ten people posing outside of a classic-style building
+beam_size_1	32	One climber is sitting on the rock overlooking the ocean whilst another climber is on her way up .
+beam_size_1	33	Two people are on a rock overlooking the ocean
+beam_size_1	34	Two people climb a rock overhanging water .
+beam_size_1	35	Two people climb rocks over some water .
+beam_size_1	36	Two people rock climbing near water .
+beam_size_1	37	Two boys wearing brown shirts tug at a rope on a wooden platform .
+beam_size_1	38	Two boys with red hair and glasses stand on a table and fight .
+beam_size_1	39	Two redheaded boys in brown shirts stand on a table and are fighting with sticks .
+beam_size_1	40	Two redheaded boys with glasses stand on bench , play swordfight with sticks .
+beam_size_1	41	Two twin pre-teen boys dueling with sticks
+beam_size_1	42	A couple are looking at an area map .
+beam_size_1	43	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	44	Tourists examine a sign .
+beam_size_1	45	Two people are reading a sign in front of a museum .
+beam_size_1	46	Two people read a sign in front of a museum .
+beam_size_1	47	A bunch of asian children on steps .
+beam_size_1	48	A large group of Asian children sit on or stand near steps .
+beam_size_1	49	Group of children in blue uniforms sitting on steps .
+beam_size_1	50	Little children in school uniforms congregate on the steps .
+beam_size_1	51	Many school children dressed in the same uniform are sitting on stairs .

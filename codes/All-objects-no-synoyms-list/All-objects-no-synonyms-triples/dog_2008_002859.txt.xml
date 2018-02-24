@@ -1,0 +1,65 @@
+A brown dog curled up in its bed . 
+a brown dog curl up in its bed . 
+
+verb-prep-object	curl in bed
+object-prep-object	dog in bed
+attribute-object	brown dog
+object-verb	dog curl
+verb-attribute	curl up
+object	bed
+object	dog
+object	dog
+#####################################################
+A dog laying in a pet jacket . 
+a dog lay in a pet jacket . 
+
+verb-prep-object	lay in jacket
+object-prep-object	dog in jacket
+attribute-object	pet jacket
+object-verb	dog lay
+object	jacket
+object	dog
+object	dog
+#####################################################
+A tan dog lying on a moggie bed looking up at the camera . 
+a tan dog lie on a moggie bed look up at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	lie on bed
+object-prep-object	dog on bed
+attribute-object	tan dog
+attribute-object	moggie bed
+object-verb	dog lie
+object-verb	dog look
+verb-attribute	look up
+object	camera
+object	bed
+object	dog
+object	dog
+#####################################################
+Tan canine lying down in white bed . 
+Tan canine lie down in white bed . 
+
+verb-prep-object	lie in bed
+object-prep-object	canine in bed
+attribute-object	tan canine
+attribute-object	white bed
+object-verb	canine lie
+verb-attribute	lie down
+object	bed
+object	canine
+object	dog
+#####################################################
+The brown dog is laying on a round dog bed . 
+the brown dog be lay on a round dog bed . 
+
+verb-prep-object	lay on bed
+object-prep-object	dog on bed
+attribute-object	brown dog
+attribute-object	round bed
+attribute-object	dog bed
+object-verb	dog lay
+object	bed
+object	dog
+object	dog
+#####################################################

@@ -1,0 +1,49 @@
+A hand painted Volkswagen Bug . 
+a hand paint Volkswagen bug . 
+
+attribute-object	hand bug
+attribute-object	paint bug
+attribute-object	volkswagen bug
+object	bug
+object	car
+#####################################################
+A multicolored , painted Volkswagen Beattle parked in a field . 
+a multicolor , paint Volkswagen Beattle park in a field . 
+
+object-verb	beattle park
+verb-prep-object	park in field
+object-prep-object	beattle in field
+attribute-object	multicolor beattle
+attribute-object	paint beattle
+attribute-object	volkswagen beattle
+object	beattle
+object	field
+object	car
+#####################################################
+A painted VW bug . 
+a paint VW bug . 
+
+attribute-object	paint bug
+attribute-object	vw bug
+object	bug
+object	car
+#####################################################
+A VW Beetle being garishly painted atop a blue tarp . 
+a VW Beetle be garishly paint atop a blue tarp . 
+
+verb-prep-object	paint atop tarp
+attribute-object	blue tarp
+attribute-object	vw beetle
+object-verb	beetle paint
+object	tarp
+object	beetle
+object	car
+#####################################################
+Very colorful Volkswagen Beetle . 
+very colorful volkswagen Beetle . 
+
+attribute-object	colorful beetle
+attribute-object	volkswagen beetle
+object	beetle
+object	car
+#####################################################

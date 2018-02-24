@@ -1,0 +1,70 @@
+A unique living room with tv , brown table , green and brown walls , and white chairs . 
+a unique living room with tv , brown table , green and brown wall , and white chair . 
+
+object-prep-object	room with tv
+object-prep-object	room with table
+object-prep-object	room with wall
+object-prep-object	room with chair
+attribute-object	unique room
+attribute-object	brown table
+attribute-object	green wall
+attribute-object	brown wall
+attribute-object	white chair
+attribute-object	living room
+object	room
+object	tv
+object	table
+object	wall
+object	chair
+object	pottedplant
+#####################################################
+A very retro living room with a television in it . 
+a very retro living room with a television in it . 
+
+object-prep-object	room with television
+attribute-object	retro room
+attribute-object	living room
+object	room
+object	television
+object	pottedplant
+#####################################################
+Modern room with TV in a round brown frame . 
+Modern room with tv in a round brown frame . 
+
+object-prep-object	tv in frame
+object-prep-object	room with tv
+attribute-object	round frame
+attribute-object	brown frame
+attribute-object	modern room
+object	tv
+object	frame
+object	room
+object	pottedplant
+#####################################################
+Television encased in a wood frame in a lobby . 
+Television encase in a wood frame in a lobby . 
+
+verb-prep-object	encase in frame
+object-prep-object	television in frame
+verb-prep-object	encase in lobby
+object-prep-object	television in lobby
+attribute-object	wood frame
+object-verb	television encase
+object	frame
+object	television
+object	lobby
+object	pottedplant
+#####################################################
+There is a TV with a wooden oval frame in a modern room . 
+there be a tv with a wooden oval frame in a modern room . 
+
+object-prep-object	tv with frame
+object-prep-object	tv in room
+attribute-object	wooden frame
+attribute-object	oval frame
+attribute-object	modern room
+object	tv
+object	frame
+object	room
+object	pottedplant
+#####################################################

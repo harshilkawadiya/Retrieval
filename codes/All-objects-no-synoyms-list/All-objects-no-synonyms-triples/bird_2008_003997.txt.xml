@@ -1,0 +1,62 @@
+A black and white photo of a seagull flying in front of the Golden Gate Bridge . 
+a black and white photo of a seagull fly in front of the Golden Gate Bridge . 
+
+verb-prep-object	fly in_front_of bridge
+object-prep-object	seagull in_front_of bridge
+object-prep-object	photo of seagull
+attribute-object	black photo
+attribute-object	white photo
+attribute-object	golden bridge
+attribute-object	gate bridge
+object-verb	seagull fly
+object	bridge
+object	seagull
+object	photo
+object	bird
+#####################################################
+A seagull flying over a bay with a bridge . 
+a seagull fly over a bay with a bridge . 
+
+verb-prep-object	fly over bay
+object-prep-object	seagull over bay
+object-prep-object	bay with bridge
+object-verb	seagull fly
+object	bay
+object	seagull
+object	bridge
+object	bird
+#####################################################
+A seagull flying with a large bridge in the background . 
+a seagull fly with a large bridge in the background . 
+
+object-prep-object	bridge in background
+verb-prep-object	fly with bridge
+attribute-object	large bridge
+object-verb	seagull fly
+object	bridge
+object	background
+object	seagull
+object	bird
+#####################################################
+A seagull superimposed in front of a suspension bridge . 
+a seagull superimpose in front of a suspension bridge . 
+
+verb-prep-object	superimpose in_front_of bridge
+object-prep-object	seagull in_front_of bridge
+attribute-object	suspension bridge
+object-verb	seagull superimpose
+object	bridge
+object	seagull
+object	bird
+#####################################################
+Seagull taking off from hand railing . 
+Seagull take off from hand railing . 
+
+verb-prep-object	takeoff from railing
+object-prep-object	seagull from railing
+attribute-object	hand railing
+object-verb	seagull takeoff
+object	railing
+object	seagull
+object	bird
+#####################################################

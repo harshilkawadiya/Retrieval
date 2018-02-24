@@ -1,0 +1,62 @@
+A blue moped parked on the sidewalk . 
+a blue moped park on the sidewalk . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	motorbike on scooter
+attribute-object	blue motorbike
+object-verb	motorbike park
+object	sidewalk
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A blue motorcycle is parked on a sidewalk . 
+a blue motorcycle be park on a sidewalk . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	motorbike on motorcycle
+attribute-object	blue motorbike
+object-verb	motorbike park
+object	sidewalk
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A blue motorcycle is parked on the sidewalk . 
+a blue motorcycle be park on the sidewalk . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	motorbike on motorcycle
+attribute-object	blue motorbike
+object-verb	motorbike park
+object	sidewalk
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A blue scooter parked on a sidewalk . 
+a blue scooter park on a sidewalk . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	motorbike on scooter
+attribute-object	blue motorbike
+object-verb	motorbike park
+object	sidewalk
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A Vespa is parked at a bike rack with ice at its base . 
+a vespa be park at a bike rack with ice at its base . 
+
+verb-prep-object	park at rack
+object-prep-object	motorbike at vespa
+object-prep-object	rack with ice
+attribute-object	bike rack
+object-verb	motorbike park
+object	rack
+object	motorbike
+object	vespa
+object	ice
+object	motorbike
+#####################################################

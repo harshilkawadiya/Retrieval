@@ -1,0 +1,64 @@
+A goat stands on a rock with trees in the background . 
+a goat stand on a rock with tree in the background . 
+
+verb-prep-object	stand on rock
+object-prep-object	sheep on cow
+object	tree
+object-verb	sheep stand
+object	rock
+object	sheep
+object	cow
+object	tree
+object	sheep
+#####################################################
+A horned goat standing on a rock ledge . 
+a horned goat standing on a rock ledge . 
+
+verb-prep-object	stand on ledge
+object-prep-object	sheep on cow
+attribute-object	horned sheep
+object-verb	sheep stand
+attribute-object	rock ledge
+object	ledge
+object	sheep
+object	cow
+object	sheep
+#####################################################
+A mountain goat is on snowy rocks near trees . 
+a mountain goat be on snowy rock near tree . 
+
+object-prep-object	sheep on cow
+object-prep-object	sheep near cow
+attribute-object	snowy rock
+attribute-object	mountain sheep
+object	sheep
+object	cow
+object	rock
+object	sheep
+#####################################################
+A ram standing on some rocks . 
+a ram standing on some rock . 
+
+verb-prep-object	stand on rock
+object-verb	sheep stand
+object-prep-object	sheep on car
+object	rock
+object	sheep
+object	car
+object	sheep
+#####################################################
+A white mountain goat stands on the jagged snow-covered rocks . 
+a white mountain goat stand on the jagged snow-covered rock . 
+
+verb-prep-object	stand on rock
+object-prep-object	sheep on cow
+attribute-object	white sheep
+attribute-object	jagged rock
+attribute-object	snow-covered rock
+attribute-object	mountain sheep
+object-verb	sheep stand
+object	rock
+object	sheep
+object	cow
+object	sheep
+#####################################################

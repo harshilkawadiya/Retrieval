@@ -1,0 +1,59 @@
+A bathtub under stained glass windows . 
+a bathtub under stained glass window . 
+
+object-prep-object	bathtub under window
+attribute-object	stained window
+attribute-object	glass window
+object	bathtub
+object	window
+object	tvmonitor
+#####################################################
+A beautiful tub under a stained glass window . 
+a beautiful tub under a stained glass window . 
+
+object-prep-object	tub under window
+attribute-object	beautiful tub
+attribute-object	stained window
+attribute-object	glass window
+object	tub
+object	window
+object	tvmonitor
+#####################################################
+A white bath tub set beneath stained glass artistry . 
+a white bath tub set beneath stained glass artistry . 
+
+object-prep-object	tub beneath artistry
+attribute-object	white tub
+attribute-object	bath tub
+attribute-object	stained artistry
+attribute-object	glass artistry
+object	tub
+object	artistry
+object	tvmonitor
+#####################################################
+The modern bath tub is equipped with a flat screen television . 
+the modern bath tub be equip with a flat screen television . 
+
+verb-prep-object	equip with television
+object-prep-object	tub with television
+attribute-object	modern tub
+attribute-object	flat television
+attribute-object	bath tub
+attribute-object	screen television
+object-verb	tub equip
+object	television
+object	tub
+object	tvmonitor
+#####################################################
+The stained glass window allows light into the bathroom while keeping prying eyes out . 
+the stained glass window allow light into the bathroom while keep prying eye out . 
+
+object-verb-object	window allow light
+attribute-object	stained window
+attribute-object	glass window
+object-prep-object	light into bathroom
+object	window
+object	light
+object	bathroom
+object	tvmonitor
+#####################################################

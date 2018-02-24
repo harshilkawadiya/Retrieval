@@ -1,0 +1,76 @@
+A beautiful lake surrounded by trees with two small boats on the beach . 
+a beautiful lake surround by tree with two small boat on the beach . 
+
+verb-prep-object	surround by tree
+object-prep-object	lake by tree
+verb-prep-object	surroud with boat
+object-prep-object	lake with boat
+object-prep-object	boat on beach
+attribute-object	beautiful lake
+attribute-object	small boat
+object-verb	lake surround
+object	tree
+object	lake
+object	boat
+object	beach
+object	boat
+#####################################################
+A boat is shown in the foreground of a river-side scene , with mountains and trees in the background . 
+a boat be show in the foreground of a river-side scene , with mountain and tree in the background . 
+
+verb-prep-object	show with mountain
+verb-prep-object	show with tree
+verb-prep-object	show in foreground
+object-prep-object	boat with mountain
+object-prep-object	boat with tree
+object-prep-object	boat in foreground
+object-prep-object	mountain in background
+object-prep-object	tree in background
+object-prep-object	foreground of scene
+attribute-object	river-side scene
+object-verb	boat show
+object	mountain
+object	tree
+object	foreground
+object	boat
+object	background
+object	scene
+object	boat
+#####################################################
+A small watercraft at the edge of a lake . 
+a small watercraft at the edge of a lake . 
+
+object-prep-object	edge of lake
+object-prep-object	watercraft at lake
+attribute-object	small watercraft
+object	edge
+object	lake
+object	watercraft
+object	boat
+#####################################################
+The great outdoors with blue water , evergreen trees , and heavy clouds . 
+the great outdoors with blue water , evergreen tree , and heavy cloud . 
+
+object-prep-object	outdoors with water
+object-prep-object	outdoors with tree
+object-prep-object	outdoors with cloud
+attribute-object	great outdoors
+attribute-object	blue water
+attribute-object	heavy cloud
+attribute-object	evergreen tree
+object	outdoors
+object	water
+object	tree
+object	cloud
+object	boat
+#####################################################
+Two boats docked on a lakeside . 
+two boat dock on a lakeside . 
+
+verb-prep-object	dock on lakeside
+object-prep-object	boat on lakeside
+object-verb	boat dock
+object	lakeside
+object	boat
+object	boat
+#####################################################

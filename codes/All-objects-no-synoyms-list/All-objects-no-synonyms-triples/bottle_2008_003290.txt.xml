@@ -1,0 +1,56 @@
+A black and white photo of two men drinking alcohol and one holding a guitar . 
+a black and white photo of two man drink alcohol and one hold a guitar . 
+
+object-verb-object	man hold guitar
+object-verb-object	man drink alcohol
+object	man
+object	guitar
+object	alcohol
+object	bottle
+#####################################################
+A man stands on the left , one sits in the middle , and the other plays a guitar in a black and white photo . 
+a man stand on the left , one sit in the middle , and the other play a guitar in a black and white photo . 
+
+object-verb	man stand
+verb-prep-object	stand on left
+object-prep-object	man on left
+object-verb	man sit
+object-verb-object	man play guitar
+object	man
+object	left
+object	guitar
+object	bottle
+#####################################################
+An old black and white photo of three men on a porch playing music and drinking . 
+a old black and white photo of three man on a porch play music and drinking . 
+
+object-prep-object	man on porch
+object-verb-object	man play music
+object-verb	man drink
+object	man
+object	porch
+object	music
+object	bottle
+#####################################################
+The men are playing a guitar and having a drink . 
+the man be play a guitar and have a drink . 
+
+object-verb-object	man play guitar
+object-verb-object	man have drink
+object	man
+object	guitar
+object	drink
+object	bottle
+#####################################################
+Three young men in the 1940s smile for the camera , one holding a guitar . 
+three young man in the 1940s smile for the camera , one hold a guitar . 
+
+object-verb	man smile
+verb-prep-object	smile for camera
+attribute-object	young man
+object-verb-object	man hold guitar
+object	man
+object	camera
+object	guitar
+object	bottle
+#####################################################

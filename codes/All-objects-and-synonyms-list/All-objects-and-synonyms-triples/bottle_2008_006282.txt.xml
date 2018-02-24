@@ -1,0 +1,63 @@
+A row of beer bottles on the floor . 
+a row of beer bottle on the floor . 
+
+object-prep-object	bottle on floor
+attribute-object	beer bottle
+object	bottle
+object	floor
+object	bottle
+#####################################################
+Beer bottles -LRB- Harp Lager -RRB- lined up on the floor . 
+Beer bottle -lrb- Harp Lager -rrb- line up on the floor . 
+
+verb-prep-object	line on floor
+object-prep-object	bottle on floor
+attribute-object	beer bottle
+object-verb	bottle line
+verb-attribute	line up
+object	floor
+object	bottle
+object	bottle
+#####################################################
+Eight bottles of beer standing in a row on a wooden floor . 
+eight bottle of beer standing in a row on a wooden floor . 
+
+verb-prep-object	stand on floor
+object-prep-object	bottle on floor
+object-prep-object	bottle of beer
+attribute-object	wooden floor
+object-verb	bottle stand
+object	floor
+object	bottle
+object	beer
+object	bottle
+#####################################################
+Eight bottles of Harp beer lined up on a wooden floor . 
+eight bottle of Harp beer line up on a wooden floor . 
+
+verb-prep-object	line on floor
+object-prep-object	bottle on floor
+object-prep-object	bottle of beer
+attribute-object	wooden floor
+attribute-object	harp beer
+object-verb	bottle line
+verb-attribute	line up
+object	floor
+object	bottle
+object	beer
+object	bottle
+#####################################################
+Eight bottles of Harp lager lined up on the floor . 
+eight bottle of Harp lager line up on the floor . 
+
+verb-prep-object	line on floor
+object-prep-object	bottle on floor
+object-prep-object	bottle of lager
+attribute-object	harp lager
+object-verb	bottle line
+verb-attribute	line up
+object	floor
+object	bottle
+object	lager
+object	bottle
+#####################################################

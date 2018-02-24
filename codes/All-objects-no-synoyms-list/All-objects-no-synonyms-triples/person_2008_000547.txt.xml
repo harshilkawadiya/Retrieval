@@ -1,0 +1,58 @@
+A person jumping a dirt bike with a boy watching . 
+a person jump a dirt bike with a boy watch . 
+
+object-verb-object	person jump bike
+attribute-object	dirt bike
+object-verb	boy watch
+object	person
+object	bike
+object	boy
+object	person
+#####################################################
+A person riding a dirt bike while a boy looks on . 
+a person ride a dirt bike while a boy look on . 
+
+object-verb-object	person ride bike
+attribute-object	dirt bike
+object-verb	boy look
+object	person
+object	bike
+object	boy
+object	person
+#####################################################
+A person riding a motorbike while another man watches . 
+a person ride a motorbike while another man watch . 
+
+object-verb-object	person ride motorbike
+object-verb	man watch
+object	person
+object	motorbike
+object	man
+object	person
+#####################################################
+Rider on red dirt bike coming over hill . 
+rider on red dirt bike come over hill . 
+
+object-prep-object	rider on bike
+verb-prep-object	come over hill
+attribute-object	red bike
+attribute-object	dirt bike
+object-verb	rider come
+object	rider
+object	bike
+object	hill
+object	person
+#####################################################
+Two young boys practice riding motorcycles in the country . 
+two young boy practice ride motorcycle in the country . 
+
+verb-prep-object	practice in country
+attribute-object	young boy
+object-verb	boy practice
+verb-prep-verb	practice to ride
+verb-object	ride motorcycle
+object	country
+object	boy
+object	motorcycle
+object	person
+#####################################################

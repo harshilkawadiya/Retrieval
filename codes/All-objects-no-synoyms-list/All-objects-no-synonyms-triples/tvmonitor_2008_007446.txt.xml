@@ -1,0 +1,67 @@
+A man in a Ninja Turtles t-shirt repairs televisions . 
+a man in a Ninja Turtles t-shirt repair television . 
+
+object-verb-object	man repair television
+object-prep-object	man in t-shirt
+attribute-object	ninja t-shirt
+attribute-object	turtles t-shirt
+object	man
+object	television
+object	t-shirt
+object	tvmonitor
+#####################################################
+A man in a workshop looking at the back of two TV sets . 
+a man in a workshop look at the back of two tv set . 
+
+verb-prep-object	look at tv
+object-prep-object	man in workshop
+object-verb	man look
+object	tv
+object	man
+object	workshop
+object	tvmonitor
+#####################################################
+a man with sideburns looking at backs of white TVs . 
+a man with sideburn look at back of white tv . 
+
+verb-prep-object	look at tv
+object-prep-object	man with sideburn
+attribute-object	white tv
+object-verb	man look
+object	tv
+object	man
+object	sideburn
+object	tvmonitor
+#####################################################
+A young man with long hair and sideburns in a Ninja Turtles shirt stands behind a row of computer monitors . 
+a young man with long hair and sideburn in a Ninja Turtles shirt stand behind a row of computer monitor . 
+
+object-prep-object	man with hair
+object-prep-object	man with sideburn
+attribute-object	young man
+attribute-object	long hair
+object-prep-object	man in shirt
+attribute-object	ninja shirt
+attribute-object	turtles shirt
+object-verb	man stand
+verb-prep-object	stand behind monitor
+object-prep-object	man behind monitor
+attribute-object	computer monitor
+object	man
+object	hair
+object	sideburn
+object	shirt
+object	monitor
+object	tvmonitor
+#####################################################
+Guy standing behind two computer monitors . 
+Guy standing behind two computer monitor . 
+
+verb-prep-object	stand behind monitor
+object-prep-object	guy behind monitor
+object-verb	guy stand
+attribute-object	computer monitor
+object	monitor
+object	guy
+object	tvmonitor
+#####################################################

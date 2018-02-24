@@ -1,0 +1,50 @@
+a black and white image of a dog out of a truck . 
+a black and white image of a dog out of a truck . 
+
+object-prep-object	dog out_of truck
+object	dog
+object	truck
+object	car
+#####################################################
+A dog is peeking out of the back of a van . 
+a dog be peek out of the back of a van . 
+
+verb-prep-object	peek out_of van
+object-prep-object	dog out_of van
+object-verb	dog peek
+object	van
+object	dog
+object	car
+#####################################################
+A dog looking through a gap in the back of a pick up truck . 
+a dog look through a gap in the back of a pick up truck . 
+
+verb-prep-object	look through gap
+object-prep-object	gap in truck
+attribute-object	pick_up truck
+object-verb	dog look
+object	gap
+object	truck
+object	dog
+object	car
+#####################################################
+A dog peeks out the back of a truck . 
+a dog peek out the back of a truck . 
+
+object-verb-object	dog peek truck
+verb-attribute	peek out
+object	dog
+object	truck
+object	car
+#####################################################
+A dog peeks through the rear of a covered pick-up truck in a black and white photo . 
+a dog peek through the rear of a covered pick-up truck in a black and white photo . 
+
+object-verb	dog peek
+verb-prep-object	peek through truck
+attribute-object	covered truck
+attribute-object	pick-up truck
+object	dog
+object	truck
+object	car
+#####################################################

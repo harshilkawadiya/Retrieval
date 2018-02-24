@@ -1,0 +1,59 @@
+A three masted schooner lying at anchor . 
+a three masted schooner lie at anchor . 
+
+attribute-object	masted boat
+object-verb	boat lie
+verb-prep-object	lie at anchor
+object	boat
+object	schooner
+object	anchor
+object	boat
+#####################################################
+A three mast ship sailing in front of a larger cruise ship in the open sea . 
+a three mast ship sailing in front of a larger cruise ship in the open sea . 
+
+object-verb	boat sailing
+attribute-object	mast boat
+verb-prep-object	sailing in_front_of boat
+object-prep-object	boat in water
+verb-prep-object	sailing in water
+attribute-object	larger boat
+attribute-object	open water
+attribute-object	cruise boat
+object	boat
+object	ship
+object	water
+object	sea
+object	boat
+#####################################################
+A wooden ship sailing . 
+a wooden ship sailing . 
+
+attribute-object	wooden boat
+object-verb	boat sailing
+object	boat
+object	ship
+object	boat
+#####################################################
+A wooden yacht on the ocean . 
+a wooden yacht on the ocean . 
+
+object-prep-object	ship on water
+attribute-object	wooden ship
+object	ship
+object	boat
+object	water
+object	boat
+#####################################################
+Sail boat floating on the blue water . 
+Sail boat float on the blue water . 
+
+verb-prep-object	float on water
+object-prep-object	boat on water
+attribute-object	blue water
+attribute-object	sail boat
+object-verb	boat float
+object	water
+object	boat
+object	boat
+#####################################################

@@ -1,0 +1,61 @@
+A broken sofa sits beneath a concrete structure with graffiti . 
+a broken sofa sit beneath a concrete structure with graffitus . 
+
+object-prep-object	structure with graffitus
+verb-prep-object	sit beneath structure
+object-prep-object	sofa beneath structure
+attribute-object	broken sofa
+attribute-object	concrete structure
+object-verb	sofa sit
+object	structure
+object	graffitus
+object	sofa
+object	sofa
+#####################################################
+A broken sofa underneath an underpass marked with graffiti . 
+a broken sofa underneath a underpass mark with graffitus . 
+
+object-prep-object	sofa underneath underpass
+verb-prep-object	mark with graffitus
+object-prep-object	underpass with graffitus
+attribute-object	broken sofa
+object-verb	underpass mark
+object	sofa
+object	underpass
+object	graffitus
+object	sofa
+#####################################################
+A couch outside by graffiti covered walls and columns . 
+a couch outside by graffitus cover wall and column . 
+
+object	sofa
+attribute-object	graffitus wall
+attribute-object	graffitus column
+object	sofa
+object	bed
+object	wall
+object	column
+object	sofa
+#####################################################
+A couch sits outside by graffiti covered walls . 
+a couch sit outside by graffitus cover wall . 
+
+object	sofa
+attribute-object	graffitus wall
+object	sofa
+object	bed
+object	wall
+object	sofa
+#####################################################
+An old sofa sitting underneath a concrete bridge . 
+a old sofa sit underneath a concrete bridge . 
+
+verb-prep-object	sit underneath bridge
+object-prep-object	sofa underneath bridge
+attribute-object	old sofa
+attribute-object	concrete bridge
+object-verb	sofa sit
+object	bridge
+object	sofa
+object	sofa
+#####################################################

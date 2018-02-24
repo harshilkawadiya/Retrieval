@@ -1,0 +1,63 @@
+A television and entertainment center . 
+a television and entertainment center . 
+
+object	television
+attribute-object	entertainment center
+object	television
+object	center
+object	tvmonitor
+#####################################################
+A wide screen TV in a green entertainment center . 
+a wide screen tv in a green entertainment center . 
+
+object-prep-object	tv in center
+attribute-object	wide tv
+attribute-object	green center
+attribute-object	screen tv
+attribute-object	entertainment center
+object	tv
+object	center
+object	tvmonitor
+#####################################################
+A wide screen TV sits in a living room . 
+a wide screen tv sit in a living room . 
+
+verb-prep-object	sit in room
+object-prep-object	tv in room
+attribute-object	wide tv
+attribute-object	screen tv
+attribute-object	living room
+object-verb	tv sit
+object	room
+object	tv
+object	tvmonitor
+#####################################################
+Entertainment center with TV and picture frames . 
+Entertainment center with tv and picture frame . 
+
+object-prep-object	center with tv
+object-prep-object	center with frame
+attribute-object	entertainment center
+attribute-object	picture frame
+object	center
+object	tv
+object	frame
+object	tvmonitor
+#####################################################
+The entertainment center of the living room includes a TV , plants , and several baskets . 
+the entertainment center of the living room include a tv , plant , and several basket . 
+
+object-prep-object	center of room
+attribute-object	several basket
+object-verb-object	center include tv
+object-verb-object	center include plant
+object-verb-object	center include basket
+attribute-object	entertainment center
+attribute-object	living room
+object	center
+object	room
+object	basket
+object	tv
+object	plant
+object	tvmonitor
+#####################################################

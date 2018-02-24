@@ -1,0 +1,50 @@
+beam_size_1	2	A hiker is walking a treeless path up a hill .
+beam_size_1	3	A man is backpacking up a grassy hill .
+beam_size_1	4	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	5	Person hiking up a grassy trail toward a large hill .
+beam_size_1	6	The hiker is following a trail uphill .
+beam_size_1	7	A group of people stand in the sand looking out at the water .
+beam_size_1	8	Five people look out toward the ocean .
+beam_size_1	9	Five people standing in front of a body of water .
+beam_size_1	10	Three men and two women stand facing the ocean from the shore on a sunny day .
+beam_size_1	11	Two ladies and three men looking at the ocean .
+beam_size_1	12	A blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake .
+beam_size_1	13	A boy diving backward off a pier in a large lake .
+beam_size_1	14	A boy in a blue life jacket jumps into the water .
+beam_size_1	15	A boy in a blue life jacket jumps off a board into the lake .
+beam_size_1	16	A boy is holding his nose and jumping off a diving board backwards into a lake .
+beam_size_1	17	Children sit in a classroom holding slates .
+beam_size_1	18	Five of the six children have their own chalkboard .
+beam_size_1	19	Six African children sitting at two tables .
+beam_size_1	20	Six children are sitting in two rows with plastic bags on the desk in front of them .
+beam_size_1	21	Three children sitting at desks .
+beam_size_1	22	a skier helping a fellow skier get up from the snow
+beam_size_1	23	One climber helps another in the snow .
+beam_size_1	24	One mountaineer is kneeling on the ground next to another mountaineer who is standing .
+beam_size_1	25	two hikers in the snow adjusting rope equipment
+beam_size_1	26	Two people are hiking in the snow .
+beam_size_1	27	a man looks through his binoculars while another man holds a drink .
+beam_size_1	28	A man with a thermos is standing next to a man who is gazing through binoculars .
+beam_size_1	29	Two men are standing together while one looks through binoculars .
+beam_size_1	30	Two men look out as one is holding binoculars .
+beam_size_1	31	two people standing next to each other with mountains in the distance .
+beam_size_1	32	a lone surfboarder on a white surfboard flying through the air over a wave
+beam_size_1	33	An surfer airborne over a wave .
+beam_size_1	34	A surfer is jumping a wave .
+beam_size_1	35	A surfer jumps a wave .
+beam_size_1	36	Surfer does trick in wave as seen from behind
+beam_size_1	37	A man in a red striped soccer shirt heads a ball .
+beam_size_1	38	A man in red and black is hitting a soccer ball with his head .
+beam_size_1	39	A soccer ball is above the head of a man wearing black shorts and red and black striped shirt .
+beam_size_1	40	A soccer player in black shorts is jumping into the air .
+beam_size_1	41	The person in the red and black uniform has a ball above her head .
+beam_size_1	42	A boy dressed in soccer attire and holding his shoes getting out of a car .
+beam_size_1	43	A boy in a red soccer strip is holding his boots in his hand whilst stepping out of a car .
+beam_size_1	44	A boy in glasses is wearing a red shirt .
+beam_size_1	45	A child getting out of the car wearing soccer shoes .
+beam_size_1	46	A young boy gets out of the van and prepares his shoes for wear during a soccer game .
+beam_size_1	47	a football player wearing an orange jersey holding a football
+beam_size_1	48	A football player wearing an orange uniform smiling and holding the football .
+beam_size_1	49	A man in an orange jersey with the letter " 12 " on it plays football .
+beam_size_1	50	A University of Miami player holds a football .
+beam_size_1	51	Number 12 in orange gets ready to throw the football .

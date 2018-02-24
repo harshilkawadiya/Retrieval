@@ -1,0 +1,75 @@
+A guy with headphones midair on a bike under an overpass painted with graffiti . 
+a guy with headphone midair on a bike under a overpass paint with graffitus . 
+
+object-verb	person midair
+object-prep-object	person with headphone
+verb-prep-object	midair under overpass
+object-prep-object	person under overpass
+verb-prep-object	paint with graffitus
+verb-prep-object	midair on bicycle
+object-prep-object	person on bicycle
+object-verb	overpass paint
+object	person
+object	headphone
+object	overpass
+object	graffitus
+object	bicycle
+object	bicycle
+#####################################################
+A man jumping a BMX bike in a room filled with graffiti . 
+a man jump a BMX bike in a room fill with graffitus . 
+
+verb-prep-object	jump in room
+verb-prep-object	fill with graffitus
+object-prep-object	room with graffitus
+object-prep-object	person with graffitus
+object-verb-object	person jump bicycle
+attribute-object	bmx bicycle
+object-verb	room fill
+object	room
+object	graffitus
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A man on a bicycle is riding beneath a concrete structure with graffiti . 
+a man on a bicycle be ride beneath a concrete structure with graffitus . 
+
+verb-prep-object	ride beneath structure
+object-prep-object	person beneath structure
+object-prep-object	person on bicycle
+object-prep-object	structure with graffitus
+attribute-object	concrete structure
+object-verb	person ride
+object	structure
+object	person
+object	bicycle
+object	graffitus
+object	bicycle
+#####################################################
+A man on a bike performing a bmx trick in a concrete area . 
+a man on a bike perform a bmx trick in a concrete area . 
+
+object-prep-object	person on bicycle
+verb-prep-object	perform in area
+attribute-object	concrete area
+object-verb-object	person perform trick
+attribute-object	bmx trick
+object	person
+object	bicycle
+object	area
+object	trick
+object	bicycle
+#####################################################
+The guy with headphones catching some air on his bike . 
+the guy with headphone catch some air on he bike . 
+
+object-prep-object	person with headphone
+object-prep-object	sky on air
+object-verb-object	person catch sky
+object	person
+object	headphone
+object	sky
+object	air
+object	bicycle
+#####################################################

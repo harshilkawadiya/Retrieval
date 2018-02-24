@@ -1,0 +1,50 @@
+beam_size_1	2	A boy is diving through the air into a swimming pool .
+beam_size_1	3	A boy jumps into a pool on a bright sunny day .
+beam_size_1	4	a boy jumps into the blue pool water .
+beam_size_1	5	A smiling child dives into a pool .
+beam_size_1	6	The young boy is jumping into the pool on his belly .
+beam_size_1	7	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	8	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	9	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	10	Two people riding a bike are riding towards a stop sign .
+beam_size_1	11	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	12	A boy points .
+beam_size_1	13	A boy points at something while a man looks .
+beam_size_1	14	A boy smiles at points at something ; a man looks to the side .
+beam_size_1	15	A little boy smiles and points while a man looks in the direction of the child 's gaze .
+beam_size_1	16	The man in the blue shirt is looking in the direction to which the little boy is pointing .
+beam_size_1	17	Airplane emitting heavy red colored smoke .
+beam_size_1	18	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	19	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	20	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	21	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	22	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	23	A man in red trunks flies through the air with a boogie board .
+beam_size_1	24	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	25	A shirtless man bodysurfs .
+beam_size_1	26	Man is diving onto his wakeboard .
+beam_size_1	27	A girl in a hooded jacket presents a cake with candles .
+beam_size_1	28	A girl in a hood jacket holds a birthday cake with many candles .
+beam_size_1	29	A girl in a winter coat with a birthday cake .
+beam_size_1	30	A girl is holding a birthday cake .
+beam_size_1	31	A young girl holding a cake with candles dressed in a heavy coat .
+beam_size_1	32	A person rides the waves on a surfboard .
+beam_size_1	33	A person surfing .
+beam_size_1	34	A surfer is riding a wave .
+beam_size_1	35	A surfer riding a large wave
+beam_size_1	36	A surfer riding a surfboard in rough seas .
+beam_size_1	37	A group of men playing hockey .
+beam_size_1	38	A team of hockey players , with one player taking a shot .
+beam_size_1	39	Hockey players with one taking a shot .
+beam_size_1	40	Six hockey players of the same team are skating around waiting for the puck .
+beam_size_1	41	There is an ice hockey game in progress .
+beam_size_1	42	A girl jumping over a jump rope .
+beam_size_1	43	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	44	A girl wearing shorts plays jump rope .
+beam_size_1	45	A little girl is jumping over a yellow rope .
+beam_size_1	46	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	47	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	48	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	49	A little boy is leaping in the air onto a water slide .
+beam_size_1	50	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	51	The boy in the swimming trunks is playing in the yard .

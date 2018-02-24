@@ -1,0 +1,60 @@
+A goat grazing by the water . 
+a goat grazing by the water . 
+
+verb-prep-object	graze by water
+object-prep-object	sheep by cow
+object-verb	sheep graze
+object	water
+object	sheep
+object	cow
+object	cow
+#####################################################
+A pair of goats grazing , with a body of water and mountain behind them . 
+a pair of goat grazing , with a body of water and mountain behind they . 
+
+object-verb	sheep graze
+object-prep-object	sheep with cow
+object-prep-object	sheep with cow
+object	sheep
+object	cow
+object	cow
+#####################################################
+Two animals grazing next to a mountain , and a body of water . 
+two animal grazing next to a mountain , and a body of water . 
+
+object-verb	animal graze
+verb-prep-object	graze next_to mountain
+verb-prep-object	graze next_to water
+object-prep-object	animal next_to mountain
+object-prep-object	animal next_to water
+object	animal
+object	mountain
+object	water
+object	cow
+#####################################################
+Two mountain goats grazing in front of an alpine lake . 
+two mountain goat grazing in front of a alpine lake . 
+
+object-verb	sheep graze
+verb-prep-object	graze in_front_of water
+object-prep-object	sheep in_front_of water
+attribute-object	alpine water
+attribute-object	mountain sheep
+object	sheep
+object	cow
+object	water
+object	lake
+object	cow
+#####################################################
+Two sheep grazing next to a lake with mountains in the background . 
+two sheep grazing next to a lake with mountain in the background . 
+
+object-prep-object	water with lake
+verb-prep-object	graze next_to water
+object-prep-object	sheep next_to water
+object-verb	sheep graze
+object	water
+object	lake
+object	sheep
+object	cow
+#####################################################

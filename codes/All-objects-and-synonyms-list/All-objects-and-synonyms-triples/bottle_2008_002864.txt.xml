@@ -1,0 +1,67 @@
+a bald man is explaining the rules of a card game to a fat man . 
+a bald man be explain the rule of a card game to a fat man . 
+
+verb-prep-object	explain to person
+object-prep-object	rule of game
+attribute-object	bald person
+attribute-object	fat person
+object-verb-object	person explain man
+attribute-object	card game
+object	person
+object	man
+object	rule
+object	game
+object	bottle
+#####################################################
+The two men are playing cards on the table . 
+the two man be play card on the table . 
+
+verb-prep-object	play on diningtable
+object-prep-object	person on diningtable
+object-verb-object	person play man
+object	diningtable
+object	table
+object	person
+object	man
+object	bottle
+#####################################################
+Two men sit at a kitchen counter facing each other while one has playing cards in front of him . 
+two man sit at a kitchen counter face each other while one have play card in front of he . 
+
+verb-prep-object	sit at counter
+object-prep-object	person at man
+attribute-object	kitchen counter
+object-verb	person sit
+object	counter
+object	person
+object	man
+object	bottle
+#####################################################
+Two men sit opposite each other at a table with playing cards spread out . 
+two man sit opposite each other at a table with play card spread out . 
+
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	sit with card
+attribute-object	play card
+object	person
+object	man
+object	diningtable
+object	table
+object	card
+object	bottle
+#####################################################
+Two men with snacks are involved in an intense-looking card game . 
+two man with snack be involve in a intense-looking card game . 
+
+object-prep-object	person with man
+verb-prep-object	involve in game
+attribute-object	intense-looking game
+attribute-object	card game
+object-verb	person involve
+object	person
+object	man
+object	game
+object	bottle
+#####################################################

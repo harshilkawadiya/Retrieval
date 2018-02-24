@@ -1,0 +1,74 @@
+A woman and child push strollers down the sidewalk . 
+a woman and child push stroller down the sidewalk . 
+
+verb-prep-object	push down sidewalk
+object-verb-object	woman push stroller
+object-verb-object	child push stroller
+object-prep-object	woman down sidewalk
+object-prep-object	child down sidewalk
+object	sidewalk
+object	woman
+object	stroller
+object	child
+object	person
+#####################################################
+A woman pushes a cart and a young girl pushes a buggy down a sidewalk . 
+a woman push a cart and a young girl push a buggy down a sidewalk . 
+
+object-verb-object	woman push cart
+attribute-object	young girl
+object-verb-object	girl push buggy
+verb-prep-object	push down sidewalk
+object-prep-object	woman down sidewalk
+object-prep-object	child down sidewalk
+object	woman
+object	cart
+object	girl
+object	buggy
+object	sidewalk
+object	child
+object	person
+#####################################################
+A woman and a young girl walking pushchairs along the sidewalk . 
+a woman and a young girl walk pushchair along the sidewalk . 
+
+verb-prep-object	walk along sidewalk
+object-prep-object	woman along sidewalk
+object-prep-object	girl along sidewalk
+attribute-object	young girl
+object-verb-object	woman walk pushchair
+object-verb-object	girl walk pushchair
+object	sidewalk
+object	woman
+object	girl
+object	pushchair
+object	person
+#####################################################
+Mother and daughter walking down sidewalk pushing strollers . 
+Mother and daughter walk down sidewalk push stroller . 
+
+object-verb-object	mother walk sidewalk
+object-verb-object	daughter walk sidewalk
+object-verb-object	mother push stroller
+object-verb-object	daughter push stroller
+verb-attribute	walk down
+object	mother
+object	sidewalk
+object	daughter
+object	stroller
+object	person
+#####################################################
+Rose colored photograph of mother walking down a road with a stroller and small girl . 
+Rose color photograph of mother walk down a road with a stroller and small girl . 
+
+object-verb-object	mother walk road
+verb-prep-object	walk with stroller
+verb-prep-object	walk with girl
+attribute-object	small girl
+verb-attribute	walk down
+object	mother
+object	road
+object	stroller
+object	girl
+object	person
+#####################################################

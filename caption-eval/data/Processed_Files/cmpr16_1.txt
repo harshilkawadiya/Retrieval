@@ -1,0 +1,50 @@
+2	A dog with a Frisbee in front of a brown dog .
+3	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+4	Two dark colored dogs romp in the grass with a blue Frisbee .
+5	Two dogs are catching blue Frisbees in grass .
+6	Two dogs are playing ; one is catching a Frisbee .
+7	A dog with a Frisbee in front of a brown dog .
+8	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+9	Two dark colored dogs romp in the grass with a blue Frisbee .
+10	Two dogs are catching blue Frisbees in grass .
+11	Two dogs are playing ; one is catching a Frisbee .
+12	A dog with a Frisbee in front of a brown dog .
+13	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+14	Two dark colored dogs romp in the grass with a blue Frisbee .
+15	Two dogs are catching blue Frisbees in grass .
+16	Two dogs are playing ; one is catching a Frisbee .
+17	A dog with a Frisbee in front of a brown dog .
+18	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+19	Two dark colored dogs romp in the grass with a blue Frisbee .
+20	Two dogs are catching blue Frisbees in grass .
+21	Two dogs are playing ; one is catching a Frisbee .
+22	A dog with a Frisbee in front of a brown dog .
+23	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+24	Two dark colored dogs romp in the grass with a blue Frisbee .
+25	Two dogs are catching blue Frisbees in grass .
+26	Two dogs are playing ; one is catching a Frisbee .
+27	A dog with a Frisbee in front of a brown dog .
+28	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+29	Two dark colored dogs romp in the grass with a blue Frisbee .
+30	Two dogs are catching blue Frisbees in grass .
+31	Two dogs are playing ; one is catching a Frisbee .
+32	A dog with a Frisbee in front of a brown dog .
+33	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+34	Two dark colored dogs romp in the grass with a blue Frisbee .
+35	Two dogs are catching blue Frisbees in grass .
+36	Two dogs are playing ; one is catching a Frisbee .
+37	A dog with a Frisbee in front of a brown dog .
+38	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+39	Two dark colored dogs romp in the grass with a blue Frisbee .
+40	Two dogs are catching blue Frisbees in grass .
+41	Two dogs are playing ; one is catching a Frisbee .
+42	A dog with a Frisbee in front of a brown dog .
+43	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+44	Two dark colored dogs romp in the grass with a blue Frisbee .
+45	Two dogs are catching blue Frisbees in grass .
+46	Two dogs are playing ; one is catching a Frisbee .
+47	A dog with a Frisbee in front of a brown dog .
+48	A large black dog is catching a Frisbee while a large brown dog follows shortly after .
+49	Two dark colored dogs romp in the grass with a blue Frisbee .
+50	Two dogs are catching blue Frisbees in grass .
+51	Two dogs are playing ; one is catching a Frisbee .

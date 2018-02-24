@@ -1,0 +1,54 @@
+Tourists are ready to aboard the bus . 
+tourist be ready to aboard the bus . 
+
+object-verb	tourist ready
+verb-prep-verb	ready to aboard
+verb-object	aboard bus
+object	tourist
+object	bus
+object	bus
+#####################################################
+Two women in red shirts are standing near a silver bus . 
+two woman in red shirt be stand near a silver bus . 
+
+verb-prep-object	stand near bus
+object-prep-object	woman near bus
+object-prep-object	woman in shirt
+attribute-object	red shirt
+attribute-object	silver bus
+object-verb	woman stand
+object	bus
+object	woman
+object	shirt
+object	bus
+#####################################################
+two women next to a gray bus . 
+two woman next to a gray bus . 
+
+object-prep-object	woman next_to bus
+attribute-object	gray bus
+object	woman
+object	bus
+object	bus
+#####################################################
+Two women standing in front of tour bus . 
+two woman stand in front of tour bus . 
+
+verb-prep-object	stand in_front_of bus
+object-prep-object	woman in_front_of bus
+attribute-object	tour bus
+object-verb	woman stand
+object	bus
+object	woman
+object	bus
+#####################################################
+Two women standing outside of a bus . 
+two woman stand outside of a bus . 
+
+verb-prep-object	stand outside_of bus
+object-prep-object	woman outside_of bus
+object-verb	woman stand
+object	bus
+object	woman
+object	bus
+#####################################################

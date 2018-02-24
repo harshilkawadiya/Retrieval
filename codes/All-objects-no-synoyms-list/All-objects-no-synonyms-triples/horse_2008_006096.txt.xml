@@ -1,0 +1,47 @@
+girls riding horses . 
+girl ride horse . 
+
+object-verb-object	girl ride horse
+object	girl
+object	horse
+object	horse
+#####################################################
+Horse rides await the next step . 
+Horse ride await the next step . 
+
+attribute-object	horse ride
+object	ride
+object	horse
+#####################################################
+Horses with mounted rides in an arena . 
+horse with mount ride in a arena . 
+
+object-prep-object	horse with ride
+object-prep-object	horse in arena
+attribute-object	mount ride
+object	horse
+object	ride
+object	arena
+object	horse
+#####################################################
+Three children riding horses in an enclosure . 
+three child ride horse in a enclosure . 
+
+verb-prep-object	ride in enclosure
+object-verb-object	child ride horse
+object	enclosure
+object	child
+object	horse
+object	horse
+#####################################################
+Three girls sit on racing horses . 
+three girl sit on race horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	girl on horse
+attribute-object	race horse
+object-verb	girl sit
+object	horse
+object	girl
+object	horse
+#####################################################

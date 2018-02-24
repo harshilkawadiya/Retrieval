@@ -1,0 +1,60 @@
+Black and white cows behind a fence . 
+Black and white cow behind a fence . 
+
+object-prep-object	cow behind fence
+attribute-object	black cow
+attribute-object	white cow
+object	cow
+object	fence
+object	cow
+#####################################################
+Black and white cows grazing in a pen . 
+Black and white cow grazing in a pen . 
+
+verb-prep-object	graze in pen
+object-prep-object	cow in pen
+object-verb	cow graze
+attribute-object	black cow
+attribute-object	white cow
+object	pen
+object	cow
+object	cow
+#####################################################
+The black and white cows pause in front of the gate . 
+the black and white cow pause in front of the gate . 
+
+verb-prep-object	pause in_front_of gate
+object-prep-object	cow in_front_of gate
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow pause
+object	gate
+object	cow
+object	cow
+#####################################################
+Two black and white cows behind a metal gate against a partly cloudy blue sky . 
+two black and white cow behind a metal gate against a partly cloudy blue sky . 
+
+object-prep-object	cow behind gate
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	metal gate
+attribute-object	cloudy sky
+attribute-object	blue sky
+object	cow
+object	gate
+object	sky
+object	cow
+#####################################################
+Two cows in a field grazing near a gate . 
+two cow in a field grazing near a gate . 
+
+object-verb	cow graze
+verb-prep-object	graze near gate
+object-prep-object	cow near gate
+object-prep-object	cow in field
+object	cow
+object	gate
+object	field
+object	cow
+#####################################################

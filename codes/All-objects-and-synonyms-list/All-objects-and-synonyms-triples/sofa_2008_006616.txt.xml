@@ -1,0 +1,86 @@
+A man in glasses holding a small dog . 
+a man in glass hold a small dog . 
+
+object-prep-object	person in man
+attribute-object	small dog
+object-verb-object	person hold man
+object	person
+object	man
+object	dog
+object	sofa
+#####################################################
+A man sitting at a table with a dog on his lap . 
+a man sit at a table with a dog on he lap . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person with man
+object-prep-object	dog on lap
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	dog
+object	lap
+object	sofa
+#####################################################
+A man with a blue shirt and graying hair sits at a table with a tan chihuahua on his lap . 
+a man with a blue shirt and gray hair sit at a table with a tan chihuahua on he lap . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person with man
+object-prep-object	person with man
+object-prep-object	person with dog
+object-prep-object	dog on chihuahua
+attribute-object	blue shirt
+attribute-object	gray hair
+attribute-object	tan dog
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	dog
+object	chihuahua
+object	shirt
+object	hair
+object	sofa
+#####################################################
+an old man in a blue shirt sitting at a table with a chihuahua on his lap . 
+a old man in a blue shirt sit at a table with a chihuahua on he lap . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person with dog
+object-prep-object	dog on chihuahua
+object-prep-object	person in man
+attribute-object	old person
+attribute-object	blue shirt
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	dog
+object	chihuahua
+object	shirt
+object	sofa
+#####################################################
+Older man sitting at table with small dog . 
+older man sit at table with small dog . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	sit with dog
+attribute-object	older person
+attribute-object	small dog
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	dog
+object	sofa
+#####################################################

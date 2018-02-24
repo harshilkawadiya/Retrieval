@@ -1,0 +1,65 @@
+A home office with three computer monitors and other equipment on a desk . 
+a home office with three computer monitor and other equipment on a desk . 
+
+object-prep-object	office with tvmonitor
+object-prep-object	office with equipment
+attribute-object	other equipment
+object-prep-object	equipment on diningtable
+attribute-object	home office
+attribute-object	computer tvmonitor
+object	office
+object	tvmonitor
+object	equipment
+object	table
+object	diningtable
+object	monitor
+object	tvmonitor
+#####################################################
+A room with four computer monitors in a row . 
+a room with four computer monitor in a row . 
+
+object-prep-object	room with tvmonitor
+attribute-object	computer tvmonitor
+object	room
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+A room with several computers and pictures on the wall . 
+a room with several computer and picture on the wall . 
+
+object-prep-object	room with laptop
+object-prep-object	room with picture
+object-prep-object	picture on wall
+attribute-object	several laptop
+object	room
+object	laptop
+object	picture
+object	wall
+object	computer
+object	tvmonitor
+#####################################################
+Room with several computer monitors . 
+room with several computer monitor . 
+
+object-prep-object	room with tvmonitor
+attribute-object	several tvmonitor
+attribute-object	computer tvmonitor
+object	room
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+This is a bedroom containing several computers and somewhat cluttered walls . 
+this be a bedroom contain several computer and somewhat cluttered wall . 
+
+attribute-object	several laptop
+attribute-object	cluttered wall
+object-verb-object	bedroom contain laptop
+object-verb-object	bedroom contain wall
+object	laptop
+object	computer
+object	wall
+object	bedroom
+object	tvmonitor
+#####################################################

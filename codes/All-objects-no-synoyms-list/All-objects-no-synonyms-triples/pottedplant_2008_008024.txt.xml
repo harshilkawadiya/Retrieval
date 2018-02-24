@@ -1,0 +1,65 @@
+Herbs grow in terra cotta plants on a balcony . 
+herb grow in terra cotta plant on a balcony . 
+
+object-verb	herb grow
+verb-prep-object	grow in plant
+object-prep-object	herb in plant
+attribute-object	terra plant
+attribute-object	cotta plant
+object-prep-object	plant on balcony
+object	herb
+object	plant
+object	balcony
+object	pottedplant
+#####################################################
+There are two plants in on the window sill overlooking a silver car . 
+there be two plant in on the window sill overlook a silver car . 
+
+object-prep-object	plant on sill
+attribute-object	window sill
+attribute-object	silver car
+object	plant
+object	sill
+object	car
+object	pottedplant
+#####################################################
+Two potted plants are sitting on a windowbox outside the window with a car visible on the street below . 
+two potted plant be sit on a windowbox outside the window with a car visible on the street below . 
+
+object-verb	plant sit
+attribute-object	potted plant
+verb-prep-object	sit on windowbox
+object-prep-object	plant on windowbox
+object-prep-object	windowbox outside window
+object-prep-object	car on street
+object	plant
+object	windowbox
+object	window
+object	car
+object	street
+object	pottedplant
+#####################################################
+Two potted plants outside a window . 
+two potted plant outside a window . 
+
+object-prep-object	plant outside window
+attribute-object	potted plant
+object	plant
+object	window
+object	pottedplant
+#####################################################
+Two potted plants outside a window overlooking a gray car parked on the street . 
+two potted plant outside a window overlook a gray car park on the street . 
+
+object-prep-object	plant outside window
+attribute-object	potted plant
+verb-prep-object	park on street
+object-prep-object	car on street
+attribute-object	gray car
+object-verb	car park
+object	plant
+object	window
+object	street
+object	car
+object	pottedplant
+#####################################################

@@ -1,0 +1,56 @@
+A blue party bus . 
+a blue party bus . 
+
+attribute-object	blue bus
+attribute-object	party bus
+object	bus
+object	bus
+#####################################################
+A blue party bus is parked on the street at night . 
+a blue party bus be park on the street at night . 
+
+verb-prep-object	park at night
+object-prep-object	bus at night
+verb-prep-object	park on road
+object-prep-object	bus on road
+attribute-object	blue bus
+attribute-object	party bus
+object-verb	bus park
+object	night
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+The big blue `` Party Bus '' is sitting on the street . 
+the big blue `` Party Bus '' be sit on the street . 
+
+verb-prep-object	sit on road
+object-prep-object	bus on road
+attribute-object	big bus
+attribute-object	blue bus
+attribute-object	party bus
+object-verb	bus sit
+object	road
+object	street
+object	bus
+object	bus
+#####################################################
+The front of a parked party bus in a parking lot . 
+the front of a park party bus in a parking lot . 
+
+object-prep-object	bus in lot
+attribute-object	park bus
+attribute-object	party bus
+attribute-object	parking lot
+object	bus
+object	lot
+object	bus
+#####################################################
+The front of a party bus . 
+the front of a party bus . 
+
+attribute-object	party bus
+object	bus
+object	bus
+#####################################################

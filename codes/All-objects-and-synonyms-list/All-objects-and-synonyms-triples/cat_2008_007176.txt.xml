@@ -1,0 +1,69 @@
+A ginger kitten asleep on a brown leather sofa . 
+a ginger kitten asleep on a brown leather sofa . 
+
+object-verb	cat asleep
+verb-prep-object	asleep on sofa
+attribute-object	brown sofa
+attribute-object	ginger cat
+attribute-object	leather sofa
+object	cat
+object	kitten
+object	sofa
+object	cat
+#####################################################
+An orange kitten lay on a leather couch . 
+a orange kitten lay on a leather couch . 
+
+verb-prep-object	lay on sofa
+object-prep-object	cat on bed
+attribute-object	orange cat
+attribute-object	leather sofa
+object-verb	cat lay
+object	sofa
+object	bed
+object	cat
+object	kitten
+object	cat
+#####################################################
+A sleepy orange kitten on a brown leather couch . 
+a sleepy orange kitten on a brown leather couch . 
+
+object-prep-object	cat on bed
+attribute-object	sleepy cat
+attribute-object	brown sofa
+attribute-object	orange cat
+attribute-object	leather sofa
+object	cat
+object	kitten
+object	sofa
+object	bed
+object	cat
+#####################################################
+A small orange kitten is curled up sleeping on a brown leather couch . 
+a small orange kitten be curl up sleep on a brown leather couch . 
+
+verb-prep-object	curl on sofa
+attribute-object	small cat
+attribute-object	brown sofa
+attribute-object	orange cat
+attribute-object	leather sofa
+object-verb	cat curl
+verb-attribute	curl up
+object	sofa
+object	bed
+object	cat
+object	kitten
+object	cat
+#####################################################
+Sweet little yellow kitten curled up asleep . 
+Sweet little yellow kitten curl up asleep . 
+
+attribute-object	sweet cat
+attribute-object	little cat
+attribute-object	yellow cat
+object-verb	cat curl
+verb-attribute	curl up
+object	cat
+object	kitten
+object	cat
+#####################################################

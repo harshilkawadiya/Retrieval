@@ -1,0 +1,71 @@
+A cat sitting on sand looking up at the camera . 
+a cat sit on sand look up at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	sit on sand
+object-prep-object	cat on sand
+object-verb	cat sit
+object-verb	cat look
+verb-attribute	look up
+object	camera
+object	sand
+object	cat
+object	cat
+#####################################################
+A green-eyed cat seated in the sand . 
+a green-eyed cat seat in the sand . 
+
+verb-prep-object	seat in sand
+object-prep-object	cat in sand
+attribute-object	green-eyed cat
+object-verb	cat seat
+object	sand
+object	cat
+object	cat
+#####################################################
+A gray , black , and white cat looking at the camera . 
+a gray , black , and white cat look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	gray cat
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################
+A young cat with gray tiger stripes and a white chest looks into the camera from the sandy ground . 
+a young cat with gray tiger stripe and a white chest look into the camera from the sandy ground . 
+
+object-verb	cat look
+object-prep-object	cat with striped
+object-prep-object	cat with chest
+verb-prep-object	look into camera
+verb-prep-object	look from ground
+attribute-object	young cat
+attribute-object	gray striped
+attribute-object	white chest
+attribute-object	sandy ground
+attribute-object	tiger striped
+object	cat
+object	striped
+object	chest
+object	camera
+object	ground
+object	stripe
+object	cat
+#####################################################
+White and gray kitten standing in the sand . 
+White and gray kitten standing in the sand . 
+
+verb-prep-object	stand in sand
+object-prep-object	cat in kitten
+attribute-object	white cat
+attribute-object	gray cat
+object-verb	cat stand
+object	sand
+object	cat
+object	kitten
+object	cat
+#####################################################

@@ -1,0 +1,60 @@
+A person rides a bicycle on concrete . 
+a person ride a bicycle on concrete . 
+
+verb-prep-object	ride on concrete
+object-prep-object	bicycle on concrete
+object-verb-object	person ride bicycle
+object	concrete
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A woman riding a bicycle on a large concrete area . 
+a woman ride a bicycle on a large concrete area . 
+
+object-prep-object	bicycle on area
+attribute-object	large area
+attribute-object	concrete area
+object-verb-object	woman ride bicycle
+object	bicycle
+object	area
+object	woman
+object	bicycle
+#####################################################
+A woman riding a mountain bike on a large concrete area . 
+a woman ride a mountain bike on a large concrete area . 
+
+verb-prep-object	ride on area
+attribute-object	large area
+attribute-object	concrete area
+object-verb-object	woman ride bike
+attribute-object	mountain bike
+object	area
+object	woman
+object	bike
+object	bicycle
+#####################################################
+On a large , flat concrete area a woman in shorts rides a two-wheeled bike . 
+on a large , flat concrete area a woman in shorts ride a two-wheeled bike . 
+
+object-verb-object	woman ride bike
+object-prep-object	woman in shorts
+verb-prep-object	ride on area
+attribute-object	large area
+attribute-object	flat area
+attribute-object	concrete area
+attribute-object	two-wheeled bike
+object	woman
+object	bike
+object	shorts
+object	area
+object	bicycle
+#####################################################
+The woman is riding a bicycle . 
+the woman be ride a bicycle . 
+
+object-verb-object	woman ride bicycle
+object	woman
+object	bicycle
+object	bicycle
+#####################################################

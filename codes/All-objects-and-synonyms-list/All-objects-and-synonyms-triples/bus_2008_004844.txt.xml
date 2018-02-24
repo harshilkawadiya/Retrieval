@@ -1,0 +1,53 @@
+A bus at a bus stop . 
+a bus at a bus stop . 
+
+object-prep-object	bus at stop
+attribute-object	bus stop
+object	bus
+object	stop
+object	bus
+#####################################################
+a red long bus in a city . 
+a red long bus in a city . 
+
+object-prep-object	bus in city
+attribute-object	red bus
+attribute-object	long bus
+object	bus
+object	city
+object	bus
+#####################################################
+Long red bus in city street . 
+Long red bus in city street . 
+
+object-prep-object	bus in road
+attribute-object	long bus
+attribute-object	red bus
+attribute-object	city road
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+The red bus is parked at the station . 
+the red bus be park at the station . 
+
+verb-prep-object	park at station
+object-prep-object	bus at station
+attribute-object	red bus
+object-verb	bus park
+object	station
+object	bus
+object	bus
+#####################################################
+The tourist bus waits for its passengers to arrive . 
+the tourist bus wait for its passenger to arrive . 
+
+verb-prep-object	wait for person
+attribute-object	tourist bus
+object-verb	bus wait
+object	person
+object	passenger
+object	bus
+object	bus
+#####################################################

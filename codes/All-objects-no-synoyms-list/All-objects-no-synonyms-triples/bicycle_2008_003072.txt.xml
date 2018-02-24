@@ -1,0 +1,63 @@
+A bicycle is parked on a trail among trees . 
+a bicycle be park on a trail among tree . 
+
+verb-prep-object	park on trail
+object-prep-object	bicycle on trail
+verb-prep-object	park among tree
+object-prep-object	bicycle among tree
+object-verb	bicycle park
+object	trail
+object	bicycle
+object	tree
+object	bicycle
+#####################################################
+A dirt bike being ridden up a wooded path . 
+a dirt bike be ride up a wooded path . 
+
+attribute-object	wooded path
+object-verb-object	bike ride path
+attribute-object	dirt bike
+verb-attribute	ride up
+object	path
+object	bike
+object	bicycle
+#####################################################
+A person on a mountain bike makes his way up a steep dirt trail . 
+a person on a mountain bike make he way up a steep dirt trail . 
+
+object-prep-object	way up trail
+object-prep-object	person on bike
+attribute-object	steep trail
+object-verb-object	person make way
+attribute-object	mountain bike
+attribute-object	dirt trail
+object	way
+object	trail
+object	person
+object	bike
+object	bicycle
+#####################################################
+Person walking a bike in a wooded area . 
+person walk a bike in a wooded area . 
+
+verb-prep-object	walk in area
+object-prep-object	person in area
+attribute-object	wooded area
+object-verb-object	person walk bike
+object	area
+object	person
+object	bike
+object	bicycle
+#####################################################
+Two people on dirt bikes ride up a hill . 
+two people on dirt bike ride up a hill . 
+
+object-prep-object	people on bike
+object-verb-object	people ride hill
+attribute-object	dirt bike
+verb-attribute	ride up
+object	people
+object	bike
+object	hill
+object	bicycle
+#####################################################

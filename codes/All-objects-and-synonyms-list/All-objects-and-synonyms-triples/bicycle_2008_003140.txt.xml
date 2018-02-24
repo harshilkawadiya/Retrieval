@@ -1,0 +1,60 @@
+Two bicyclists and a pedestrian are waiting to cross the road . 
+two bicyclist and a pedestrian be wait to cross the road . 
+
+object-verb	person wait
+object-verb	person wait
+verb-prep-verb	wait to cross
+verb-object	cross road
+object	person
+object	road
+object	bicycle
+#####################################################
+Two bicyclists wait to cross a busy road . 
+two bicyclist wait to cross a busy road . 
+
+object-verb	person wait
+verb-prep-verb	wait to cross
+verb-object	cross road
+attribute-object	busy road
+object	person
+object	road
+object	bicycle
+#####################################################
+Two blonde girls attempt to cross a busy street in town with their bicycles . 
+two blonde girl attempt to cross a busy street in town with they bicycle . 
+
+verb-prep-object	cross with bicycle
+verb-object	cross road
+object-prep-object	road in country
+attribute-object	blonde person
+attribute-object	busy road
+object-verb	person attempt
+verb-prep-verb	attempt to cross
+object	bicycle
+object	road
+object	country
+object	person
+object	bicycle
+#####################################################
+Two women watching the street with their bikes to see when they may cross . 
+two woman watch the street with they bike to see when they may cross . 
+
+verb-prep-object	watch with bicycle
+object-verb-object	person watch road
+object	bicycle
+object	person
+object	road
+object	bicycle
+#####################################################
+Two women with bicycles are trying to cross the street . 
+two woman with bicycle be try to cross the street . 
+
+object-prep-object	person with bicycle
+object-verb	person try
+verb-prep-verb	try to cross
+verb-object	cross road
+object	person
+object	bicycle
+object	road
+object	bicycle
+#####################################################

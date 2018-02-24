@@ -1,0 +1,77 @@
+A boy in a tux and a girl in a blue dress sit at a wedding . 
+a boy in a tux and a girl in a blue dress sit at a wedding . 
+
+verb-prep-object	sit at wedding
+object-prep-object	boy at wedding
+object-prep-object	girl at wedding
+object-prep-object	boy in tux
+object-prep-object	girl in dress
+attribute-object	blue dress
+object-verb	boy sit
+object-verb	girl sit
+object	wedding
+object	boy
+object	girl
+object	tux
+object	dress
+object	chair
+#####################################################
+A smiling girl in a turquoise dress seated in folding chairs next to a young blonde boy in a tuxedo . 
+a smile girl in a turquoise dress seat in folding chair next to a young blonde boy in a tuxedo . 
+
+attribute-object	smile girl
+object-prep-object	girl in dress
+attribute-object	turquoise dress
+object-verb	girl seat
+verb-prep-object	seat in chair
+object-prep-object	girl in chair
+attribute-object	folding chair
+verb-prep-verb	seat next_to boy
+object-prep-object	girl next_to boy
+object-prep-object	boy in tuxedo
+attribute-object	young boy
+attribute-object	blonde boy
+object	girl
+object	dress
+object	chair
+object	boy
+object	tuxedo
+object	chair
+#####################################################
+Two children , one male , one female , sitting in chairs at an event . 
+two child , one male , one female , sit in chair at a event . 
+
+verb-prep-object	sit in chair
+object-prep-object	child in chair
+object-prep-object	child at event
+object-verb	child sit
+object	chair
+object	child
+object	event
+object	chair
+#####################################################
+Two kids sitting in folding chairs . 
+two kid sit in folding chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	kid in chair
+attribute-object	folding chair
+object-verb	kid sit
+object	chair
+object	kid
+object	chair
+#####################################################
+Two young kids dressed up sitting down on chairs . 
+two young kid dress up sit down on chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	kid on chair
+attribute-object	young kid
+object-verb	kid dress
+verb-attribute	dress up
+object-verb	kid sit
+verb-attribute	sit down
+object	chair
+object	kid
+object	chair
+#####################################################

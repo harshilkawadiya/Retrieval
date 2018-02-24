@@ -1,0 +1,53 @@
+a cruiseliner docked at a port . 
+a cruiseliner dock at a port . 
+
+verb-prep-object	dock at port
+object-prep-object	boat at port
+object-verb	boat dock
+object	port
+object	boat
+object	boat
+#####################################################
+A cruise ship is in front of a docking area . 
+a cruise ship be in front of a docking area . 
+
+object-prep-object	boat in_front_of area
+attribute-object	cruise boat
+attribute-object	docking area
+object	boat
+object	area
+object	boat
+#####################################################
+A docked cruise ship . 
+a dock cruise ship . 
+
+attribute-object	dock boat
+attribute-object	cruise boat
+object	boat
+object	boat
+#####################################################
+The cruise ship docks to possibly load new passengers . 
+the cruise ship dock to possibly load new passenger . 
+
+verb-prep-verb	dock to load
+verb-object	load person
+attribute-object	new person
+object-verb	boat dock
+attribute-object	cruise boat
+object	person
+object	passenger
+object	boat
+object	boat
+#####################################################
+White cruise ship floating on the water . 
+White cruise ship float on the water . 
+
+verb-prep-object	float on water
+object-prep-object	boat on water
+attribute-object	white boat
+attribute-object	cruise boat
+object-verb	boat float
+object	water
+object	boat
+object	boat
+#####################################################

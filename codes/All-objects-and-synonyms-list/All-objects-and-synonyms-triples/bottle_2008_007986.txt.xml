@@ -1,0 +1,60 @@
+A man with a bottle and a man in a Hawaiian shirt are posing for a picture . 
+a man with a bottle and a man in a hawaiian shirt be pose for a picture . 
+
+object-prep-object	person with man
+object-prep-object	person in man
+verb-prep-object	pose for picture
+attribute-object	hawaiian shirt
+object-verb	person pose
+object	person
+object	man
+object	picture
+object	shirt
+object	bottle
+#####################################################
+Two guys are smiling , one is holding a beer . 
+two guy be smile , one be hold a beer . 
+
+object-verb-object	one hold beer
+object-verb	person smile
+object	one
+object	beer
+object	person
+object	guy
+object	bottle
+#####################################################
+Two men in button-up shirts smile for the camera . 
+two man in button-up shirt smile for the camera . 
+
+object-prep-object	person in man
+verb-prep-object	smile for camera
+attribute-object	button-up shirt
+object-verb	person smile
+object	person
+object	man
+object	camera
+object	shirt
+object	bottle
+#####################################################
+Two men wearing glasses and one holding a a bottle . 
+two man wear glass and one hold a a bottle . 
+
+object-verb-object	person wear man
+object-verb-object	one hold bottle
+object	person
+object	man
+object	one
+object	bottle
+object	bottle
+#####################################################
+Two men with glasses sit together and enjoy some beers . 
+two man with glass sit together and enjoy some beer . 
+
+object-prep-object	person with man
+verb-attribute	sit together
+object-verb-object	person enjoy man
+object-verb	person sit
+object	person
+object	man
+object	bottle
+#####################################################

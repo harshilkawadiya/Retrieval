@@ -1,0 +1,55 @@
+A bicycle racer in front of a car which has two bikes on top of it . 
+a bicycle racer in front of a car which have two bike on top of it . 
+
+object-prep-object	person in_front_of car
+attribute-object	bicycle person
+object	person
+object	car
+object	bicycle
+#####################################################
+A bicyclist with his support vehicle following him closely . 
+a bicyclist with he support vehicle follow he closely . 
+
+object-prep-object	person with car
+attribute-object	support car
+object	person
+object	car
+object	bicycle
+#####################################################
+A man riding a racing bike with a car trailing behind . 
+a man ride a racing bike with a car trail behind . 
+
+verb-prep-object	ride with car
+attribute-verb	behind trail
+object-verb-object	person ride bicycle
+attribute-object	racing bicycle
+object-verb	car trail
+object	car
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A racing bicyclist being followed by a car with bikes on a rack . 
+a race bicyclist be follow by a car with bike on a rack . 
+
+object-prep-object	car with bicycle
+object-prep-object	bicycle on rack
+verb-prep-object	follow by car
+attribute-object	race person
+object-verb	person follow
+object	car
+object	bicycle
+object	rack
+object	person
+object	bicycle
+#####################################################
+Cyclist riding in front of car . 
+cyclist ride in front of car . 
+
+verb-prep-object	ride in_front_of car
+object-verb-object	person in_front_of car
+object-verb	person ride
+object	car
+object	person
+object	bicycle
+#####################################################

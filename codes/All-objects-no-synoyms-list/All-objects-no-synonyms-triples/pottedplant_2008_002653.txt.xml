@@ -1,0 +1,84 @@
+A little , dark-haired girl in a blue dress and boots sits on a concrete pedestal surrounded by plants and flowers . 
+a little , dark-haired girl in a blue dress and boot sit on a concrete pedestal surround by plant and flower . 
+
+object-verb	girl sit
+verb-prep-object	sit on pedestal
+object-prep-object	girl on pedestal
+attribute-object	little girl
+attribute-object	dark-haired girl
+attribute-object	blue dress
+object-prep-object	girl in dress
+object-prep-object	girl in boot
+verb-prep-object	surround by plant
+verb-prep-object	surround by flower
+attribute-object	concrete pedestal
+object-verb	pedestal surround
+object	girl
+object	pedestal
+object	dress
+object	boot
+object	plant
+object	flower
+object	pottedplant
+#####################################################
+An Asian toddler girl sits next to a pot of flowers on a marble post . 
+a asian toddler girl sit next to a pot of flower on a marble post . 
+
+attribute-object	asian girl
+attribute-object	toddler girl
+object-verb	girl sit
+verb-prep-object	sit next_to pot
+object-prep-object	girl next_to pot
+object-prep-object	pot of flower
+object-prep-object	pot on post
+attribute-object	marble post
+object	girl
+object	pot
+object	flower
+object	post
+object	pottedplant
+#####################################################
+A small child sits on a cement wall near white flower . 
+a small child sit on a cement wall near white flower . 
+
+object-verb	child sit
+attribute-object	small child
+verb-prep-object	sit on wall
+object-prep-object	child on wall
+attribute-object	cement wall
+verb-prep-object	sit near flower
+object-prep-object	child near flower
+attribute-object	white flower
+object	child
+object	wall
+object	flower
+object	pottedplant
+#####################################################
+A small girl sits on a stone ledge near a white flowering plant . 
+a small girl sit on a stone ledge near a white flowering plant . 
+
+object-verb	girl sit
+attribute-object	small girl
+verb-prep-object	sit on ledge
+object-prep-object	girl on ledge
+attribute-object	stone ledge
+verb-prep-object	sit near plant
+object-prep-object	girl near plant
+attribute-object	white plant
+attribute-object	flowering plant
+object	girl
+object	ledge
+object	plant
+object	pottedplant
+#####################################################
+The girl is wearing a blue dress and is very young . 
+the girl be wear a blue dress and be very young . 
+
+attribute-object	blue dress
+object-verb-object	girl wear dress
+object-object	girl young
+object	dress
+object	girl
+object	young
+object	pottedplant
+#####################################################

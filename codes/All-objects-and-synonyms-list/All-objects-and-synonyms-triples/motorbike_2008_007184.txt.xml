@@ -1,0 +1,60 @@
+Two dirt bikers riding over dirt hill . 
+two dirt biker ride over dirt hill . 
+
+verb-prep-object	ride over mountain
+object-prep-object	person over mountain
+attribute-object	dirt person
+attribute-object	dirt mountain
+object-verb	person ride
+object	mountain
+object	hill
+object	person
+object	biker
+object	motorbike
+#####################################################
+two motorbikes on a dirt track . 
+two motorbike on a dirt track . 
+
+object-prep-object	motorbike on track
+attribute-object	dirt track
+object	motorbike
+object	track
+object	motorbike
+#####################################################
+Two motorbikes racing on a dirt course . 
+two motorbike race on a dirt course . 
+
+verb-prep-object	race on course
+object-prep-object	motorbike on course
+attribute-object	dirt course
+object-verb	motorbike race
+object	course
+object	motorbike
+object	motorbike
+#####################################################
+Two people dirtbiking on a dirt track . 
+two people dirtbike on a dirt track . 
+
+verb-prep-object	dirtbike on track
+object-prep-object	motorbike on track
+attribute-object	dirt track
+object-verb	person dirtbike
+object	track
+object	motorbike
+object	person
+object	people
+object	motorbike
+#####################################################
+Two people ride on a dirt bike path . 
+two people ride on a dirt bike path . 
+
+verb-prep-object	ride on path
+object-prep-object	person on people
+attribute-object	dirt path
+attribute-object	bike path
+object-verb	person ride
+object	path
+object	person
+object	people
+object	motorbike
+#####################################################

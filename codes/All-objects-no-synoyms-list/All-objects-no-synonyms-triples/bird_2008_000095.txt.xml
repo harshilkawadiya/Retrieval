@@ -1,0 +1,71 @@
+A large bird wades in the water while the turtles climb the log . 
+a large bird wade in the water while the turtle climb the log . 
+
+verb-prep-object	wade in water
+object-prep-object	bird in water
+attribute-object	large bird
+object-verb	bird wade
+object-verb-object	turtle climb log
+object	water
+object	bird
+object	turtle
+object	log
+object	bird
+#####################################################
+A stork stands on a fallen tree over a pond while three turtles climb out of the water . 
+a stork stand on a fall tree over a pond while three turtle climb out of the water . 
+
+verb-prep-object	stand over pond
+object-prep-object	stork over pond
+verb-prep-object	climb out_of water
+object-prep-object	turtle out_of water
+verb-prep-object	stand on tree
+object-prep-object	stork on tree
+attribute-object	fall tree
+object-verb	stork stand
+object-verb	turtle climb
+object	pond
+object	stork
+object	water
+object	turtle
+object	tree
+object	bird
+#####################################################
+The long necked bird is perched on a branch with three turtles . 
+the long necked bird be perch on a branch with three turtle . 
+
+object-prep-object	branch with turtle
+verb-prep-object	perch on branch
+object-prep-object	bird on branch
+attribute-object	long bird
+attribute-object	necked bird
+object-verb	bird perch
+object	branch
+object	turtle
+object	bird
+object	bird
+#####################################################
+Three turtles and an egret are standing on a log in a pond . 
+three turtle and a egret be stand on a log in a pond . 
+
+verb-prep-object	stand on log
+object-prep-object	turtle on log
+object-prep-object	egret on log
+object-prep-object	log in pond
+object-verb	turtle stand
+object-verb	egret stand
+object	log
+object	turtle
+object	egret
+object	pond
+object	bird
+#####################################################
+Three turtles climbing up a log that a bird is sitting on . 
+three turtle climb up a log that a bird be sit on . 
+
+object-verb-object	turtle climb log
+verb-attribute	climb up
+object	turtle
+object	log
+object	bird
+#####################################################

@@ -1,0 +1,2736 @@
+A child walks while holding an adult 's hand . 
+a child walk while hold a adult 's hand . 
+
+object-verb	child walk
+#####################################################
+A man holds a child 's hand as they walk . 
+a man hold a child 's hand as they walk . 
+
+object-verb-object	man hold hand
+object-verb	they walk
+#####################################################
+A woman walks hand-in-hand with a little boy who looks like he 's pulling out a wedgie . 
+a woman walk hand-in-hand with a little boy who look like he be pull out a wedgie . 
+
+attribute-verb	hand-in-hand walk
+attribute-object	little boy
+object-verb-object	he pull wedgie
+object-verb	woman walk
+object-verb	who look
+#####################################################
+A young boy has his hand in the back of his pants as he walks . 
+a young boy have he hand in the back of he pants as he walk . 
+
+attribute-object	young boy
+object-verb-object	boy have hand
+object-verb	he walk
+#####################################################
+The man is walking with a young child outside . 
+the man be walk with a young child outside . 
+
+attribute-object	young outside
+object-verb	man walk
+#####################################################
+A boy is upside down in midair near a lake at sunset . 
+a boy be upside down in midair near a lake at sunset . 
+
+attribute-verb	upside down
+attribute-verb	down midair
+object-verb	boy midair
+#####################################################
+A person does a flip by two sailboats and a lake . 
+a person do a flip by two sailboat and a lake . 
+
+object-verb-object	person do flip
+#####################################################
+A person flipping upside down . 
+a person flip upside down . 
+
+attribute-verb	upside down
+attribute-verb	down flip
+#####################################################
+a person in midair doing a back flip . 
+a person in midair do a back flip . 
+
+#####################################################
+A person is doing a flip in midair near a lake with sails behind him . 
+a person be do a flip in midair near a lake with sail behind he . 
+
+object-verb-object	person do flip
+#####################################################
+A brown and black dog is standing on its hind legs trying to catch something . 
+a brown and black dog be stand on its hind leg try to catch something . 
+
+attribute-object	brown dog
+attribute-object	black dog
+attribute-object	hind leg
+object-verb	dog stand
+#####################################################
+A dog is jumping up on hind legs with its mouth open . 
+a dog be jump up on hind leg with its mouth open . 
+
+attribute-object	hind leg
+object-verb	dog jump
+#####################################################
+A dog plays on the grass . 
+a dog play on the grass . 
+
+object-verb	dog play
+#####################################################
+A German shepherd playing with water in the grass . 
+a german shepherd play with water in the grass . 
+
+attribute-object	german shepherd
+#####################################################
+German Shepherd standing up snapping at droplets of water . 
+german Shepherd stand up snap at droplet of water . 
+
+attribute-object	german Shepherd
+#####################################################
+A boy in a black swimsuit playing near the water . 
+a boy in a black swimsuit playing near the water . 
+
+attribute-object	black playing
+#####################################################
+A boy is splashing water in his bathing suit . 
+a boy be splash water in he bathing suit . 
+
+object-verb-object	boy splash water
+#####################################################
+A little shirtless boy in shorts splashes water . 
+a little shirtless boy in shorts splash water . 
+
+attribute-object	little boy
+attribute-object	shirtless boy
+#####################################################
+Boy in black swim trunks playing in spray of water . 
+boy in black swim trunk play in spray of water . 
+
+object-verb-object	boy swim trunk
+#####################################################
+Young boy splashes water at the edge of a pool . 
+young boy splash water at the edge of a pool . 
+
+attribute-object	young splash
+#####################################################
+a lone person in a harness climbing a huge rock . 
+a lone person in a harness climb a huge rock . 
+
+attribute-object	lone person
+attribute-object	huge rock
+#####################################################
+A man in a red shirt climbs a sheer cliff face over the tree tops . 
+a man in a red shirt climb a sheer cliff face over the tree top . 
+
+attribute-object	red shirt
+attribute-object	sheer face
+object-verb-object	man climb face
+#####################################################
+A man in a red shirt is rock climbing over many trees . 
+a man in a red shirt be rock climb over many tree . 
+
+attribute-object	red shirt
+attribute-object	many tree
+object-verb	man rock
+#####################################################
+A man in red clings to a sheer cliff face . 
+a man in red cling to a sheer cliff face . 
+
+attribute-object	red cling
+attribute-object	sheer face
+#####################################################
+The man in the red shirt is climbing the side of a mountain . 
+the man in the red shirt be climb the side of a mountain . 
+
+attribute-object	red shirt
+object-verb-object	man climb side
+#####################################################
+The three children are playing on the rails . 
+the three child be play on the rail . 
+
+object-verb	child play
+#####################################################
+Three children climb on a livestock fence . 
+three child climb on a livestock fence . 
+
+object-verb	child climb
+#####################################################
+Three children stand and climb on a fence . 
+three child stand and climb on a fence . 
+
+object-verb	child stand
+object-verb	child climb
+#####################################################
+Three kids play on some bars . 
+three kid play on some bar . 
+
+object-verb	kid play
+#####################################################
+Two young boys and a young girl playing on a gaurd rail . 
+two young boy and a young girl playing on a gaurd rail . 
+
+attribute-object	young boy
+attribute-object	young girl
+#####################################################
+A black and white dog is chasing a ball on an open plane . 
+a black and white dog be chase a ball on a open plane . 
+
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	open plane
+object-verb-object	dog chase ball
+#####################################################
+A black and white dog is running through a grassy area . 
+a black and white dog be run through a grassy area . 
+
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	grassy area
+object-verb	dog run
+#####################################################
+A black and white dog runs on a dry , yellow field of grass . 
+a black and white dog run on a dry , yellow field of grass . 
+
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	dry field
+attribute-object	yellow field
+object-verb	dog run
+#####################################################
+A dog is running towards a ball . 
+a dog be run towards a ball . 
+
+object-verb	dog run
+#####################################################
+A dog runs through a field chasing a ball . 
+a dog run through a field chase a ball . 
+
+object-verb	dog run
+#####################################################
+A child pulls another in a small wagon . 
+a child pull another in a small wagon . 
+
+attribute-object	small wagon
+object-verb-object	child pull another
+#####################################################
+A toddler in a red jacket and jeans pulling another toddler wearing a green hat and jacket and red paints in a red wagon . 
+a toddler in a red jacket and jeans pull another toddler wear a green hat and jacket and red paint in a red wagon . 
+
+attribute-object	red jacket
+attribute-object	green hat
+attribute-object	red paint
+attribute-object	red wagon
+#####################################################
+A toddler in dirty jeans attampts to pull a younger child in a wagon . 
+a toddler in dirty jeans attampt to pull a younger child in a wagon . 
+
+attribute-object	dirty attampt
+attribute-object	younger child
+#####################################################
+A young boy pulls another boy wearing a silly hat in a radio flyer wagon . 
+a young boy pull another boy wear a silly hat in a radio flyer wagon . 
+
+attribute-object	young boy
+attribute-object	silly hat
+object-verb-object	boy pull boy
+#####################################################
+One child pulls another , sitting in a red wagon , along the sand . 
+one child pull another , sit in a red wagon , along the sand . 
+
+attribute-verb	sand wagon
+attribute-object	red wagon
+object-verb-object	child pull another
+#####################################################
+A boy is swimming underwater holding a toy in his hand . 
+a boy be swim underwater hold a toy in he hand . 
+
+object-verb-object	boy swim underwater
+#####################################################
+A little boy swimming underwater with a toy in his hand . 
+a little boy swimming underwater with a toy in he hand . 
+
+attribute-object	little swimming
+#####################################################
+A little boy swims underwater . 
+a little boy swim underwater . 
+
+attribute-object	little boy
+object-verb-object	boy swim underwater
+#####################################################
+A little boy underwater in a pool , holding a plastic dinosaur . 
+a little boy underwater in a pool , hold a plastic dinosaur . 
+
+attribute-object	little boy
+attribute-object	underwater boy
+attribute-object	plastic dinosaur
+object-verb-object	boy hold dinosaur
+#####################################################
+Child swimming underwater with a toy in his hand . 
+child swimming underwater with a toy in he hand . 
+
+#####################################################
+A man climbing a mountain . 
+a man climb a mountain . 
+
+#####################################################
+A man is climbing up a very large rock . 
+a man be climb up a very large rock . 
+
+attribute-verb	very large
+attribute-object	large rock
+object-verb-object	man climb rock
+#####################################################
+A person hanging from a rocky cliff . 
+a person hang from a rocky cliff . 
+
+attribute-object	rocky cliff
+#####################################################
+A person in red rock climbing , a mountain in the background . 
+a person in red rock climbing , a mountain in the background . 
+
+attribute-object	red climbing
+#####################################################
+A person wearing red clings to a rock face . 
+a person wear red cling to a rock face . 
+
+attribute-object	red cling
+#####################################################
+A boat is on the water , with mountains in the background . 
+a boat be on the water , with mountain in the background . 
+
+object-verb	boat water
+#####################################################
+A boat on the water . 
+a boat on the water . 
+
+#####################################################
+A lone boat sitting in the water . 
+a lone boat sit in the water . 
+
+attribute-object	lone boat
+#####################################################
+A white boat on glassy water with mountains in the background . 
+a white boat on glassy water with mountain in the background . 
+
+attribute-object	white boat
+attribute-object	glassy water
+#####################################################
+This is a boat on the water with mountains in the background . 
+this be a boat on the water with mountain in the background . 
+
+object-verb	this boat
+#####################################################
+A girl in black clothes leads the way in a race . 
+a girl in black clothes lead the way in a race . 
+
+attribute-object	black clothes
+object-verb-object	girl lead way
+#####################################################
+Marathon runners are racing on a city street , with other people standing around . 
+Marathon runner be race on a city street , with other people stand around . 
+
+attribute-verb	around stand
+attribute-object	other people
+object-verb	runner race
+#####################################################
+Runners in a race run down a busy street . 
+runner in a race run down a busy street . 
+
+attribute-object	busy street
+object-verb-object	runner run street
+#####################################################
+Runners who are competing sprint down the street . 
+runner who be compete sprint down the street . 
+
+attribute-verb	street compete
+object-verb-object	who compete sprint
+#####################################################
+Two women runners in athletic shorts and bras going down a city street . 
+two woman runner in athletic shorts and bra go down a city street . 
+
+attribute-object	athletic shorts
+#####################################################
+A baseball player standing on the field . 
+a baseball player standing on the field . 
+
+#####################################################
+a baseball player stands and faces the crowd . 
+a baseball player stand and face the crowd . 
+
+object-verb-object	player stand crowd
+object-verb	player face
+#####################################################
+A baseball player wearing a number 19 shirt looks at the outfield . 
+a baseball player wear a number 19 shirt look at the outfield . 
+
+object-verb	player look
+#####################################################
+A male ballplayer wearing a white and blue uniform playing in front of a large crowd . 
+a male ballplayer wear a white and blue uniform playing in front of a large crowd . 
+
+attribute-object	male ballplayer
+attribute-object	white playing
+attribute-object	blue playing
+attribute-object	uniform playing
+attribute-object	large crowd
+#####################################################
+Baseball player looking out into a stadium crowd . 
+Baseball player look out into a stadium crowd . 
+
+#####################################################
+A boy is leaping over a blue hose pipe as a little girl watches . 
+a boy be leap over a blue hose pipe as a little girl watch . 
+
+attribute-object	blue pipe
+attribute-object	little watch
+object-verb-object	boy leap pipe
+#####################################################
+A boy is leaping while his sister plays around a hose . 
+a boy be leap while he sister play around a hose . 
+
+object-verb	boy leap
+object-verb	sister play
+#####################################################
+A young boy jumping in front of a young girl and a house . 
+a young boy jump in front of a young girl and a house . 
+
+attribute-object	young boy
+attribute-object	young girl
+#####################################################
+Children are playing in and around a garden tube in the front yard of a house . 
+child be play in and around a garden tube in the front yard of a house . 
+
+object-verb	child play
+object-verb	child play
+#####################################################
+Two children playing above a blue water hose . 
+two child play above a blue water hose . 
+
+attribute-object	blue hose
+#####################################################
+A brown and black dog on a leash is sniffed by a black and white dog . 
+a brown and black dog on a leash be sniff by a black and white dog . 
+
+attribute-object	brown dog
+attribute-object	black dog
+attribute-object	black dog
+attribute-object	white dog
+object-verb	dog sniff
+#####################################################
+A dog on a leash walks on the sidewalk while another dog follows . 
+a dog on a leash walk on the sidewalk while another dog follow . 
+
+object-verb	dog walk
+object-verb	dog follow
+#####################################################
+A small dog on a leash is being smelled by another animal . 
+a small dog on a leash be be smell by another animal . 
+
+attribute-object	small dog
+object-verb	dog smell
+#####################################################
+The black and white dog is sniffing the butt of the brown dog that is on a leash . 
+the black and white dog be sniff the butt of the brown dog that be on a leash . 
+
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	brown dog
+object-verb-object	dog sniff butt
+object-verb	that leash
+#####################################################
+Two small dogs , one black-and-white and one brown-and-black , walk down the street . 
+two small dog , one black-and-white and one brown-and-black , walk down the street . 
+
+attribute-verb	street walk
+attribute-object	small dog
+object-verb	dog walk
+#####################################################
+A boy wearing red crocs climbing a tree . 
+a boy wear red croc climb a tree . 
+
+attribute-object	red croc
+#####################################################
+A boy wearing red shoes is climbing in a tree . 
+a boy wear red shoe be climb in a tree . 
+
+attribute-object	red shoe
+object-verb	boy climb
+#####################################################
+A child wearing red shoes climbing a tree . 
+a child wear red shoe climb a tree . 
+
+attribute-object	red shoe
+#####################################################
+A small child is in a tree wearing red shoes . 
+a small child be in a tree wear red shoe . 
+
+attribute-object	small child
+attribute-object	red shoe
+object-verb	child tree
+#####################################################
+A young boy wearing red Croc sandals climbs a tree with healthy , green leaves . 
+a young boy wear red croc sandal climb a tree with healthy , green leaf . 
+
+attribute-object	young boy
+attribute-object	red sandal
+attribute-object	healthy leaf
+attribute-object	green leaf
+object-verb-object	boy climb tree
+#####################################################
+A girl sits on a swing . 
+a girl sit on a swing . 
+
+object-verb	girl sit
+#####################################################
+A girl wearing an orange shirt holds onto poles and looks down . 
+a girl wear a orange shirt hold onto pole and look down . 
+
+attribute-object	orange shirt
+object-verb	girl hold
+object-verb	girl look
+#####################################################
+A soft focus picture of a little girl wearing an orange sweater . 
+a soft focus picture of a little girl wear a orange sweater . 
+
+attribute-object	soft picture
+attribute-object	little girl
+attribute-object	orange sweater
+#####################################################
+a young girl with long brown hair holding a black and red striped stick . 
+a young girl with long brown hair hold a black and red striped stick . 
+
+attribute-object	young girl
+attribute-object	long hair
+attribute-object	brown hair
+attribute-object	black stick
+attribute-object	red stick
+attribute-object	striped stick
+#####################################################
+The girl in the red shirt smiles on the swing . 
+the girl in the red shirt smile on the swing . 
+
+attribute-object	red shirt
+object-verb	girl smile
+#####################################################
+One young girl pushing a toy while her twin sister looks on . 
+one young girl push a toy while she twin sister look on . 
+
+attribute-object	young girl
+object-verb	sister look
+#####################################################
+Two children wearing bright pink clothes are playing with a toy lawnmower . 
+two child wear bright pink clothes be play with a toy lawnmower . 
+
+attribute-object	bright clothes
+attribute-object	pink clothes
+object-verb	child play
+#####################################################
+Two girls are dressed the same and one of them is playing with a toy lawnmower . 
+two girl be dress the same and one of they be play with a toy lawnmower . 
+
+object-verb	one play
+object-verb	girl dress
+#####################################################
+Two little girls stand against a wall , one girl has a happy face and the other girl has a sad face . 
+two little girl stand against a wall , one girl have a happy face and the other girl have a sad face . 
+
+attribute-object	little girl
+attribute-object	happy face
+attribute-object	other girl
+attribute-object	sad face
+object-verb-object	girl have face
+object-verb-object	girl have face
+object-verb	girl stand
+#####################################################
+Two twin girls playing with a toy in the driveway . 
+two twin girl play with a toy in the driveway . 
+
+attribute-object	twin girl
+#####################################################
+A brown dog drinks from a water bottle . 
+a brown dog drink from a water bottle . 
+
+attribute-object	brown drink
+#####################################################
+A tan dog has a drink from water being poured from a spout . 
+a tan dog have a drink from water be pour from a spout . 
+
+object-verb-object	dog have drink
+#####################################################
+a yellow lab drinks water . 
+a yellow lab drink water . 
+
+attribute-object	yellow drink
+#####################################################
+The yellow dog is drinking water from a bottle . 
+the yellow dog be drink water from a bottle . 
+
+attribute-object	yellow dog
+object-verb-object	dog drink water
+#####################################################
+Yellow Labrador drinking water from a faucet . 
+yellow labrador drinking water from a faucet . 
+
+attribute-object	yellow water
+#####################################################
+Two girls are sitting outside on the ground in front of a lake . 
+two girl be sit outside on the ground in front of a lake . 
+
+attribute-verb	outside sit
+object-verb	girl sit
+#####################################################
+two girls sit beside a river under a tree . 
+two girl sit beside a river under a tree . 
+
+object-verb	girl sit
+#####################################################
+Two girls sit on the edge of a river . 
+two girl sit on the edge of a river . 
+
+object-verb	girl sit
+#####################################################
+Two girls sitting beside the water near a tree . 
+two girl sit beside the water near a tree . 
+
+#####################################################
+Two girls sit under a tree by the water 's edge . 
+two girl sit under a tree by the water 's edge . 
+
+object-verb	girl sit
+#####################################################
+A dog leaps out of the water . 
+a dog leap out of the water . 
+
+object-verb	dog leap
+#####################################################
+a small dog jumping threw some a lake . 
+a small dog jump throw some a lake . 
+
+attribute-object	small dog
+object-verb	dog throw
+object-verb	some lake
+#####################################################
+A tan dog jumps into water . 
+a tan dog jump into water . 
+
+object-verb	dog jump
+#####################################################
+A white dog is splashing through the water . 
+a white dog be splash through the water . 
+
+attribute-object	white dog
+object-verb	dog splash
+#####################################################
+Dog jumping out of water in a lake . 
+dog jump out of water in a lake . 
+
+#####################################################
+A man is walking by trees in front of the city skyline . 
+a man be walk by tree in front of the city skyline . 
+
+object-verb	man walk
+#####################################################
+a man walking next to an extremely large tree trunk . 
+a man walk next to a extremely large tree trunk . 
+
+attribute-verb	next walk
+attribute-verb	extremely large
+attribute-object	large trunk
+#####################################################
+An old man is walking next to big , tall trees . 
+a old man be walk next to big , tall tree . 
+
+attribute-verb	next walk
+attribute-object	old man
+attribute-object	big tree
+attribute-object	tall tree
+object-verb	man walk
+#####################################################
+Someone in a light shirt is walking past several large trees overlooking a city . 
+someone in a light shirt be walk past several large tree overlook a city . 
+
+attribute-object	light shirt
+attribute-object	several tree
+attribute-object	large tree
+object-verb	someone walk
+#####################################################
+The man walks among the large trees . 
+the man walk among the large tree . 
+
+attribute-object	large tree
+object-verb	man walk
+#####################################################
+A beagle is playing with a tennis ball . 
+a beagle be play with a tennis ball . 
+
+object-verb	beagle play
+#####################################################
+A puppy dog is playing with a tennis ball . 
+a puppy dog be play with a tennis ball . 
+
+object-verb	dog play
+#####################################################
+A puppy is playing with a tennis ball on a well-kept path lined with groomed bushes . 
+a puppy be play with a tennis ball on a well-kept path line with groomed bush . 
+
+attribute-object	well-kept path
+attribute-object	groomed bush
+object-verb	puppy play
+#####################################################
+A puppy plays with a tennis ball on a stone path . 
+a puppy play with a tennis ball on a stone path . 
+
+object-verb	puppy play
+#####################################################
+A white-footed beagle plays with a tennis ball on a garden path . 
+a white-footed beagle play with a tennis ball on a garden path . 
+
+attribute-object	white-footed beagle
+object-verb	beagle play
+#####################################################
+A man in a black shirt enjoys a snack while a woman in a white shirt looks confused . 
+a man in a black shirt enjoy a snack while a woman in a white shirt look confuse . 
+
+attribute-object	black shirt
+attribute-object	white shirt
+object-verb-object	man enjoy snack
+object-verb	woman look
+#####################################################
+A man is eating from a paper cone while a woman stands behind him . 
+a man be eat from a paper cone while a woman stand behind he . 
+
+object-verb	man eat
+object-verb	woman stand
+#####################################################
+A man is standing in front of a woman while eating something . 
+a man be stand in front of a woman while eat something . 
+
+object-verb	man stand
+#####################################################
+One dark-skinned man is eating French Fries and blond woman is standing behind him . 
+one dark-skinned man be eat french fries and blond woman be stand behind he . 
+
+attribute-object	dark-skinned man
+attribute-object	french fries
+attribute-object	blond woman
+object-verb-object	man eat fries
+object-verb	woman stand
+#####################################################
+The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face . 
+the man white purple and white polka-dotted shirt be eat and look to he right while the woman behind he have a confused look on she face . 
+
+attribute-object	white purple
+attribute-object	purple man
+attribute-object	white shirt
+attribute-object	polka-dotted shirt
+attribute-object	confused look
+object-verb-object	woman have look
+object-verb	man eat
+object-verb	man look
+object-verb	shirt eat
+#####################################################
+A man in pets a dog on the chest at a park . 
+a man in pet a dog on the chest at a park . 
+
+#####################################################
+A man petting a dog . 
+a man pet a dog . 
+
+#####################################################
+A young man scratches the neck of a dog . 
+a young man scratch the neck of a dog . 
+
+attribute-object	young man
+object-verb-object	man scratch neck
+#####################################################
+A young man sits with a dog outside . 
+a young man sit with a dog outside . 
+
+attribute-object	young man
+object-verb	man sit
+#####################################################
+a young man sitting and petting his dog . 
+a young man sit and pet he dog . 
+
+attribute-object	young man
+#####################################################
+A boy holding a fishing rod . 
+a boy hold a fishing rod . 
+
+#####################################################
+A young boy fishes . 
+a young boy fish . 
+
+attribute-object	young boy
+#####################################################
+A young boy with a hat on has a fishing pole in hand . 
+a young boy with a hat on have a fishing pole in hand . 
+
+attribute-object	young boy
+object-verb-object	boy have pole
+#####################################################
+A young fisher fishes . 
+a young fisher fish . 
+
+attribute-object	young fisher
+#####################################################
+The child wearing a cap is holding a fishing pole . 
+the child wear a cap be hold a fishing pole . 
+
+object-verb-object	child hold pole
+#####################################################
+A baby in a white top is sitting on a bed . 
+a baby in a white top be sit on a bed . 
+
+attribute-object	white top
+object-verb	baby sit
+#####################################################
+A baby wearing a '' my best buddy '' shirt on a bed . 
+a baby wear a '' my best buddy '' shirt on a bed . 
+
+attribute-object	best buddy
+#####################################################
+A cute baby boy is sitting on the bed looking very happy . 
+a cute baby boy be sit on the bed look very happy . 
+
+attribute-verb	very happy
+attribute-object	cute boy
+object-verb	boy sit
+#####################################################
+A small baby sits on a bed and smiles . 
+a small baby sit on a bed and smile . 
+
+attribute-object	small baby
+object-verb	baby sit
+object-verb	baby smile
+#####################################################
+Small boy wearing blue shorts sitting on bed . 
+small boy wear blue shorts sit on bed . 
+
+attribute-object	small boy
+attribute-object	blue shorts
+#####################################################
+A blonde fisherman standing in the water prepares his hook . 
+a blonde fisherman standing in the water prepare he hook . 
+
+attribute-object	blonde standing
+object-verb-object	standing prepare hook
+#####################################################
+A fisherman wearing a waterproof jumpsuit looks at something in his hand . 
+a fisherman wear a waterproof jumpsuit look at something in he hand . 
+
+attribute-object	waterproof jumpsuit
+object-verb	fisherman look
+#####################################################
+A man hooking a line . 
+a man hook a line . 
+
+#####################################################
+A man in fishing overalls in the water . 
+a man in fishing overalls in the water . 
+
+#####################################################
+The fisherman stands in water while looking at something small in his hands . 
+the fisherman stand in water while look at something small in he hand . 
+
+object-verb	fisherman stand
+#####################################################
+A cross-country skier following a path . 
+a cross-country skier follow a path . 
+
+attribute-object	cross-country skier
+#####################################################
+A cross-country skier going through the woods . 
+a cross-country skier go through the wood . 
+
+attribute-object	cross-country skier
+#####################################################
+A person is cross-country skiing through the snow . 
+a person be cross-country skiing through the snow . 
+
+attribute-object	cross-country skiing
+object-verb	person skiing
+#####################################################
+A skier is by himself in the woods . 
+a skier be by himself in the wood . 
+
+object-verb	skier himself
+#####################################################
+Lone skier walks through the snow . 
+Lone skier walk through the snow . 
+
+object-verb	skier walk
+#####################################################
+A woman climbs up a cliff . 
+a woman climb up a cliff . 
+
+object-verb-object	woman climb cliff
+#####################################################
+A woman rock climber scales a cliff far above pastures . 
+a woman rock climber scale a cliff far above pasture . 
+
+attribute-verb	far pasture
+#####################################################
+A woman rock-climbing on a cliff . 
+a woman rock-climbing on a cliff . 
+
+#####################################################
+A woman rock-climbs in a rural area . 
+a woman rock-climb in a rural area . 
+
+attribute-object	rural area
+#####################################################
+Woman climbing a cliff in a rural area . 
+Woman climb a cliff in a rural area . 
+
+attribute-object	rural area
+#####################################################
+kids are playing ball in front of a , big fancy building . 
+kid be play ball in front of a , big fancy building . 
+
+attribute-object	big building
+attribute-object	fancy building
+object-verb-object	kid play ball
+#####################################################
+Three boys play along a decortive wall outside of a building . 
+three boy play along a decortive wall outside of a building . 
+
+attribute-verb	outside wall
+attribute-object	decortive wall
+object-verb	boy play
+#####################################################
+Three kids play on a wall with a green ball . 
+three kid play on a wall with a green ball . 
+
+attribute-object	green ball
+object-verb	kid play
+#####################################################
+Two children are climbing on the wall of a white building whilst one child plays with a green ball . 
+two child be climb on the wall of a white building whilst one child play with a green ball . 
+
+attribute-object	white building
+attribute-object	green ball
+object-verb	child climb
+object-verb	child play
+#####################################################
+Two children play on a stone railing while a third catches a green ball . 
+two child play on a stone railing while a third catch a green ball . 
+
+attribute-object	green ball
+object-verb-object	third catch ball
+object-verb	child play
+#####################################################
+A lady ice skates while pulling a child in a buggy . 
+a lady ice skate while pull a child in a buggy . 
+
+#####################################################
+A mother pulls her daughter in a wagon over a snowy plain . 
+a mother pull she daughter in a wagon over a snowy plain . 
+
+attribute-object	snowy plain
+object-verb-object	mother pull daughter
+#####################################################
+A woman pulling a wagon with a girl in it across a frozen lake . 
+a woman pull a wagon with a girl in it across a frozen lake . 
+
+attribute-object	frozen lake
+#####################################################
+The girl pulls a toddler in a cart while skating on the ice . 
+the girl pull a toddler in a cart while skating on the ice . 
+
+object-verb-object	girl pull toddler
+#####################################################
+The woman is ice skating and pulling the little girl in the cart across the ice . 
+the woman be ice skating and pull the little girl in the cart across the ice . 
+
+attribute-object	little girl
+object-verb	woman skating
+#####################################################
+A bearded man is sitting on a bench wearing a fur lined jacket and hat . 
+a bearded man be sit on a bench wear a fur line jacket and hat . 
+
+attribute-object	bearded man
+object-verb-object	fur line jacket
+object-verb-object	fur line hat
+object-verb	man sit
+#####################################################
+A bearded man with animal hide coat and hat . 
+a bearded man with animal hide coat and hat . 
+
+attribute-object	bearded man
+object-verb-object	man hide coat
+object-verb-object	man hide hat
+#####################################################
+A long-bearded man wearing a coat , fur vest , and broad brimmed fur-trimmed hat . 
+a long-bearded man wear a coat , fur vest , and broad brim fur-trimmed hat . 
+
+attribute-object	long-bearded man
+attribute-object	broad hat
+attribute-object	brim hat
+attribute-object	fur-trimmed hat
+#####################################################
+Man wearing animal skins sitting on a green bench . 
+man wear animal skin sit on a green bench . 
+
+attribute-object	green bench
+#####################################################
+The man with a long beard and moustache , wearing a hat , sits outside . 
+the man with a long beard and moustache , wear a hat , sit outside . 
+
+attribute-verb	outside sit
+attribute-object	long beard
+object-verb	man sit
+#####################################################
+A group of boys play soccer on the grass while another looks down from a rock . 
+a group of boy play soccer on the grass while another look down from a rock . 
+
+object-verb-object	group play soccer
+object-verb	another look
+#####################################################
+A group of young boys are playing soccer in front of a small hill . 
+a group of young boy be play soccer in front of a small hill . 
+
+attribute-object	young boy
+attribute-object	small hill
+object-verb-object	group play soccer
+#####################################################
+Children play soccer in a field . 
+child play soccer in a field . 
+
+object-verb-object	child play soccer
+#####################################################
+Eight boys playing soccer in the grass . 
+eight boy play soccer in the grass . 
+
+#####################################################
+Similarly dressed children are playing soccer in a rocky field in front of a building . 
+similarly dress child be play soccer in a rocky field in front of a building . 
+
+attribute-verb	similarly dress
+attribute-object	rocky field
+object-verb-object	child play soccer
+#####################################################
+A boy and a dog on a dock are watching another dog swim away . 
+a boy and a dog on a dock be watch another dog swim away . 
+
+attribute-verb	away swim
+object-verb	boy watch
+object-verb	dog watch
+object-verb	dog swim
+#####################################################
+A boy and a dog stand on a dock watching another dog . 
+a boy and a dog stand on a dock watch another dog . 
+
+object-verb	boy stand
+object-verb	dog stand
+#####################################################
+A boy and a large dog stand on a dock watching another dog swim in the water . 
+a boy and a large dog stand on a dock watch another dog swim in the water . 
+
+attribute-object	large dog
+object-verb	boy stand
+object-verb	dog stand
+object-verb	dog swim
+#####################################################
+A boy and his dog are watching an object in the water . 
+a boy and he dog be watch a object in the water . 
+
+object-verb-object	boy watch object
+object-verb-object	dog watch object
+#####################################################
+a boy in a white shirt and a black dog looking at another dog in the water . 
+a boy in a white shirt and a black dog look at another dog in the water . 
+
+attribute-object	white shirt
+attribute-object	black dog
+#####################################################
+A girl sits on the beach under a bright pink sunshade . 
+a girl sit on the beach under a bright pink sunshade . 
+
+attribute-object	bright sunshade
+attribute-object	pink sunshade
+object-verb	girl sit
+#####################################################
+A person is sitting under a purple umbrella on the beach . 
+a person be sit under a purple umbrella on the beach . 
+
+attribute-object	purple umbrella
+object-verb	person sit
+#####################################################
+A woman in a black bathing suit is sitting under a purple umbrella on the beach next to the ocean . 
+a woman in a black bathing suit be sit under a purple umbrella on the beach next to the ocean . 
+
+attribute-object	black suit
+attribute-object	purple umbrella
+object-verb	woman sit
+#####################################################
+A woman in a black swimsuit sits under a hot-pink umbrella at the beach . 
+a woman in a black swimsuit sit under a hot-pink umbrella at the beach . 
+
+attribute-object	black swimsuit
+attribute-object	hot-pink umbrella
+object-verb	woman sit
+#####################################################
+woman sitting on the beach under a pink lawn umbrella . 
+woman sit on the beach under a pink lawn umbrella . 
+
+attribute-object	pink umbrella
+#####################################################
+girls in swimsuits jumping into water from behind . 
+girl in swimsuit jump into water from behind . 
+
+#####################################################
+A group of five women and girls in bathing suits jumps into the water with their backs to the camera . 
+a group of five woman and girl in bathing suit jump into the water with they back to the camera . 
+
+object-verb	group jump
+#####################################################
+Five girls in swimsuits , are seen from the back , jumping into the water . 
+five girl in swimsuit , be see from the back , jump into the water . 
+
+object-verb	girl see
+#####################################################
+Girls in swimsuits , holding hands and leaping into water . 
+girl in swimsuit , hold hand and leap into water . 
+
+object-verb-object	girl hold hand
+object-verb	girl leap
+#####################################################
+The five girls wearing swimsuits jump into the water . 
+the five girl wear swimsuit jump into the water . 
+
+object-verb	girl jump
+#####################################################
+A child jumps into a pool as a man looks on . 
+a child jump into a pool as a man look on . 
+
+object-verb	child jump
+object-verb	man look
+#####################################################
+A girl with swimmies on is jumping into a pool . 
+a girl with swimmy on be jump into a pool . 
+
+object-verb	girl jump
+#####################################################
+A little girl wearing orange arm floats jumping into a pool . 
+a little girl wear orange arm float jump into a pool . 
+
+attribute-object	little girl
+attribute-object	orange arm
+object-verb	girl float
+#####################################################
+A little girl with inflatable armbands is jumping into the pool . 
+a little girl with inflatable armband be jump into the pool . 
+
+attribute-object	little girl
+attribute-object	inflatable armband
+object-verb	girl jump
+#####################################################
+A young girl with water wings leaps into a crowded pool . 
+a young girl with water wing leap into a crowded pool . 
+
+attribute-object	young girl
+attribute-object	crowded pool
+object-verb	girl leap
+#####################################################
+A black dog with a brown muzzle next to a body of water , shaking off water with a stick in its mouth . 
+a black dog with a brown muzzle next to a body of water , shake off water with a stick in its mouth . 
+
+attribute-object	black dog
+attribute-object	brown muzzle
+object-verb-object	dog shake water
+#####################################################
+A black dog with a red collar has an item in his mouth and is climbing out of a pool . 
+a black dog with a red collar have a item in he mouth and be climb out of a pool . 
+
+attribute-object	black dog
+attribute-object	red collar
+object-verb-object	dog have item
+object-verb	dog climb
+#####################################################
+A brown dog climbing out of a pool with a stick in his mouth . 
+a brown dog climb out of a pool with a stick in he mouth . 
+
+attribute-object	brown dog
+#####################################################
+A dog with a stick in its mouth climbs out of the water . 
+a dog with a stick in its mouth climb out of the water . 
+
+object-verb	dog climb
+#####################################################
+The dog is climbing out of the water with a stick . 
+the dog be climb out of the water with a stick . 
+
+object-verb	dog climb
+#####################################################
+A man is asleep on the ground near two bank machines . 
+a man be asleep on the ground near two bank machine . 
+
+object-verb	man asleep
+#####################################################
+A man is slouched near an ATM while another man is withdrawing money from a different ATM . 
+a man be slouch near a ATM while another man be withdraw money from a different ATM . 
+
+attribute-object	different ATM
+object-verb-object	man withdraw money
+object-verb	man slouch
+#####################################################
+A man sits in front of an ATM machine while another man uses the machine . 
+a man sit in front of a ATM machine while another man use the machine . 
+
+object-verb-object	man use machine
+object-verb	man sit
+#####################################################
+a man with a brwon jacket on his shoulders lying on the sidewalk near two ATM machines . 
+a man with a brwon jacket on he shoulder lie on the sidewalk near two ATM machine . 
+
+#####################################################
+There is a man using an ATM machine , while a man sleeps on the ground next to him . 
+there be a man use a ATM machine , while a man sleep on the ground next to he . 
+
+object-verb	man be
+object-verb	man sleep
+#####################################################
+A man grasps onto the rock face . 
+a man grasp onto the rock face . 
+
+object-verb	man grasp
+#####################################################
+A man in a red shirt attempts to climb a rock . 
+a man in a red shirt attempt to climb a rock . 
+
+attribute-object	red attempt
+#####################################################
+a man wearing red , climbs a large rock . 
+a man wear red , climb a large rock . 
+
+attribute-object	large rock
+object-verb-object	man climb rock
+#####################################################
+man in red shirt climbing rock cliff . 
+man in red shirt climb rock cliff . 
+
+attribute-object	red shirt
+#####################################################
+Rock climber without a rope . 
+Rock climber without a rope . 
+
+#####################################################
+a boy jumps into the pool . 
+a boy jump into the pool . 
+
+object-verb	boy jump
+#####################################################
+An adult watches a child somersault into the pool while another child looks on . 
+a adult watch a child somersault into the pool while another child look on . 
+
+attribute-object	adult watch
+object-verb	watch look
+#####################################################
+A woman throwing a little boy into the pool . 
+a woman throw a little boy into the pool . 
+
+attribute-object	little boy
+#####################################################
+Woman in blue is tossing a young child into a pool . 
+Woman in blue be toss a young child into a pool . 
+
+attribute-object	young child
+object-verb-object	Woman toss child
+#####################################################
+Woman throws little boy into pool as another boy watches . 
+Woman throw little boy into pool as another boy watch . 
+
+attribute-object	little boy
+object-verb-object	Woman throw boy
+#####################################################
+A mountain landscape . 
+a mountain landscape . 
+
+#####################################################
+A mountainous photo is complete with a blue sky . 
+a mountainous photo be complete with a blue sky . 
+
+attribute-object	mountainous photo
+attribute-object	blue sky
+object-verb	photo complete
+#####################################################
+A snowy mountain range . 
+a snowy mountain range . 
+
+attribute-object	snowy range
+#####################################################
+Rocky mountains . 
+Rocky mountain . 
+
+#####################################################
+Snow covered peaks . 
+Snow cover peak . 
+
+object-verb-object	Snow cover peak
+#####################################################
+a group of four people conversing next to a bus . 
+a group of four people converse next to a bus . 
+
+attribute-verb	next converse
+#####################################################
+Four people taking in front of a bus . 
+four people take in front of a bus . 
+
+#####################################################
+Four teenagers standing next to a bus and talking and laughing . 
+four teenager stand next to a bus and talk and laugh . 
+
+attribute-verb	next stand
+#####################################################
+the two couples are chatting by the bus . 
+the two couple be chat by the bus . 
+
+object-verb	couple chat
+#####################################################
+Two girls and two guys are talking to each other with a bus in the background . 
+two girl and two guy be talk to each other with a bus in the background . 
+
+object-verb	girl talk
+object-verb	guy talk
+#####################################################
+A Beagle dog is walking on the shoreline at the beach . 
+a Beagle dog be walk on the shoreline at the beach . 
+
+object-verb	dog walk
+#####################################################
+A beagle walking on the beach next to some waves . 
+a beagle walk on the beach next to some wave . 
+
+#####################################################
+A beagle walks along the calm shore . 
+a beagle walk along the calm shore . 
+
+attribute-object	calm shore
+object-verb	beagle walk
+#####################################################
+The beagle is on a beach walking along the shoreline . 
+the beagle be on a beach walk along the shoreline . 
+
+object-verb	beagle beach
+#####################################################
+The beagle is walking on the beach at the waterline . 
+the beagle be walk on the beach at the waterline . 
+
+object-verb	beagle walk
+#####################################################
+A female in a pink tank top drinking beer . 
+a female in a pink tank top drinking beer . 
+
+attribute-object	top beer
+#####################################################
+A woman in a dark pink tank top , has a bag across her shoulder . 
+a woman in a dark pink tank top , have a bag across she shoulder . 
+
+attribute-object	dark top
+object-verb-object	woman have bag
+#####################################################
+A woman in a pink tank top drinking out of a plastic glass . 
+a woman in a pink tank top drinking out of a plastic glass . 
+
+attribute-verb	drinking glass
+attribute-object	top drinking
+attribute-object	plastic glass
+#####################################################
+A woman in a pink tank top holds a plastic beer mug . 
+a woman in a pink tank top hold a plastic beer mug . 
+
+attribute-object	top tank
+attribute-object	plastic mug
+object-verb-object	woman hold mug
+#####################################################
+a woman wearing a pink tank top holding a mug of liquid . 
+a woman wear a pink tank top hold a mug of liquid . 
+
+object-verb-object	tank hold mug
+#####################################################
+A runner in a yellow shirt is cresting a hill . 
+a runner in a yellow shirt be crest a hill . 
+
+attribute-object	yellow shirt
+object-verb-object	runner crest hill
+#####################################################
+A runner with one green shoe and one white shoe runs uphill . 
+a runner with one green shoe and one white shoe run uphill . 
+
+attribute-verb	uphill run
+attribute-object	green shoe
+attribute-object	white shoe
+object-verb	runner run
+#####################################################
+A single runner is watched by onlookers in a race . 
+a single runner be watch by onlooker in a race . 
+
+attribute-object	single runner
+object-verb	runner watch
+#####################################################
+Man wearing green sneakers runs down highway . 
+man wear green sneaker run down highway . 
+
+attribute-object	green sneaker
+object-verb	man run
+#####################################################
+The runner in red and yellow has just made it up the hill . 
+the runner in red and yellow have just make it up the hill . 
+
+attribute-verb	just make
+attribute-verb	hill make
+object-verb-object	runner make it
+#####################################################
+A boy licks an older male 's face that 's covered in a blue and yellow creamy substance . 
+a boy lick a older male 's face that be cover in a blue and yellow creamy substance . 
+
+attribute-object	older male
+attribute-object	blue substance
+attribute-object	yellow substance
+attribute-object	creamy substance
+object-verb-object	boy lick face
+object-verb	that cover
+#####################################################
+A child in a yellow shirt is licking brightly colored food off of a mans cheek . 
+a child in a yellow shirt be lick brightly color food off of a man cheek . 
+
+attribute-verb	brightly lick
+attribute-verb	off food
+attribute-object	yellow shirt
+attribute-object	color food
+object-verb-object	child lick food
+#####################################################
+A young boy is licking blue and yellow frosting off a young man 's face . 
+a young boy be lick blue and yellow frosting off a young man 's face . 
+
+attribute-object	young boy
+attribute-object	blue frosting
+attribute-object	yellow frosting
+attribute-object	young man
+object-verb-object	boy lick frosting
+#####################################################
+A young boy is licking colored frosting off a young man 's face . 
+a young boy be lick color frost off a young man 's face . 
+
+attribute-object	young boy
+attribute-object	young man
+object-verb	boy lick
+#####################################################
+Someone licks the face of a man with blue and yellow paint on his face . 
+someone lick the face of a man with blue and yellow paint on he face . 
+
+attribute-object	blue paint
+attribute-object	yellow paint
+object-verb-object	someone lick face
+#####################################################
+A guy is riding a bike up the side of a hill . 
+a guy be ride a bike up the side of a hill . 
+
+object-verb-object	guy ride bike
+#####################################################
+A young man bicycles towards the camera and away from beautiful mountains on a clear day . 
+a young man bicycle towards the camera and away from beautiful mountain on a clear day . 
+
+attribute-object	young bicycle
+attribute-object	beautiful mountain
+attribute-object	clear day
+#####################################################
+Man on bike in mountains . 
+man on bike in mountain . 
+
+#####################################################
+Man riding a bicycle down a narrow path . 
+man ride a bicycle down a narrow path . 
+
+attribute-object	narrow path
+#####################################################
+man riding bike on trail . 
+man ride bike on trail . 
+
+#####################################################
+A couple of men sit by a large stone slab with mountains in the background . 
+a couple of man sit by a large stone slab with mountain in the background . 
+
+attribute-object	large slab
+object-verb	couple sit
+#####################################################
+Two men rest near a mountain range . 
+two man rest near a mountain range . 
+
+#####################################################
+Two men sit against a stone monument among snow covered peaks . 
+two man sit against a stone monument among snow cover peak . 
+
+object-verb-object	man cover peak
+#####################################################
+two men sit at a encripted stone in the mountains . 
+two man sit at a encripted stone in the mountain . 
+
+attribute-object	encripted stone
+object-verb	man sit
+#####################################################
+Two men sitting next to a tall stone . 
+two man sit next to a tall stone . 
+
+attribute-verb	next sit
+attribute-object	tall stone
+#####################################################
+There are two men riding bicycles outside in the snow covered countryside . 
+there be two man ride bicycle outside in the snow cover countryside . 
+
+object-verb	man be
+#####################################################
+The two men and their bikes are on the side of a snowy road . 
+the two man and they bike be on the side of a snowy road . 
+
+attribute-object	snowy road
+object-verb	man side
+object-verb	bike side
+#####################################################
+two men on bicycles on the side of a snowpacked road in the country . 
+two man on bicycle on the side of a snowpacked road in the country . 
+
+attribute-object	snowpacked road
+#####################################################
+Two men stop on a snow-covered hill with their bicycles . 
+two man stop on a snow-covered hill with they bicycle . 
+
+attribute-object	snow-covered hill
+object-verb	man stop
+#####################################################
+Two men taking a break from riding their bikes on a snowy road . 
+two man take a break from ride they bike on a snowy road . 
+
+attribute-object	snowy road
+#####################################################
+a biker bikes in the mountains . 
+a biker bike in the mountain . 
+
+#####################################################
+A male bicyclist on a mountain road . 
+a male bicyclist on a mountain road . 
+
+attribute-object	male bicyclist
+#####################################################
+A man biking in front of mountains . 
+a man biking in front of mountain . 
+
+#####################################################
+A man is biking down really rough terrain . 
+a man be biking down really rough terrain . 
+
+attribute-verb	really rough
+attribute-object	rough terrain
+object-verb	man biking
+#####################################################
+Man on bicycle trek high in the mountains . 
+man on bicycle trek high in the mountain . 
+
+attribute-verb	high man
+#####################################################
+A man on a bike nest to a river . 
+a man on a bike nest to a river . 
+
+#####################################################
+A man rides a bicycle on a rocky path beside a lake in the mountains . 
+a man ride a bicycle on a rocky path beside a lake in the mountain . 
+
+attribute-object	rocky path
+object-verb-object	man ride bicycle
+#####################################################
+A man rides a bicycle on a rocky trail along a large river . 
+a man ride a bicycle on a rocky trail along a large river . 
+
+attribute-object	rocky trail
+attribute-object	large river
+#####################################################
+A man stands astride a bike on a rocky trail by a lake . 
+a man stand astride a bike on a rocky trail by a lake . 
+
+attribute-object	rocky trail
+object-verb	man stand
+#####################################################
+The man on the bike is sitting on a gravel hill . 
+the man on the bike be sit on a gravel hill . 
+
+object-verb	man sit
+#####################################################
+A brown dog and a black dog run into each other in the grass . 
+a brown dog and a black dog run into each other in the grass . 
+
+attribute-object	brown dog
+attribute-object	black dog
+object-verb	dog run
+object-verb	dog run
+#####################################################
+A brown dog is grabbing the collar of a black dog . 
+a brown dog be grab the collar of a black dog . 
+
+attribute-object	brown dog
+attribute-object	black dog
+object-verb-object	dog grab collar
+#####################################################
+A dark black dog is playing with a light brown dog in a backyard . 
+a dark black dog be play with a light brown dog in a backyard . 
+
+attribute-object	dark dog
+attribute-object	black dog
+attribute-object	light dog
+attribute-object	brown dog
+object-verb	dog play
+#####################################################
+Two dogs are wrestling in a field . 
+two dog be wrestle in a field . 
+
+object-verb	dog wrestle
+#####################################################
+Two dogs are wrestling in the park . 
+two dog be wrestle in the park . 
+
+object-verb	dog wrestle
+#####################################################
+A hiker navigates a rope and wood bridge over a large dry ravine . 
+a hiker navigate a rope and wood bridge over a large dry ravine . 
+
+attribute-object	large ravine
+attribute-object	dry ravine
+object-verb-object	hiker navigate bridge
+#####################################################
+A person with a shoulder bag is walking across a shaky wooden slat bridge . 
+a person with a shoulder bag be walk across a shaky wooden slat bridge . 
+
+attribute-object	shaky bridge
+attribute-object	wooden bridge
+object-verb	person walk
+#####################################################
+a woman crossing a wooden link wire bridge . 
+a woman cross a wooden link wire bridge . 
+
+attribute-object	wooden bridge
+#####################################################
+A woman walking across an old rope and driftrood bridge between mountains . 
+a woman walk across a old rope and driftrood bridge between mountain . 
+
+attribute-object	old rope
+#####################################################
+The woman is walking on a rickety narrow bridge . 
+the woman be walk on a rickety narrow bridge . 
+
+attribute-object	rickety bridge
+attribute-object	narrow bridge
+object-verb	woman walk
+#####################################################
+A large tent with a green cover at a campground . 
+a large tent with a green cover at a campground . 
+
+attribute-object	large tent
+attribute-object	green cover
+#####################################################
+A tent and a campsite in a sunlit forest . 
+a tent and a campsite in a sunlit forest . 
+
+attribute-object	sunlit forest
+#####################################################
+Picture of a campsite with a big green tent . 
+Picture of a campsite with a big green tent . 
+
+attribute-object	big tent
+attribute-object	green tent
+#####################################################
+Rays of sunlight shine down on a green tent in the woods . 
+ray of sunlight shine down on a green tent in the wood . 
+
+attribute-verb	down shine
+attribute-object	green tent
+object-verb	ray shine
+#####################################################
+The sun is blazing through the trees onto a green tent in the woods . 
+the sun be blaze through the tree onto a green tent in the wood . 
+
+attribute-object	green tent
+object-verb	sun blaze
+#####################################################
+A child is playing in the muddy water running along a grassy area . 
+a child be play in the muddy water run along a grassy area . 
+
+attribute-object	muddy water
+attribute-object	grassy area
+object-verb	child play
+#####################################################
+A little boy is sitting on a wet path covered in mud . 
+a little boy be sit on a wet path cover in mud . 
+
+attribute-object	little boy
+attribute-object	wet path
+object-verb	boy sit
+#####################################################
+A small boy sits in a mud puddle and gets covered with mud . 
+a small boy sit in a mud puddle and get cover with mud . 
+
+attribute-object	small boy
+object-verb	boy sit
+object-verb	boy cover
+#####################################################
+a very dirty young blond boy playing in the mud . 
+a very dirty young blond boy playing in the mud . 
+
+attribute-verb	very dirty
+attribute-object	dirty boy
+attribute-object	young boy
+attribute-object	blond boy
+#####################################################
+The little kid sits down in the muddy water . 
+the little kid sit down in the muddy water . 
+
+attribute-object	little kid
+attribute-object	muddy water
+object-verb	kid sit
+#####################################################
+A girl in a tutu and a boy in a costume in a dancefloor . 
+a girl in a tutu and a boy in a costume in a dancefloor . 
+
+#####################################################
+A little girl in a pink tutu gets ready for ballet dancing , a boy in a Spider-Man shirt behind . 
+a little girl in a pink tutu get ready for ballet dancing , a boy in a spider-man shirt behind . 
+
+attribute-verb	behind get
+attribute-object	little girl
+attribute-object	pink tutu
+attribute-object	ballet dancing
+attribute-object	spider-man shirt
+object-verb	girl get
+#####################################################
+a young girl wearing a pink tutu dancing with another young boy in the background . 
+a young girl wear a pink tutu dancing with another young boy in the background . 
+
+attribute-object	young girl
+attribute-object	pink dancing
+attribute-object	young boy
+#####################################################
+A young girl wearing a tutu dances in a large room . 
+a young girl wear a tutu dance in a large room . 
+
+attribute-object	young girl
+attribute-object	large room
+#####################################################
+Two children are in costume in a dance studio . 
+two child be in costume in a dance studio . 
+
+object-verb	child costume
+#####################################################
+A kid is pushing a shopping cart behind an adult inside a consumer market . 
+a kid be push a shopping cart behind a adult inside a consumer market . 
+
+object-verb-object	kid push cart
+#####################################################
+A little boy is hanging on to a shopping cart following behind a man . 
+a little boy be hang on to a shopping cart follow behind a man . 
+
+attribute-object	little boy
+object-verb	boy hang
+#####################################################
+A small boy wearing a white shirt pushes a grey shopping cart . 
+a small boy wear a white shirt push a grey shopping cart . 
+
+attribute-object	small boy
+attribute-object	white shirt
+attribute-object	grey cart
+object-verb-object	boy push cart
+#####################################################
+A young boy attempts to push the Walmart shopping cart for a man . 
+a young boy attempt to push the Walmart shopping cart for a man . 
+
+attribute-object	young attempt
+#####################################################
+The young boy is pushing the cart inside the store . 
+the young boy be push the cart inside the store . 
+
+attribute-object	young boy
+object-verb-object	boy push cart
+#####################################################
+A giant inflatable ball , taller than a man , is chased by two men in orange shirts . 
+a giant inflatable ball , taller than a man , be chase by two man in orange shirt . 
+
+attribute-object	giant ball
+attribute-object	inflatable ball
+attribute-object	orange shirt
+object-verb	ball chase
+#####################################################
+The men are on a hill with a giant white ball . 
+the man be on a hill with a giant white ball . 
+
+attribute-object	giant ball
+attribute-object	white ball
+object-verb	man hill
+#####################################################
+Two men are trying to push this very large inflatable golf ball . 
+two man be try to push this very large inflatable golf ball . 
+
+attribute-verb	very large
+attribute-object	large ball
+attribute-object	inflatable ball
+object-verb	man try
+#####################################################
+two men roll a huge ball . 
+two man roll a huge ball . 
+
+attribute-object	huge ball
+object-verb-object	man roll ball
+#####################################################
+Two workers in orange and black set up bubble . 
+two worker in orange and black set up bubble . 
+
+object-verb-object	worker set bubble
+#####################################################
+A baby is trying to eat a large red plastic toy outdoors . 
+a baby be try to eat a large red plastic toy outdoors . 
+
+attribute-object	large red
+attribute-object	red outdoors
+object-verb	baby try
+#####################################################
+A blonde infant chewing on a red toy . 
+a blonde infant chew on a red toy . 
+
+attribute-object	blonde infant
+attribute-object	red toy
+#####################################################
+A blonde toddler placing his mouth on the edge of a red plastic toy . 
+a blonde toddler place he mouth on the edge of a red plastic toy . 
+
+attribute-object	blonde toddler
+attribute-object	red toy
+#####################################################
+A child plays with a toy in the grass . 
+a child play with a toy in the grass . 
+
+object-verb	child play
+#####################################################
+A child with his mouth on a red plastic toy . 
+a child with he mouth on a red plastic toy . 
+
+attribute-object	red toy
+#####################################################
+A man in red swim trunks is jumping onto a bodyboard . 
+a man in red swim trunk be jump onto a bodyboard . 
+
+object-verb	man swim
+object-verb	trunk jump
+#####################################################
+A man in red trunks flies through the air with a boogie board . 
+a man in red trunk fly through the air with a boogie board . 
+
+attribute-object	red trunk
+object-verb	man fly
+#####################################################
+A man with a wake-board is diving over a surface that is not water . 
+a man with a wake-board be diving over a surface that be not water . 
+
+object-verb	man diving
+object-verb	that water
+#####################################################
+A shirtless man bodysurfs . 
+a shirtless man bodysurf . 
+
+attribute-object	shirtless man
+#####################################################
+Man is diving onto his wakeboard . 
+man be diving onto he wakeboard . 
+
+object-verb	man diving
+#####################################################
+A closeup of a man holding a baby wearing a blue shirt . 
+a closeup of a man hold a baby wear a blue shirt . 
+
+attribute-object	blue shirt
+#####################################################
+A man holds a chubby baby with pink cheeks and blue shirt . 
+a man hold a chubby baby with pink cheek and blue shirt . 
+
+attribute-object	chubby baby
+attribute-object	pink cheek
+attribute-object	blue shirt
+object-verb-object	man hold baby
+#####################################################
+A man in black holds a baby . 
+a man in black hold a baby . 
+
+object-verb-object	man hold baby
+#####################################################
+Ever since his baby girl started coming to the arcade with him , the dad enjoys watching others play his favorite pinball game . 
+ever since he baby girl start come to the arcade with he , the dad enjoy watch other play he favorite pinball game . 
+
+attribute-verb	ever start
+attribute-object	favorite game
+object-verb-object	other play game
+object-verb	girl start
+object-verb	dad enjoy
+#####################################################
+The man is holding a baby near a carnival game . 
+the man be hold a baby near a carnival game . 
+
+object-verb-object	man hold baby
+#####################################################
+a dog jumps into the pond . 
+a dog jump into the pond . 
+
+object-verb	dog jump
+#####################################################
+A dog leaping into the water near a motorboat . 
+a dog leap into the water near a motorboat . 
+
+#####################################################
+A light colored dog jumping off the back of a boat into the water . 
+a light color dog jump off the back of a boat into the water . 
+
+attribute-object	light dog
+attribute-object	color dog
+#####################################################
+A tan dog jumping off of a boat into the water . 
+a tan dog jump off of a boat into the water . 
+
+attribute-verb	off jump
+#####################################################
+The yellow dog is jumping off of a ship into the water . 
+the yellow dog be jump off of a ship into the water . 
+
+attribute-verb	off jump
+attribute-object	yellow dog
+object-verb	dog jump
+#####################################################
+A boy jumping off of a dock while his friend watches . 
+a boy jump off of a dock while he friend watch . 
+
+attribute-verb	off jump
+#####################################################
+Two boys are climbing a wooden platform and jumping into a river . 
+two boy be climb a wooden platform and jump into a river . 
+
+attribute-object	wooden platform
+object-verb-object	boy climb platform
+object-verb	boy jump
+#####################################################
+Two boys jumping off the pier into the water . 
+two boy jump off the pier into the water . 
+
+#####################################################
+Two boys preparing to jump off a pier located on a large body of water . 
+two boy prepare to jump off a pier located on a large body of water . 
+
+attribute-object	located pier
+attribute-object	large body
+#####################################################
+Two children jump off the dock into the lake . 
+two child jump off the dock into the lake . 
+
+object-verb-object	child jump dock
+#####################################################
+A brown dog is running over snow near leafless trees . 
+a brown dog be run over snow near leafless tree . 
+
+attribute-object	brown dog
+attribute-object	leafless tree
+object-verb-object	dog run snow
+#####################################################
+A brown dog runs across a snowy field . 
+a brown dog run across a snowy field . 
+
+attribute-object	brown dog
+attribute-object	snowy field
+object-verb	dog run
+#####################################################
+A dog is running through the snow . 
+a dog be run through the snow . 
+
+object-verb	dog run
+#####################################################
+A dog runs through the snow . 
+a dog run through the snow . 
+
+object-verb	dog run
+#####################################################
+A medium sized brown dog is running through an open white wooded area . 
+a medium size brown dog be run through a open white wooded area . 
+
+attribute-object	brown dog
+attribute-object	open area
+attribute-object	white area
+attribute-object	wooded area
+object-verb	medium run
+#####################################################
+Hikers cross a bridge over a fast moving stream and rocky scenery . 
+hiker cross a bridge over a fast move stream and rocky scenery . 
+
+attribute-object	fast stream
+attribute-object	move stream
+attribute-object	rocky scenery
+object-verb-object	hiker cross bridge
+#####################################################
+People crossing a long bridge over a canyon with a river . 
+people cross a long bridge over a canyon with a river . 
+
+attribute-object	long bridge
+#####################################################
+People walk across a rope bridge over a rocky stream . 
+people walk across a rope bridge over a rocky stream . 
+
+attribute-object	rocky stream
+object-verb	people walk
+#####################################################
+Some hikers are crossing a wood and wire bridge over a river . 
+some hiker be cross a wood and wire bridge over a river . 
+
+object-verb-object	hiker cross bridge
+#####################################################
+Three people are looking across a rope and wood bridge over a river . 
+three people be look across a rope and wood bridge over a river . 
+
+object-verb	people look
+#####################################################
+A hiker is walking along a path at the foot of some snowcapped mountains . 
+a hiker be walk along a path at the foot of some snowcapp mountain . 
+
+object-verb	hiker walk
+#####################################################
+A man walks near mountains . 
+a man walk near mountain . 
+
+object-verb	man walk
+#####################################################
+A man with ski poles stands in front of a mountain . 
+a man with ski pole stand in front of a mountain . 
+
+object-verb	man stand
+#####################################################
+The person is walking in the mountains . 
+the person be walk in the mountain . 
+
+object-verb	person walk
+#####################################################
+The skier is looking at the snowcapped mountains . 
+the skier be look at the snowcapped mountain . 
+
+attribute-object	snowcapped mountain
+object-verb	skier look
+#####################################################
+A group of people gather on a balcony . 
+a group of people gather on a balcony . 
+
+object-verb	group gather
+#####################################################
+A group of people standing on a balcony in a very modern setting . 
+a group of people stand on a balcony in a very modern setting . 
+
+attribute-verb	very modern
+attribute-object	modern setting
+#####################################################
+a group of people standing on a small balcony of a large building . 
+a group of people stand on a small balcony of a large building . 
+
+attribute-object	small balcony
+attribute-object	large building
+#####################################################
+A group of people stand on a balcony . 
+a group of people stand on a balcony . 
+
+object-verb	group stand
+#####################################################
+Four people ride in an outdoor elevator . 
+four people ride in a outdoor elevator . 
+
+attribute-object	outdoor elevator
+#####################################################
+Two men in ethnic dress standing in a barren landscape . 
+two man in ethnic dress standing in a barren landscape . 
+
+attribute-object	ethnic standing
+attribute-object	barren landscape
+#####################################################
+Two men in keffiyahs stand next to car in the desert and wave at a passing vehicle . 
+two man in keffiyah stand next to car in the desert and wave at a pass vehicle . 
+
+attribute-object	pass vehicle
+object-verb	man stand
+#####################################################
+Two men in robes wave at an approaching jeep traveling through the sand . 
+two man in robe wave at a approach jeep travel through the sand . 
+
+attribute-object	approach jeep
+#####################################################
+Two men in traditional Arab dress standing near a car wave at an SUV in the desert . 
+two man in traditional Arab dress standing near a car wave at a suv in the desert . 
+
+attribute-object	traditional standing
+#####################################################
+Two people with head coverings stand in a sandy field . 
+two people with head covering stand in a sandy field . 
+
+attribute-object	sandy field
+object-verb	people stand
+#####################################################
+A girl all in black and white , and carrying an umbrella , walks down the street , as others watch . 
+a girl all in black and white , and carry a umbrella , walk down the street , as other watch . 
+
+object-verb-object	girl walk street
+object-verb	other watch
+#####################################################
+A girl dressed in black and white with mime makeup stands in the middle of a street with a white umbrella and black top hat in her hand . 
+a girl dress in black and white with mime makeup stand in the middle of a street with a white umbrella and black top hat in she hand . 
+
+attribute-object	white umbrella
+attribute-object	black hat
+attribute-object	top hat
+object-verb	girl stand
+#####################################################
+a performer dancing in the streets wearing an exotic outfit . 
+a performer dancing in the street wear a exotic outfit . 
+
+attribute-object	exotic outfit
+#####################################################
+a woman with a shaved head dressed in black and white in a parade . 
+a woman with a shave head dress in black and white in a parade . 
+
+attribute-object	shave head
+object-verb	woman dress
+#####################################################
+The lady in the street is wearing a white and black costume and is carrying a white umbrella . 
+the lady in the street be wear a white and black costume and be carry a white umbrella . 
+
+attribute-object	white costume
+attribute-object	black costume
+attribute-object	white umbrella
+object-verb-object	lady wear costume
+object-verb-object	lady carry umbrella
+#####################################################
+A little kid splashes around in the kiddie pool while a lady watches . 
+a little kid splash around in the kiddie pool while a lady watch . 
+
+attribute-object	little splash
+#####################################################
+a woman dumping water on a small child who is in a pool . 
+a woman dump water on a small child who be in a pool . 
+
+attribute-object	small child
+object-verb	who pool
+#####################################################
+A woman is throwing a bucket of water over a baby in the paddling pool . 
+a woman be throw a bucket of water over a baby in the paddle pool . 
+
+attribute-object	paddle pool
+object-verb-object	woman throw bucket
+#####################################################
+A woman is throwing water on a child in a plastic swimming pool in a rural area . 
+a woman be throw water on a child in a plastic swimming pool in a rural area . 
+
+attribute-object	plastic pool
+attribute-object	rural area
+object-verb-object	woman throw water
+#####################################################
+I child slides into a wading pool full of water while an adult tosses a bucket of water on them . 
+I child slide into a wade pool full of water while a adult toss a bucket of water on they . 
+
+attribute-object	wade pool
+attribute-object	adult toss
+object-verb	I slide
+#####################################################
+A calico cat raising its paws towards a dog with an open mouth . 
+a calico cat raise its paw towards a dog with a open mouth . 
+
+attribute-object	calico cat
+attribute-object	open mouth
+#####################################################
+A cat swatting at a doberman dog . 
+a cat swatting at a doberman dog . 
+
+#####################################################
+A dog and cat are fighting on a chair . 
+a dog and cat be fight on a chair . 
+
+object-verb	dog fight
+object-verb	cat fight
+#####################################################
+A multicolor cat fighting with a black and brown dog in a red collar . 
+a multicolor cat fight with a black and brown dog in a red collar . 
+
+attribute-object	multicolor cat
+attribute-object	black dog
+attribute-object	brown dog
+attribute-object	red collar
+#####################################################
+The yellow and black cat and the brown and black dog are fighting . 
+the yellow and black cat and the brown and black dog be fight . 
+
+attribute-object	yellow cat
+attribute-object	black cat
+attribute-object	brown dog
+attribute-object	black dog
+object-verb	cat fight
+object-verb	dog fight
+#####################################################
+A child is running away from a plastic pool and an adult on a rural setting . 
+a child be run away from a plastic pool and a adult on a rural setting . 
+
+attribute-object	plastic pool
+attribute-object	rural setting
+object-verb	child run
+#####################################################
+A child is running away from a woman standing by a paddling pool . 
+a child be run away from a woman standing by a paddle pool . 
+
+attribute-object	paddle pool
+object-verb	child run
+#####################################################
+A child playing with a water hose while a woman records with a camcorder . 
+a child playing with a water hose while a woman record with a camcorder . 
+
+#####################################################
+A woman and her son are playing outside by a kiddie pool . 
+a woman and she son be play outside by a kiddie pool . 
+
+attribute-verb	outside play
+object-verb	woman play
+object-verb	son play
+#####################################################
+A woman watches a child play near a small pool . 
+a woman watch a child play near a small pool . 
+
+attribute-object	small pool
+object-verb-object	woman watch play
+#####################################################
+a blond boy petting a tiger . 
+a blond boy pet a tiger . 
+
+attribute-object	blond boy
+#####################################################
+A boy pets a sleeping tiger . 
+a boy pet a sleep tiger . 
+
+attribute-object	sleep tiger
+object-verb	pet tiger
+#####################################################
+A boy pets a sleeping tiger while another tiger sleeps behind him . 
+a boy pet a sleep tiger while another tiger sleep behind he . 
+
+attribute-object	sleep tiger
+object-verb	pet sleep
+#####################################################
+A little blonde boy is petting a resting tiger . 
+a little blonde boy be pet a rest tiger . 
+
+attribute-object	little boy
+attribute-object	blonde boy
+attribute-object	rest tiger
+object-verb-object	boy pet tiger
+#####################################################
+A little boy is petting a tiger that is laying down . 
+a little boy be pet a tiger that be lay down . 
+
+attribute-object	little boy
+object-verb-object	boy pet tiger
+object-verb	that lay
+#####################################################
+A man mountain climbing up an icy mountain . 
+a man mountain climb up a icy mountain . 
+
+#####################################################
+An climber is ascending an ice covered rock face . 
+a climber be ascend a ice cover rock face . 
+
+object-verb-object	ice cover face
+object-verb	climber ascend
+#####################################################
+A person in orange climbs a sheer cliff face covered in snow and ice . 
+a person in orange climb a sheer cliff face cover in snow and ice . 
+
+attribute-object	sheer face
+object-verb-object	person climb face
+#####################################################
+Person in a yellow jacket is climbing up snow covered rocks . 
+person in a yellow jacket be climb up snow cover rock . 
+
+attribute-object	yellow jacket
+object-verb-object	person climb snow
+#####################################################
+There is a climber scaling a snowy mountainside . 
+there be a climber scale a snowy mountainside . 
+
+attribute-object	snowy mountainside
+object-verb	climber be
+#####################################################
+A woman and a little girl sit on desert rock . 
+a woman and a little girl sit on desert rock . 
+
+attribute-object	little girl
+object-verb	woman sit
+object-verb	girl sit
+#####################################################
+A young girl and older person are sitting near the top of a rock formation . 
+a young girl and older person be sit near the top of a rock formation . 
+
+attribute-object	young girl
+attribute-object	older person
+object-verb	girl sit
+object-verb	person sit
+#####################################################
+two girls sit on a large rock . 
+two girl sit on a large rock . 
+
+attribute-object	large rock
+object-verb	girl sit
+#####################################################
+Two people are sitting on a huge rock formation . 
+two people be sit on a huge rock formation . 
+
+attribute-object	huge formation
+object-verb	people sit
+#####################################################
+Two people sit in the distance on an unusual rock formation . 
+two people sit in the distance on a unusual rock formation . 
+
+attribute-object	unusual formation
+object-verb	people sit
+#####################################################
+A cart containig two men being pulled by horses in the rain . 
+a cart containig two man be pull by horse in the rain . 
+
+#####################################################
+a horse driven carriage running through a rainstorm . 
+a horse drive carriage run through a rainstorm . 
+
+object-verb-object	horse drive carriage
+#####################################################
+Black and white horses carry a cart with people through the rain . 
+black and white horse carry a cart with people through the rain . 
+
+attribute-object	black horse
+attribute-object	white horse
+object-verb-object	horse carry cart
+#####################################################
+People enjoy a horse draw open carriage in the rain . 
+people enjoy a horse draw open carriage in the rain . 
+
+attribute-object	open carriage
+object-verb-object	people enjoy carriage
+#####################################################
+The horses pull the carriage , holding people and a dog , through the rain . 
+the horse pull the carriage , hold people and a dog , through the rain . 
+
+attribute-object	hold people
+object-verb-object	horse pull carriage
+object-verb-object	horse pull people
+object-verb-object	horse pull dog
+#####################################################
+A brown dog in a pink shirt runs through a field . 
+a brown dog in a pink shirt run through a field . 
+
+attribute-object	brown dog
+attribute-object	pink shirt
+object-verb	dog run
+#####################################################
+A hairy dog with a pink shirt running through a field . 
+a hairy dog with a pink shirt run through a field . 
+
+attribute-object	hairy dog
+attribute-object	pink shirt
+#####################################################
+A long-haired dog wearing a pink vest and running . 
+a long-haired dog wear a pink vest and run . 
+
+attribute-object	long-haired dog
+attribute-object	pink vest
+#####################################################
+Brown dog in a pink sweater runs on yellow grass . 
+brown dog in a pink sweater run on yellow grass . 
+
+attribute-object	brown dog
+attribute-object	pink sweater
+attribute-object	yellow grass
+object-verb	dog run
+#####################################################
+Dog with pink jacket running in field . 
+dog with pink jacket run in field . 
+
+attribute-object	pink jacket
+#####################################################
+A blonde child swims . 
+a blonde child swim . 
+
+attribute-object	blonde child
+object-verb	child swim
+#####################################################
+A boy is swimming in open water . 
+a boy be swim in open water . 
+
+attribute-object	open water
+object-verb	boy swim
+#####################################################
+a child submerges from the water . 
+a child submerge from the water . 
+
+object-verb	child submerge
+#####################################################
+A kid comes up from the water . 
+a kid come up from the water . 
+
+object-verb	kid come
+#####################################################
+The small child comes up from underwater . 
+the small child come up from underwater . 
+
+attribute-object	small child
+object-verb	child come
+#####################################################
+Two girls are walking arm in arm past an amusement arcade . 
+two girl be walk arm in arm past a amusement arcade . 
+
+object-verb-object	girl walk arm
+#####################################################
+Two girls are walking away from the camera under a walkway . 
+two girl be walk away from the camera under a walkway . 
+
+attribute-verb	away walk
+object-verb	girl walk
+#####################################################
+Two girls in shorts walk towards casino signs . 
+two girl in shorts walk towards casino sign . 
+
+object-verb	girl walk
+#####################################################
+two teenage girls walking down a mall breezeway . 
+two teenage girl walk down a mall breezeway . 
+
+attribute-object	teenage girl
+#####################################################
+two women walk on the sidewalk . 
+two woman walk on the sidewalk . 
+
+object-verb	woman walk
+#####################################################
+A group of six children sit at a wooden table . 
+a group of six child sit at a wooden table . 
+
+attribute-object	wooden table
+object-verb	group sit
+#####################################################
+A group of young asian children pose for a picture at a table . 
+a group of young asian child pose for a picture at a table . 
+
+attribute-object	young child
+attribute-object	asian child
+object-verb	group pose
+#####################################################
+Six children , all with black hair , sit at a table for a picture . 
+six child , all with black hair , sit at a table for a picture . 
+
+attribute-object	black hair
+object-verb	child sit
+#####################################################
+Six children at a table . 
+six child at a table . 
+
+#####################################################
+Six small children sitting at a desk . 
+six small child sit at a desk . 
+
+attribute-object	small child
+#####################################################
+Two brown and white dogs lift their ears and look through a fence . 
+two brown and white dog lift they ear and look through a fence . 
+
+object-verb-object	dog lift ear
+object-verb	dog look
+#####################################################
+Two little dogs looking out of their cage . 
+two little dog look out of they cage . 
+
+attribute-object	little dog
+#####################################################
+Two small dogs are in a cage outside . 
+two small dog be in a cage outside . 
+
+attribute-object	small dog
+object-verb	dog outside
+#####################################################
+Two small dogs in a cage . 
+two small dog in a cage . 
+
+attribute-object	small dog
+#####################################################
+Two white and brown dogs up against a fence . 
+two white and brown dog up against a fence . 
+
+attribute-verb	up white
+attribute-object	brown dog
+#####################################################
+A boy goes down an inflatable slide . 
+a boy go down a inflatable slide . 
+
+attribute-object	inflatable slide
+object-verb-object	boy go slide
+#####################################################
+A boy in red slides down an inflatable ride . 
+a boy in red slide down a inflatable ride . 
+
+attribute-object	red slide
+attribute-object	inflatable ride
+#####################################################
+A boy is sliding down in a red shirt . 
+a boy be slide down in a red shirt . 
+
+attribute-object	red shirt
+object-verb	boy slide
+#####################################################
+A child going down an inflatable slide . 
+a child go down a inflatable slide . 
+
+attribute-object	inflatable slide
+#####################################################
+A young boy sliding down an inflatable , is looking off camera . 
+a young boy slide down a inflatable , be look off camera . 
+
+attribute-object	young boy
+object-verb-object	boy look camera
+#####################################################
+one brown and white dog chasing a black and white dog through the grass . 
+one brown and white dog chase a black and white dog through the grass . 
+
+attribute-object	white dog
+attribute-object	black dog
+attribute-object	white dog
+#####################################################
+The two dogs are running through the grass . 
+the two dog be run through the grass . 
+
+object-verb	dog run
+#####################################################
+Two cocker spaniels running through the grass . 
+two cocker spaniel run through the grass . 
+
+#####################################################
+Two dogs are running through a green yard . 
+two dog be run through a green yard . 
+
+attribute-object	green yard
+object-verb	dog run
+#####################################################
+Two dogs are running through the grass near a house and trees . 
+two dog be run through the grass near a house and tree . 
+
+object-verb	dog run
+#####################################################
+A girl in a pool wearing goggles and surrounded by other children . 
+a girl in a pool wear goggles and surround by other child . 
+
+attribute-object	other child
+object-verb-object	girl wear goggles
+object-verb	girl surround
+#####################################################
+A girl in green goggles in a pool with three other children . 
+a girl in green goggles in a pool with three other child . 
+
+attribute-object	green goggles
+attribute-object	other child
+#####################################################
+A red haired girl making a peace sign is wearing neon green glasses and floaties and playing in the pool with other kids . 
+a red haired girl make a peace sign be wear neon green glass and floaty and play in the pool with other kid . 
+
+attribute-object	red girl
+attribute-object	haired girl
+attribute-object	green glass
+attribute-object	other kid
+object-verb-object	girl wear glass
+object-verb-object	girl wear floaty
+object-verb	girl play
+#####################################################
+A red-headed girl offers the peace sign as she swims in the pool with floaties . 
+a red-headed girl offer the peace sign as she swim in the pool with floaty . 
+
+attribute-object	red-headed girl
+object-verb-object	girl offer sign
+object-verb	she swim
+#####################################################
+A young girl with goggles and floaties poses for the camera as she plays in a pool . 
+a young girl with goggles and floaty pose for the camera as she play in a pool . 
+
+attribute-object	young girl
+object-verb	girl pose
+object-verb	she play
+#####################################################
+A black dog has a dumbbell in his mouth . 
+a black dog have a dumbbell in he mouth . 
+
+attribute-object	black dog
+object-verb-object	dog have dumbbell
+#####################################################
+A black dog has a dumbbell in his mouth looking at the person wearing blue . 
+a black dog have a dumbbell in he mouth look at the person wear blue . 
+
+attribute-object	black dog
+attribute-object	wear blue
+object-verb-object	dog have dumbbell
+#####################################################
+A black dog holding a weight in its mouth stands next to a person . 
+a black dog hold a weight in its mouth stand next to a person . 
+
+attribute-verb	next stand
+attribute-object	black dog
+object-verb	dog stand
+#####################################################
+A black dog holds a small white dumbbell in its mouth . 
+a black dog hold a small white dumbbell in its mouth . 
+
+attribute-object	black dog
+attribute-object	small dumbbell
+attribute-object	white dumbbell
+object-verb-object	dog hold dumbbell
+#####################################################
+The black dog has a toy in its mouth and a person stands nearby . 
+the black dog have a toy in its mouth and a person stand nearby . 
+
+attribute-verb	nearby stand
+attribute-object	black dog
+object-verb-object	dog have toy
+object-verb	person stand
+#####################################################
+A man does a wheelie on his bicycle on the sidewalk . 
+a man do a wheelie on he bicycle on the sidewalk . 
+
+object-verb-object	man do wheelie
+#####################################################
+A man is doing a wheelie on a mountain bike . 
+a man be do a wheelie on a mountain bike . 
+
+object-verb-object	man do wheelie
+#####################################################
+A man on a bicycle is on only the back wheel . 
+a man on a bicycle be on only the back wheel . 
+
+attribute-verb	only wheel
+attribute-object	back wheel
+object-verb	man wheel
+#####################################################
+Asian man in orange hat is popping a wheelie on his bike . 
+asian man in orange hat be pop a wheelie on he bike . 
+
+attribute-object	asian man
+attribute-object	orange hat
+object-verb-object	man pop wheelie
+#####################################################
+Man on a bicycle riding on only one wheel . 
+man on a bicycle ride on only one wheel . 
+
+attribute-verb	only wheel
+#####################################################
+A group is sitting around a snowy crevasse . 
+a group be sit around a snowy crevasse . 
+
+attribute-object	snowy crevasse
+object-verb-object	group sit crevasse
+#####################################################
+A group of people sit atop a snowy mountain . 
+a group of people sit atop a snowy mountain . 
+
+attribute-object	snowy mountain
+object-verb	group sit
+#####################################################
+A group of people sit in the snow overlooking a mountain scene . 
+a group of people sit in the snow overlook a mountain scene . 
+
+object-verb	group sit
+#####################################################
+Five children getting ready to sled . 
+five child get ready to sled . 
+
+#####################################################
+Five people are sitting together in the snow . 
+five people be sit together in the snow . 
+
+attribute-verb	together sit
+object-verb	people sit
+#####################################################
+A grey bird stands majestically on a beach while waves roll in . 
+a grey bird stand majestically on a beach while wave roll in . 
+
+attribute-verb	majestically stand
+attribute-object	grey bird
+object-verb	bird stand
+object-verb	wave roll
+#####################################################
+A large bird stands in the water on the beach . 
+a large bird stand in the water on the beach . 
+
+attribute-object	large bird
+object-verb	bird stand
+#####################################################
+A tall bird is standing on the sand beside the ocean . 
+a tall bird be stand on the sand beside the ocean . 
+
+attribute-object	tall bird
+object-verb	bird stand
+#####################################################
+A water bird standing at the ocean 's edge . 
+a water bird standing at the ocean 's edge . 
+
+#####################################################
+A white crane stands tall as it looks out upon the ocean . 
+a white crane stand tall as it look out upon the ocean . 
+
+attribute-object	white crane
+object-verb	crane stand
+object-verb	it look
+#####################################################
+A person stands near golden walls . 
+a person stand near golden wall . 
+
+attribute-object	golden wall
+object-verb	person stand
+#####################################################
+a woman behind a scrolled wall is writing . 
+a woman behind a scroll wall be write . 
+
+attribute-verb	a scroll
+object-verb	woman write
+#####################################################
+A woman standing near a decorated wall writes . 
+a woman standing near a decorate wall write . 
+
+attribute-object	decorate wall
+object-verb	standing write
+#####################################################
+The walls are covered in gold and patterns . 
+the wall be cover in gold and pattern . 
+
+object-verb	wall cover
+#####################################################
+Woman writing on a pad in room with gold , decorated walls . 
+Woman write on a pad in room with gold , decorate wall . 
+
+attribute-object	decorate wall
+#####################################################
+A man in a pink shirt climbs a rock face . 
+a man in a pink shirt climb a rock face . 
+
+attribute-object	pink shirt
+object-verb-object	man climb face
+#####################################################
+A man is rock climbing high in the air . 
+a man be rock climb high in the air . 
+
+object-verb	man rock
+#####################################################
+A person in a red shirt climbing up a rock face covered in assist handles . 
+a person in a red shirt climb up a rock face cover in assist handle . 
+
+attribute-object	red shirt
+object-verb	person handle
+#####################################################
+A rock climber in a red shirt . 
+a rock climber in a red shirt . 
+
+attribute-object	red shirt
+#####################################################
+A rock climber practices on a rock climbing wall . 
+a rock climber practice on a rock climb wall . 
+
+#####################################################

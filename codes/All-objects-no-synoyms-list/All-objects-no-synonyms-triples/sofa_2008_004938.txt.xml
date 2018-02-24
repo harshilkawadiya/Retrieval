@@ -1,0 +1,77 @@
+An overweight woman in pajamas and bunny slippers is sitting on a green couch . 
+a overweight woman in pajamas and bunny slipper be sit on a green couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+object-prep-object	woman in pajamas
+object-prep-object	woman in slipper
+attribute-object	overweight woman
+attribute-object	green couch
+attribute-object	bunny slipper
+object-verb	woman sit
+object	couch
+object	woman
+object	pajamas
+object	slipper
+object	sofa
+#####################################################
+a woman seats on a couch , she has a white dress with flowers . 
+a woman seat on a couch , she have a white dress with flower . 
+
+object-prep-object	dress with flower
+verb-prep-object	seat on couch
+object-prep-object	woman on couch
+attribute-object	white dress
+object-verb-object	woman have dress
+object-verb	woman seat
+object	dress
+object	flower
+object	couch
+object	woman
+object	sofa
+#####################################################
+A woman sits on a sofa wearing a dress , slippers and hat . 
+a woman sit on a sofa wear a dress , slipper and hat . 
+
+verb-prep-object	sit on sofa
+object-prep-object	woman on sofa
+object-verb-object	woman wear dress
+object-verb-object	woman wear slipper
+object-verb-object	woman wear hat
+object-verb	woman sit
+object	sofa
+object	woman
+object	dress
+object	slipper
+object	hat
+object	sofa
+#####################################################
+Older woman dressed in white night gown on tan couch . 
+older woman dress in white night gown on tan couch . 
+
+object-prep-object	woman on couch
+verb-prep-object	dress in gown
+object-prep-object	woman in gown
+attribute-object	older woman
+attribute-object	white gown
+attribute-object	night gown
+attribute-object	tan couch
+object-verb	woman dress
+object	woman
+object	couch
+object	gown
+object	sofa
+#####################################################
+Woman in a floral nightgown sits on a couch . 
+Woman in a floral nightgown sit on a couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+object-prep-object	woman in nightgown
+attribute-object	floral nightgown
+object-verb	woman sit
+object	couch
+object	woman
+object	nightgown
+object	sofa
+#####################################################

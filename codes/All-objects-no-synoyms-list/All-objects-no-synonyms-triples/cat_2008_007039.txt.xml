@@ -1,0 +1,63 @@
+A cat stretching by a wall on patterned fabric . 
+a cat stretch by a wall on pattern fabric . 
+
+verb-prep-object	stretch on fabric
+verb-prep-object	stretch by wall
+attribute-object	pattern fabric
+object-verb	cat stretch
+object	fabric
+object	wall
+object	cat
+object	cat
+#####################################################
+A gray cat stretched out on a patterned green surface . 
+a gray cat stretch out on a pattern green surface . 
+
+verb-prep-object	stretch on surface
+attribute-object	gray cat
+attribute-object	pattern surface
+attribute-object	green surface
+object-verb	cat stretch
+verb-attribute	stretch out
+object	surface
+object	cat
+object	cat
+#####################################################
+A gray tabby cat lays up side down in a green comforter . 
+a gray tabby cat lay up side down in a green comforter . 
+
+verb-prep-object	lay in comforter
+attribute-object	gray cat
+attribute-object	green comforter
+attribute-object	tabby cat
+object-verb	cat lay
+object	comforter
+object	cat
+object	cat
+#####################################################
+A gray striped cat with white paws and belly atop a green patterned spread . 
+a gray striped cat with white paw and belly atop a green pattern spread . 
+
+object-prep-object	cat with paw
+object-prep-object	cat with belly
+attribute-object	gray cat
+attribute-object	striped cat
+attribute-object	white paw
+object	cat
+object	paw
+object	belly
+object	cat
+#####################################################
+A striped cat asleep on a green patterned material . 
+a striped cat asleep on a green pattern material . 
+
+object-verb	cat asleep
+verb-prep-object	asleep on material
+object-prep-object	cat on material
+attribute-object	striped cat
+attribute-object	green material
+attribute-object	pattern material
+object	cat
+object	material
+object	cat
+#####################################################

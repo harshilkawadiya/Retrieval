@@ -1,0 +1,61 @@
+A boy with a helmet on a bicycle . 
+a boy with a helmet on a bicycle . 
+
+object-prep-object	person on bicycle
+object-prep-object	person with helmet
+object	person
+object	bicycle
+object	helmet
+object	bicycle
+#####################################################
+A man doing a wheelie on a mountain bike . 
+a man do a wheelie on a mountain bike . 
+
+object-prep-object	person on bicycle
+object-verb-object	person do wheelie
+attribute-object	mountain bicycle
+object	person
+object	bicycle
+object	wheelie
+object	bicycle
+#####################################################
+A man is riding a bicycle and wearing a blue helmet & a white jersey with the number six on it . 
+a man be ride a bicycle and wear a blue helmet & a white jersey with the number six on it . 
+
+object-prep-object	jersey with number
+attribute-object	six number
+attribute-object	blue helmet
+attribute-object	white jersey
+object-verb-object	person ride bicycle
+object-verb-object	person wear helmet
+object-verb-object	person wear jersey
+object	jersey
+object	number
+object	helmet
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A person wearing a helmet rides a bike near a white structure . 
+a person wear a helmet ride a bike near a white structure . 
+
+verb-prep-object	ride near structure
+attribute-object	white structure
+object-verb-object	person wear helmet
+object-verb-object	person ride bicycle
+object	structure
+object	person
+object	helmet
+object	bicycle
+object	bicycle
+#####################################################
+Person with # 06 riding a bicycle . 
+person with # 06 ride a bicycle . 
+
+object-prep-object	person with 06
+object-verb-object	person ride bicycle
+object	person
+object	06
+object	bicycle
+object	bicycle
+#####################################################

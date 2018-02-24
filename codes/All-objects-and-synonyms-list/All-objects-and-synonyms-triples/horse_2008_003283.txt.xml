@@ -1,0 +1,74 @@
+A girl is seated on a donkey and an older woman stands to her right . 
+a girl be seat on a donkey and a older woman stand to she right . 
+
+verb-prep-object	seat on horse
+object-prep-object	person on horse
+attribute-object	older person
+object-verb	person stand
+object-verb	person seat
+object	horse
+object	donkey
+object	person
+object	girl
+object	woman
+object	horse
+#####################################################
+An old woman with a headscarf stands next to a young girl sitting on a donkey . 
+a old woman with a headscarf stand next to a young girl sit on a donkey . 
+
+object-prep-object	person with woman
+verb-prep-object	stand next_to person
+object-prep-object	person next_to person
+verb-prep-object	sit on horse
+object-prep-object	person on horse
+attribute-object	old person
+attribute-object	young person
+object-verb	person stand
+object-verb	person sit
+object	person
+object	woman
+object	girl
+object	horse
+object	donkey
+object	horse
+#####################################################
+a woman in a blue dress sitting on a donkey and a woman with a yellow scarf by her side . 
+a woman in a blue dress sit on a donkey and a woman with a yellow scarf by she side . 
+
+object-prep-object	person with woman
+verb-prep-object	sit on horse
+object-prep-object	person on horse
+object-prep-object	person in woman
+attribute-object	blue dress
+attribute-object	yellow scarf
+object-verb	person sit
+object	person
+object	woman
+object	horse
+object	donkey
+object	dress
+object	scarf
+object	horse
+#####################################################
+Old woman and friend on donkey . 
+Old woman and friend on donkey . 
+
+object-prep-object	person on horse
+object-prep-object	person on horse
+attribute-object	old person
+object	person
+object	woman
+object	horse
+object	friend
+object	horse
+#####################################################
+The woman leads the rider on her ass . 
+the woman lead the rider on she ass . 
+
+object-prep-object	person on rider
+object-verb-object	person lead person
+object	person
+object	rider
+object	woman
+object	horse
+#####################################################

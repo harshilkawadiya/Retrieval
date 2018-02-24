@@ -1,0 +1,52 @@
+a brown and white duck in a pond . 
+a brown and white duck in a pond . 
+
+object-prep-object	duck in pond
+attribute-object	brown duck
+attribute-object	white duck
+object	duck
+object	pond
+object	bird
+#####################################################
+A duck floating in the water . 
+a duck float in the water . 
+
+verb-prep-object	float in water
+object-prep-object	duck in water
+object-verb	duck float
+object	water
+object	duck
+object	bird
+#####################################################
+A duck preening its feathers . 
+a duck preen its feather . 
+
+object-verb-object	duck preen feather
+object	duck
+object	feather
+object	bird
+#####################################################
+A duck sits in the water preening its feathers . 
+a duck sit in the water preen its feather . 
+
+verb-prep-object	sit in water
+object-prep-object	duck in water
+object-verb-object	duck preen feather
+object-verb	duck sit
+object	water
+object	duck
+object	feather
+object	bird
+#####################################################
+Duck grooming itself while standing in the water . 
+duck groom itself while stand in the water . 
+
+verb-prep-verb	groom while stand
+verb-prep-object	stand in water
+object-prep-object	duck in water
+object-verb-object	duck groom itself
+object	water
+object	duck
+object	itself
+object	bird
+#####################################################

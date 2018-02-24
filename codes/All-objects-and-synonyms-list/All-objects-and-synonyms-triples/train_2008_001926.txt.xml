@@ -1,0 +1,52 @@
+A blue and yellow locomotive alongside a station platform . 
+a blue and yellow locomotive alongside a station platform . 
+
+object-prep-object	train alongside locomotive
+attribute-object	blue train
+attribute-object	yellow train
+attribute-object	station platform
+object	train
+object	locomotive
+object	platform
+object	train
+#####################################################
+A blue and yellow train in front of a two-tone green building . 
+a blue and yellow train in front of a two-tone green building . 
+
+object-prep-object	train in_front_of building
+attribute-object	blue train
+attribute-object	yellow train
+attribute-object	two-tone building
+attribute-object	green building
+object	train
+object	building
+object	train
+#####################################################
+a train on tracks in town . 
+a train on track in town . 
+
+object-prep-object	train on track
+object-prep-object	train in country
+object	train
+object	track
+object	country
+object	train
+#####################################################
+a train passing a teal building from a side view . 
+a train pass a teal building from a side view . 
+
+attribute-object	teal building
+object-verb-object	train pass building
+object	building
+object	train
+object	train
+#####################################################
+A trolley on a street . 
+a trolley on a street . 
+
+object-prep-object	train on road
+object	train
+object	trolley
+object	road
+object	train
+#####################################################

@@ -1,0 +1,58 @@
+A flock of birds flying over a body of water . 
+a flock of bird fly over a body of water . 
+
+object-prep-object	flock of bird
+object-prep-object	body of water
+verb-prep-object	fly over water
+object-prep-object	bird over water
+object-verb	bird fly
+object	flock
+object	bird
+object	body
+object	water
+object	bird
+#####################################################
+Birds fly low over water . 
+bird fly low over water . 
+
+verb-prep-object	fly over water
+object-prep-object	bird over water
+object-verb-object	bird fly low
+object	water
+object	bird
+object	low
+object	bird
+#####################################################
+Geese fly by over the water . 
+goose fly by over the water . 
+
+object-verb	goose fly
+verb-attribute	fly by
+verb-prep-object	fly over water
+object-prep-object	goose over water
+object	goose
+object	water
+object	bird
+#####################################################
+The birds are swimming in the water . 
+the bird be swim in the water . 
+
+verb-prep-object	swim in water
+object-prep-object	bird in water
+object-verb	bird swim
+object	water
+object	bird
+object	bird
+#####################################################
+Two geese fly just above the surface of the water . 
+two goose fly just above the surface of the water . 
+
+object-prep-object	surface of water
+verb-prep-object	fly above surface
+object-prep-object	goose above surface
+object-verb	goose fly
+object	surface
+object	water
+object	goose
+object	bird
+#####################################################

@@ -1,0 +1,49 @@
+a group of lambs in the grass . 
+a group of lamb in the grass . 
+
+object-prep-object	sheep in lamb
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+A group of sheep are on a hill . 
+a group of sheep be on a hill . 
+
+object-prep-object	sheep on mountain
+object	sheep
+object	mountain
+object	sheep
+#####################################################
+A group of sheep grazing on a hill . 
+a group of sheep grazing on a hill . 
+
+verb-prep-object	graze on mountain
+object-prep-object	sheep on mountain
+object-verb	sheep graze
+object	mountain
+object	hill
+object	sheep
+object	sheep
+#####################################################
+Group of lambs in grassy field . 
+Group of lamb in grassy field . 
+
+object-prep-object	sheep in lamb
+attribute-object	grassy field
+object	sheep
+object	lamb
+object	field
+object	sheep
+#####################################################
+Many sheep standing on a green hill . 
+many sheep standing on a green hill . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+attribute-object	green mountain
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	sheep
+#####################################################

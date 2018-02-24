@@ -1,0 +1,66 @@
+A black & white photo of an older woman and a middle age woman sitting in chairs underneath a tree and talking . 
+a black & white photo of a older woman and a middle age woman sit in chair underneath a tree and talk . 
+
+object-prep-object	chair underneath tree
+verb-prep-object	sit in chair
+object-prep-object	person in woman
+attribute-object	older person
+attribute-object	middle person
+attribute-object	age person
+object-verb	person sit
+object-verb	person sit
+object-verb	person talk
+object	chair
+object	tree
+object	person
+object	woman
+object	chair
+#####################################################
+A lady sits next to an elderly lady under a tree . 
+a lady sit next to a elderly lady under a tree . 
+
+verb-prep-object	sit under tree
+object-prep-object	person under lady
+verb-prep-object	sit next_to person
+object-prep-object	person next_to person
+attribute-object	elderly person
+object-verb	person sit
+object	tree
+object	person
+object	lady
+object	chair
+#####################################################
+Black and White picture of an old woman with a younger woman looking on . 
+Black and White picture of a old woman with a younger woman look on . 
+
+object-prep-object	person with person
+attribute-object	old person
+attribute-object	younger person
+object-verb	person look
+object	person
+object	woman
+object	chair
+#####################################################
+Black and white picture of two women sitting under a tree . 
+Black and white picture of two woman sit under a tree . 
+
+verb-prep-object	sit under tree
+object-prep-object	person under woman
+object-verb	person sit
+object	tree
+object	person
+object	woman
+object	chair
+#####################################################
+Two women sitting in lawn chairs . 
+two woman sit in lawn chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	person in woman
+attribute-object	lawn chair
+object-verb	person sit
+object	chair
+object	person
+object	woman
+object	chair
+#####################################################

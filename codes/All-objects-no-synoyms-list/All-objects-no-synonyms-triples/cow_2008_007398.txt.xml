@@ -1,0 +1,51 @@
+Cows look out of place as they walk down a street . 
+cow look out of place as they walk down a street . 
+
+verb-prep-object	look out_of place
+verb-prep-object	walk down street
+object-prep-object	cow down street
+object-verb	cow look
+object-verb	cow walk
+object	place
+object	street
+object	cow
+object	cow
+#####################################################
+Several cows walking down the center of a road . 
+several cow walk down the center of a road . 
+
+verb-prep-object	walk down road
+object-prep-object	cow down road
+attribute-object	several cow
+object-verb	cow walk
+object	road
+object	cow
+object	cow
+#####################################################
+Two cows cross a paved street . 
+two cow cross a paved street . 
+
+attribute-object	paved street
+object-verb-object	cow cross street
+object	street
+object	cow
+object	cow
+#####################################################
+Two cows crossing a road intersection . 
+two cow cross a road intersection . 
+
+object-verb-object	cow cross intersection
+attribute-object	road intersection
+object	cow
+object	intersection
+object	cow
+#####################################################
+Two cows walking down a road . 
+two cow walk down a road . 
+
+object-verb-object	cow walk road
+verb-attribute	walk down
+object	cow
+object	road
+object	cow
+#####################################################

@@ -1,0 +1,57 @@
+The trains sit idly in the yard . 
+the train sit idly in the yard . 
+
+verb-prep-object	sit in yard
+object-prep-object	train in yard
+object-verb	train sit
+object	yard
+object	train
+object	train
+#####################################################
+Two green and white trains are sitting on the train track . 
+two green and white train be sit on the train track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	green train
+attribute-object	white train
+attribute-object	train track
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################
+Two green and white trains on tracks . 
+two green and white train on track . 
+
+object-prep-object	train on track
+attribute-object	green train
+attribute-object	white train
+object	train
+object	track
+object	train
+#####################################################
+Two green and white trains parked on tracks . 
+two green and white train park on track . 
+
+verb-prep-object	park on track
+object-prep-object	train on track
+attribute-object	green train
+attribute-object	white train
+object-verb	train park
+object	track
+object	train
+object	train
+#####################################################
+Two green and white trains sitting on the tracks . 
+two green and white train sit on the track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	green train
+attribute-object	white train
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################

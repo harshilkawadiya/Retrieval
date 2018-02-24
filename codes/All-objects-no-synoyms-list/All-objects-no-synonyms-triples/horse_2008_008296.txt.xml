@@ -1,0 +1,63 @@
+A pitched tent with a horse in the background . 
+a pitched tent with a horse in the background . 
+
+object-prep-object	tent with horse
+attribute-object	pitched tent
+object	tent
+object	horse
+object	horse
+#####################################################
+A small tent in front of a field with a horse fenced in . 
+a small tent in front of a field with a horse fence in . 
+
+object-prep-object	field with horse
+object-prep-object	tent in_front_of field
+attribute-object	small tent
+object	field
+object	horse
+object	tent
+object	horse
+#####################################################
+A small yellow ivy tent sits in front of a horse behind a fence under a large tree . 
+a small yellow ivy tent sit in front of a horse behind a fence under a large tree . 
+
+verb-prep-object	sit under tree
+object-prep-object	tent under tree
+verb-prep-object	sit behind fence
+verb-prep-object	sit in_front_of horse
+object-prep-object	tent in_front_of horse
+attribute-object	small tent
+attribute-object	yellow tent
+attribute-object	large tree
+attribute-object	ivy tent
+object-verb	tent sit
+object	tree
+object	tent
+object	fence
+object	horse
+object	horse
+#####################################################
+A yellow tent in front of a horse in it 's pasture . 
+a yellow tent in front of a horse in it be pasture . 
+
+object-prep-object	tent in_front_of horse
+attribute-object	yellow tent
+object	tent
+object	horse
+object	horse
+#####################################################
+Small personal tent with horse in background standing in grassy field . 
+small personal tent with horse in background standing in grassy field . 
+
+object-prep-object	tent with horse
+attribute-object	small tent
+attribute-object	personal tent
+attribute-object	grassy field
+object-verb	horse stand
+verb-prep-object	stand in field
+object-prep-object	horse in field
+object	tent
+object	horse
+object	field
+object	horse
+#####################################################

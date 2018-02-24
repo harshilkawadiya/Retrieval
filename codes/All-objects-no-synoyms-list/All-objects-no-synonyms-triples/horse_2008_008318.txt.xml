@@ -1,0 +1,42 @@
+A close-up of a brown horse 's head . 
+a close-up of a brown horse 's head . 
+
+attribute-object	brown horse
+object	horse
+object	horse
+#####################################################
+A close-up view of a horse 's head . 
+a close-up view of a horse 's head . 
+
+attribute-object	horse head
+object	head
+object	horse
+#####################################################
+A side view of a horse 's head . 
+a side view of a horse 's head . 
+
+attribute-object	horse head
+object	head
+object	horse
+#####################################################
+Horse with halter on tied to the wall . 
+Horse with halter on tie to the wall . 
+
+verb-prep-object	tie to wall
+object-prep-object	horse to wall
+object-prep-object	horse with halter
+object-verb	horse tie
+object	wall
+object	horse
+object	halter
+object	horse
+#####################################################
+Profile of a horse 's halter in a stall . 
+profile of a horse 's halter in a stall . 
+
+attribute-object	horse halter
+object-prep-object	halter in stall
+object	halter
+object	stall
+object	horse
+#####################################################

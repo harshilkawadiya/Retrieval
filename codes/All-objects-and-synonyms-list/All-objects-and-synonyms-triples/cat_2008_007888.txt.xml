@@ -1,0 +1,59 @@
+A cat laying on a surface upside down looks at the camera . 
+a cat lay on a surface upside down look at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	lay on surface
+object-prep-object	cat on surface
+object-verb	cat look
+object-verb	cat lay
+object	camera
+object	surface
+object	cat
+object	cat
+#####################################################
+A cat on its back looking at the camera . 
+a cat on its back look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################
+A pretty white striped cat with his head hanging off the table . 
+a pretty white striped cat with he head hang off the table . 
+
+object-prep-object	cat with head
+attribute-object	pretty cat
+attribute-object	white cat
+attribute-object	striped cat
+object-verb-object	cat hang diningtable
+verb-attribute	hang off
+object	cat
+object	head
+object	diningtable
+object	cat
+#####################################################
+A white and gray striped cat with green eyes lying on it 's side . 
+a white and gray striped cat with green eye lie on it be side . 
+
+object-prep-object	cat with eye
+attribute-object	white cat
+attribute-object	gray cat
+attribute-object	striped cat
+attribute-object	green eye
+object-verb	cat lie
+object	cat
+object	eye
+object	cat
+#####################################################
+White and gray kitten lying on its side . 
+White and gray kitten lie on its side . 
+
+attribute-object	white cat
+attribute-object	gray cat
+object-verb	cat lie
+object	cat
+object	kitten
+object	cat
+#####################################################

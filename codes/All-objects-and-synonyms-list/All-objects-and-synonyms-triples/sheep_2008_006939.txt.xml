@@ -1,0 +1,48 @@
+A young sheep with tags on it 's ears . 
+a young sheep with tag on it be ear . 
+
+object-prep-object	sheep with tag
+object-prep-object	tag on ear
+attribute-object	young sheep
+object	sheep
+object	tag
+object	ear
+object	sheep
+#####################################################
+Black sheep with tags in both ears . 
+Black sheep with tag in both ear . 
+
+object-prep-object	tag in ear
+object-prep-object	sheep with tag
+attribute-object	black sheep
+object	tag
+object	ear
+object	sheep
+object	sheep
+#####################################################
+Close up of a sheep . 
+close up of a sheep . 
+
+object	sheep
+object	sheep
+object	sheep
+#####################################################
+Close up of a white sheep with a black head . 
+close up of a white sheep with a black head . 
+
+object-prep-object	sheep with head
+attribute-object	white sheep
+attribute-object	black head
+object	sheep
+object	head
+object	sheep
+#####################################################
+The tagged sheep looks sad after being sheared . 
+the tag sheep look sad after be shear . 
+
+object-verb-object	sheep look sad
+attribute-object	tag sheep
+object	sheep
+object	sad
+object	sheep
+#####################################################

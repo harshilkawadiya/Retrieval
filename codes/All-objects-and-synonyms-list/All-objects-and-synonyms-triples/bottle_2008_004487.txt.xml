@@ -1,0 +1,60 @@
+A cluttered desk has a red and white tablecloth . 
+a cluttered desk have a red and white tablecloth . 
+
+attribute-object	cluttered table
+attribute-object	red tablecloth
+attribute-object	white tablecloth
+object-verb-object	table have diningtable
+object	table
+object	diningtable
+object	tablecloth
+object	bottle
+#####################################################
+a laptop on a desk and a chair . 
+a laptop on a desk and a chair . 
+
+object-prep-object	laptop on diningtable
+object-prep-object	laptop on chair
+object	laptop
+object	table
+object	diningtable
+object	chair
+object	bottle
+#####################################################
+A long table covered with a tapestry being used as a desk . 
+a long table cover with a tapestry be use as a desk . 
+
+verb-prep-object	cover with tapestry
+object-prep-object	diningtable with table
+attribute-object	long diningtable
+object-verb	diningtable cover
+object	tapestry
+object	diningtable
+object	table
+object	bottle
+#####################################################
+A table with a computer and office supplies . 
+a table with a computer and office supplies . 
+
+object-prep-object	diningtable with table
+object-prep-object	diningtable with laptop
+attribute-object	office supplies
+object	diningtable
+object	table
+object	laptop
+object	supplies
+object	bottle
+#####################################################
+Laptop computer on a quilt covered table . 
+laptop computer on a quilt cover table . 
+
+object-prep-object	laptop on diningtable
+attribute-object	quilt diningtable
+attribute-object	cover diningtable
+attribute-object	laptop laptop
+object	laptop
+object	computer
+object	diningtable
+object	table
+object	bottle
+#####################################################

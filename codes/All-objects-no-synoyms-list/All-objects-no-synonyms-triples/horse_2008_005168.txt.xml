@@ -1,0 +1,75 @@
+A man standing near a street with a horse drawn carriage behind him . 
+a man standing near a street with a horse draw carriage behind he . 
+
+object-prep-object	street with carriage
+verb-prep-object	stand near street
+object-prep-object	man near street
+object-verb	man stand
+attribute-object	horse carriage
+attribute-object	drawn carriage
+object	street
+object	carriage
+object	man
+object	horse
+#####################################################
+A man standing on the sidewalk near a horse and carriage . 
+a man standing on the sidewalk near a horse and carriage . 
+
+verb-prep-object	stand on sidewalk
+verb-prep-object	stand near horse
+verb-prep-object	stand near carriage
+object-prep-object	man on sidewalk
+object-prep-object	man near horse
+object-prep-object	man near carriage
+object-verb	man stand
+object	sidewalk
+object	horse
+object	carriage
+object	man
+object	horse
+#####################################################
+A man stands for a picture with a horse-drawn carriage . 
+a man stand for a picture with a horse-drawn carriage . 
+
+verb-prep-object	stand for picture
+verb-prep-object	stand with carriage
+attribute-object	horse-drawn carriage
+object-verb	man stand
+object	picture
+object	carriage
+object	man
+object	horse
+#####################################################
+A man wearing a blue t-shirt poses in front of a horse and carriage in a city street . 
+a man wear a blue t-shirt pose in front of a horse and carriage in a city street . 
+
+object-prep-object	horse in street
+object-prep-object	carriage in street
+verb-prep-object	pose in_front_of horse
+object-prep-object	man in_front_of horse
+verb-prep-object	pose in_front_of carriage
+object-prep-object	man in_front_of carriage
+attribute-object	blue t-shirt
+attribute-object	city street
+object-verb	man pose
+object-verb-object	man wear t-shirt
+object	horse
+object	street
+object	carriage
+object	man
+object	t-shirt
+object	horse
+#####################################################
+The man is standing on the sidewalk in front of the horse . 
+the man be stand on the sidewalk in front of the horse . 
+
+verb-prep-object	stand on sidewalk
+object-prep-object	man on sidewalk
+verb-prep-object	stand in_front_of horse
+object-prep-object	man in_front_of horse
+object-verb	man stand
+object	sidewalk
+object	man
+object	horse
+object	horse
+#####################################################

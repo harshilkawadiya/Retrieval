@@ -1,0 +1,55 @@
+A row of brightly colored plant pots under a blue sky . 
+a row of brightly color plant pot under a blue sky . 
+
+object-prep-object	pot under sky
+attribute-object	brightly pot
+attribute-object	color pot
+attribute-object	blue sky
+attribute-object	plant pot
+object	pot
+object	sky
+object	pottedplant
+#####################################################
+A row of potted plants on top of a railing . 
+a row of potted plant on top of a railing . 
+
+object-prep-object	plant on_top_of railing
+attribute-object	potted plant
+object	plant
+object	railing
+object	pottedplant
+#####################################################
+Collection of pots sitting on house ledge . 
+collection of pot sit on house ledge . 
+
+verb-prep-object	sit on ledge
+object-prep-object	pot on ledge
+attribute-object	house ledge
+object-verb	pot sit
+object	ledge
+object	pot
+object	pottedplant
+#####################################################
+Line of pots on top of a wall in front of a terracotta roof . 
+line of pot on top of a wall in front of a terracotta roof . 
+
+object-prep-object	pot on_top_of wall
+object-prep-object	pot in_front_of roof
+attribute-object	terracotta roof
+object	pot
+object	wall
+object	roof
+object	pottedplant
+#####################################################
+There are a row of different looking flower pots on a fence ledge in front a house . 
+there be a row of different look flower pot on a fence ledge in front a house . 
+
+object-prep-object	pot on ledge
+attribute-object	fence ledge
+attribute-object	flower pot
+object-prep-object	pot in_front_of house
+object	pot
+object	ledge
+object	house
+object	pottedplant
+#####################################################

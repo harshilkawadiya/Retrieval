@@ -1,0 +1,50 @@
+beam_size_1	2	A baby sits on a tire and holds a toy .
+beam_size_1	3	A little kid , with a red toy , is sitting on a tire .
+beam_size_1	4	Boy in pajamas , with red and yellow toy , seated on tire near plants .
+beam_size_1	5	Child holding plastic car sits on a tire .
+beam_size_1	6	The child is sitting on the street playing with a red toy .
+beam_size_1	7	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	8	A firetruck with ladder extended on the side of the road .
+beam_size_1	9	A jogger with a dog approaches a ladder truck .
+beam_size_1	10	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	11	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	12	A girl wearing a blue dress is sliding down a tube slide .
+beam_size_1	13	A little girl in a white top is inside a concrete tube .
+beam_size_1	14	A little girl is sliding down a tunnel smiling .
+beam_size_1	15	A little girl smiles as she slides down a tube on a sunny day .
+beam_size_1	16	A young girl in inside a tunnel .
+beam_size_1	17	A couple looking at a red sculpture
+beam_size_1	18	A man and a woman looking at a red sculpture .
+beam_size_1	19	A man and woman look back at the camera while standing in front of a red art structure .
+beam_size_1	20	A man and woman stand in front of a large red modern statue .
+beam_size_1	21	A man and woman stand near a large red sculpture outdoors .
+beam_size_1	22	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	23	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	24	A little boy is leaping in the air onto a water slide .
+beam_size_1	25	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	26	The boy in the swimming trunks is playing in the yard .
+beam_size_1	27	Two boys are running in a metal barrel .
+beam_size_1	28	Two boys are running in a spinning tube .
+beam_size_1	29	Two boys are walking inside a human-size exercise-wheel .
+beam_size_1	30	Two boys running in a giant metal wheel .
+beam_size_1	31	Two boys walking to make a cylinder roll at a small carnival .
+beam_size_1	32	A girl smiles as she runs across the white sandy beach in her swimsuit .
+beam_size_1	33	a little girl in a flowered bathingsuit runs through the sand at the beach
+beam_size_1	34	A little girl in a flower swimsuit running across the beach with waves in the background .
+beam_size_1	35	There is a little girl running on the beach .
+beam_size_1	36	The young girl is running on a sandy beach .
+beam_size_1	37	A girl jumping over a jump rope .
+beam_size_1	38	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	39	A girl wearing shorts plays jump rope .
+beam_size_1	40	A little girl is jumping over a yellow rope .
+beam_size_1	41	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	42	The two greyhound dogs wearing sweaters are playing in the grass .
+beam_size_1	43	Two dogs play in the grass .
+beam_size_1	44	Two dogs wearing shirts play in the green grass .
+beam_size_1	45	Two dogs wearing sweaters play in a field .
+beam_size_1	46	Two dogs wearing sweaters play in the grass .
+beam_size_1	47	A boy skateboarding
+beam_size_1	48	A man jumps off an orange ramp with his skateboard .
+beam_size_1	49	a skateboarder ollies off a ramp .
+beam_size_1	50	Person doing a skateboard stunt
+beam_size_1	51	The man in the background is watching the skateboarder complete a jump .

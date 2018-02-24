@@ -1,0 +1,57 @@
+A large green bus on the street . 
+a large green bus on the street . 
+
+object-prep-object	bus on road
+attribute-object	large bus
+attribute-object	green bus
+object	bus
+object	road
+object	car
+#####################################################
+A large green coach with a bridge in the background . 
+a large green coach with a bridge in the background . 
+
+object-prep-object	bus with coach
+attribute-object	large bus
+attribute-object	green bus
+object	bus
+object	coach
+object	car
+#####################################################
+Green bus and tan truck on a city street with a man waiting to cross the street . 
+Green bus and tan truck on a city street with a man wait to cross the street . 
+
+object-prep-object	road with person
+object-prep-object	bus on road
+object-prep-object	bus on road
+attribute-object	green bus
+attribute-object	tan bus
+attribute-object	city road
+object-verb	person wait
+object	road
+object	street
+object	person
+object	bus
+object	car
+object	man
+object	car
+#####################################################
+Green bus parked in street . 
+Green bus park in street . 
+
+verb-prep-object	park in road
+object-prep-object	bus in road
+attribute-object	green bus
+object-verb	bus park
+object	road
+object	street
+object	bus
+object	car
+#####################################################
+The front of a bus viewed through the windshield of another vehicle . 
+the front of a bus view through the windshield of another vehicle . 
+
+object	bus
+object	bus
+object	car
+#####################################################

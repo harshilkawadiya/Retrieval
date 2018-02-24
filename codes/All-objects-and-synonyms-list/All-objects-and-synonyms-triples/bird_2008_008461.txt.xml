@@ -1,0 +1,57 @@
+A bird in the tree is shaking its feathers . 
+a bird in the tree be shake its feather . 
+
+object-prep-object	bird in tree
+object-verb-object	bird shake feathered
+object	bird
+object	tree
+object	feathered
+object	bird
+#####################################################
+A bird is sitting on branches of a tree . 
+a bird be sit on branch of a tree . 
+
+verb-prep-object	sit on tree
+object-prep-object	bird on tree
+object-prep-object	tree of branch
+object-verb	bird sit
+object	tree
+object	branch
+object	bird
+object	bird
+#####################################################
+A bird sitting on a branch viewed from below . 
+a bird sit on a branch view from below . 
+
+verb-prep-object	sit on tree
+object-prep-object	bird on tree
+object-verb	bird sit
+object	tree
+object	branch
+object	bird
+object	bird
+#####################################################
+A small bird on a tiny branch . 
+a small bird on a tiny branch . 
+
+object-prep-object	bird on tree
+attribute-object	small bird
+attribute-object	tiny tree
+object	bird
+object	tree
+object	branch
+object	bird
+#####################################################
+Fuzzy image of critter on tree branch . 
+fuzzy image of critter on tree branch . 
+
+object-prep-object	image of bird
+object-prep-object	bird on tree
+attribute-object	fuzzy image
+attribute-object	tree tree
+object	image
+object	bird
+object	tree
+object	branch
+object	bird
+#####################################################

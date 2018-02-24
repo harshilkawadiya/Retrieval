@@ -1,0 +1,54 @@
+A jockey riding a horse in a pen . 
+a jockey ride a horse in a pen . 
+
+object-prep-object	horse in pen
+object-verb-object	person ride jockey
+object	horse
+object	pen
+object	person
+object	jockey
+object	horse
+#####################################################
+An English-style horse and rider . 
+a english-style horse and rider . 
+
+attribute-object	english-style horse
+object	person
+object	horse
+object	person
+object	rider
+object	horse
+#####################################################
+A woman is riding a brown horse . 
+a woman be ride a brown horse . 
+
+object-verb-object	person ride woman
+attribute-object	brown horse
+object	person
+object	woman
+object	horse
+object	horse
+#####################################################
+A Woman riding a horse around a paddock with trees in the background . 
+a Woman ride a horse around a paddock with tree in the background . 
+
+verb-prep-object	ride around paddock
+object-prep-object	paddock with tree
+object-verb-object	person ride woman
+object	paddock
+object	tree
+object	person
+object	woman
+object	horse
+#####################################################
+Person on horse in riding gear . 
+person on horse in ride gear . 
+
+object-prep-object	person on horse
+object-prep-object	horse in gear
+attribute-object	ride gear
+object	person
+object	horse
+object	gear
+object	horse
+#####################################################

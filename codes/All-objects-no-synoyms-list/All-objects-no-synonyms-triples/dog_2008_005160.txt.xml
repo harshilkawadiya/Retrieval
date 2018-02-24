@@ -1,0 +1,63 @@
+A chihuahua is standing on the ground looking up at the camera . 
+a chihuahua be stand on the ground look up at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	stand on ground
+object-prep-object	chihuahua on ground
+object-verb	chihuahua stand
+object-verb	chihuahua look
+verb-attribute	look up
+object	camera
+object	ground
+object	chihuahua
+object	dog
+#####################################################
+An eager puppy eyes what could be a snack . 
+a eager puppy eye what could be a snack . 
+
+attribute-object	eager puppy
+object-verb	puppy eye
+object	puppy
+object	dog
+#####################################################
+A small chihuahua standing in a yard looking up at the camera . 
+a small chihuahua standing in a yard look up at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	stand in yard
+object-prep-object	chihuahua in yard
+attribute-object	small chihuahua
+object-verb	chihuahua stand
+object-verb	chihuahua look
+verb-attribute	look up
+object	camera
+object	yard
+object	chihuahua
+object	dog
+#####################################################
+A small dog looking up at the camera while standing on grass . 
+a small dog look up at the camera while stand on grass . 
+
+verb-prep-object	look at camera
+verb-prep-object	stand on grass
+object-prep-object	dog on grass
+attribute-object	small dog
+object-verb	dog look
+object-verb	dog stand
+verb-attribute	look up
+object	camera
+object	grass
+object	dog
+object	dog
+#####################################################
+Small white and brown chihuahua looking up . 
+small white and brown chihuahua look up . 
+
+attribute-object	small chihuahua
+attribute-object	white chihuahua
+attribute-object	brown chihuahua
+object-verb	chihuahua look
+verb-attribute	look up
+object	chihuahua
+object	dog
+#####################################################

@@ -1,0 +1,61 @@
+A bay foal is walking next to its mother in a grassy field . 
+a bay foal be walk next to its mother in a grassy field . 
+
+verb-prep-object	walk next_to mother
+object-prep-object	horse next_to foal
+verb-prep-object	walk in field
+object-prep-object	horse in foal
+attribute-object	grassy field
+attribute-object	bay horse
+object-verb	horse walk
+object	mother
+object	horse
+object	foal
+object	field
+object	horse
+#####################################################
+A colt walks beside its parent . 
+a colt walk beside its parent . 
+
+object-verb	horse walk
+verb-prep-object	walk beside parent
+object-prep-object	horse beside colt
+object	horse
+object	colt
+object	parent
+object	horse
+#####################################################
+A small horse runs on the grass . 
+a small horse run on the grass . 
+
+verb-prep-object	run on grass
+object-prep-object	horse on grass
+attribute-object	small horse
+object-verb	horse run
+object	grass
+object	horse
+object	horse
+#####################################################
+A young horse goes for a walk with its mother . 
+a young horse go for a walk with its mother . 
+
+verb-prep-object	go for walk
+attribute-object	young horse
+object-verb	horse go
+object-prep-object	horse with mother
+object	walk
+object	horse
+object	mother
+object	horse
+#####################################################
+Close-up of young horse walking next to a larger horse . 
+close-up of young horse walk next to a larger horse . 
+
+verb-prep-object	walk next_to horse
+object-prep-object	horse next_to horse
+attribute-object	young horse
+attribute-object	larger horse
+object-verb	horse walk
+object	horse
+object	horse
+#####################################################

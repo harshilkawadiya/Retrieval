@@ -1,0 +1,73 @@
+A man does a trick by standing on the seat of a moving motorcycle . 
+a man do a trick by stand on the seat of a move motorcycle . 
+
+verb-prep-object	stand on seat
+object-prep-object	person on man
+verb-prep-verb	do by stand
+object-prep-object	seat of motorbike
+attribute-object	move motorbike
+object-verb-object	person do man
+object	seat
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A man standing on the seat of a motorcycle and doing a wheelie . 
+a man standing on the seat of a motorcycle and do a wheelie . 
+
+verb-prep-object	stand on seat
+object-prep-object	person on man
+object-prep-object	seat of motorbike
+object-verb	person stand
+object-verb-object	person do man
+object	seat
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+A motorbike being ridden on its back wheel with the rider standing on the seat . 
+a motorbike be ride on its back wheel with the rider standing on the seat . 
+
+verb-prep-object	ride on wheel
+verb-prep-object	stand on seat
+object-prep-object	person on rider
+attribute-object	back wheel
+object-verb	person stand
+object-verb	motorbike ride
+object	wheel
+object	seat
+object	person
+object	rider
+object	motorbike
+object	motorbike
+#####################################################
+A person on a motorcycle is standing on the seat doing tricks . 
+a person on a motorcycle be stand on the seat do trick . 
+
+object-prep-object	person on motorbike
+verb-prep-object	stand on seat
+object-prep-object	person on seat
+object-verb-object	person do trick
+object-verb	person stand
+object	person
+object	motorbike
+object	seat
+object	trick
+object	motorbike
+#####################################################
+A person stands on the motorcycle seat and pops a wheelie . 
+a person stand on the motorcycle seat and pop a wheelie . 
+
+verb-prep-object	stand on seat
+object-prep-object	person on seat
+object-verb-object	person pop wheelie
+attribute-object	motorcycle seat
+object-verb	person stand
+object	seat
+object	person
+object	wheelie
+object	motorbike
+#####################################################

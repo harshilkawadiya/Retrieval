@@ -1,0 +1,71 @@
+A beautiful view in the mountains is taken in by a man wearing shorts . 
+a beautiful view in the mountain be take in by a man wear shorts . 
+
+verb-prep-object	view in mountain
+verb-prep-object	take by man
+attribute-object	beautiful view
+object-verb-object	man wear shorts
+object-verb	view take
+verb-attribute	take in
+object	mountain
+object	man
+object	view
+object	shorts
+object	aeroplane
+#####################################################
+A man on the summit of a mountain looking at a glider in the sky . 
+a man on the summit of a mountain look at a glider in the sky . 
+
+verb-prep-object	look at glider
+object-prep-object	man on summit
+object-prep-object	glider in sky
+object-prep-object	summit of mountain
+object-verb	man look
+object	glider
+object	man
+object	summit
+object	sky
+object	mountain
+object	aeroplane
+#####################################################
+A man stands on a mountain , watching a plane . 
+a man stand on a mountain , watch a plane . 
+
+verb-prep-object	stand on mountain
+object-prep-object	man on mountain
+object-verb	man stand
+object-verb-object	man watch plane
+object	mountain
+object	man
+object	plane
+object	aeroplane
+#####################################################
+A man wearing shorts stands in the snow at the edge of a cliff . 
+a man wear shorts stand in the snow at the edge of a cliff . 
+
+verb-prep-object	stand at edge
+verb-prep-object	stand in snow
+object-prep-object	man at edge
+object-prep-object	man in snow
+object-prep-object	edge of cliff
+object-verb	man stand
+object-verb-object	man wear shorts
+object	edge
+object	snow
+object	man
+object	cliff
+object	shorts
+object	aeroplane
+#####################################################
+Someone standing on a snowy mountain , watching a plane . 
+someone standing on a snowy mountain , watch a plane . 
+
+verb-prep-object	stand on mountain
+attribute-object	snowy mountain
+object-verb-object	someone watch plane
+object-verb	someone stand
+object	mountain
+object	someone
+object	plane
+object	aeroplane
+#####################################################

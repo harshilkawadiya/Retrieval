@@ -1,0 +1,65 @@
+A view from shore of docks , boats and a body of water with trees all around . 
+a view from shore of dock , boat and a body of water with tree all around . 
+
+object-prep-object	shore of dock
+object-prep-object	shore of boat
+object-prep-object	shore of body
+object-prep-object	body of water
+object-prep-object	shore with tree
+object	shore
+object	dock
+object	boat
+object	body
+object	water
+object	tree
+object	boat
+#####################################################
+A view through the trees of the water , the docks , and the boats . 
+a view through the tree of the water , the dock , and the boat . 
+
+object-prep-object	tree of water
+object-prep-object	tree of dock
+object-prep-object	tree of boat
+object	tree
+object	water
+object	dock
+object	boat
+object	boat
+#####################################################
+Sailboats tied up at the docks viewed through trees . 
+sailboat tie up at the dock view through tree . 
+
+verb-prep-object	view through tree
+verb-prep-object	tie at dock
+object-prep-object	sailboat at dock
+object-verb	sailboat tie
+object-verb	sailboat view
+verb-attribute	tie up
+object	tree
+object	dock
+object	sailboat
+object	boat
+#####################################################
+Several boats tied to the boat docks in the water . 
+several boat tie to the boat dock in the water . 
+
+attribute-object	several boat
+object-verb	boat tie
+verb-prep-object	tie to dock
+verb-prep-object	tie in water
+attribute-object	boat dock
+object	boat
+object	dock
+object	water
+object	boat
+#####################################################
+Two boats docked on a lake . 
+two boat dock on a lake . 
+
+verb-prep-object	dock on lake
+object-prep-object	boat on lake
+object-verb	boat dock
+object	lake
+object	boat
+object	boat
+#####################################################

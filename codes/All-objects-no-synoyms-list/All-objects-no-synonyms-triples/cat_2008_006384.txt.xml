@@ -1,0 +1,54 @@
+A black and white cat is high up on tree branches . 
+a black and white cat be high up on tree branch . 
+
+object-prep-object	cat on branch
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	tree branch
+object	cat
+object	branch
+object	cat
+#####################################################
+A cat is in a tree . 
+a cat be in a tree . 
+
+object-prep-object	cat in tree
+object	cat
+object	tree
+object	cat
+#####################################################
+A cat standing on tree branches . 
+a cat standing on tree branch . 
+
+verb-prep-object	stand on branch
+object-prep-object	cat on branch
+object-verb	cat stand
+attribute-object	tree branch
+object	branch
+object	cat
+object	cat
+#####################################################
+A cat standing on two branches high up in a tree . 
+a cat standing on two branch high up in a tree . 
+
+verb-prep-object	stand on branch
+object-prep-object	cat on branch
+object-prep-object	branch in tree
+object-verb	cat stand
+object	branch
+object	cat
+object	tree
+object	cat
+#####################################################
+A cat stretched across two barren limbs in a tree . 
+a cat stretch across two barren limb in a tree . 
+
+verb-prep-object	stretch across limb
+object-prep-object	limb in tree
+attribute-object	barren limb
+object-verb	cat stretch
+object	limb
+object	tree
+object	cat
+object	cat
+#####################################################

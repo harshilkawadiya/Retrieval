@@ -1,0 +1,57 @@
+A man and small child in a living room posing for the camera . 
+a man and small child in a living room pose for the camera . 
+
+object-prep-object	man in room
+object-prep-object	child in room
+verb-prep-object	pose for camera
+attribute-object	small child
+attribute-object	living room
+object-verb	child pose
+object-verb	man pose
+object	man
+object	room
+object	child
+object	camera
+object	sofa
+#####################################################
+Daughter tickling father . 
+daughter tickle father . 
+
+object-verb-object	daughter tickle father
+object	daughter
+object	father
+object	sofa
+#####################################################
+Man and child rocking out . 
+man and child rock out . 
+
+object-verb	man rock
+object-verb	child rock
+verb-attribute	rock out
+object	man
+object	child
+object	sofa
+#####################################################
+Man making a funny face , and a child to his left side . 
+man make a funny face , and a child to he left side . 
+
+attribute-object	funny face
+object-verb-object	man make face
+object	child
+object	face
+object	man
+object	child
+object	sofa
+#####################################################
+Man with a startled face with a laughing child . 
+man with a startled face with a laughing child . 
+
+object-prep-object	man with face
+object-prep-object	man with child
+attribute-object	startled face
+attribute-object	laughing child
+object	man
+object	face
+object	child
+object	sofa
+#####################################################

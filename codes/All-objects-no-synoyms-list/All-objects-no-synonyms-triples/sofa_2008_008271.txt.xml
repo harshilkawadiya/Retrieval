@@ -1,0 +1,47 @@
+A black and wooden seating area . 
+a black and wooden seating area . 
+
+attribute-object	black area
+attribute-object	wooden area
+attribute-object	seating area
+object	area
+object	sofa
+#####################################################
+A black couch . 
+a black couch . 
+
+attribute-object	black couch
+object	couch
+object	sofa
+#####################################################
+A black leather couch with glass doors behind . 
+a black leather couch with glass door behind . 
+
+object-prep-object	couch with door
+attribute-object	black couch
+attribute-object	leather couch
+attribute-object	glass door
+object	couch
+object	door
+object	sofa
+#####################################################
+A picture of a black leather couch . 
+a picture of a black leather couch . 
+
+attribute-object	black couch
+attribute-object	leather couch
+object	couch
+object	sofa
+#####################################################
+The black leather couch looks resting for future owner . 
+the black leather couch look rest for future owner . 
+
+verb-prep-object	rest for owner
+attribute-object	black couch
+attribute-object	future owner
+attribute-object	leather couch
+object-verb	couch rest
+object	owner
+object	couch
+object	sofa
+#####################################################

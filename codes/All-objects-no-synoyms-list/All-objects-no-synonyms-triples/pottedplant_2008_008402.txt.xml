@@ -1,0 +1,63 @@
+A living with pink walls . 
+a living with pink wall . 
+
+object-prep-object	living with wall
+attribute-object	pink wall
+object	living
+object	wall
+object	pottedplant
+#####################################################
+A room with pink walls , a kitchen table , pink couch , and other furniture . 
+a room with pink wall , a kitchen table , pink couch , and other furniture . 
+
+object-prep-object	room with wall
+attribute-object	pink wall
+object-prep-object	room with table
+object-prep-object	room with couch
+object-prep-object	room with furniture
+attribute-object	pink couch
+attribute-object	kitchen table
+object	room
+object	wall
+object	table
+object	couch
+object	furniture
+object	pottedplant
+#####################################################
+Dining room of a house with a white dining room set on and a pink chair . 
+dine room of a house with a white dining room set on and a pink chair . 
+
+attribute-object	white room
+attribute-object	pink chair
+attribute-object	dining room
+object	room
+object	chair
+object	pottedplant
+#####################################################
+Room with pink chair and pink wall paint . 
+room with pink chair and pink wall paint . 
+
+object-prep-object	room with chair
+object-prep-object	room with paint
+attribute-object	pink chair
+attribute-object	pink paint
+attribute-object	wall paint
+object	room
+object	chair
+object	paint
+object	pottedplant
+#####################################################
+The room is decorated with pink walls and furniture . 
+the room be decorate with pink wall and furniture . 
+
+verb-prep-object	decorate with wall
+object-prep-object	room with wall
+verb-prep-object	decorate with furniture
+object-prep-object	room with furniture
+attribute-object	pink wall
+object-verb	room decorate
+object	wall
+object	room
+object	furniture
+object	pottedplant
+#####################################################

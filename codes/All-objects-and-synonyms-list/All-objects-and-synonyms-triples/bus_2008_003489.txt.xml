@@ -1,0 +1,64 @@
+A double decker bus is driving by Big Ben in London . 
+a double decker bus be drive by big Ben in London . 
+
+object-verb	bus drive
+verb-prep-object	drive by ben
+verb-prep-object	drive in london
+object-prep-object	bus in london
+attribute-object	double bus
+attribute-object	big ben
+attribute-object	decker bus
+object	bus
+object	ben
+object	london
+object	bus
+#####################################################
+Big Ben clock in London with red double decker bus driving by . 
+big Ben clock in London with red double decker bus drive by . 
+
+object-verb	bus drive
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object-prep-object	clock in london
+attribute-object	big clock
+attribute-object	ben clock
+object	bus
+object	clock
+object	london
+object	bus
+#####################################################
+Big Ben with a red double-decker bus passing by . 
+big Ben with a red double-decker bus pass by . 
+
+object-prep-object	ben with bus
+attribute-object	big ben
+attribute-object	red bus
+attribute-object	double-decker bus
+object-verb	bus pass
+object	ben
+object	bus
+object	bus
+#####################################################
+There is a double decker bus under Big Ben . 
+there be a double decker bus under big Ben . 
+
+object-prep-object	bus under ben
+attribute-object	double bus
+attribute-object	big ben
+attribute-object	decker bus
+object	bus
+object	ben
+object	bus
+#####################################################
+Tourist move in on Big Ben on a typical overcast London day . 
+Tourist move in on big Ben on a typical overcast London day . 
+
+object-verb	person move
+verb-prep-object	move on ben
+attribute-object	big ben
+object	person
+object	tourist
+object	ben
+object	bus
+#####################################################

@@ -1,0 +1,73 @@
+A man laying on a bed with beer cans on a nearby table . 
+a man lay on a bed with beer can on a nearby table . 
+
+verb-prep-object	lay on bed
+object-prep-object	man on bed
+attribute-object	nearby table
+attribute-object	beer can
+object-prep-object	can on table
+object-verb	man lay
+object	bed
+object	man
+object	table
+object	can
+object	tvmonitor
+#####################################################
+A man lies in a bed in a cluttered room . 
+a man lie in a bed in a cluttered room . 
+
+verb-prep-object	lie in bed
+object-prep-object	man in bed
+verb-prep-object	lie in room
+object-prep-object	man in room
+attribute-object	cluttered room
+object-verb	man lie
+object	bed
+object	man
+object	room
+object	tvmonitor
+#####################################################
+a middle-aged man relaxes after drinking a few beers . 
+a middle-aged man relax after drink a few beer . 
+
+verb-prep-verb	relax after drink
+verb-object	drink beer
+attribute-object	middle-aged man
+attribute-object	few beer
+object-verb	man relax
+object	beer
+object	man
+object	tvmonitor
+#####################################################
+A person in a blue shirt reclines near a coffee table and television . 
+a person in a blue shirt recline near a coffee table and television . 
+
+verb-prep-object	recline near table
+object-prep-object	person near table
+verb-prep-object	recline near television
+object-prep-object	person near television
+object-prep-object	person in shirt
+attribute-object	blue shirt
+attribute-object	coffee table
+object-verb	person recline
+object	table
+object	person
+object	television
+object	shirt
+object	tvmonitor
+#####################################################
+Young man in blue shirt lying down on couch . 
+Young man in blue shirt lie down on couch . 
+
+verb-prep-object	lie on couch
+object-prep-object	man on couch
+object-prep-object	man in shirt
+attribute-object	blue shirt
+attribute-object	young man
+object-verb	man lie
+verb-attribute	lie down
+object	couch
+object	man
+object	shirt
+object	tvmonitor
+#####################################################

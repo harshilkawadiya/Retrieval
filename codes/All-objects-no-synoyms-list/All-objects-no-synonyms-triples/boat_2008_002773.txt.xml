@@ -1,0 +1,66 @@
+Airplanes flying in formation over boats in a body of water . 
+Airplanes fly in formation over boat in a body of water . 
+
+verb-prep-object	fly over boat
+verb-prep-object	fly in formation
+object-prep-object	airplanes over boat
+object-prep-object	airplanes in formation
+object-prep-object	boat in water
+object-verb	airplanes fly
+object	boat
+object	formation
+object	airplanes
+object	water
+object	boat
+#####################################################
+Four blue air planes fly over water with five white boats in it . 
+four blue air plane fly over water with five white boat in it . 
+
+object-verb	plane fly
+attribute-object	blue plane
+attribute-object	air plane
+verb-prep-object	fly over water
+object-prep-object	plane over water
+object-prep-object	water with boat
+attribute-object	white boat
+object	plane
+object	water
+object	boat
+object	boat
+#####################################################
+Four blue and yellow planes flying over four boats . 
+four blue and yellow plane fly over four boat . 
+
+verb-prep-object	fly over boat
+object-prep-object	plane over boat
+attribute-object	blue plane
+attribute-object	yellow plane
+object-verb	plane fly
+object	boat
+object	plane
+object	boat
+#####################################################
+Four blue and yellow planes in flight . 
+four blue and yellow plane in flight . 
+
+object-prep-object	plane in flight
+attribute-object	blue plane
+attribute-object	yellow plane
+object	plane
+object	flight
+object	boat
+#####################################################
+Four blue jets fly above a harbor trailing blue smoke . 
+four blue jet fly above a harbor trail blue smoke . 
+
+object-verb	jet fly
+attribute-object	blue jet
+verb-prep-object	fly above harbor
+object-prep-object	jet above harbor
+attribute-object	blue smoke
+object-verb-object	jet trail smoke
+object	jet
+object	harbor
+object	smoke
+object	boat
+#####################################################

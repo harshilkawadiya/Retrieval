@@ -1,0 +1,48 @@
+An ocean liner at sea . 
+a ocean liner at sea . 
+
+object-prep-object	liner at sea
+attribute-object	ocean liner
+object	liner
+object	sea
+object	boat
+#####################################################
+A picture of a large ship in the background not far from the shore with an object submerged in the shallow water in the foreground . 
+a picture of a large ship in the background not far from the shore with a object submerge in the shallow water in the foreground . 
+
+attribute-object	large ship
+object	ship
+object	boat
+#####################################################
+A view of an incoming yacht taken from the dirty shores of the ocean . 
+a view of a incoming yacht take from the dirty shore of the ocean . 
+
+attribute-object	incoming yacht
+object	yacht
+object	boat
+#####################################################
+Dirty water near beach with large white cruiseship in background . 
+dirty water near beach with large white cruiseship in background . 
+
+object-prep-object	water near beach
+attribute-object	dirty water
+object-prep-object	beach with cruiseship
+attribute-object	large cruiseship
+attribute-object	white cruiseship
+object	water
+object	beach
+object	cruiseship
+object	boat
+#####################################################
+The bow of a cruise ship shot from shore . 
+the bow of a cruise ship shot from shore . 
+
+verb-prep-object	shot from shore
+object-prep-object	bow of ship
+attribute-object	cruise ship
+object-verb	bow shot
+object	shore
+object	bow
+object	ship
+object	boat
+#####################################################

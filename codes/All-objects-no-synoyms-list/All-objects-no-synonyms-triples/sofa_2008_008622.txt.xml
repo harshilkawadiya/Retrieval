@@ -1,0 +1,81 @@
+A dark brown dog on a blue loveseat and a light brown puppy on a cream rug . 
+a dark brown dog on a blue loveseat and a light brown puppy on a cream rug . 
+
+object-prep-object	dog on loveseat
+attribute-object	dark dog
+attribute-object	brown dog
+attribute-object	blue loveseat
+object-prep-object	puppy on rug
+attribute-object	light puppy
+attribute-object	brown puppy
+attribute-object	cream rug
+object	dog
+object	loveseat
+object	puppy
+object	rug
+object	sofa
+#####################################################
+An adult basset hound lays on a blue couch while a basset hound puppy lays on a rug on the floor . 
+a adult basset hound lay on a blue couch while a basset hound puppy lay on a rug on the floor . 
+
+verb-prep-object	lay on couch
+object-prep-object	hound on couch
+verb-prep-object	lay on rug
+object-prep-object	puppy on rug
+object-prep-object	rug on floor
+attribute-object	blue couch
+attribute-object	adult hound
+attribute-object	basset hound
+attribute-object	basset puppy
+attribute-object	hound puppy
+object-verb	hound lay
+object-verb	puppy lay
+object	couch
+object	hound
+object	rug
+object	puppy
+object	floor
+object	sofa
+#####################################################
+There are two dogs , one laying on a couch , one laying on the floor . 
+there be two dog , one lay on a couch , one lay on the floor . 
+
+verb-prep-object	lay on couch
+object-prep-object	dog on couch
+verb-prep-object	lay on floor
+object-prep-object	dog on floor
+object-verb	dog lay
+object-verb	dog lay
+object	couch
+object	dog
+object	floor
+object	sofa
+#####################################################
+Two basset hounds lying down in room . 
+two basset hound lie down in room . 
+
+verb-prep-object	lie in room
+object-prep-object	hound in room
+attribute-object	basset hound
+object-verb	hound lie
+verb-attribute	lie down
+object	room
+object	hound
+object	sofa
+#####################################################
+Two dogs in a living room sitting on the couch and on the floor . 
+two dog in a living room sit on the couch and on the floor . 
+
+verb-prep-object	sit on couch
+object-prep-object	dog on couch
+verb-prep-object	sit on floor
+object-prep-object	dog on floor
+object-prep-object	dog in room
+attribute-object	living room
+object-verb	dog sit
+object	couch
+object	dog
+object	floor
+object	room
+object	sofa
+#####################################################

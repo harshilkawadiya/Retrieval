@@ -1,0 +1,46 @@
+A biplane performing aerobatics . 
+a biplane perform aerobatics . 
+
+object-verb-object	aeroplane perform aerobatics
+object	aeroplane
+object	aerobatics
+object	aeroplane
+#####################################################
+A blue and yellow plane flying straight down while emitting white smoke . 
+a blue and yellow plane fly straight down while emit white smoke . 
+
+attribute-object	blue aeroplane
+attribute-object	yellow aeroplane
+attribute-object	white smoke
+object-verb	aeroplane fly
+object-verb-object	aeroplane emit smoke
+object	aeroplane
+object	smoke
+object	aeroplane
+#####################################################
+Airplane in dive position . 
+airplane in dive position . 
+
+object-prep-object	aeroplane in position
+attribute-object	dive position
+object	aeroplane
+object	position
+object	aeroplane
+#####################################################
+A trick plane makes a loop-de-loop . 
+a trick plane make a loop-de-loop . 
+
+object-verb-object	aeroplane make loop-de-loop
+attribute-object	trick aeroplane
+object	aeroplane
+object	loop-de-loop
+object	aeroplane
+#####################################################
+Plane doing a loop-de-loop . 
+plane do a loop-de-loop . 
+
+object-verb-object	aeroplane do loop-de-loop
+object	aeroplane
+object	loop-de-loop
+object	aeroplane
+#####################################################

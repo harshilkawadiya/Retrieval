@@ -1,0 +1,58 @@
+A two story building on a street with a white car parked in front . 
+a two story building on a street with a white car park in front . 
+
+object-prep-object	street with car
+object-prep-object	building on street
+attribute-object	story building
+attribute-object	white car
+object-verb	car park
+object	street
+object	car
+object	building
+object	car
+#####################################################
+A white car is parked in front of an old commercial building . 
+a white car be park in front of a old commercial building . 
+
+verb-prep-object	park in_front_of building
+object-prep-object	car in_front_of building
+attribute-object	white car
+attribute-object	old building
+attribute-object	commercial building
+object-verb	car park
+object	building
+object	car
+object	car
+#####################################################
+A white car is passing an old carriage house on a street . 
+a white car be pass a old carriage house on a street . 
+
+verb-prep-object	pass on street
+object-prep-object	car on street
+attribute-object	white car
+attribute-object	old house
+object-verb-object	car pass house
+attribute-object	carriage house
+object	street
+object	car
+object	house
+object	car
+#####################################################
+Large building on city street . 
+large building on city street . 
+
+object-prep-object	building on street
+attribute-object	large building
+attribute-object	city street
+object	building
+object	street
+object	car
+#####################################################
+This is an old fire station . 
+this be a old fire station . 
+
+attribute-object	old station
+attribute-object	fire station
+object	station
+object	car
+#####################################################

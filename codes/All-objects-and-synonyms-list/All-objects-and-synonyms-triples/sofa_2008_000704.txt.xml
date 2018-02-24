@@ -1,0 +1,74 @@
+A man in shorts and a blue polo shirt sits on the red-cushioned wicker couch . 
+a man in shorts and a blue polo shirt sit on the red-cushioned wicker couch . 
+
+object-verb	person sit
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	person in man
+object-prep-object	person in man
+attribute-object	blue shirt
+attribute-object	red-cushioned sofa
+attribute-object	polo shirt
+attribute-object	wicker sofa
+object	person
+object	man
+object	sofa
+object	bed
+object	shirt
+object	sofa
+#####################################################
+A man sits on a red couch . 
+a man sit on a red couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	red sofa
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	sofa
+#####################################################
+A man sitting on a couch holding a remote . 
+a man sit on a couch hold a remote . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb-object	person hold man
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	sofa
+#####################################################
+Man relaxing on red couch in living room . 
+man relax on red couch in live room . 
+
+verb-prep-object	relax on sofa
+object-prep-object	person on bed
+verb-prep-object	relax in room
+attribute-object	red sofa
+attribute-object	live room
+object-verb	person relax
+object	sofa
+object	bed
+object	person
+object	man
+object	room
+object	sofa
+#####################################################
+The tanned man enjoys watching television in his apartment . 
+the tan man enjoy watch television in he apartment . 
+
+verb-prep-object	enjoy in room
+attribute-object	tan person
+object-verb-object	person enjoy tvmonitor
+object	room
+object	apartment
+object	person
+object	man
+object	tvmonitor
+object	sofa
+#####################################################

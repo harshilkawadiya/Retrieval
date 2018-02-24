@@ -1,0 +1,50 @@
+A kitchen area . 
+a kitchen area . 
+
+attribute-object	kitchen area
+object	area
+object	bottle
+#####################################################
+A kitchen in a small apartment . 
+a kitchen in a small apartment . 
+
+object-prep-object	kitchen in room
+attribute-object	small room
+object	kitchen
+object	room
+object	apartment
+object	bottle
+#####################################################
+A small kitchen with a microwave and fridge . 
+a small kitchen with a microwave and fridge . 
+
+object-prep-object	kitchen with microwave
+object-prep-object	kitchen with fridge
+attribute-object	small kitchen
+object	kitchen
+object	microwave
+object	fridge
+object	bottle
+#####################################################
+a yellow kitchen with white cabinets . 
+a yellow kitchen with white cabinet . 
+
+object-prep-object	kitchen with cabinet
+attribute-object	yellow kitchen
+attribute-object	white cabinet
+object	kitchen
+object	cabinet
+object	bottle
+#####################################################
+A yellow kitchen with white cupboards and appliances . 
+a yellow kitchen with white cupboard and appliance . 
+
+object-prep-object	kitchen with cupboard
+object-prep-object	kitchen with appliance
+attribute-object	yellow kitchen
+attribute-object	white cupboard
+object	kitchen
+object	cupboard
+object	appliance
+object	bottle
+#####################################################

@@ -1,0 +1,55 @@
+A group of people sitting on a small sofa next to a kitchen . 
+a group of people sit on a small sofa next to a kitchen . 
+
+object-verb	people sit
+verb-prep-object	sit next_to kitchen
+verb-prep-object	sit on sofa
+object-prep-object	people next_to kitchen
+object-prep-object	people on sofa
+attribute-object	small sofa
+object	people
+object	kitchen
+object	sofa
+object	person
+#####################################################
+Five people gather together on a loveseat . 
+five people gather together on a loveseat . 
+
+verb-prep-object	gather on loveseat
+object-prep-object	people on loveseat
+object-verb	people gather
+object	loveseat
+object	people
+object	person
+#####################################################
+Five people sitting on one couch . 
+five people sit on one couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	people on couch
+object-verb	people sit
+object	couch
+object	people
+object	person
+#####################################################
+Group of five family members sitting on loveseat . 
+Group of five family member sit on loveseat . 
+
+verb-prep-object	sit on loveseat
+object-prep-object	member on loveseat
+attribute-object	family member
+object-verb	member sit
+object	loveseat
+object	member
+object	person
+#####################################################
+The family photo is taken near the kitchen . 
+the family photo be take near the kitchen . 
+
+verb-prep-object	take near kitchen
+attribute-object	family photo
+object-verb	photo take
+object	kitchen
+object	photo
+object	person
+#####################################################

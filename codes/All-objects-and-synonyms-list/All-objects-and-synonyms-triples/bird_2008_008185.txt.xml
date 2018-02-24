@@ -1,0 +1,72 @@
+A man and a boy take a serene walk on the beach . 
+a man and a boy take a serene walk on the beach . 
+
+object-prep-object	walk on beach
+object-prep-object	person on beach
+object-prep-object	person on beach
+attribute-object	serene walk
+object-verb-object	person take walk
+object-verb-object	person take walk
+object	walk
+object	beach
+object	person
+object	bird
+#####################################################
+A man and a woman holding hands walking along the beach . 
+a man and a woman hold hand walk along the beach . 
+
+verb-prep-object	walk along beach
+object-verb-object	person hold hand
+object-verb-object	person hold hand
+object-verb	person walk
+object-verb	person walk
+object	beach
+object	person
+object	hand
+object	bird
+#####################################################
+A man and boy walking along a beach with the sea in the background . 
+a man and boy walking along a beach with the sea in the background . 
+
+verb-prep-object	walk with water
+verb-prep-object	walk along beach
+object-prep-object	water in background
+object-prep-object	person along beach
+object-prep-object	person along beach
+object-verb	person walk
+object-verb	person walk
+object	water
+object	beach
+object	background
+object	person
+object	bird
+#####################################################
+A man with a beard and a skullcap and a boy walk along the ocean 's shore . 
+a man with a beard and a skullcap and a boy walk along the ocean 's shore . 
+
+object-prep-object	person with beard
+object-prep-object	person with skullcap
+verb-prep-object	walk along shore
+object-prep-object	person along shore
+object-prep-object	person along shore
+attribute-object	ocean shore
+object-verb	person walk
+object-verb	person walk
+object	person
+object	beard
+object	skullcap
+object	shore
+object	bird
+#####################################################
+Man and boy walking on beach . 
+man and boy walking on beach . 
+
+verb-prep-object	walk on beach
+object-prep-object	person on beach
+object-prep-object	person on beach
+object-verb	person walk
+object-verb	person walk
+object	beach
+object	person
+object	bird
+#####################################################

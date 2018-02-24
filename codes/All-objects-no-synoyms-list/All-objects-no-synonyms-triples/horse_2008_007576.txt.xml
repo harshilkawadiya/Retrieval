@@ -1,0 +1,68 @@
+A man in a tux on a white horse . 
+a man in a tux on a white horse . 
+
+object-prep-object	man on horse
+object-prep-object	man in tux
+attribute-object	white horse
+object	man
+object	horse
+object	tux
+object	horse
+#####################################################
+A man wearing a black outfit and hat sits on a large white horse . 
+a man wear a black outfit and hat sit on a large white horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	man on horse
+attribute-object	black outfit
+attribute-object	large horse
+attribute-object	white horse
+object-verb-object	man wear outfit
+object-verb-object	man wear hat
+object-verb	man sit
+object	horse
+object	man
+object	outfit
+object	hat
+object	horse
+#####################################################
+A man with a top hat on a white horse . 
+a man with a top hat on a white horse . 
+
+object-prep-object	man on horse
+object-prep-object	man with hat
+attribute-object	top hat
+attribute-object	white horse
+object	man
+object	horse
+object	hat
+object	horse
+#####################################################
+Man dressed in suit and top hat on top of white horse . 
+man dress in suit and top hat on top of white horse . 
+
+verb-prep-object	dress in hat
+object-prep-object	man in hat
+verb-prep-object	dress in suit
+object-prep-object	man in suit
+object-prep-object	man on_top_of horse
+attribute-object	white horse
+attribute-object	top hat
+object-verb	man dress
+object	hat
+object	man
+object	suit
+object	horse
+object	horse
+#####################################################
+Man sitting on white horse . 
+man sit on white horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	man on horse
+attribute-object	white horse
+object-verb	man sit
+object	horse
+object	man
+object	horse
+#####################################################

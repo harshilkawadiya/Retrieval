@@ -1,0 +1,58 @@
+A living dining room with a large dining table on the right hand side . 
+a live dining room with a large dining table on the right hand side . 
+
+object-prep-object	room with table
+attribute-object	live room
+attribute-object	large table
+attribute-object	dining room
+attribute-object	dining table
+object	room
+object	table
+object	chair
+#####################################################
+A nice dining room . 
+a nice dining room . 
+
+attribute-object	nice room
+attribute-object	dining room
+object	room
+object	chair
+#####################################################
+A room has a table and chairs and sofas in it . 
+a room have a table and chair and sofa in it . 
+
+object-verb-object	room have table
+object-verb-object	room have chair
+object-verb-object	room have sofa
+object	room
+object	table
+object	chair
+object	sofa
+object	chair
+#####################################################
+A room with contemporary furniture including a wooden table with six chairs and a couch . 
+a room with contemporary furniture include a wooden table with six chair and a couch . 
+
+object-prep-object	room with furniture
+attribute-object	contemporary furniture
+object-prep-object	table with chair
+object-prep-object	table with couch
+object-prep-object	furniture including table
+attribute-object	wooden table
+object	room
+object	furniture
+object	table
+object	chair
+object	couch
+object	chair
+#####################################################
+Well lit room with table and chairs , and other furniture . 
+well light room with table and chair , and other furniture . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+object	room
+object	table
+object	chair
+object	chair
+#####################################################

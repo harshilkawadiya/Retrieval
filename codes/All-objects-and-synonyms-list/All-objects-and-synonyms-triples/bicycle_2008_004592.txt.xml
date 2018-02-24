@@ -1,0 +1,73 @@
+A bicycle in a dining room . 
+a bicycle in a dining room . 
+
+object-prep-object	bicycle in room
+attribute-object	dining room
+object	bicycle
+object	room
+object	bicycle
+#####################################################
+A silver bicycle is parked in a living room . 
+a silver bicycle be park in a living room . 
+
+verb-prep-object	park in room
+object-prep-object	bicycle in room
+attribute-object	silver bicycle
+attribute-object	living room
+object-verb	bicycle park
+object	room
+object	bicycle
+object	bicycle
+#####################################################
+A silver bicycle leaning up against a kitchen table and chairs . 
+a silver bicycle lean up against a kitchen table and chair . 
+
+verb-prep-object	lean against diningtable
+verb-prep-object	lean against chair
+object-prep-object	bicycle against diningtable
+object-prep-object	bicycle against chair
+attribute-object	silver bicycle
+attribute-object	kitchen diningtable
+object-verb	bicycle lean
+verb-attribute	lean up
+object	diningtable
+object	table
+object	chair
+object	bicycle
+object	bicycle
+#####################################################
+A silver bicycle leans against a dining room table and chairs . 
+a silver bicycle lean against a dining room table and chair . 
+
+verb-prep-object	lean against diningtable
+object-prep-object	bicycle against diningtable
+verb-prep-object	lean against chair
+object-prep-object	bicycle against chair
+attribute-object	silver bicycle
+attribute-object	dining diningtable
+attribute-object	room diningtable
+object-verb	bicycle lean
+object	diningtable
+object	table
+object	bicycle
+object	chair
+object	bicycle
+#####################################################
+A silver mountain bike resting up against a wooden table and chairs . 
+a silver mountain bike rest up against a wooden table and chair . 
+
+verb-prep-object	rest against diningtable
+verb-prep-object	rest against chair
+object-prep-object	bicycle against chair
+object-prep-object	bicycle against diningtable
+attribute-object	wooden diningtable
+attribute-object	silver bicycle
+attribute-object	mountain bicycle
+object-verb	bicycle rest
+verb-attribute	rest up
+object	diningtable
+object	table
+object	chair
+object	bicycle
+object	bicycle
+#####################################################

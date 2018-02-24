@@ -1,0 +1,61 @@
+A large bird is flying through the air . 
+a large bird be fly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	bird through air
+attribute-object	large bird
+object-verb	bird fly
+object	air
+object	bird
+object	bird
+#####################################################
+A large bird of prey flying towards the camera . 
+a large bird of prey fly towards the camera . 
+
+object-prep-object	bird of prey
+verb-prep-object	fly towards camera
+attribute-object	large bird
+object-verb	bird fly
+object	bird
+object	prey
+object	camera
+object	bird
+#####################################################
+Large bird flying through the air with wings spread out . 
+large bird fly through the air with wing spread out . 
+
+verb-prep-object	fly through air
+verb-prep-object	fly with wing
+object-prep-object	bird with wing
+attribute-object	large bird
+object-verb	bird fly
+object-verb	wing spread
+verb-attribute	spread out
+object	air
+object	wing
+object	bird
+object	bird
+#####################################################
+Large bird of prey swooping out of the sky . 
+large bird of prey swoop out of the sky . 
+
+object-prep-object	bird of prey
+verb-prep-object	swoop out_of sky
+attribute-object	large bird
+object-verb	bird swoop
+object	bird
+object	prey
+object	sky
+object	bird
+#####################################################
+The bird flies quickly through the air . 
+the bird fly quickly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	bird through air
+attribute-verb	quickly fly
+object-verb	bird fly
+object	air
+object	bird
+object	bird
+#####################################################

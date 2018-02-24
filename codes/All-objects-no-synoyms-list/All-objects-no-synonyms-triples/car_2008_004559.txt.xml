@@ -1,0 +1,63 @@
+A firehouse with firetruck out front . 
+a firehouse with firetruck out front . 
+
+object-prep-object	firehouse with firetruck
+object	firehouse
+object	firetruck
+object	car
+#####################################################
+A firetruck and two cars parked in front of a giant flag on a red brick building . 
+a firetruck and two car park in front of a giant flag on a red brick building . 
+
+object-prep-object	flag on building
+verb-prep-object	park in_front_of flag
+object-prep-object	firetruck in_front_of flag
+object-prep-object	car in_front_of flag
+attribute-object	giant flag
+attribute-object	red building
+attribute-object	brick building
+object-verb	firetruck park
+object-verb	car park
+object	flag
+object	building
+object	firetruck
+object	car
+object	car
+#####################################################
+A firetruck is parked in front of a brick building with an American flag . 
+a firetruck be park in front of a brick building with a american flag . 
+
+object-prep-object	building with flag
+verb-prep-object	park in_front_of building
+attribute-object	american flag
+attribute-object	brick building
+object-verb	firetruck park
+object	building
+object	flag
+object	firetruck
+object	car
+#####################################################
+A US fire station with a large American flag hanging outside . 
+a US fire station with a large american flag hang outside . 
+
+object-prep-object	station with flag
+verb-attribute	hang outside
+attribute-object	large flag
+attribute-object	american flag
+attribute-object	us station
+attribute-object	fire station
+object-verb	station hang
+object	station
+object	flag
+object	car
+#####################################################
+The american flag adorns the fire station . 
+the american flag adorn the fire station . 
+
+attribute-object	american flag
+object-verb-object	flag adorn station
+attribute-object	fire station
+object	flag
+object	station
+object	car
+#####################################################

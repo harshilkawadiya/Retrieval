@@ -1,0 +1,64 @@
+A park garden in front of red trolleys and a large building . 
+a park garden in front of red trolley and a large building . 
+
+object-prep-object	garden in_front_of train
+object-prep-object	garden in_front_of building
+attribute-object	red train
+attribute-object	large building
+attribute-object	park garden
+object	garden
+object	train
+object	building
+object	trolley
+object	bus
+#####################################################
+Red buses are parked by a large white building beside a formal garden . 
+Red bus be park by a large white building beside a formal garden . 
+
+verb-prep-object	park beside garden
+object-prep-object	building beside garden
+object-prep-object	park by building
+attribute-object	large building
+attribute-object	white building
+attribute-object	formal garden
+attribute-object	red bus
+object-verb	bus park
+object	garden
+object	building
+object	park
+object	bus
+object	bus
+#####################################################
+The peaceful garden is an ideal place to enjoy the afternoon . 
+the peaceful garden be a ideal place to enjoy the afternoon . 
+
+attribute-object	peaceful garden
+attribute-object	ideal place
+object-object	garden place
+object	garden
+object	place
+object	bus
+#####################################################
+Two red buses driving in front of a garden . 
+two red bus drive in front of a garden . 
+
+verb-prep-object	drive in_front_of garden
+object-prep-object	bus in_front_of garden
+attribute-object	red bus
+object-verb	bus drive
+object	garden
+object	bus
+object	bus
+#####################################################
+Two red buses parked up with gardens in front of them . 
+two red bus park up with garden in front of they . 
+
+verb-prep-object	park with garden
+object-prep-object	bus with garden
+attribute-object	red bus
+object-verb	bus park
+verb-attribute	park up
+object	garden
+object	bus
+object	bus
+#####################################################

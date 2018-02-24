@@ -1,0 +1,79 @@
+A close-up of a head table set with gray napkins in stemmed water glasses . 
+a close-up of a head table set with gray napkin in stem water glass . 
+
+object-prep-object	diningtable with table
+attribute-object	gray napkin
+attribute-object	head diningtable
+object-prep-object	napkin in glass
+attribute-object	stem glass
+attribute-object	water glass
+object	diningtable
+object	table
+object	napkin
+object	glass
+object	diningtable
+#####################################################
+A long table is topped with a line of goblets stuffed with silver cloth napkins . 
+a long table be top with a line of goblet stuff with silver cloth napkin . 
+
+object-verb	diningtable top
+verb-prep-object	top with goblet
+object-prep-object	diningtable with table
+attribute-object	long diningtable
+object-verb	goblet stuff
+verb-prep-object	stuff with napkin
+object-prep-object	goblet with napkin
+attribute-object	silver napkin
+attribute-object	cloth napkin
+object	diningtable
+object	table
+object	goblet
+object	napkin
+object	diningtable
+#####################################################
+A row of glasses filled with white linen napkins stretches down a long table . 
+a row of glass fill with white linen napkin stretch down a long table . 
+
+object-verb	glass fill
+verb-prep-object	fill with napkin
+object-prep-object	glass with napkin
+attribute-object	white napkin
+attribute-object	linen napkin
+object-verb-object	glass stretch diningtable
+verb-attribute	stretch down
+attribute-object	long diningtable
+object	glass
+object	napkin
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+A table with a row of wine glasses with napkins in them . 
+a table with a row of wine glass with napkin in they . 
+
+object-prep-object	diningtable with table
+attribute-object	wine glass
+object-prep-object	glass with napkin
+object	diningtable
+object	table
+object	glass
+object	napkin
+object	diningtable
+#####################################################
+wine glasses lined up in a row on a banquet table . 
+wine glass line up in a row on a banquet table . 
+
+verb-prep-object	line in row
+verb-prep-object	line on diningtable
+object-prep-object	glass in row
+object-prep-object	glass on diningtable
+attribute-object	wine glass
+attribute-object	banquet diningtable
+object-verb	glass line
+verb-attribute	line up
+object	row
+object	diningtable
+object	table
+object	glass
+object	diningtable
+#####################################################

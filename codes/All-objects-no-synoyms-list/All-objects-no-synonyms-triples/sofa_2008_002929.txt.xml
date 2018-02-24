@@ -1,0 +1,58 @@
+Teenagers hanging out in their room . 
+teenager hang out in they room . 
+
+verb-prep-object	hang in room
+object-prep-object	teenager in room
+object-verb	teenager hang
+verb-attribute	hang out
+object	room
+object	teenager
+object	sofa
+#####################################################
+Two guys are sitting on a couch lazily . 
+two guy be sit on a couch lazily . 
+
+verb-prep-object	sit on couch
+object-prep-object	guy on couch
+verb-attribute	sit lazily
+object-verb	guy sit
+object	couch
+object	guy
+object	sofa
+#####################################################
+Two guys sit on a loveseat . 
+two guy sit on a loveseat . 
+
+verb-prep-object	sit on loveseat
+object-prep-object	guy on loveseat
+object-verb	guy sit
+object	loveseat
+object	guy
+object	sofa
+#####################################################
+Two men in shorts are sitting on a sofa . 
+two man in shorts be sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	man on sofa
+object-prep-object	man in shorts
+object-verb	man sit
+object	sofa
+object	man
+object	shorts
+object	sofa
+#####################################################
+Two young men sitting on couch on a boat . 
+two young man sit on couch on a boat . 
+
+verb-prep-object	sit on couch
+verb-prep-object	sit on boat
+object-prep-object	man on couch
+object-prep-object	man on boat
+attribute-object	young man
+object-verb	man sit
+object	couch
+object	boat
+object	man
+object	sofa
+#####################################################

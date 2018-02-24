@@ -1,0 +1,91 @@
+a bald man lounging on a couch with a young girl and a 40 oz beer and playing cards in his hand . 
+a bald man lounge on a couch with a young girl and a 40 oz beer and play card in he hand . 
+
+object-verb	man lounge
+verb-prep-object	lounge on couch
+object-prep-object	man on couch
+object-prep-object	man with girl
+object-prep-object	man with beer
+object-verb-object	man play card
+attribute-object	bald man
+attribute-object	young girl
+attribute-object	oz beer
+object	man
+object	couch
+object	girl
+object	beer
+object	card
+object	bottle
+#####################################################
+A man and young woman , the man holding cards and a bottle of some drink . 
+a man and young woman , the man hold card and a bottle of some drink . 
+
+object-prep-object	bottle of drink
+object-verb-object	man hold card
+object-verb-object	man hold bottle
+attribute-object	young woman
+object	bottle
+object	drink
+object	man
+object	card
+object	woman
+object	bottle
+#####################################################
+A man holding beer bottle and cards posing with young woman on tan couch . 
+a man hold beer bottle and card pose with young woman on tan couch . 
+
+object-prep-object	woman on couch
+object-prep-object	man on couch
+verb-prep-object	pose with woman
+object-prep-object	man with woman
+attribute-object	young woman
+object-verb-object	man hold bottle
+object-verb-object	man hold card
+attribute-object	beer bottle
+attribute-object	tan couch
+object-verb	man pose
+object	woman
+object	couch
+object	man
+object	bottle
+object	card
+object	bottle
+#####################################################
+A man with a bottle of beer and a card and a woman with a sucker are seated on a tan couch . 
+a man with a bottle of beer and a card and a woman with a sucker be seat on a tan couch . 
+
+object-prep-object	man with bottle
+object-prep-object	bottle of beer
+object-prep-object	man with card
+object-prep-object	woman with sucker
+verb-prep-object	seat on couch
+object-prep-object	man on couch
+object-prep-object	woman on couch
+attribute-object	tan couch
+object-verb	man seat
+object-verb	woman seat
+object	man
+object	bottle
+object	beer
+object	card
+object	woman
+object	sucker
+object	couch
+object	bottle
+#####################################################
+A man with a pillow in his shirt sits on a couch holding a beer with his arm around a girl . 
+a man with a pillow in he shirt sit on a couch hold a beer with he arm around a girl . 
+
+object-prep-object	man with pillow
+object-prep-object	pillow in shirt
+verb-prep-object	sit on couch
+object-prep-object	man on couch
+object-verb-object	man hold beer
+object-verb	man sit
+object	man
+object	pillow
+object	shirt
+object	couch
+object	beer
+object	bottle
+#####################################################

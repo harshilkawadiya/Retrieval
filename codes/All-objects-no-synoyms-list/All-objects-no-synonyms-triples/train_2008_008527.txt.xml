@@ -1,0 +1,55 @@
+A yellow and white train and one orange train on the opposite sides of a small train station . 
+a yellow and white train and one orange train on the opposite side of a small train station . 
+
+object-prep-object	train on station
+attribute-object	yellow train
+attribute-object	white train
+attribute-object	orange train
+attribute-object	small station
+attribute-object	train station
+object	train
+object	station
+object	train
+#####################################################
+There is a train and two yellow and white cars at the train station . 
+there be a train and two yellow and white car at the train station . 
+
+object-prep-object	train at station
+object-prep-object	car at station
+attribute-object	yellow car
+attribute-object	white car
+attribute-object	train station
+object	train
+object	station
+object	car
+object	train
+#####################################################
+Two trains are on train tracks near a median . 
+two train be on train track near a median . 
+
+object-prep-object	train on track
+object-prep-object	track near median
+attribute-object	train track
+object	train
+object	track
+object	median
+object	train
+#####################################################
+Two trains inside a train station . 
+two train inside a train station . 
+
+object-prep-object	train inside station
+attribute-object	train station
+object	train
+object	station
+object	train
+#####################################################
+Two train tracks with a train on each . 
+two train track with a train on each . 
+
+object-prep-object	track with train
+attribute-object	train track
+object	track
+object	train
+object	train
+#####################################################

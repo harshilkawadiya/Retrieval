@@ -1,0 +1,66 @@
+A small plane parked at an airfield with a cloudy sky overhead . 
+a small plane park at a airfield with a cloudy sky overhead . 
+
+verb-prep-object	park at airport
+object-prep-object	aeroplane at airport
+object-prep-object	airport with sky
+attribute-object	small aeroplane
+attribute-object	cloudy sky
+object-verb	aeroplane park
+object	airport
+object	aeroplane
+object	sky
+object	aeroplane
+#####################################################
+A small white plane parked in an airport on a cloudy day . 
+a small white plane park in a airport on a cloudy day . 
+
+verb-prep-object	park on day
+verb-prep-object	park in airport
+object-prep-object	aeroplane in airport
+attribute-object	small aeroplane
+attribute-object	white aeroplane
+attribute-object	cloudy day
+object-verb	aeroplane park
+object	day
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+Close up of plane grounded at the airport . 
+close up of plane ground at the airport . 
+
+object-verb	aeroplane ground
+verb-prep-object	ground at airport
+object-prep-object	aeroplane at airport
+object	aeroplane
+object	airport
+object	aeroplane
+#####################################################
+Propeller plane parked on runway at sunset . 
+Propeller plane park on runway at sunset . 
+
+verb-prep-object	park on airport
+object-prep-object	aeroplane on airport
+verb-prep-object	park at sunset
+object-prep-object	aeroplane at sunset
+attribute-object	propeller aeroplane
+object-verb	aeroplane park
+object	airport
+object	aeroplane
+object	sunset
+object	aeroplane
+#####################################################
+The right front of a twin engine propeller driven airplane . 
+the right front of a twin engine propeller drive airplane . 
+
+object-prep-object	front of aeroplane
+attribute-object	right front
+attribute-object	twin propeller
+object-verb-object	propeller drive aeroplane
+attribute-object	engine propeller
+object	front
+object	aeroplane
+object	propeller
+object	aeroplane
+#####################################################

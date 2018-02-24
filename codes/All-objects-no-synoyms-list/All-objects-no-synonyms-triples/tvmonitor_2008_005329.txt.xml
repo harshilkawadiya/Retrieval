@@ -1,0 +1,61 @@
+a desk in a corner of a room with a computer and a laptop . 
+a desk in a corner of a room with a computer and a laptop . 
+
+object-prep-object	desk in room
+object-prep-object	room with computer
+object-prep-object	room with laptop
+object	desk
+object	room
+object	computer
+object	laptop
+object	tvmonitor
+#####################################################
+A desk with a laptop and a desktop computer along with a desk lamp . 
+a desk with a laptop and a desktop computer along with a desk lamp . 
+
+object-prep-object	desk with laptop
+object-prep-object	desk with computer
+attribute-object	desktop computer
+object-prep-object	computer along_with lamp
+attribute-object	desk lamp
+object	desk
+object	laptop
+object	computer
+object	lamp
+object	tvmonitor
+#####################################################
+A home office set up is sparse . 
+a home office set up be sparse . 
+
+attribute-object	home office
+object-verb	office set
+verb-attribute	set up
+object	office
+object	tvmonitor
+#####################################################
+A small wooden computer desk with a laptop and desktop computer . 
+a small wooden computer desk with a laptop and desktop computer . 
+
+object-prep-object	desk with laptop
+object-prep-object	desk with computer
+attribute-object	small desk
+attribute-object	wooden desk
+attribute-object	computer desk
+attribute-object	desktop computer
+object	desk
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+Wooden computer desk with desktop and laptop . 
+wooden computer desk with desktop and laptop . 
+
+object-prep-object	desk with desktop
+object-prep-object	desk with laptop
+attribute-object	wooden desk
+attribute-object	computer desk
+object	desk
+object	desktop
+object	laptop
+object	tvmonitor
+#####################################################

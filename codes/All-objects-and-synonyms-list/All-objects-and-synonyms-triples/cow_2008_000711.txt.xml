@@ -1,0 +1,61 @@
+The large cows hover over the young calf . 
+the large cow hover over the young calf . 
+
+verb-prep-object	hover over cow
+object-prep-object	cow over cow
+attribute-object	large cow
+attribute-object	young cow
+object-verb	cow hover
+object	cow
+object	calf
+object	cow
+#####################################################
+Three adult cows and one baby cow stand on the grass . 
+three adult cow and one baby cow stand on the grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	cow on grass
+attribute-object	adult cow
+attribute-object	baby cow
+object-verb	cow stand
+object-verb	cow stand
+object	grass
+object	cow
+object	cow
+#####################################################
+Three brown cows and a small calf in a field . 
+three brown cow and a small calf in a field . 
+
+object-prep-object	cow in field
+object-prep-object	cow in calf
+attribute-object	brown cow
+attribute-object	small cow
+object	cow
+object	field
+object	calf
+object	cow
+#####################################################
+Three cows in a green pasture surrounding a baby cow . 
+three cow in a green pasture surround a baby cow . 
+
+object-prep-object	cow in pasture
+attribute-object	green pasture
+object-verb-object	cow surround cow
+attribute-object	baby cow
+object	cow
+object	pasture
+object	cow
+#####################################################
+Three large brown cows stand over a calf in the pasture . 
+three large brown cow stand over a calf in the pasture . 
+
+verb-prep-object	stand over cow
+object-prep-object	cow over cow
+object-prep-object	cow in calf
+attribute-object	large cow
+attribute-object	brown cow
+object-verb	cow stand
+object	cow
+object	calf
+object	cow
+#####################################################

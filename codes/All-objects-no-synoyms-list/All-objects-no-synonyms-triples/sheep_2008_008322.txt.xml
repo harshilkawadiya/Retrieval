@@ -1,0 +1,52 @@
+Three sheep are in the road as a car approaches . 
+three sheep be in the road as a car approach . 
+
+object-prep-object	sheep in road
+object-verb	car approach
+object	sheep
+object	road
+object	car
+object	sheep
+#####################################################
+Three sheep in middle of gravel road . 
+three sheep in middle of gravel road . 
+
+object-prep-object	sheep in road
+attribute-object	gravel road
+object	sheep
+object	road
+object	sheep
+#####################################################
+Three sheep in the road with an oncoming car . 
+three sheep in the road with a oncoming car . 
+
+object-prep-object	sheep in road
+object-prep-object	road with car
+attribute-object	oncoming car
+object	sheep
+object	road
+object	car
+object	sheep
+#####################################################
+Three sheep on a dirt road shot from a car . 
+three sheep on a dirt road shot from a car . 
+
+object-prep-object	sheep on road
+attribute-object	dirt road
+object	car
+object	sheep
+object	road
+object	car
+object	sheep
+#####################################################
+Three sheep on a dirt road viewed from a passenger vehicle . 
+three sheep on a dirt road view from a passenger vehicle . 
+
+object-prep-object	sheep on road
+attribute-object	dirt road
+attribute-object	passenger vehicle
+object	sheep
+object	road
+object	vehicle
+object	sheep
+#####################################################

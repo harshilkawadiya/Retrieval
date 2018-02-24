@@ -1,0 +1,69 @@
+An empty college common space with empty chairs , a couch and a ping pong table . 
+a empty college common space with empty chair , a couch and a ping pong table . 
+
+object-prep-object	space with chair
+object-prep-object	space with bed
+object-prep-object	space with diningtable
+attribute-object	empty space
+attribute-object	college space
+attribute-object	common space
+attribute-object	empty chair
+attribute-object	ping_pong diningtable
+object	space
+object	chair
+object	sofa
+object	bed
+object	diningtable
+object	table
+object	sofa
+#####################################################
+A party room . 
+a party room . 
+
+attribute-object	party room
+object	room
+object	sofa
+#####################################################
+A recreation room with a ping pong table , chairs , and a striped couch . 
+a recreation room with a ping pong table , chair , and a striped couch . 
+
+object-prep-object	room with diningtable
+object-prep-object	room with chair
+object-prep-object	room with bed
+attribute-object	striped sofa
+attribute-object	recreation room
+attribute-object	ping_pong diningtable
+object	room
+object	diningtable
+object	chair
+object	sofa
+object	bed
+object	table
+object	sofa
+#####################################################
+A striped sofa and office chairs are near a ping pong table . 
+a striped sofa and office chair be near a ping pong table . 
+
+object-prep-object	sofa near diningtable
+object-prep-object	chair near diningtable
+attribute-object	striped sofa
+attribute-object	office chair
+attribute-object	ping_pong diningtable
+object	sofa
+object	diningtable
+object	chair
+object	table
+object	sofa
+#####################################################
+Room set up with going away decorations on wall . 
+room set up with go away decoration on wall . 
+
+object-prep-object	decoration on wall
+verb-prep-object	set with decoration
+object-verb	room set
+verb-attribute	set up
+object	decoration
+object	wall
+object	room
+object	sofa
+#####################################################

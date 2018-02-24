@@ -1,0 +1,59 @@
+a garden set in a small court . 
+a garden set in a small court . 
+
+object-prep-object	set in court
+attribute-object	garden set
+attribute-object	small court
+object	set
+object	court
+object	chair
+#####################################################
+A wooden patio set with blue seat covers is wet . 
+a wooden patio set with blue seat cover be wet . 
+
+object-prep-object	set with cover
+attribute-object	wooden set
+attribute-object	patio set
+attribute-object	blue cover
+attribute-object	seat cover
+object-object	set wet
+object	set
+object	cover
+object	wet
+object	chair
+#####################################################
+Brown patio set with blue cushions on wet patio . 
+Brown patio set with blue cushion on wet patio . 
+
+object-prep-object	cushion on patio
+object-prep-object	set with cushion
+attribute-object	blue cushion
+attribute-object	wet patio
+attribute-object	brown set
+attribute-object	patio set
+object	cushion
+object	patio
+object	set
+object	chair
+#####################################################
+Lawn furniture after a light rain . 
+lawn furniture after a light rain . 
+
+object-prep-object	furniture after rain
+attribute-object	light rain
+attribute-object	lawn furniture
+object	furniture
+object	rain
+object	chair
+#####################################################
+Wet outdoor furniture on a stone patio . 
+Wet outdoor furniture on a stone patio . 
+
+object-prep-object	furniture on patio
+attribute-object	wet furniture
+attribute-object	outdoor furniture
+attribute-object	stone patio
+object	furniture
+object	patio
+object	chair
+#####################################################

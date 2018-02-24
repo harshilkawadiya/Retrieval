@@ -1,0 +1,49 @@
+a close up head of an ostrich . 
+a close up head of a ostrich . 
+
+object-prep-object	head of ostrich
+attribute-object	close_up head
+object	head
+object	ostrich
+object	bird
+#####################################################
+A close up of an ostrich face . 
+a close up of a ostrich face . 
+
+object-prep-object	close_up of face
+attribute-object	ostrich face
+object	close_up
+object	face
+object	bird
+#####################################################
+An Emu 's head . 
+a Emu 's head . 
+
+attribute-object	emu head
+object	head
+object	bird
+#####################################################
+Emu 's head framed by open sky . 
+Emu 's head frame by open sky . 
+
+verb-prep-object	frame by sky
+object-prep-object	head by sky
+attribute-object	open sky
+object-verb	head frame
+attribute-object	emu head
+object	sky
+object	head
+object	bird
+#####################################################
+Fuzzy ostrich head with a cloudy sky background . 
+fuzzy ostrich head with a cloudy sky background . 
+
+object-prep-object	head with background
+attribute-object	fuzzy head
+attribute-object	ostrich head
+attribute-object	cloudy background
+attribute-object	sky background
+object	head
+object	background
+object	bird
+#####################################################

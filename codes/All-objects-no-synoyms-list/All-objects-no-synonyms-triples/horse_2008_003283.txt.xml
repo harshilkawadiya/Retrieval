@@ -1,0 +1,68 @@
+A girl is seated on a donkey and an older woman stands to her right . 
+a girl be seat on a donkey and a older woman stand to she right . 
+
+verb-prep-object	seat on donkey
+object-prep-object	girl on donkey
+attribute-object	older woman
+object-verb	woman stand
+object-verb	girl seat
+object	donkey
+object	girl
+object	woman
+object	horse
+#####################################################
+An old woman with a headscarf stands next to a young girl sitting on a donkey . 
+a old woman with a headscarf stand next to a young girl sit on a donkey . 
+
+object-prep-object	woman with headscarf
+verb-prep-object	stand next_to girl
+object-prep-object	woman next_to girl
+verb-prep-object	sit on donkey
+object-prep-object	girl on donkey
+attribute-object	old woman
+attribute-object	young girl
+object-verb	woman stand
+object-verb	girl sit
+object	woman
+object	headscarf
+object	girl
+object	donkey
+object	horse
+#####################################################
+a woman in a blue dress sitting on a donkey and a woman with a yellow scarf by her side . 
+a woman in a blue dress sit on a donkey and a woman with a yellow scarf by she side . 
+
+object-prep-object	woman with scarf
+verb-prep-object	sit on donkey
+object-prep-object	woman on donkey
+object-prep-object	woman in dress
+attribute-object	blue dress
+attribute-object	yellow scarf
+object-verb	woman sit
+object	woman
+object	scarf
+object	donkey
+object	dress
+object	horse
+#####################################################
+Old woman and friend on donkey . 
+Old woman and friend on donkey . 
+
+object-prep-object	woman on donkey
+object-prep-object	friend on donkey
+attribute-object	old woman
+object	woman
+object	donkey
+object	friend
+object	horse
+#####################################################
+The woman leads the rider on her ass . 
+the woman lead the rider on she ass . 
+
+object-prep-object	rider on ass
+object-verb-object	woman lead rider
+object	rider
+object	ass
+object	woman
+object	horse
+#####################################################

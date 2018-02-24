@@ -1,0 +1,53 @@
+A man is riding a red motorcycle on the road . 
+a man be ride a red motorcycle on the road . 
+
+verb-prep-object	ride on road
+object-prep-object	person on man
+attribute-object	red motorbike
+object-verb-object	person ride motorbike
+object	road
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A man is riding his motorcycle . 
+a man be ride he motorcycle . 
+
+object-verb-object	person ride motorbike
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+A motion shot of a man riding a motorcycle . 
+a motion shot of a man ride a motorcycle . 
+
+object-verb-object	person ride motorbike
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+An African-American man driving a red motorcycle . 
+a african-american man drive a red motorcycle . 
+
+attribute-object	african-american person
+attribute-object	red motorbike
+object-verb-object	person drive motorbike
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+The man is riding a motorcycle down the road . 
+the man be ride a motorcycle down the road . 
+
+object-verb-object	person ride motorbike
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################

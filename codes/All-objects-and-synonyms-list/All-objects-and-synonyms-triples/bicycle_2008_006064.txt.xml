@@ -1,0 +1,73 @@
+A man and his bicycle laying down on the green grass . 
+a man and he bicycle lay down on the green grass . 
+
+verb-prep-object	lay on grass
+object-prep-object	person on grass
+object-prep-object	bicycle on grass
+attribute-object	green grass
+object-verb	person lay
+object-verb	bicycle lay
+verb-attribute	lay down
+object	grass
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A person rests on a grassy lawn , next to a bicycle in front of white domed buildings . 
+a person rest on a grassy lawn , next to a bicycle in front of white domed building . 
+
+verb-prep-object	rest next_to bicycle
+object-prep-object	person next_to bicycle
+verb-prep-object	rest on lawn
+object-prep-object	person on lawn
+verb-prep-object	rest in_front_of building
+object-prep-object	person in_front_of building
+attribute-object	grassy lawn
+attribute-object	white building
+attribute-object	domed building
+object-verb	person rest
+object	bicycle
+object	person
+object	lawn
+object	building
+object	bicycle
+#####################################################
+A young artist takes time to sketch the building . 
+a young artist take time to sketch the building . 
+
+attribute-object	young person
+object-verb-object	person take time
+object	person
+object	time
+object	bicycle
+#####################################################
+A young man lays on his stomach in front of a fancy greenhouse . 
+a young man lay on he stomach in front of a fancy greenhouse . 
+
+verb-prep-object	lay on stomach
+object-prep-object	person on stomach
+verb-prep-object	lay in_front_of greenhouse
+object-prep-object	person in_front_of greenhouse
+attribute-object	young person
+attribute-object	fancy greenhouse
+object-verb	person lay
+object	stomach
+object	person
+object	greenhouse
+object	bicycle
+#####################################################
+Person reading book on grass in front of white building . 
+person reading book on grass in front of white building . 
+
+object-prep-object	person on grass
+object-prep-object	person in_front_of building
+verb-prep-object	read on grass
+verb-prep-object	read in_front_of building
+attribute-object	white building
+object-verb-object	person read book
+object	person
+object	grass
+object	building
+object	book
+object	bicycle
+#####################################################

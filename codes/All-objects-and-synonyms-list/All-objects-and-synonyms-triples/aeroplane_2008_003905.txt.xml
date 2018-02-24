@@ -1,0 +1,55 @@
+An AeroMexico jet taxing along a runway . 
+a AeroMexico jet tax along a runway . 
+
+verb-prep-object	tax along airport
+object-prep-object	aeroplane along airport
+attribute-object	aeromexico aeroplane
+object-verb	aeroplane tax
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+An aeromexico silver plane is on a runway . 
+a aeromexico silver plane be on a runway . 
+
+object-prep-object	aeroplane on airport
+attribute-object	aeromexico aeroplane
+attribute-object	silver aeroplane
+object	aeroplane
+object	airport
+object	aeroplane
+#####################################################
+A parked silver Aero Mexico passenger jet . 
+a park silver Aero Mexico passenger jet . 
+
+attribute-object	park aeroplane
+attribute-object	silver aeroplane
+attribute-object	aero aeroplane
+attribute-object	mexico aeroplane
+attribute-object	passenger aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+A silver and blue AeroMexico airplane travels down the jet . 
+a silver and blue AeroMexico airplane travel down the jet . 
+
+attribute-object	blue aeroplane
+attribute-object	silver aeroplane
+object-verb-object	aeroplane travel_down aeroplane
+attribute-object	aeromexico aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+A silver AreoMexico Jet Liner sitting on the tarmac . 
+a silver AreoMexico Jet Liner sit on the tarmac . 
+
+verb-prep-object	sit on airport
+object-prep-object	aeroplane on airport
+attribute-object	areomexico aeroplane
+attribute-object	jet aeroplane
+attribute-object	silver aeroplane
+object-verb	aeroplane sit
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################

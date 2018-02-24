@@ -1,0 +1,46 @@
+A close up picture of a Saint Bernard . 
+a close up picture of a Saint Bernard . 
+
+attribute-object	saint dog
+object	dog
+object	bernard
+object	dog
+#####################################################
+A large brown and white dog . 
+a large brown and white dog . 
+
+attribute-object	large dog
+attribute-object	brown dog
+attribute-object	white dog
+object	dog
+object	dog
+#####################################################
+A St. Bernard dog close-up with a sleepy look on his face . 
+a St. Bernard dog close-up with a sleepy look on he face . 
+
+attribute-object	st. dog
+attribute-object	bernard dog
+object	dog
+object	dog
+#####################################################
+A St. Bernard dog sitting in a grassy area . 
+a St. Bernard dog sit in a grassy area . 
+
+verb-prep-object	sit in area
+object-prep-object	dog in area
+attribute-object	grassy area
+attribute-object	st. dog
+attribute-object	bernard dog
+object-verb	dog sit
+object	area
+object	dog
+object	dog
+#####################################################
+Close-up of a St. Bernard . 
+close-up of a St. Bernard . 
+
+attribute-object	st. dog
+object	dog
+object	bernard
+object	dog
+#####################################################

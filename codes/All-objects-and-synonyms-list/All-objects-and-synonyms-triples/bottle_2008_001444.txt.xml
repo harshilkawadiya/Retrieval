@@ -1,0 +1,64 @@
+A man dressed for a race relaxes . 
+a man dress for a race relax . 
+
+verb-prep-object	dress for race
+object-verb	person relax
+object-verb	person dress
+object	race
+object	person
+object	man
+object	bottle
+#####################################################
+An older gentleman relaxing after a race . 
+a older gentleman relax after a race . 
+
+verb-prep-object	relax after race
+attribute-object	older person
+object-verb	person relax
+object	race
+object	person
+object	gentleman
+object	bottle
+#####################################################
+A runner is resting in the shade with a bottle of soda . 
+a runner be rest in the shade with a bottle of soda . 
+
+verb-prep-object	rest with bottle
+verb-prep-object	rest in shade
+object-prep-object	runner in shade
+object-prep-object	bottle of soda
+object-verb	runner rest
+object	bottle
+object	shade
+object	runner
+object	soda
+object	bottle
+#####################################################
+Older gentleman sitting down with bottle in hands . 
+older gentleman sit down with bottle in hand . 
+
+verb-prep-object	sit with bottle
+object-prep-object	person with gentleman
+attribute-object	older person
+object-verb	person sit
+verb-attribute	sit down
+object	bottle
+object	person
+object	gentleman
+object	bottle
+#####################################################
+The man in bicycle clothes is reclining with a plastic bottle . 
+the man in bicycle clothes be recline with a plastic bottle . 
+
+verb-prep-object	recline with bottle
+object-prep-object	person with man
+object-prep-object	person in man
+attribute-object	bicycle clothes
+attribute-object	plastic bottle
+object-verb	person recline
+object	bottle
+object	person
+object	man
+object	clothes
+object	bottle
+#####################################################

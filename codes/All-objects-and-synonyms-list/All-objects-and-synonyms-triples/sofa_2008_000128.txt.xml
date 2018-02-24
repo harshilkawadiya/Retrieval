@@ -1,0 +1,62 @@
+A middle aged lady with brown hair holding a newborn baby . 
+a middle age lady with brown hair hold a newborn baby . 
+
+object-verb-object	person hold lady
+attribute-object	middle_age person
+object-prep-object	person with lady
+attribute-object	brown hair
+attribute-object	newborn baby
+object	person
+object	lady
+object	hair
+object	baby
+object	sofa
+#####################################################
+A smiling woman holding a small baby . 
+a smile woman hold a small baby . 
+
+attribute-object	smile person
+attribute-object	small baby
+object-verb-object	person hold woman
+object	person
+object	woman
+object	baby
+object	sofa
+#####################################################
+a woman sitting on a sofa holding a baby . 
+a woman sit on a sofa hold a baby . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on woman
+object-verb-object	person hold woman
+object-verb	person sit
+object	sofa
+object	person
+object	woman
+object	sofa
+#####################################################
+A woman holds a small baby while sitting on a sofa . 
+a woman hold a small baby while sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on woman
+object-verb	person sit
+attribute-object	small baby
+object-verb-object	person hold woman
+object	sofa
+object	person
+object	woman
+object	baby
+object	sofa
+#####################################################
+Older woman holding newborn baby . 
+older woman hold newborn baby . 
+
+attribute-object	older person
+attribute-object	newborn baby
+object-verb-object	person hold woman
+object	person
+object	woman
+object	baby
+object	sofa
+#####################################################

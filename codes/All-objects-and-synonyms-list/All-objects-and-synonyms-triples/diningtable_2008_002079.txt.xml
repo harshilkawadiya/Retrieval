@@ -1,0 +1,67 @@
+A family poses for a picture while out at a restaurant . 
+a family pose for a picture while out at a restaurant . 
+
+object-verb	person pose
+verb-prep-object	pose for picture
+object-prep-object	person at family
+verb-prep-object	pose at restaurant
+object	person
+object	family
+object	picture
+object	restaurant
+object	diningtable
+#####################################################
+A family smiles for a photo taken while out to dinner at a restaurant . 
+a family smile for a photo take while out to dinner at a restaurant . 
+
+object-prep-object	person at family
+verb-prep-object	smile for photo
+object-verb	person smile
+object	person
+object	family
+object	photo
+object	diningtable
+#####################################################
+A group of people sitting at a restaurant table . 
+a group of people sit at a restaurant table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+attribute-object	restaurant diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Group of people sitting around a restaurant dining table . 
+Group of people sit around a restaurant dining table . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+attribute-object	restaurant diningtable
+attribute-object	dining diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Six people are seated at a restaurant table and looking into the camera . 
+six people be seat at a restaurant table and look into the camera . 
+
+verb-prep-object	seat at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	look into camera
+attribute-object	restaurant diningtable
+object-verb	person seat
+object-verb	person look
+object	diningtable
+object	table
+object	person
+object	people
+object	camera
+object	diningtable
+#####################################################

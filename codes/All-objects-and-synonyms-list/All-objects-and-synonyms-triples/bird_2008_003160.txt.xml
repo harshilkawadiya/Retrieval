@@ -1,0 +1,56 @@
+A family of hens walking down a dirt road . 
+a family of hen walk down a dirt road . 
+
+object-prep-object	person of family
+object-verb-object	person walk family
+attribute-object	dirt road
+verb-attribute	walk down
+object	person
+object	family
+object	road
+object	bird
+#####################################################
+A flock of chickens on a dirt road . 
+a flock of chicken on a dirt road . 
+
+object-prep-object	flock of bird
+object-prep-object	flock on road
+attribute-object	dirt road
+object	flock
+object	bird
+object	road
+object	bird
+#####################################################
+A group of chickens walking along a dirt track . 
+a group of chicken walk along a dirt track . 
+
+object-prep-object	group of bird
+verb-prep-object	walk along track
+attribute-object	dirt track
+object-verb	group walk
+object	group
+object	bird
+object	track
+object	bird
+#####################################################
+Nine chickens on a dirt road . 
+nine chicken on a dirt road . 
+
+object-prep-object	bird on road
+attribute-object	dirt road
+object	bird
+object	road
+object	bird
+#####################################################
+There is a dirt road with multiple roosters wandering around . 
+there be a dirt road with multiple rooster wander around . 
+
+object-prep-object	road with bird
+verb-attribute	wander around
+attribute-object	multiple bird
+attribute-object	dirt road
+object-verb	bird wander
+object	road
+object	bird
+object	bird
+#####################################################

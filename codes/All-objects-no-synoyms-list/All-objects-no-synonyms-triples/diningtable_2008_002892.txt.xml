@@ -1,0 +1,65 @@
+A group of five people sitting at a table with water glasses on it . 
+a group of five people sit at a table with water glass on it . 
+
+object-verb	people sit
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table with glass
+attribute-object	water glass
+object	people
+object	table
+object	glass
+object	diningtable
+#####################################################
+A mixed-race family poses for a photo while at a restaurant . 
+a mixed-race family pose for a photo while at a restaurant . 
+
+verb-prep-object	pose for photo
+verb-prep-object	pose at restaurant
+object-prep-object	family at restaurant
+attribute-object	mixed-race family
+object-verb	family pose
+object	photo
+object	restaurant
+object	family
+object	diningtable
+#####################################################
+five people sitting at a table in a restaurant overlooking a view of a city . 
+five people sit at a table in a restaurant overlook a view of a city . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table in restaurant
+object-prep-object	people in restaurant
+object-verb	people sit
+object	table
+object	people
+object	restaurant
+object	diningtable
+#####################################################
+Four adults and a young girl sitting at the table . 
+four adult and a young girl sit at the table . 
+
+verb-prep-object	sit at table
+object-prep-object	adult at table
+object-prep-object	girl at table
+attribute-object	young girl
+object-verb	adult sit
+object-verb	girl sit
+object	table
+object	adult
+object	girl
+object	diningtable
+#####################################################
+Group of people sitting at long white table . 
+Group of people sit at long white table . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+attribute-object	long table
+attribute-object	white table
+object-verb	people sit
+object	table
+object	people
+object	diningtable
+#####################################################

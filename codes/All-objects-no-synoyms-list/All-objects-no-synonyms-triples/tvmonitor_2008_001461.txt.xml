@@ -1,0 +1,99 @@
+A woman and her dog watch the cameraman in their living with wooden floors . 
+a woman and she dog watch the cameraman in they living with wooden floor . 
+
+object-prep-object	living with floor
+verb-prep-object	watch in living
+object-prep-object	woman in living
+object-prep-object	dog in living
+attribute-object	wooden floor
+object-verb-object	woman watch cameraman
+object-verb-object	dog watch cameraman
+object	living
+object	floor
+object	woman
+object	dog
+object	cameraman
+object	tvmonitor
+#####################################################
+A woman sitting on the couch while a black faced dog runs across the floor . 
+a woman sit on the couch while a black face dog run across the floor . 
+
+verb-prep-object	run across floor
+object-prep-object	dog across floor
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+attribute-object	black dog
+attribute-object	faced dog
+object-verb	dog run
+object-verb	woman sit
+object	floor
+object	dog
+object	couch
+object	woman
+object	tvmonitor
+#####################################################
+A woman wearing a backpack sits on a couch while a small dog runs on the hardwood floor next to her . 
+a woman wear a backpack sit on a couch while a small dog run on the hardwood floor next to she . 
+
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+verb-prep-object	run on floor
+object-prep-object	dog on floor
+attribute-object	small dog
+object-verb-object	woman wear backpack
+attribute-object	hardwood floor
+object-verb	woman sit
+object-verb	dog run
+object	couch
+object	woman
+object	floor
+object	dog
+object	backpack
+object	tvmonitor
+#####################################################
+A woman sitting on a sofa while a small Jack Russell walks towards the camera . 
+a woman sit on a sofa while a small Jack Russell walk towards the camera . 
+
+verb-prep-object	sit on sofa
+object-prep-object	woman on sofa
+verb-prep-object	walk towards camera
+attribute-object	small russell
+attribute-object	jack russell
+object-verb	russell walk
+object-verb	woman sit
+object	sofa
+object	woman
+object	camera
+object	russell
+object	tvmonitor
+#####################################################
+White and black small dog walks toward the camera while woman sits on couch , desk and computer seen in the background as well as a pillow , teddy bear and moggie toy on the wood floor . 
+White and black small dog walk toward the camera while woman sit on couch , desk and computer see in the background as well as a pillow , teddy bear and moggie toy on the wood floor . 
+
+object-verb	dog walk
+verb-prep-object	walk toward camera
+attribute-object	white dog
+attribute-object	black dog
+attribute-object	small dog
+object-verb	woman sit
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+attribute-object	teddy bear
+attribute-object	moggie toy
+attribute-object	wood floor
+object	desk
+object	computer
+object	pillow
+object-prep-object	toy on floor
+object	dog
+object	camera
+object	woman
+object	couch
+object	bear
+object	toy
+object	floor
+object	desk
+object	computer
+object	pillow
+object	tvmonitor
+#####################################################

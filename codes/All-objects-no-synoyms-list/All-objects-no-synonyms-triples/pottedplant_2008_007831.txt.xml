@@ -1,0 +1,56 @@
+Assorted small potted plants labeled on shelves . 
+assorted small potted plant label on shelf . 
+
+verb-prep-object	label on shelf
+object-prep-object	plant on shelf
+attribute-object	assorted plant
+attribute-object	small plant
+attribute-object	potted plant
+object-verb	plant label
+object	shelf
+object	plant
+object	pottedplant
+#####################################################
+A variety of desert plants . 
+a variety of desert plant . 
+
+attribute-object	desert plant
+object	plant
+object	pottedplant
+#####################################################
+Cacti and other desert plants on two shelves . 
+cactus and other desert plant on two shelf . 
+
+object-prep-object	cactus on shelf
+object-prep-object	plant on shelf
+attribute-object	desert plant
+object	cactus
+object	shelf
+object	plant
+object	pottedplant
+#####################################################
+Several plants , mostly cacti , are lined up on two shelves . 
+several plant , mostly cactus , be line up on two shelf . 
+
+verb-prep-object	line on shelf
+object-prep-object	plant on shelf
+attribute-object	several plant
+object-verb	plant line
+verb-attribute	line up
+object	shelf
+object	plant
+object	pottedplant
+#####################################################
+Small plants arranged on a shelf with labels for each . 
+small plant arrange on a shelf with label for each . 
+
+object-prep-object	shelf with label
+verb-prep-object	arrange on shelf
+object-prep-object	plant on shelf
+attribute-object	small plant
+object-verb	plant arrange
+object	shelf
+object	label
+object	plant
+object	pottedplant
+#####################################################

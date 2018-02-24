@@ -1,0 +1,69 @@
+A red and cream colored train with graffiti on it at a small , open air train station . 
+a red and cream color train with graffitus on it at a small , open air train station . 
+
+object-prep-object	train at station
+object-prep-object	train with graffitus
+attribute-object	red train
+attribute-object	cream train
+attribute-object	color train
+attribute-object	small station
+attribute-object	open station
+attribute-object	air station
+attribute-object	train station
+object	train
+object	station
+object	graffitus
+object	train
+#####################################################
+A train is parked at a station next to benches . 
+a train be park at a station next to bench . 
+
+verb-prep-object	park at station
+verb-prep-object	park next_to chair
+object-prep-object	train at station
+object-prep-object	train next_to chair
+object-verb	train park
+object	station
+object	chair
+object	bench
+object	train
+object	train
+#####################################################
+A train parked at an empty train station . 
+a train park at a empty train station . 
+
+verb-prep-object	park at station
+object-prep-object	train at station
+attribute-object	empty station
+attribute-object	train station
+object-verb	train park
+object	station
+object	train
+object	train
+#####################################################
+Subway station with the vehicle parked . 
+Subway station with the vehicle park . 
+
+object-prep-object	station with car
+attribute-object	subway station
+object-verb	car park
+object	station
+object	car
+object	vehicle
+object	train
+#####################################################
+Trolley style train cars with graffiti on them sit at a station . 
+trolley style train car with graffitus on they sit at a station . 
+
+object-prep-object	car with graffitus
+attribute-object	trolley car
+attribute-object	style car
+attribute-object	train car
+object-verb	car sit
+verb-prep-object	sit at station
+object-prep-object	car at station
+object	car
+object	graffitus
+object	station
+object	train
+#####################################################

@@ -1,0 +1,72 @@
+a girl and three tents are outside a house with a flag . 
+a girl and three tent be outside a house with a flag . 
+
+object-prep-object	building with house
+object-prep-object	person outside building
+object-prep-object	tent outside building
+object	building
+object	house
+object	person
+object	girl
+object	tent
+object	pottedplant
+#####################################################
+A girl walking across a lawn with three tents and a flagpole . 
+a girl walk across a lawn with three tent and a flagpole . 
+
+object-prep-object	lawn with tent
+object-prep-object	lawn with flagpole
+verb-prep-object	walk across lawn
+object-prep-object	person across girl
+object-verb	person walk
+object	lawn
+object	tent
+object	flagpole
+object	person
+object	girl
+object	pottedplant
+#####################################################
+A yard with three tents , a young girl and a flower planter . 
+a yard with three tent , a young girl and a flower planter . 
+
+object-prep-object	yard with tent
+object-prep-object	yard with person
+object-prep-object	yard with planter
+attribute-object	young person
+attribute-object	flower planter
+object	yard
+object	tent
+object	person
+object	planter
+object	girl
+object	pottedplant
+#####################################################
+A young girl stands in front of three tents in a yard . 
+a young girl stand in front of three tent in a yard . 
+
+verb-prep-object	stand in_front_of tent
+object-prep-object	person in_front_of girl
+object-prep-object	tent in yard
+attribute-object	young person
+object-verb	person stand
+object	tent
+object	person
+object	girl
+object	yard
+object	pottedplant
+#####################################################
+Several tents set up on grass in backyard . 
+several tent set up on grass in backyard . 
+
+verb-prep-object	set on grass
+object-prep-object	tent on grass
+verb-prep-object	set in backyard
+attribute-object	several tent
+object-prep-object	tent in backyard
+object-verb	tent set
+verb-attribute	set up
+object	grass
+object	tent
+object	backyard
+object	pottedplant
+#####################################################

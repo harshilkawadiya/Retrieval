@@ -1,0 +1,66 @@
+A brown and white dog sits on a floral-patterned chair . 
+a brown and white dog sit on a floral-patterned chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	dog on chair
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	floral-patterned chair
+object-verb	dog sit
+object	chair
+object	dog
+object	dog
+#####################################################
+A small orange and white dog with a collar and a bell relaxes on a flower print pillow . 
+a small orange and white dog with a collar and a bell relax on a flower print pillow . 
+
+object-prep-object	dog with collar
+object-prep-object	dog with bell
+verb-prep-object	relax on pillow
+object-prep-object	dog on pillow
+attribute-object	small dog
+attribute-object	orange dog
+attribute-object	white dog
+attribute-object	flower pillow
+attribute-object	print pillow
+object-verb	dog relax
+object	dog
+object	collar
+object	bell
+object	pillow
+object	dog
+#####################################################
+Brown and white dog with bell on black collar . 
+Brown and white dog with bell on black collar . 
+
+object-prep-object	bell on collar
+object-prep-object	dog with bell
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	black collar
+object	bell
+object	collar
+object	dog
+object	dog
+#####################################################
+Dog on a flower print pillow . 
+Dog on a flower print pillow . 
+
+object-prep-object	dog on pillow
+attribute-object	flower pillow
+attribute-object	print pillow
+object	dog
+object	pillow
+object	dog
+#####################################################
+White and tan dog on a flowered couch . 
+White and tan dog on a flowered couch . 
+
+object-prep-object	dog on couch
+attribute-object	white dog
+attribute-object	tan dog
+attribute-object	flowered couch
+object	dog
+object	couch
+object	dog
+#####################################################

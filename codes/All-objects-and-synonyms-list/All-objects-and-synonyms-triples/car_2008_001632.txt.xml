@@ -1,0 +1,57 @@
+A motion shot of the right side of a red Ferrari . 
+a motion shot of the right side of a red Ferrari . 
+
+attribute-object	red car
+object	car
+object	ferrari
+object	car
+#####################################################
+A red Ferrari being driven around a race track . 
+a red Ferrari be drive around a race track . 
+
+verb-prep-object	drive around track
+object-prep-object	car around ferrari
+attribute-object	red car
+attribute-object	race track
+object-verb	car drive
+object	track
+object	car
+object	ferrari
+object	car
+#####################################################
+A red racing car speeding along a race track . 
+a red racing car speed along a race track . 
+
+verb-prep-object	speed along track
+object-prep-object	car along track
+attribute-object	red car
+attribute-object	racing car
+attribute-object	race track
+object-verb	car speed
+object	track
+object	car
+object	car
+#####################################################
+A red sports car driving quickly on a track . 
+a red sport car drive quickly on a track . 
+
+verb-prep-object	drive on track
+verb-attribute	drive quickly
+attribute-object	red car
+attribute-object	sport car
+object-verb	car drive
+object	track
+object	car
+object	car
+#####################################################
+Red sports car racing down track . 
+Red sport car race down track . 
+
+object-verb-object	car race track
+attribute-object	red car
+attribute-object	sport car
+verb-attribute	race down
+object	car
+object	track
+object	car
+#####################################################

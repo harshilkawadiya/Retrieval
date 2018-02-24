@@ -1,0 +1,50 @@
+beam_size_1	2	A girl 's hands , another person 's feet , and a boy playing bongo drums sit on a picnic table .
+beam_size_1	3	A picture of a group of peoples ' feet .
+beam_size_1	4	The legs and feet of people sitting on a wooden table , two cameras and cigarettes on it .
+beam_size_1	5	Three people are sitting on a picnic table along with two cameras and a drum .
+beam_size_1	6	Three people sit on a bench .
+beam_size_1	7	A group of dogs racing .
+beam_size_1	8	A number eight racing dog is beating a number four racing dog slightly in a race .
+beam_size_1	9	Several dogs wearing muzzles are racing on a track .
+beam_size_1	10	There are three dogs wearing numbered jerseys running a race .
+beam_size_1	11	Three race dogs run to finish a race .
+beam_size_1	12	A race cars muffler catches on fire .
+beam_size_1	13	A race car sparks .
+beam_size_1	14	A sports car with flames coming out the exhaust .
+beam_size_1	15	The blue and white race car has flames coming out of its tail pipe .
+beam_size_1	16	The white racing car has fire bursting from its exhaust pipe .
+beam_size_1	17	A dog in a yellow jersey is running a race .
+beam_size_1	18	A dog participating in a race while wearing the number 6 .
+beam_size_1	19	A greyhound wearing a muzzle and the number six on a yellow jacket is running on a dog track .
+beam_size_1	20	A muzzled race dog running
+beam_size_1	21	A race dog is running for first
+beam_size_1	22	A man and a toddler look at advertisements .
+beam_size_1	23	A man and child in front of a billboard
+beam_size_1	24	A man in a black coat and hat and a child with a red snowsuit and Pooh backpacker read advertisements near a McDonalds .
+beam_size_1	25	A man stands on a street corner with a small child looking at a sign .
+beam_size_1	26	There is a man with a young child in a red outfit looking at advertisements .
+beam_size_1	27	A man in a green shirt climbs an indoor climbing wall .
+beam_size_1	28	A man in a green shirt is climbing an obstacle course .
+beam_size_1	29	A teenage boy climbs an indoor climbing wall .
+beam_size_1	30	A teenager climbs a rock wall .
+beam_size_1	31	Someone climbs an indoor climbing wall .
+beam_size_1	32	A child plays on the floor .
+beam_size_1	33	A little girl throws a pink and yellow chunk of chalk .
+beam_size_1	34	A small girl is sitting on the cement dropping some chalk
+beam_size_1	35	A young child plays with sidewalk chalk by dropping it on the gound .
+beam_size_1	36	A young girl throwing her pink chalk .
+beam_size_1	37	A group of girls sit back to back .
+beam_size_1	38	a group of girls sitting in a circle
+beam_size_1	39	Little girl in bare feet sitting in a circle .
+beam_size_1	40	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	41	The young girls sat in a circle on the wood floor .
+beam_size_1	42	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	43	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	44	a little boy at the beach with a surfboard
+beam_size_1	45	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	46	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	47	A man in a pink shirt climbs a rock face
+beam_size_1	48	A man is rock climbing high in the air .
+beam_size_1	49	A person in a red shirt climbing up a rock face covered in assist handles .
+beam_size_1	50	A rock climber in a red shirt .
+beam_size_1	51	A rock climber practices on a rock climbing wall .

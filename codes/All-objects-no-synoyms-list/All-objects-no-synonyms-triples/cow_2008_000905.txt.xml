@@ -1,0 +1,55 @@
+An ox stands in a field . 
+a ox stand in a field . 
+
+verb-prep-object	stand in field
+object-prep-object	ox in field
+object-verb	ox stand
+object	field
+object	ox
+object	cow
+#####################################################
+A yak with a long , camel colored coat standing in a field . 
+a yak with a long , camel color coat standing in a field . 
+
+object-verb	yak stand
+verb-prep-object	stand in field
+object-prep-object	yak in field
+object-prep-object	yak with coat
+attribute-object	long coat
+attribute-object	camel coat
+attribute-object	color coat
+object	yak
+object	field
+object	coat
+object	cow
+#####################################################
+A young highlander cow stands in a pasture . 
+a young highlander cow stand in a pasture . 
+
+verb-prep-object	stand in pasture
+object-prep-object	cow in pasture
+attribute-object	young cow
+attribute-object	highlander cow
+object-verb	cow stand
+object	pasture
+object	cow
+object	cow
+#####################################################
+Closeup of a bull with hair covering its eyes . 
+closeup of a bull with hair cover its eye . 
+
+object-prep-object	bull with hair
+object	bull
+object	hair
+object	cow
+#####################################################
+Shaggy brown bull with his hair in his eyes . 
+Shaggy brown bull with he hair in he eye . 
+
+object-prep-object	bull with hair
+attribute-object	shaggy bull
+attribute-object	brown bull
+object	bull
+object	hair
+object	cow
+#####################################################

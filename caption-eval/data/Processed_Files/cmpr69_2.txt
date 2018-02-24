@@ -1,0 +1,50 @@
+beam_size_1	2	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	3	A firetruck with ladder extended on the side of the road .
+beam_size_1	4	A jogger with a dog approaches a ladder truck .
+beam_size_1	5	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	6	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	7	A bunch of asian children on steps .
+beam_size_1	8	A large group of Asian children sit on or stand near steps .
+beam_size_1	9	Group of children in blue uniforms sitting on steps .
+beam_size_1	10	Little children in school uniforms congregate on the steps .
+beam_size_1	11	Many school children dressed in the same uniform are sitting on stairs .
+beam_size_1	12	A couple are looking at an area map .
+beam_size_1	13	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	14	Tourists examine a sign .
+beam_size_1	15	Two people are reading a sign in front of a museum .
+beam_size_1	16	Two people read a sign in front of a museum .
+beam_size_1	17	A child , held by his mother , slides down a water slide .
+beam_size_1	18	A woman holding a young boy slide down a water slide into a pool .
+beam_size_1	19	A woman is holding up a child as they coming splashing down a slide into a pool .
+beam_size_1	20	A woman is sliding down a water slide with a little boy on her lap .
+beam_size_1	21	A woman slides down a purple water slide with a small boy on her lap into a pool .
+beam_size_1	22	A pack of black dogs running in grass .
+beam_size_1	23	Five black dogs run in a field .
+beam_size_1	24	Five black dogs running across the grass .
+beam_size_1	25	Many black dogs run in a grassy area .
+beam_size_1	26	The black dogs are running in a grassy field
+beam_size_1	27	A man is standing in front of glass doors with a blue spot and a pink spot .
+beam_size_1	28	A man is standing outside the glass doors of an art center .
+beam_size_1	29	A man stands at the entrance of Yerba Buena Center for the Arts .
+beam_size_1	30	A man walking through glass double doors .
+beam_size_1	31	Person standing at glass doors with big blue circle and big pink circle
+beam_size_1	32	Two boys are running in a metal barrel .
+beam_size_1	33	Two boys are running in a spinning tube .
+beam_size_1	34	Two boys are walking inside a human-size exercise-wheel .
+beam_size_1	35	Two boys running in a giant metal wheel .
+beam_size_1	36	Two boys walking to make a cylinder roll at a small carnival .
+beam_size_1	37	A group of men playing hockey .
+beam_size_1	38	A team of hockey players , with one player taking a shot .
+beam_size_1	39	Hockey players with one taking a shot .
+beam_size_1	40	Six hockey players of the same team are skating around waiting for the puck .
+beam_size_1	41	There is an ice hockey game in progress .
+beam_size_1	42	a boy wearing a white shirt and pink shoelaces jumping on a railing
+beam_size_1	43	A man jumps of the handrail of an outdoor staircase .
+beam_size_1	44	A person on a skateboard .
+beam_size_1	45	A skateboarder is balancing on the rail of stairs .
+beam_size_1	46	A teenage boy jumps off a rail .
+beam_size_1	47	a brown dog is sitting on the grass wearing a blue sports jacket .
+beam_size_1	48	A dog in a blue sweater is sitting in the grass .
+beam_size_1	49	A gray dog sits on a lawn wearing a bright blue long sleeved jacket .
+beam_size_1	50	A gray dog wearing a blue long sleeved zip-up jacket .
+beam_size_1	51	The gray dog sits quietly , dressed in a blue track jacket .

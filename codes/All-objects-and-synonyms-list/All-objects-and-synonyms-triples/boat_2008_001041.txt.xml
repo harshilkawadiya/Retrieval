@@ -1,0 +1,56 @@
+A caravel towing a fiberglass boat . 
+a caravel tow a fiberglass boat . 
+
+object-verb-object	ship tow caravel
+attribute-object	fiberglass boat
+object	ship
+object	caravel
+object	boat
+object	boat
+#####################################################
+A large boat pulling a small white boat . 
+a large boat pull a small white boat . 
+
+attribute-object	large boat
+attribute-object	small boat
+attribute-object	white boat
+object-verb-object	boat pull boat
+object	boat
+object	boat
+#####################################################
+An old fashioned wooden sailing ship in the ocean . 
+a old fashion wooden sailing ship in the ocean . 
+
+object-prep-object	boat in water
+attribute-object	old boat
+attribute-object	fashion boat
+attribute-object	wooden boat
+attribute-object	sailing boat
+object	boat
+object	water
+object	boat
+#####################################################
+Sail boat sailing through the water on the ocean . 
+Sail boat sailing through the water on the ocean . 
+
+verb-prep-object	sailing on water
+verb-prep-object	sailing through water
+object-prep-object	boat on water
+object-prep-object	boat through water
+attribute-object	sail boat
+object-verb	boat sailing
+object	water
+object	ocean
+object	boat
+object	boat
+#####################################################
+The ship is sailing in the ocean . 
+the ship be sail in the ocean . 
+
+verb-prep-object	sail in water
+object-prep-object	boat in water
+object-verb	boat sail
+object	water
+object	boat
+object	boat
+#####################################################

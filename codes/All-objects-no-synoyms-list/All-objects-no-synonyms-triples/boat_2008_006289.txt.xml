@@ -1,0 +1,54 @@
+a sail boat with two people . 
+a sail boat with two people . 
+
+object-prep-object	boat with people
+attribute-object	sail boat
+object	boat
+object	people
+object	boat
+#####################################################
+Two men on a sailboat with a blue sail . 
+two man on a sailboat with a blue sail . 
+
+object-prep-object	man on sailboat
+object-prep-object	boat with sail
+attribute-object	blue sail
+object	man
+object	sailboat
+object	boat
+object	sail
+object	boat
+#####################################################
+Two men sailing a small boat towards the camera . 
+two man sail a small boat towards the camera . 
+
+verb-prep-object	sail towards camera
+attribute-object	small boat
+object-verb-object	man sail boat
+object	camera
+object	boat
+object	man
+object	boat
+#####################################################
+Two men sailing in a small sailboat . 
+two man sail in a small sailboat . 
+
+verb-prep-object	sail in sailboat
+object-prep-object	man in sailboat
+attribute-object	small sailboat
+object-verb	man sail
+object	sailboat
+object	man
+object	boat
+#####################################################
+Two people sail a boat with a teal sail . 
+two people sail a boat with a teal sail . 
+
+object-prep-object	boat with sail
+attribute-object	teal sail
+object-verb-object	people sail boat
+object	boat
+object	sail
+object	people
+object	boat
+#####################################################

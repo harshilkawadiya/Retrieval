@@ -1,0 +1,56 @@
+A cow drinking out of a water trough . 
+a cow drinking out of a water trough . 
+
+verb-prep-object	drink out_of trough
+object-prep-object	cow out_of trough
+object-verb	cow drink
+attribute-object	water trough
+object	trough
+object	cow
+object	cow
+#####################################################
+Brown and white cows are eating from a trough . 
+Brown and white cow be eat from a trough . 
+
+verb-prep-object	eat from trough
+attribute-object	brown cow
+attribute-object	white cow
+object-verb	cow eat
+object	trough
+object	cow
+object	cow
+#####################################################
+Cow drink from the trough on the farm . 
+cow drink from the trough on the farm . 
+
+verb-prep-object	drink from trough
+object-prep-object	trough on farm
+object-verb	cow drink
+object	trough
+object	farm
+object	cow
+object	cow
+#####################################################
+Four brown and white cows at the watering trough . 
+four brown and white cow at the water trough . 
+
+object-prep-object	cow at trough
+attribute-object	brown cow
+attribute-object	white cow
+attribute-object	water trough
+object	cow
+object	trough
+object	cow
+#####################################################
+The brown and white cows are eating in the trough . 
+the brown and white cow be eat in the trough . 
+
+verb-prep-object	eat in trough
+object-prep-object	cow in trough
+attribute-object	brown cow
+attribute-object	white cow
+object-verb	cow eat
+object	trough
+object	cow
+object	cow
+#####################################################

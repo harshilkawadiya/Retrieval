@@ -1,0 +1,50 @@
+beam_size_1	2	A blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake .
+beam_size_1	3	A boy diving backward off a pier in a large lake .
+beam_size_1	4	A boy in a blue life jacket jumps into the water .
+beam_size_1	5	A boy in a blue life jacket jumps off a board into the lake .
+beam_size_1	6	A boy is holding his nose and jumping off a diving board backwards into a lake .
+beam_size_1	7	A child riding a scooter indoors .
+beam_size_1	8	A girl plays on a red scooter .
+beam_size_1	9	Little girl playing on a scooter in her house .
+beam_size_1	10	The girl is on a red scooter
+beam_size_1	11	The little girl is riding her red scooter .
+beam_size_1	12	A dog chases a stuffed animal attached to a string .
+beam_size_1	13	A white and black dog chases after a decoy-animal on a string .
+beam_size_1	14	A white dog is chasing a stuffed animal being pulled on a string .
+beam_size_1	15	The white dog is chasing a toy that is attached to a string across the grass .
+beam_size_1	16	The white dog is running in the green grass .
+beam_size_1	17	A couple are looking at an area map .
+beam_size_1	18	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	19	Tourists examine a sign .
+beam_size_1	20	Two people are reading a sign in front of a museum .
+beam_size_1	21	Two people read a sign in front of a museum .
+beam_size_1	22	A dog sled team seen from behind .
+beam_size_1	23	A group of dogs harnessed together to pull something in the snow .
+beam_size_1	24	A sled dog team running from the perspective of the rider .
+beam_size_1	25	A sled-dog team works hard on this snowy trail .
+beam_size_1	26	Several dogs in the snow , all harnessed in a line .
+beam_size_1	27	A guy on a snowboard grinding .
+beam_size_1	28	A snowboarder is attempting a trick down an outside railing .
+beam_size_1	29	Person in gray jacket and blue pants balancing board on handrail
+beam_size_1	30	The snowboarder is grinding on a silver rail in the nighttime snow .
+beam_size_1	31	The snow borader is riding a rail .
+beam_size_1	32	A man and a toddler look at advertisements .
+beam_size_1	33	A man and child in front of a billboard
+beam_size_1	34	A man in a black coat and hat and a child with a red snowsuit and Pooh backpacker read advertisements near a McDonalds .
+beam_size_1	35	A man stands on a street corner with a small child looking at a sign .
+beam_size_1	36	There is a man with a young child in a red outfit looking at advertisements .
+beam_size_1	37	A girl doing a kick near a woman .
+beam_size_1	38	A girl in black high kicks over a jack-o-lantern .
+beam_size_1	39	A girl in jeans tries to show an adult how high she can kick .
+beam_size_1	40	A girl kicking her leg up to the shoulder of a woman standing next to her .
+beam_size_1	41	A woman kicks at a man .
+beam_size_1	42	A child on a red slide .
+beam_size_1	43	A little boy sits on a slide on the playground .
+beam_size_1	44	A little boy slides down a bright red corkscrew slide .
+beam_size_1	45	A little boy slides down a red slide .
+beam_size_1	46	a young boy wearing a blue outfit sliding down a red slide .
+beam_size_1	47	The brown dogs are playing with a blue toy together .
+beam_size_1	48	The two light colored dogs are pulling on a blue object that is in their mouths .
+beam_size_1	49	Two beige dogs are playing in the grass near a doghouse .
+beam_size_1	50	Two dogs are playing tug of war with a blue object in front of a building .
+beam_size_1	51	Two light brown dogs are tugging at a blue toy in front of a blue shed .

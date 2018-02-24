@@ -1,0 +1,58 @@
+A small train stopped on the tracks in a park . 
+a small train stop on the track in a park . 
+
+verb-prep-object	stop in park
+attribute-object	small train
+object-verb	train stop
+verb-prep-object	stop on track
+object-prep-object	train on track
+object-prep-object	train in park
+object	park
+object	train
+object	track
+object	train
+#####################################################
+Railroad tracks with a railroad car on them . 
+railroad track with a railroad car on they . 
+
+object-prep-object	track with car
+attribute-object	railroad track
+attribute-object	railroad car
+object	track
+object	car
+object	train
+#####################################################
+The brown train is sitting on the railroad tracks . 
+the brown train be sit on the railroad track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	brown train
+attribute-object	railroad track
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################
+The train heads down the tracks and along the hedge . 
+the train head down the track and along the hedge . 
+
+object-verb-object	train head track
+object-prep-object	train along hedge
+verb-attribute	head down
+object	train
+object	track
+object	hedge
+object	train
+#####################################################
+Train cars sitting on a track . 
+train car sit on a track . 
+
+verb-prep-object	sit on track
+object-prep-object	car on track
+attribute-object	train car
+object-verb	car sit
+object	track
+object	car
+object	train
+#####################################################

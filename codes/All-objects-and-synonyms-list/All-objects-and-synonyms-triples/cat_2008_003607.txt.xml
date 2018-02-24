@@ -1,0 +1,87 @@
+A blonde dog and a black and gray dog sitting on opposite ends of a beige sofa , with a gray cat sleeping between them . 
+a blonde dog and a black and gray dog sit on opposite end of a beige sofa , with a gray cat sleep between they . 
+
+object-verb	dog sit
+object-verb	dog sit
+attribute-object	blonde dog
+attribute-object	black dog
+attribute-object	gray dog
+verb-prep-object	sit on sofa
+object-prep-object	dog on sofa
+attribute-object	brown sofa
+verb-prep-object	sit with cat
+attribute-object	gray cat
+object-verb	cat sleep
+object-prep-object	dog with cat
+object	dog
+object	sofa
+object	cat
+object	cat
+#####################################################
+A white dog , a black dog , and a gray cat lay on a white couch together near a window . 
+a white dog , a black dog , and a gray cat lay on a white couch together near a window . 
+
+verb-prep-object	lay on sofa
+object-prep-object	dog on bed
+object-prep-object	dog on bed
+object-prep-object	cat on bed
+verb-prep-object	lay near window
+object-prep-object	dog near window
+object-prep-object	dog near window
+object-prep-object	cat near window
+attribute-object	white dog
+attribute-object	black dog
+attribute-object	gray cat
+attribute-object	white sofa
+object-verb	dog lay
+object-verb	dog lay
+object-verb	cat lay
+object	sofa
+object	bed
+object	dog
+object	cat
+object	window
+object	cat
+#####################################################
+Cats and dogs getting along while sleeping on the couch . 
+cat and dog get along while sleep on the couch . 
+
+verb-prep-object	sleep on sofa
+object-prep-object	dog on bed
+object-prep-object	cat on bed
+object-verb	cat sleep
+object-verb	dog sleep
+object	sofa
+object	bed
+object	dog
+object	cat
+object	cat
+#####################################################
+Two dogs and a cat resting on a couch . 
+two dog and a cat rest on a couch . 
+
+verb-prep-object	rest on sofa
+object-prep-object	dog on bed
+object-prep-object	cat on bed
+object-verb	dog rest
+object-verb	cat rest
+object	sofa
+object	bed
+object	dog
+object	cat
+object	cat
+#####################################################
+Two dogs and one cat sitting on couch . 
+two dog and one cat sit on couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	dog on bed
+object-prep-object	cat on bed
+object-verb	dog sit
+object-verb	cat sit
+object	sofa
+object	bed
+object	dog
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,50 @@
+A boat with four sails is sailing on water . 
+a boat with four sail be sail on water . 
+
+object-prep-object	boat with sail
+verb-prep-object	sail on water
+object-prep-object	boat on water
+object-verb	boat sail
+object	boat
+object	sail
+object	water
+object	boat
+#####################################################
+A sail boat on the ocean . 
+a sail boat on the ocean . 
+
+object-prep-object	boat on ocean
+attribute-object	sail boat
+object	boat
+object	ocean
+object	boat
+#####################################################
+Sailboat in a body of water . 
+Sailboat in a body of water . 
+
+object-prep-object	sailboat in water
+object	sailboat
+object	water
+object	boat
+#####################################################
+Sailboat sailing on a cloudy day . 
+Sailboat sailing on a cloudy day . 
+
+verb-prep-object	sailing on day
+attribute-object	cloudy day
+object-verb	sailboat sailing
+object	day
+object	sailboat
+object	boat
+#####################################################
+Sail boat sailing on the water . 
+Sail boat sailing on the water . 
+
+verb-prep-object	sailing on water
+object-prep-object	boat on water
+attribute-object	sail boat
+object-verb	boat sailing
+object	water
+object	boat
+object	boat
+#####################################################

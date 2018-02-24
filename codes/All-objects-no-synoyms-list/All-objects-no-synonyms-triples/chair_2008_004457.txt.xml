@@ -1,0 +1,67 @@
+A couple enjoying a sunny day on the top deck of a cruise ship . 
+a couple enjoy a sunny day on the top deck of a cruise ship . 
+
+object-prep-object	deck of ship
+attribute-object	sunny day
+object-prep-object	couple on deck
+attribute-object	top deck
+attribute-object	cruise ship
+object-verb-object	couple enjoy day
+object	deck
+object	ship
+object	day
+object	couple
+object	chair
+#####################################################
+A group of people gather on a blue deck of a boat overlooking the water . 
+a group of people gather on a blue deck of a boat overlook the water . 
+
+verb-prep-object	gather on deck
+object-prep-object	people on deck
+object-prep-object	deck of boat
+attribute-object	blue deck
+object-verb-object	boat overlook water
+object-verb	people gather
+object	deck
+object	people
+object	boat
+object	water
+object	chair
+#####################################################
+A group of people standing and sitting in the open . 
+a group of people stand and sit in the open . 
+
+verb-prep-object	stand in open
+verb-prep-object	sit in open
+object-prep-object	people in open
+object-verb	people stand
+object-verb	people sit
+object	open
+object	people
+object	chair
+#####################################################
+Eight people on the deck of a ship . 
+eight people on the deck of a ship . 
+
+object-prep-object	people on deck
+object-prep-object	deck of ship
+object	people
+object	deck
+object	ship
+object	chair
+#####################################################
+People sit on white chairs or stand looking over white railings . 
+people sit on white chair or stand look over white railing . 
+
+verb-prep-object	look over railing
+verb-prep-object	sit on chair
+object-prep-object	people on chair
+attribute-object	white chair
+attribute-object	white railing
+object-verb	people sit
+object-verb	people stand
+object	railing
+object	chair
+object	people
+object	chair
+#####################################################

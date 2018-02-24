@@ -1,0 +1,55 @@
+a girl with glasses and a brown cow . 
+a girl with glass and a brown cow . 
+
+object-prep-object	girl with glass
+object-prep-object	girl with cow
+attribute-object	brown cow
+object	girl
+object	glass
+object	cow
+object	cow
+#####################################################
+a woman petting a brown cow . 
+a woman pet a brown cow . 
+
+attribute-object	brown cow
+object-verb-object	woman pet cow
+object	cow
+object	woman
+object	cow
+#####################################################
+A woman in glasses stands next to a cow in a field . 
+a woman in glass stand next to a cow in a field . 
+
+verb-prep-object	stand next_to cow
+object-prep-object	woman next_to cow
+object-prep-object	woman in glass
+object-prep-object	cow in field
+object-verb	woman stand
+object	cow
+object	woman
+object	glass
+object	field
+object	cow
+#####################################################
+A woman standing next to a brown cow . 
+a woman stand next to a brown cow . 
+
+verb-prep-object	stand next_to cow
+object-prep-object	woman next_to cow
+attribute-object	brown cow
+object-verb	woman stand
+object	cow
+object	woman
+object	cow
+#####################################################
+A young brunette beside a brown cow . 
+a young brunette beside a brown cow . 
+
+object-prep-object	brunette beside cow
+attribute-object	young brunette
+attribute-object	brown cow
+object	brunette
+object	cow
+object	cow
+#####################################################

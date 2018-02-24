@@ -1,0 +1,69 @@
+An elderly woman stands in a kitchen with two cats at her feet . 
+a elderly woman stand in a kitchen with two cat at she foot . 
+
+object-verb	woman stand
+verb-prep-object	stand in kitchen
+object-prep-object	woman in kitchen
+verb-prep-object	stand with cat
+object-prep-object	woman with cat
+object-prep-object	kitchen with cat
+attribute-object	elderly woman
+object	woman
+object	kitchen
+object	cat
+object	cat
+#####################################################
+A woman in the kitchen wearing her blue apron stands with two cats at her feet . 
+a woman in the kitchen wear she blue apron stand with two cat at she foot . 
+
+object-prep-object	woman in kitchen
+object-verb-object	kitchen wear apron
+verb-prep-object	stand with cat
+object-prep-object	woman with cat
+attribute-object	blue apron
+object-verb	woman stand
+object	woman
+object	kitchen
+object	apron
+object	cat
+object	cat
+#####################################################
+Older woman in kitchen with her two domestic cats . 
+older woman in kitchen with she two domestic cat . 
+
+object-prep-object	woman with cat
+object-prep-object	kitchen with cat
+object-prep-object	woman in kitchen
+attribute-object	older woman
+attribute-object	domestic cat
+object	woman
+object	cat
+object	kitchen
+object	cat
+#####################################################
+The elderly woman prepares to feed her cats . 
+the elderly woman prepare to feed she cat . 
+
+attribute-object	elderly woman
+object-verb	woman prepare
+verb-prep-verb	prepare to feed
+verb-object	feed cat
+object	woman
+object	cat
+object	cat
+#####################################################
+The old lady is standing in the kitchen with two cats at her feet . 
+the old lady be stand in the kitchen with two cat at she foot . 
+
+object-prep-object	kitchen with cat
+object-prep-object	lady with cat
+verb-prep-object	stand in kitchen
+verb-prep-object	stand with cat
+object-prep-object	lady in kitchen
+attribute-object	old lady
+object-verb	lady stand
+object	kitchen
+object	cat
+object	lady
+object	cat
+#####################################################

@@ -1,0 +1,57 @@
+A small yellow boat is beached on the shore near the ocean . 
+a small yellow boat be beach on the shore near the ocean . 
+
+verb-prep-object	beach on shore
+verb-prep-object	beach near water
+object-prep-object	boat on shore
+object-prep-object	boat near water
+attribute-object	small boat
+attribute-object	yellow boat
+object-verb	boat beach
+object	shore
+object	water
+object	ocean
+object	boat
+object	boat
+#####################################################
+A small yellow boat sitting on a tropical beach . 
+a small yellow boat sit on a tropical beach . 
+
+verb-prep-object	sit on beach
+object-prep-object	boat on beach
+attribute-object	small boat
+attribute-object	yellow boat
+attribute-object	tropical beach
+object-verb	boat sit
+object	beach
+object	boat
+object	boat
+#####################################################
+A yellow boat on shore . 
+a yellow boat on shore . 
+
+object-prep-object	boat on shore
+attribute-object	yellow boat
+object	boat
+object	shore
+object	boat
+#####################################################
+Canoe on the beach close to the sea . 
+canoe on the beach close to the sea . 
+
+object-prep-object	boat on canoe
+object-prep-object	boat close_to water
+object	boat
+object	canoe
+object	water
+object	boat
+#####################################################
+Yellow boat on a beach . 
+yellow boat on a beach . 
+
+object-prep-object	boat on beach
+attribute-object	yellow boat
+object	boat
+object	beach
+object	boat
+#####################################################

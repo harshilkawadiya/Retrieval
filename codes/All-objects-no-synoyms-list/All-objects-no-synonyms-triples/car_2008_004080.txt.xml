@@ -1,0 +1,56 @@
+A white minivan parked in a garage with city skyline in the background . 
+a white minivan park in a garage with city skyline in the background . 
+
+object-verb	minivan park
+verb-prep-object	park in garage
+object-prep-object	minivan in garage
+attribute-object	white minivan
+attribute-object	city skyline
+object	minivan
+object	garage
+object	skyline
+object	car
+#####################################################
+A white van is parked with a view of the city in the background . 
+a white van be park with a view of the city in the background . 
+
+attribute-object	white van
+object-verb	van park
+object	city
+object	van
+object	city
+object	car
+#####################################################
+A white van parked in an empty lot . 
+a white van park in a empty lot . 
+
+verb-prep-object	park in lot
+object-prep-object	van in lot
+attribute-object	white van
+attribute-object	empty lot
+object-verb	van park
+object	lot
+object	van
+object	car
+#####################################################
+A white van parked in a parking lot . 
+a white van park in a parking lot . 
+
+verb-prep-object	park in lot
+object-prep-object	van in lot
+attribute-object	white van
+attribute-object	parking lot
+object-verb	van park
+object	lot
+object	van
+object	car
+#####################################################
+The right side of a white Volkswagon Euro Van . 
+the right side of a white Volkswagon Euro Van . 
+
+attribute-object	white van
+attribute-object	volkswagon van
+attribute-object	euro van
+object	van
+object	car
+#####################################################

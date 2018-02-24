@@ -1,0 +1,49 @@
+Airplane on runway in front of buildings . 
+airplane on runway in front of building . 
+
+object-prep-object	aeroplane on airport
+object-prep-object	aeroplane in_front_of building
+object	aeroplane
+object	airport
+object	building
+object	aeroplane
+#####################################################
+An aircraft sitting on the runway . 
+a aircraft sit on the runway . 
+
+verb-prep-object	sit on airport
+object-prep-object	aeroplane on airport
+object-verb	aeroplane sit
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+A white airplane is on a runway . 
+a white airplane be on a runway . 
+
+object-prep-object	aeroplane on airport
+attribute-object	white aeroplane
+object	aeroplane
+object	airport
+object	aeroplane
+#####################################################
+Front image of a parked silver airplane . 
+front image of a park silver airplane . 
+
+attribute-object	park aeroplane
+attribute-object	silver aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+Plane on runway with buildings in the background . 
+plane on runway with building in the background . 
+
+object-prep-object	aeroplane on airport
+object-prep-object	aeroplane with building
+object-prep-object	building in background
+object	aeroplane
+object	airport
+object	building
+object	background
+object	aeroplane
+#####################################################

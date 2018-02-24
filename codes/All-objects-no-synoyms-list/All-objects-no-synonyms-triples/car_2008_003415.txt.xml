@@ -1,0 +1,57 @@
+A nice silver Toyota faces me on a brick driveway with its two front doors open . 
+a nice silver Toyota face I on a brick driveway with its two front door open . 
+
+object-prep-object	toyota with door
+attribute-object	front door
+verb-prep-object	face on driveway
+object-prep-object	toyota on driveway
+attribute-object	nice toyota
+attribute-object	silver toyota
+attribute-object	brick driveway
+object-verb-object	toyota face me
+object	toyota
+object	door
+object	driveway
+object	me
+object	car
+#####################################################
+A silver car has its doors open . 
+a silver car have its door open . 
+
+attribute-object	silver car
+object-verb-object	car have door
+object	car
+object	door
+object	car
+#####################################################
+A silver sports car parked outside a house with both doors open . 
+a silver sport car park outside a house with both door open . 
+
+verb-prep-object	park outside house
+object-prep-object	car outside house
+object-prep-object	car with door
+attribute-object	silver car
+attribute-object	sport car
+object-verb	car park
+object	house
+object	car
+object	door
+object	car
+#####################################################
+The front view of a gray Toyota MR2 . 
+the front view of a gray Toyota MR2 . 
+
+attribute-object	gray mr2
+attribute-object	toyota mr2
+object	mr2
+object	car
+#####################################################
+The silver car looks very expensive . 
+the silver car look very expensive . 
+
+object-verb-object	car look expensive
+attribute-object	silver car
+object	car
+object	expensive
+object	car
+#####################################################

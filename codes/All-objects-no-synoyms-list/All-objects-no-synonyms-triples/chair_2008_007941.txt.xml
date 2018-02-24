@@ -1,0 +1,68 @@
+A black and white cat is sitting on a brown chair looking up . 
+a black and white cat be sit on a brown chair look up . 
+
+verb-prep-object	sit on chair
+object-prep-object	cat on chair
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	brown chair
+object-verb	cat sit
+object-verb	cat look
+verb-attribute	look up
+object	chair
+object	cat
+object	chair
+#####################################################
+A black and white cat looks up from his seat on a wooden chair . 
+a black and white cat look up from he seat on a wooden chair . 
+
+object-prep-object	seat on chair
+verb-prep-object	look from seat
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	wooden chair
+object-verb	cat look
+verb-attribute	look up
+object	seat
+object	chair
+object	cat
+object	chair
+#####################################################
+Black and white cat on a wooden chair . 
+Black and white cat on a wooden chair . 
+
+object-prep-object	cat on chair
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	wooden chair
+object	cat
+object	chair
+object	chair
+#####################################################
+Black and white cat sitting on wood chair looking up . 
+Black and white cat sit on wood chair look up . 
+
+verb-prep-object	sit on chair
+object-prep-object	cat on chair
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	wood chair
+object-verb	cat sit
+object-verb	cat look
+verb-attribute	look up
+object	chair
+object	cat
+object	chair
+#####################################################
+The black and white cat is looking up at the camera . 
+the black and white cat be look up at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat look
+verb-attribute	look up
+object	camera
+object	cat
+object	chair
+#####################################################

@@ -1,0 +1,55 @@
+College students finally get the answer they 've been looking for . 
+College student finally get the answer they have be look for . 
+
+object-verb-object	student get answer
+attribute-object	college student
+object	student
+object	answer
+object	tvmonitor
+#####################################################
+Four people interested in something on a computer monitor . 
+four people interested in something on a computer monitor . 
+
+verb-prep-object	interested on monitor
+object-prep-object	people on monitor
+verb-prep-object	interested in something
+attribute-object	computer monitor
+object-verb	people interested
+object	monitor
+object	people
+object	something
+object	tvmonitor
+#####################################################
+Four people stacking hands with a computer monitor in the background . 
+four people stack hand with a computer monitor in the background . 
+
+verb-prep-object	stack with monitor
+object-prep-object	people with monitor
+object-verb-object	people stack hand
+attribute-object	computer monitor
+object	monitor
+object	people
+object	hand
+object	tvmonitor
+#####################################################
+friends in front of a computer . 
+friend in front of a computer . 
+
+object-prep-object	friend in_front_of computer
+object	friend
+object	computer
+object	tvmonitor
+#####################################################
+One man sitting next to a computer screen pointing to it while three others look at the screen . 
+one man sit next to a computer screen point to it while three other look at the screen . 
+
+verb-prep-object	look at screen
+verb-prep-object	sit next_to screen
+object-prep-object	man next_to screen
+attribute-object	computer screen
+object-verb	man look
+object-verb	man sit
+object	screen
+object	man
+object	tvmonitor
+#####################################################

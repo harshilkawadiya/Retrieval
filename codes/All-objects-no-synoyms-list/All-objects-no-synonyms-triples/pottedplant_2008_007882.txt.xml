@@ -1,0 +1,68 @@
+A happy man in a blue shirt is standing in front of a fountain . 
+a happy man in a blue shirt be stand in front of a fountain . 
+
+object-verb	man stand
+object-prep-object	man in shirt
+attribute-object	happy man
+attribute-object	blue shirt
+verb-prep-object	stand in_front_of fountain
+object-prep-object	man in_front_of fountain
+object	man
+object	shirt
+object	fountain
+object	pottedplant
+#####################################################
+A man in a blue shirt and tan pants is standing in front of a statue of a man , which is in a cobble stone paved plaza . 
+a man in a blue shirt and tan pants be stand in front of a statue of a man , which be in a cobble stone pave plaza . 
+
+object-prep-object	man in shirt
+object-prep-object	man in pants
+attribute-object	blue shirt
+attribute-object	tan pants
+object-verb	man stand
+verb-prep-object	stand in_front_of statue
+object-prep-object	man in_front_of statue
+object-prep-object	statue of man
+object	man
+object	shirt
+object	pants
+object	statue
+object	pottedplant
+#####################################################
+A man is standing in front of a raised statue . 
+a man be stand in front of a raise statue . 
+
+verb-prep-object	stand in_front_of statue
+object-prep-object	man in_front_of statue
+attribute-object	raise statue
+object-verb	man stand
+object	statue
+object	man
+object	pottedplant
+#####################################################
+A man poses in front of a large fountain with a statue on top . 
+a man pose in front of a large fountain with a statue on top . 
+
+verb-prep-object	pose in_front_of fountain
+object-prep-object	man in_front_of fountain
+attribute-object	large fountain
+object-prep-object	fountain with statue
+object-verb	man pose
+object	fountain
+object	man
+object	statue
+object	pottedplant
+#####################################################
+Man with blue shirt standing in front of a fountain . 
+man with blue shirt standing in front of a fountain . 
+
+object-prep-object	man with shirt
+attribute-object	blue shirt
+object-verb	man stand
+verb-prep-object	stand in_front_of fountain
+object-prep-object	man in_front_of fountain
+object	man
+object	shirt
+object	fountain
+object	pottedplant
+#####################################################

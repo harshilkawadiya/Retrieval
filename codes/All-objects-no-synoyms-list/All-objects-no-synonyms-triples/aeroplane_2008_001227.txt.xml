@@ -1,0 +1,57 @@
+Two gentlemen talking in front of propeller plane . 
+two gentleman talk in front of propeller plane . 
+
+verb-prep-object	talk in_front_of plane
+attribute-object	propeller plane
+object-verb	gentleman talk
+object-prep-object	gentleman in_front_of plane
+object	plane
+object	gentleman
+object	aeroplane
+#####################################################
+Two men are conversing next to a small airplane . 
+two man be converse next to a small airplane . 
+
+verb-prep-object	converse next_to airplane
+object-prep-object	man next_to airplane
+attribute-object	small airplane
+object-verb	man converse
+object	airplane
+object	man
+object	aeroplane
+#####################################################
+Two men talking in front of a plane . 
+two man talk in front of a plane . 
+
+verb-prep-object	talk in_front_of plane
+object-verb	man talk
+object-prep-object	man in_front_of plane
+object	plane
+object	man
+object	aeroplane
+#####################################################
+Two men talking in front of a small plane . 
+two man talk in front of a small plane . 
+
+verb-prep-object	talk in_front_of plane
+attribute-object	small plane
+object-verb	man talk
+object-prep-object	man in_front_of plane
+object	plane
+object	man
+object	aeroplane
+#####################################################
+Two men talk while standing next to a small passenger plane at an airport . 
+two man talk while stand next to a small passenger plane at a airport . 
+
+verb-prep-object	stand at airport
+verb-prep-object	stand next_to plane
+attribute-object	small plane
+attribute-object	passenger plane
+object-verb	man talk
+object-verb	man stand
+object	airport
+object	plane
+object	man
+object	aeroplane
+#####################################################

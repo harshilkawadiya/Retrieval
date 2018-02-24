@@ -1,0 +1,50 @@
+beam_size_1	2	a brown and white dog chasing a ball on some grass .
+beam_size_1	3	a brown and white dog has is playing with a white ball on the grass .
+beam_size_1	4	A collie plays with a white ball in a field of green grass .
+beam_size_1	5	A orange dog playing with a white ball on green grass .
+beam_size_1	6	A small brown dog paws at a white ball
+beam_size_1	7	A man chains his bike to a rack while a woman in black and red walks .
+beam_size_1	8	Several people , one being a woman in a black dress , are outside , near a bike rack .
+beam_size_1	9	The woman wearing a red bow walks past a bicycle .
+beam_size_1	10	Woman in a black dress walking on the street .
+beam_size_1	11	Woman in black dress with red accessories is walking down the street .
+beam_size_1	12	A man rock climbs up a very tall cliff , with a blue rope behind him .
+beam_size_1	13	A man wearing a red shirt is climbing up the rock wall .
+beam_size_1	14	A young man climbs a mountain , another follows below .
+beam_size_1	15	Man scales rock .
+beam_size_1	16	The climber in red is leading climbers up a long rock face .
+beam_size_1	17	a man enjoying the view from top of a mountain
+beam_size_1	18	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	19	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	20	A man sits on a cliff and looks out over another mountain .
+beam_size_1	21	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	22	A man dives into a lake .
+beam_size_1	23	A man dives into the water surrounded by rocks and pine trees .
+beam_size_1	24	A man is diving into water near a shore .
+beam_size_1	25	A young man dives into water .
+beam_size_1	26	The man is diving into the water .
+beam_size_1	27	A distant person is climbing up a very sheer mountain .
+beam_size_1	28	A panoramic distance view of a rock climber going up a steep mountain wall .
+beam_size_1	29	person rock climbing
+beam_size_1	30	There is a person scaling a very steep rock wall .
+beam_size_1	31	This person is climbing the side of a mountain .
+beam_size_1	32	A brown and white dog with a Frisbee in his mouth .
+beam_size_1	33	A dog with his front paws off the ground holds a white Frisbee in his mouth in an RV campground .
+beam_size_1	34	A white and brown dog jumps up for a white Frisbee .
+beam_size_1	35	Dog catching Frisbee .
+beam_size_1	36	The brown and white dog is catching a Frisbee in his mouth .
+beam_size_1	37	a black and brown dog jumping over two white and purple stiped poles
+beam_size_1	38	A dog jumps over a hurdle in the grass .
+beam_size_1	39	A dog jumps over an obstacle .
+beam_size_1	40	Black and brown dog jumping over hurdle with white supports .
+beam_size_1	41	Dog performing during an outdoor dog show .
+beam_size_1	42	A child plays on playground equipment .
+beam_size_1	43	A girl is hanging on a metal bar in a park .
+beam_size_1	44	A happy child dangling from playground equipment smiles at the camera .
+beam_size_1	45	A little girl in a sweatshirt jacket holding on to a bar .
+beam_size_1	46	Child in grey sweatshirt hanging from metal bar
+beam_size_1	47	A masked man helps burn a flag .
+beam_size_1	48	I man with a covered face burning an israei flag in front of a crowd .
+beam_size_1	49	Men burn an Israeli flag .
+beam_size_1	50	Some middle eastern people have set an Israeli flag on fire .
+beam_size_1	51	The man is wearing a red shirt and red flannel handkerchief while watching a flag burn .

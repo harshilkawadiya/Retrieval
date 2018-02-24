@@ -1,0 +1,56 @@
+A black horse with a red bridle is running with its mane flowing behind it . 
+a black horse with a red bridle be run with its mane flow behind it . 
+
+object-prep-object	horse with bridle
+verb-prep-object	run with mane
+object-prep-object	horse with mane
+attribute-object	black horse
+attribute-object	red bridle
+object-verb	horse run
+object-verb	mane flow
+object	horse
+object	bridle
+object	mane
+object	horse
+#####################################################
+A horse 's mane is flowing in the breeze . 
+a horse 's mane be flow in the breeze . 
+
+verb-prep-object	flow in breeze
+object-prep-object	mane in breeze
+object-verb	mane flow
+attribute-object	horse mane
+object	breeze
+object	mane
+object	horse
+#####################################################
+Black horse wearing red halter . 
+Black horse wear red halter . 
+
+attribute-object	red halter
+object-verb-object	horse wear halter
+attribute-object	black horse
+object	halter
+object	horse
+object	horse
+#####################################################
+The beautiful black horse rears its head . 
+the beautiful black horse rear its head . 
+
+attribute-object	beautiful horse
+attribute-object	black horse
+object-verb-object	horse rear head
+object	horse
+object	head
+object	horse
+#####################################################
+The mane of a black horse is blowing . 
+the mane of a black horse be blow . 
+
+object-prep-object	mane of horse
+attribute-object	black horse
+object-verb	mane blow
+object	mane
+object	horse
+object	horse
+#####################################################

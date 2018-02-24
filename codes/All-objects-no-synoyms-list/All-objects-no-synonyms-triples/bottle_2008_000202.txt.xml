@@ -1,0 +1,56 @@
+A 4-H booth with posters , television , and three people presenting near a laptop . 
+a 4-h booth with poster , television , and three people present near a laptop . 
+
+object-prep-object	booth with poster
+object-prep-object	booth with television
+object-prep-object	booth with people
+verb-prep-object	present near laptop
+object-prep-object	people near laptop
+attribute-object	4-h booth
+object-verb	people present
+object	booth
+object	poster
+object	television
+object	people
+object	laptop
+object	bottle
+#####################################################
+A presenting being interviewed . 
+a present be interview . 
+
+object	bottle
+#####################################################
+People pose with a microphone in front of a display . 
+people pose with a microphone in front of a display . 
+
+verb-prep-object	pose in_front_of display
+object-prep-object	people in_front_of display
+verb-prep-object	pose with microphone
+object-prep-object	people with microphone
+object-verb	people pose
+object	display
+object	people
+object	microphone
+object	bottle
+#####################################################
+The people are in front of the 4-H display . 
+the people be in front of the 4-h display . 
+
+object-prep-object	people in_front_of display
+attribute-object	4-h display
+object	people
+object	display
+object	bottle
+#####################################################
+Vendors work their booth at the trade show . 
+vendor work they booth at the trade show . 
+
+verb-prep-object	work at show
+object-prep-object	vendor at show
+object-verb-object	vendor work booth
+attribute-object	trade show
+object	show
+object	vendor
+object	booth
+object	bottle
+#####################################################

@@ -1,0 +1,59 @@
+A bicycle is parked by a shop . 
+a bicycle be park by a shop . 
+
+verb-prep-object	park by shop
+object-prep-object	bicycle by shop
+object-verb	bicycle park
+object	shop
+object	bicycle
+object	bicycle
+#####################################################
+A bicycle is parked outside a bookstore . 
+a bicycle be park outside a bookstore . 
+
+verb-prep-object	park outside bookstore
+object-prep-object	bicycle outside bookstore
+object-verb	bicycle park
+object	bookstore
+object	bicycle
+object	bicycle
+#####################################################
+A green bike parked outside a book store . 
+a green bike park outside a book store . 
+
+verb-prep-object	park outside store
+object-prep-object	bike outside store
+attribute-object	green bike
+attribute-object	book store
+object-verb	bike park
+object	store
+object	bike
+object	bicycle
+#####################################################
+An old green bicycle with a leather seat sitting outside a quaint looking bookshop . 
+a old green bicycle with a leather seat sit outside a quaint look bookshop . 
+
+object-prep-object	bicycle with seat
+verb-prep-object	sit outside bookshop
+object-prep-object	bicycle outside bookshop
+attribute-object	old bicycle
+attribute-object	green bicycle
+attribute-object	quaint bookshop
+attribute-object	leather seat
+object-verb	bicycle sit
+object	bicycle
+object	seat
+object	bookshop
+object	bicycle
+#####################################################
+Bicycle parked in front of book shop . 
+Bicycle park in front of book shop . 
+
+verb-prep-object	park in_front_of shop
+object-prep-object	bicycle in_front_of shop
+attribute-object	book shop
+object-verb	bicycle park
+object	shop
+object	bicycle
+object	bicycle
+#####################################################

@@ -1,0 +1,53 @@
+Bikers lean into a turn during a race . 
+biker lean into a turn during a race . 
+
+verb-prep-object	lean during race
+object-prep-object	biker during race
+verb-prep-object	lean into turn
+object-prep-object	biker into turn
+object-verb	biker lean
+object	race
+object	biker
+object	turn
+object	bicycle
+#####################################################
+Racing cyclists are turning a corner . 
+race cyclist be turn a corner . 
+
+object-verb-object	cyclist turn corner
+attribute-object	race cyclist
+object	cyclist
+object	corner
+object	bicycle
+#####################################################
+Racing cyclists going around a curve . 
+race cyclist go around a curve . 
+
+verb-prep-object	go around curve
+object-verb	cyclist go
+object	curve
+object	cyclist
+object	bicycle
+#####################################################
+Three cyclists race down a wooded road . 
+three cyclist race down a wooded road . 
+
+attribute-object	wooded road
+object-verb-object	cyclist race road
+verb-attribute	race down
+object	road
+object	cyclist
+object	bicycle
+#####################################################
+Two men on bicycles in a race with trees behind . 
+two man on bicycle in a race with tree behind . 
+
+object-prep-object	man with tree
+object-prep-object	man on bicycle
+object-prep-object	man in race
+object	man
+object	tree
+object	bicycle
+object	race
+object	bicycle
+#####################################################

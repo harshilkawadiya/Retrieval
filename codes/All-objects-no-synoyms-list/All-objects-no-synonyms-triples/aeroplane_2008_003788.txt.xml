@@ -1,0 +1,51 @@
+A Das Air Cargo plane sits on the runway . 
+a Das Air Cargo plane sit on the runway . 
+
+verb-prep-object	sit on runway
+object-prep-object	plane on runway
+attribute-object	das plane
+attribute-object	air plane
+attribute-object	cargo plane
+object-verb	plane sit
+object	runway
+object	plane
+object	aeroplane
+#####################################################
+A large airplane that is parked . 
+a large airplane that be park . 
+
+attribute-object	large airplane
+object-verb	airplane park
+object	airplane
+object	aeroplane
+#####################################################
+A passenger plane parked on a runway . 
+a passenger plane park on a runway . 
+
+verb-prep-object	park on runway
+object-prep-object	plane on runway
+attribute-object	passenger plane
+object-verb	plane park
+object	runway
+object	plane
+object	aeroplane
+#####################################################
+A white airplane with the words Das Air Cargo is on a runway . 
+a white airplane with the word Das Air Cargo be on a runway . 
+
+object-prep-object	airplane on runway
+attribute-object	white airplane
+object	airplane
+object	runway
+object	aeroplane
+#####################################################
+Plane on the ground on a runway . 
+plane on the ground on a runway . 
+
+object-prep-object	plane on ground
+object-prep-object	plane on runway
+object	plane
+object	ground
+object	runway
+object	aeroplane
+#####################################################

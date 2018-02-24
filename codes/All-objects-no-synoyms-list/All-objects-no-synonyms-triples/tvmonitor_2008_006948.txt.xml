@@ -1,0 +1,83 @@
+A living room with a green sofa , table and TV . 
+a living room with a green sofa , table and tv . 
+
+object-prep-object	room with sofa
+object-prep-object	room with table
+object-prep-object	room with tv
+attribute-object	green sofa
+attribute-object	living room
+object	room
+object	sofa
+object	table
+object	tv
+object	tvmonitor
+#####################################################
+Living room setting with wood floor , green chair , lamp on a table and a fireplace . 
+live room set with wood floor , green chair , lamp on a table and a fireplace . 
+
+object-prep-object	room with floor
+object-prep-object	room with chair
+object-prep-object	room with lamp
+object-prep-object	room with fireplace
+object-prep-object	lamp on table
+attribute-object	live room
+attribute-object	green chair
+attribute-object	wood floor
+object	room
+object	floor
+object	chair
+object	lamp
+object	fireplace
+object	table
+object	tvmonitor
+#####################################################
+Living room with bay window , historian fireplace , hardwood floors , and a green couch . 
+live room with bay window , historian fireplace , hardwood floor , and a green couch . 
+
+object-prep-object	room with window
+object-prep-object	room with fireplace
+object-prep-object	room with floor
+object-prep-object	room with couch
+attribute-object	live room
+attribute-object	green couch
+attribute-object	bay window
+attribute-object	historian fireplace
+attribute-object	hardwood floor
+object	room
+object	window
+object	fireplace
+object	floor
+object	couch
+object	tvmonitor
+#####################################################
+Living room with TV , stereo equipment , green couch , and wooden floor . 
+live room with tv , stereo equipment , green couch , and wooden floor . 
+
+object-prep-object	room with tv
+object-prep-object	room with equipment
+object-prep-object	room with couch
+object-prep-object	room with floor
+attribute-object	live room
+attribute-object	green couch
+attribute-object	wooden floor
+attribute-object	stereo equipment
+object	room
+object	tv
+object	equipment
+object	couch
+object	floor
+object	tvmonitor
+#####################################################
+Living room with wooden floor and green couch . 
+live room with wooden floor and green couch . 
+
+object-prep-object	room with floor
+object-prep-object	room with couch
+attribute-object	live room
+attribute-object	wooden floor
+attribute-object	green couch
+object	room
+object	floor
+object	couch
+object	tvmonitor
+#####################################################

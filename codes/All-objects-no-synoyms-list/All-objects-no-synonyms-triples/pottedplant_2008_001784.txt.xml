@@ -1,0 +1,57 @@
+A bride and groom along with other family members in a church . 
+a bride and groom along with other family member in a church . 
+
+object-prep-object	bride in church
+object-prep-object	groom in church
+object-prep-object	member in church
+attribute-object	family member
+object	bride
+object	church
+object	groom
+object	member
+object	pottedplant
+#####################################################
+A bride and groom pose with their family . 
+a bride and groom pose with they family . 
+
+verb-prep-object	pose with family
+object-prep-object	bride with family
+object-prep-object	groom with family
+object-verb	bride pose
+object-verb	groom pose
+object	family
+object	bride
+object	groom
+object	pottedplant
+#####################################################
+A wedding of a man and woman with their parents and siblings in a church . 
+a wedding of a man and woman with they parent and sibling in a church . 
+
+object-prep-object	wedding in church
+object-prep-object	wedding of man
+object-prep-object	wedding of woman
+object	wedding
+object	church
+object	man
+object	woman
+object	pottedplant
+#####################################################
+Wedding photo of bride and groom with several other people . 
+wedding photo of bride and groom with several other people . 
+
+attribute-object	several people
+attribute-object	other people
+object-prep-object	bride with people
+object-prep-object	groom with people
+object	people
+object	bride
+object	groom
+object	pottedplant
+#####################################################
+Wedding photo on the alter . 
+wedding photo on the alter . 
+
+attribute-object	wedding photo
+object	photo
+object	pottedplant
+#####################################################

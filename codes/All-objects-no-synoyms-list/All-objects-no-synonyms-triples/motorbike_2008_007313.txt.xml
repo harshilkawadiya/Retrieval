@@ -1,0 +1,61 @@
+A moped is parked at a metal bike rack in front of a chain link fence in an urban area . 
+a moped be park at a metal bike rack in front of a chain link fence in a urban area . 
+
+verb-prep-object	park at rack
+verb-prep-object	park in_front_of fence
+object-prep-object	moped at rack
+object-prep-object	moped in_front_of fence
+object-prep-object	fence in area
+attribute-object	urban area
+attribute-object	metal rack
+attribute-object	bike rack
+attribute-object	chain fence
+attribute-object	link fence
+object-verb	moped park
+object	rack
+object	fence
+object	moped
+object	area
+object	motorbike
+#####################################################
+A parked motor scooter beside the fence . 
+a park motor scooter beside the fence . 
+
+object-prep-object	scooter beside fence
+attribute-object	park scooter
+attribute-object	motor scooter
+object	scooter
+object	fence
+object	motorbike
+#####################################################
+A scooter parked near a fence . 
+a scooter park near a fence . 
+
+verb-prep-object	park near fence
+object-prep-object	scooter near fence
+object-verb	scooter park
+object	fence
+object	scooter
+object	motorbike
+#####################################################
+Night shot of a scooter parked next to two bike racks . 
+Night shot of a scooter park next to two bike rack . 
+
+verb-prep-object	park next_to rack
+object-prep-object	scooter next_to rack
+attribute-object	bike rack
+object-verb	scooter park
+object	rack
+object	scooter
+object	motorbike
+#####################################################
+Scooter parked by a fence . 
+scooter park by a fence . 
+
+verb-prep-object	park by fence
+object-prep-object	scooter by fence
+object-verb	scooter park
+object	fence
+object	scooter
+object	motorbike
+#####################################################

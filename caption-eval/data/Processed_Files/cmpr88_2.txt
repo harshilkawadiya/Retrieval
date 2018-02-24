@@ -1,0 +1,50 @@
+beam_size_1	2	A brown dog jumps through three hoops .
+beam_size_1	3	A dog is jumping through hoops held by people .
+beam_size_1	4	a dog jumps through a black hulahoop .
+beam_size_1	5	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	6	A trainer runs next to his dog as it jumps through multiple hoops .
+beam_size_1	7	A blonde haired man is doing a demonstration in front of a small crowd of people .
+beam_size_1	8	A man demonstrates his product to an audience .
+beam_size_1	9	A man in a striped shirt is demonstrating a product .
+beam_size_1	10	A man is standing behind and desk and there is part of a red car hanging above his head .
+beam_size_1	11	a man shows off his exibit to many people .
+beam_size_1	12	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	13	A firetruck with ladder extended on the side of the road .
+beam_size_1	14	A jogger with a dog approaches a ladder truck .
+beam_size_1	15	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	16	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	17	A girl is in a parking lot jumping rope .
+beam_size_1	18	A little girl is jumping rope in a parking lot .
+beam_size_1	19	A little girl jumps rope through a parking lot
+beam_size_1	20	A young girl jumps rope in a parking lot in the mid-day sun .
+beam_size_1	21	Girl jumping rope in parking lot
+beam_size_1	22	A group of girls sit back to back .
+beam_size_1	23	a group of girls sitting in a circle
+beam_size_1	24	Little girl in bare feet sitting in a circle .
+beam_size_1	25	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	26	The young girls sat in a circle on the wood floor .
+beam_size_1	27	A man on horseback on a grassy field in front of mountains .
+beam_size_1	28	A person on a brown horse in a prairie in front of tall mountains .
+beam_size_1	29	A person riding a horse with a mountain range in the far background .
+beam_size_1	30	A rider on a horse in front of a mountain range
+beam_size_1	31	Distant horse rider on plain in the middle of brown mountains .
+beam_size_1	32	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	33	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	34	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	35	Two people riding a bike are riding towards a stop sign .
+beam_size_1	36	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	37	A few people are sitting inside of a building with lots of photography on the walls .
+beam_size_1	38	Four people in a dimmly lit room with pictures all over the walls and two bright lights are engaging in conversations .
+beam_size_1	39	People gathered in an artist 's studio .
+beam_size_1	40	Several people are sitting inside a dark art gallery .
+beam_size_1	41	Some people are mingling in a room that has photographs all over the walls .
+beam_size_1	42	A young girl in jeans is standing on a tree limb posing for the camera .
+beam_size_1	43	A young girl posing for a photo while standing in a tree .
+beam_size_1	44	girl posing on tree
+beam_size_1	45	There is a young girl in jeans and a striped shirt standing on a tree branch .
+beam_size_1	46	The young girl is standing in a tree .
+beam_size_1	47	A person has just thrown a snowball and hit someone in the back .
+beam_size_1	48	People outside a house in snow .
+beam_size_1	49	People stand outside a house .
+beam_size_1	50	Several people standing in front of a pile of snow in front of a house , with one person shoveling .
+beam_size_1	51	Some people are gathered by a mound of snow outside a house .

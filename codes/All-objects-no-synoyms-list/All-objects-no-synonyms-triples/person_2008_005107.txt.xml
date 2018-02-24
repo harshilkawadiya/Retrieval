@@ -1,0 +1,68 @@
+A child sits in a large black leather chair . 
+a child sit in a large black leather chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	child in chair
+attribute-object	large chair
+attribute-object	black chair
+attribute-object	leather chair
+object-verb	child sit
+object	chair
+object	child
+object	person
+#####################################################
+A close-up of a girl in a pink and black dress in a black chair . 
+a close-up of a girl in a pink and black dress in a black chair . 
+
+object-prep-object	girl in dress
+object-prep-object	girl in chair
+attribute-object	pink dress
+attribute-object	black dress
+attribute-object	black chair
+object	girl
+object	dress
+object	chair
+object	person
+#####################################################
+A young girl in a pink dress sits on a black chair . 
+a young girl in a pink dress sit on a black chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	girl on chair
+object-prep-object	girl in dress
+attribute-object	young girl
+attribute-object	pink dress
+attribute-object	black chair
+object-verb	girl sit
+object	chair
+object	girl
+object	dress
+object	person
+#####################################################
+A young girl in a pink dress sits on a black leather seat . 
+a young girl in a pink dress sit on a black leather seat . 
+
+verb-prep-object	sit on seat
+object-prep-object	girl on seat
+object-prep-object	girl in dress
+attribute-object	young girl
+attribute-object	pink dress
+attribute-object	black seat
+attribute-object	leather seat
+object-verb	girl sit
+object	seat
+object	girl
+object	dress
+object	person
+#####################################################
+The girl is sitting on the leather chair . 
+the girl be sit on the leather chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	girl on chair
+attribute-object	leather chair
+object-verb	girl sit
+object	chair
+object	girl
+object	person
+#####################################################

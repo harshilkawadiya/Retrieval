@@ -1,0 +1,81 @@
+A man sits on the couch and uses his laptop in a living room . 
+a man sit on the couch and use he laptop in a living room . 
+
+object-verb	person sit
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb-object	person use man
+object-prep-object	laptop in room
+attribute-object	living room
+object	person
+object	man
+object	sofa
+object	bed
+object	laptop
+object	room
+object	pottedplant
+#####################################################
+A man sitting in a cluttered room . 
+a man sit in a cluttered room . 
+
+verb-prep-object	sit in room
+object-prep-object	person in man
+attribute-object	cluttered room
+object-verb	person sit
+object	room
+object	person
+object	man
+object	pottedplant
+#####################################################
+An elderly man works on his laptop at home . 
+a elderly man work on he laptop at home . 
+
+verb-prep-object	work at home
+object-prep-object	person at man
+verb-prep-object	work on laptop
+object-prep-object	person on man
+attribute-object	elderly person
+object-verb	person work
+object	home
+object	person
+object	man
+object	laptop
+object	pottedplant
+#####################################################
+Man with laptop computer sitting on a couch in a small room . 
+man with laptop computer sit on a couch in a small room . 
+
+object-prep-object	person with laptop
+verb-prep-object	sit on sofa
+verb-prep-object	sit in room
+object-prep-object	person on bed
+object-prep-object	person in man
+attribute-object	laptop laptop
+attribute-object	small room
+object-verb	person sit
+object	person
+object	man
+object	laptop
+object	sofa
+object	bed
+object	room
+object	computer
+object	pottedplant
+#####################################################
+Older gentleman sitting on couch with laptop . 
+older gentleman sit on couch with laptop . 
+
+verb-prep-object	sit on sofa
+verb-prep-object	sit with laptop
+object-prep-object	person on bed
+object-prep-object	person with man
+attribute-object	older person
+object-verb	person sit
+object	sofa
+object	bed
+object	laptop
+object	person
+object	man
+object	gentleman
+object	pottedplant
+#####################################################

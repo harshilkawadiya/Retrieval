@@ -1,0 +1,50 @@
+2	A crowd watching a dirt bike race
+3	A group of people on the sidelines of an ATV race .
+4	A line of people staring at the vehicles on the dirt track
+5	A line of spectators at a race .
+6	People standing at fence watching motor vehicles in field
+7	A crowd watching a dirt bike race
+8	A group of people on the sidelines of an ATV race .
+9	A line of people staring at the vehicles on the dirt track
+10	A line of spectators at a race .
+11	People standing at fence watching motor vehicles in field
+12	A crowd watching a dirt bike race
+13	A group of people on the sidelines of an ATV race .
+14	A line of people staring at the vehicles on the dirt track
+15	A line of spectators at a race .
+16	People standing at fence watching motor vehicles in field
+17	A crowd watching a dirt bike race
+18	A group of people on the sidelines of an ATV race .
+19	A line of people staring at the vehicles on the dirt track
+20	A line of spectators at a race .
+21	People standing at fence watching motor vehicles in field
+22	A crowd watching a dirt bike race
+23	A group of people on the sidelines of an ATV race .
+24	A line of people staring at the vehicles on the dirt track
+25	A line of spectators at a race .
+26	People standing at fence watching motor vehicles in field
+27	A crowd watching a dirt bike race
+28	A group of people on the sidelines of an ATV race .
+29	A line of people staring at the vehicles on the dirt track
+30	A line of spectators at a race .
+31	People standing at fence watching motor vehicles in field
+32	A crowd watching a dirt bike race
+33	A group of people on the sidelines of an ATV race .
+34	A line of people staring at the vehicles on the dirt track
+35	A line of spectators at a race .
+36	People standing at fence watching motor vehicles in field
+37	A crowd watching a dirt bike race
+38	A group of people on the sidelines of an ATV race .
+39	A line of people staring at the vehicles on the dirt track
+40	A line of spectators at a race .
+41	People standing at fence watching motor vehicles in field
+42	A crowd watching a dirt bike race
+43	A group of people on the sidelines of an ATV race .
+44	A line of people staring at the vehicles on the dirt track
+45	A line of spectators at a race .
+46	People standing at fence watching motor vehicles in field
+47	A crowd watching a dirt bike race
+48	A group of people on the sidelines of an ATV race .
+49	A line of people staring at the vehicles on the dirt track
+50	A line of spectators at a race .
+51	People standing at fence watching motor vehicles in field

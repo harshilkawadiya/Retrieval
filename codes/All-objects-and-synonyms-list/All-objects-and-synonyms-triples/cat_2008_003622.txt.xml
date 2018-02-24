@@ -1,0 +1,56 @@
+a cat is petted by someone . 
+a cat be pet by someone . 
+
+verb-prep-object	pet by person
+object-verb	cat pet
+object	person
+object	someone
+object	cat
+object	cat
+#####################################################
+A ginger striped cat laying down while being stroked . 
+a ginger strip cat lay down while be stroke . 
+
+object-verb	cat lay
+verb-attribute	lay down
+attribute-object	ginger cat
+attribute-object	strip cat
+object	cat
+object	cat
+#####################################################
+An orange striped cat looking at the camera . 
+a orange striped cat look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	orange cat
+attribute-object	striped cat
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################
+An orange tabby cat resting . 
+a orange tabby cat rest . 
+
+attribute-object	orange cat
+attribute-object	tabby cat
+object-verb	cat rest
+object	cat
+object	cat
+#####################################################
+Tan domestic kitten lying in bed in a cage . 
+Tan domestic kitten lie in bed in a cage . 
+
+verb-prep-object	lie in bed
+object-prep-object	bed in cage
+object-prep-object	cat in kitten
+object-prep-object	cat in kitten
+attribute-object	tan cat
+attribute-object	domestic cat
+object-verb	cat lie
+object	bed
+object	cage
+object	cat
+object	kitten
+object	cat
+#####################################################

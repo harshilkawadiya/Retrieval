@@ -1,0 +1,68 @@
+A furry black dog and a small white dog lying down next to a brown leather couch . 
+a furry black dog and a small white dog lie down next to a brown leather couch . 
+
+verb-prep-object	lie next_to couch
+object-prep-object	dog next_to couch
+attribute-object	furry dog
+attribute-object	black dog
+attribute-object	small dog
+attribute-object	white dog
+attribute-object	brown couch
+attribute-object	leather couch
+object-verb	dog lie
+verb-attribute	lie down
+object	couch
+object	dog
+object	sofa
+#####################################################
+A large dog sleeping by the red couch while a small dog sleeps on the rug . 
+a large dog sleep by the red couch while a small dog sleep on the rug . 
+
+verb-prep-object	sleep on rug
+object-prep-object	dog on rug
+verb-prep-object	sleep by couch
+attribute-object	large dog
+attribute-object	red couch
+attribute-object	small dog
+object-verb	dog sleep
+object-verb	dog sleep
+object	rug
+object	dog
+object	couch
+object	sofa
+#####################################################
+A leather couch between two dogs lying on their backs . 
+a leather couch between two dog lie on they back . 
+
+object-prep-object	couch between dog
+attribute-object	leather couch
+object-verb	dog lie
+object	couch
+object	dog
+object	sofa
+#####################################################
+Two dogs lying down near a couch . 
+two dog lie down near a couch . 
+
+verb-prep-object	lie near couch
+object-prep-object	dog near couch
+verb-attribute	lie down
+object-verb	dog lie
+object	couch
+object	dog
+object	sofa
+#####################################################
+Two dogs , one large and one small laying near a red leather sofa . 
+two dog , one large and one small lay near a red leather sofa . 
+
+verb-prep-object	lay near sofa
+object-prep-object	dog near sofa
+attribute-object	large dog
+attribute-object	small dog
+attribute-object	red sofa
+attribute-object	leather sofa
+object-verb	dog lay
+object	sofa
+object	dog
+object	sofa
+#####################################################

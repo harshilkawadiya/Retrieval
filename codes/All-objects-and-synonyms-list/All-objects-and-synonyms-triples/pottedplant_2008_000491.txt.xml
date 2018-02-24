@@ -1,0 +1,43 @@
+a close up of a small cactus in a pot . 
+a close up of a small cactus in a pot . 
+
+attribute-object	small cactus
+object-prep-object	cactus in pottedplant
+object	cactus
+object	pottedplant
+object	pottedplant
+#####################################################
+A close-up of three terra cotta pots with cacti growing in them . 
+a close-up of three terra cotta pot with cactus grow in they . 
+
+object-prep-object	pottedplant with pot
+attribute-object	terra pottedplant
+attribute-object	cotta pottedplant
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################
+A line of potted cactus plants . 
+a line of potted cactus plant . 
+
+attribute-object	potted pottedplant
+attribute-object	cactus pottedplant
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A row of three potted cactus . 
+a row of three potted cactus . 
+
+attribute-object	potted cactus
+object	cactus
+object	pottedplant
+#####################################################
+The trio of cactus take in some sun . 
+the trio of cactus take in some sun . 
+
+object-prep-object	trio of cactus
+object	trio
+object	cactus
+object	pottedplant
+#####################################################

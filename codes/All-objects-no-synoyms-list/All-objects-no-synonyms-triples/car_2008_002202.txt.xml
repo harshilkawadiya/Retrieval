@@ -1,0 +1,57 @@
+A black Harley-Davidson motorcycle parked in a parking lot . 
+a black Harley-Davidson motorcycle park in a parking lot . 
+
+verb-prep-object	park in lot
+object-prep-object	motorcycle in lot
+attribute-object	black motorcycle
+attribute-object	harley-davidson motorcycle
+attribute-object	parking lot
+object-verb	motorcycle park
+object	lot
+object	motorcycle
+object	car
+#####################################################
+A motorbike parked on the side of the road near a gate . 
+a motorbike park on the side of the road near a gate . 
+
+verb-prep-object	park on road
+object-prep-object	motorbike on road
+verb-prep-object	park near gate
+object-prep-object	motorbike near gate
+object-verb	motorbike park
+object	road
+object	motorbike
+object	gate
+object	car
+#####################################################
+A motorcycle sits unmanned in a parking enclosure . 
+a motorcycle sit unmanned in a parking enclosure . 
+
+verb-prep-object	sit in enclosure
+object-prep-object	motorcycle in enclosure
+object-verb-object	motorcycle sit unmanned
+attribute-object	parking enclosure
+object	enclosure
+object	motorcycle
+object	unmanned
+object	car
+#####################################################
+A parked big-wheeled motorcycle . 
+a park big-wheeled motorcycle . 
+
+attribute-object	park motorcycle
+attribute-object	big-wheeled motorcycle
+object	motorcycle
+object	car
+#####################################################
+Black motorcycle parked on street . 
+Black motorcycle park on street . 
+
+verb-prep-object	park on street
+object-prep-object	motorcycle on street
+attribute-object	black motorcycle
+object-verb	motorcycle park
+object	street
+object	motorcycle
+object	car
+#####################################################

@@ -1,0 +1,61 @@
+A group of elderly people pose around a dining table . 
+a group of elderly people pose around a dining table . 
+
+verb-prep-object	pose around table
+object-prep-object	people around table
+attribute-object	elderly people
+attribute-object	dining table
+object-verb	people pose
+object	table
+object	people
+object	diningtable
+#####################################################
+A group of elderly people sitting around a dining table . 
+a group of elderly people sit around a dining table . 
+
+verb-prep-object	sit around table
+object-prep-object	people around table
+attribute-object	elderly people
+attribute-object	dining table
+object-verb	people sit
+object	table
+object	people
+object	diningtable
+#####################################################
+A picture of elderly people waiting in front of a dinner table . 
+a picture of elderly people wait in front of a dinner table . 
+
+verb-prep-object	wait in_front_of table
+object-prep-object	people in_front_of table
+attribute-object	elderly people
+attribute-object	dinner table
+object-verb	people wait
+object	table
+object	people
+object	diningtable
+#####################################################
+Friends and family gather for a evening meal . 
+Friends and family gather for a evening meal . 
+
+verb-prep-object	gather for meal
+object-prep-object	friends for meal
+object-prep-object	family for meal
+attribute-object	evening meal
+object-verb	friends gather
+object-verb	family gather
+object	meal
+object	friends
+object	family
+object	diningtable
+#####################################################
+Group of elderly people sitting around a table . 
+Group of elderly people sit around a table . 
+
+verb-prep-object	sit around table
+object-prep-object	people around table
+attribute-object	elderly people
+object-verb	people sit
+object	table
+object	people
+object	diningtable
+#####################################################

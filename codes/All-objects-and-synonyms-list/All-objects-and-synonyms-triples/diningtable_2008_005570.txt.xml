@@ -1,0 +1,74 @@
+A group of people sit at a table in an Italian restaurant . 
+a group of people sit at a table in a italian restaurant . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable in table
+verb-prep-object	sit in restaurant
+object-prep-object	person in people
+attribute-object	italian restaurant
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	restaurant
+object	diningtable
+#####################################################
+A social gathering of people in a restaurant . 
+a social gathering of people in a restaurant . 
+
+object-prep-object	person in people
+object	person
+object	people
+object	diningtable
+#####################################################
+Four women and two men sit at a long table in a restaurant . 
+four woman and two man sit at a long table in a restaurant . 
+
+object-verb	person sit
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable in table
+verb-prep-object	sit in restaurant
+object-prep-object	person in man
+object-prep-object	person in woman
+attribute-object	long diningtable
+object	person
+object	woman
+object	man
+object	diningtable
+object	table
+object	restaurant
+object	diningtable
+#####################################################
+Group of people sitting at a table at a restaurant . 
+Group of people sit at a table at a restaurant . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable at table
+verb-prep-object	sit at restaurant
+object-prep-object	person at people
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	restaurant
+object	diningtable
+#####################################################
+People pose on either side of a restaurant table . 
+people pose on either side of a restaurant table . 
+
+attribute-object	restaurant diningtable
+object-verb	person pose
+verb-prep-object	pose on diningtable
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################

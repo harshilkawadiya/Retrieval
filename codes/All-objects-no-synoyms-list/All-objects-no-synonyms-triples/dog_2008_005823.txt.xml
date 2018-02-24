@@ -1,0 +1,57 @@
+A black and white dog sniffing at a closed door . 
+a black and white dog sniff at a closed door . 
+
+verb-prep-object	sniff at door
+object-prep-object	dog at door
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	closed door
+object-verb	dog sniff
+object	door
+object	dog
+object	dog
+#####################################################
+A brown and white dog beside the door . 
+a brown and white dog beside the door . 
+
+object-prep-object	dog beside door
+attribute-object	brown dog
+attribute-object	white dog
+object	dog
+object	door
+object	dog
+#####################################################
+A dog is standing in a hallway with its nose pressed to the bottom of a door . 
+a dog be stand in a hallway with its nose press to the bottom of a door . 
+
+object-prep-object	dog with nose
+verb-prep-object	press to door
+verb-prep-object	stand in hallway
+object-prep-object	dog in hallway
+object-verb	dog stand
+object-verb	nose press
+object	dog
+object	nose
+object	door
+object	hallway
+object	dog
+#####################################################
+A dog sniffing the bottom of a door . 
+a dog sniff the bottom of a door . 
+
+object-verb-object	dog sniff door
+object	dog
+object	door
+object	dog
+#####################################################
+A small black and white dog is sniffing the bottom of a door . 
+a small black and white dog be sniff the bottom of a door . 
+
+attribute-object	small dog
+attribute-object	black dog
+attribute-object	white dog
+object-verb-object	dog sniff door
+object	dog
+object	door
+object	dog
+#####################################################

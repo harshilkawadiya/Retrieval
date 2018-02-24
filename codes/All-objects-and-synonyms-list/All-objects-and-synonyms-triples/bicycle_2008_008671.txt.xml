@@ -1,0 +1,64 @@
+A man is alone on the back of a tandem bicycle . 
+a man be alone on the back of a tandem bicycle . 
+
+object-prep-object	person on back
+object-prep-object	back of bicycle
+attribute-object	tandem bicycle
+attribute-object	alone person
+object	person
+object	back
+object	bicycle
+object	bicycle
+#####################################################
+A man on the back seat of a red tandem bicycle . 
+a man on the back seat of a red tandem bicycle . 
+
+object-prep-object	person on seat
+object-prep-object	seat of bicycle
+attribute-object	back seat
+attribute-object	red bicycle
+attribute-object	tandem bicycle
+object	person
+object	seat
+object	bicycle
+object	bicycle
+#####################################################
+A man sits on the back seat of a tandem bicycle . 
+a man sit on the back seat of a tandem bicycle . 
+
+verb-prep-object	sit on seat
+object-prep-object	person on seat
+object-prep-object	seat of bicycle
+attribute-object	back seat
+attribute-object	tandem bicycle
+object-verb	person sit
+object	seat
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A man standing at the rear seat of a red tandem bicycle . 
+a man standing at the rear seat of a red tandem bicycle . 
+
+verb-prep-object	seat of bicycle
+verb-prep-object	stand at seat
+attribute-object	rear seat
+attribute-object	red bicycle
+object-verb	person stand
+attribute-object	tandem bicycle
+object	bicycle
+object	seat
+object	person
+object	bicycle
+#####################################################
+Person standing on double seated bicycle . 
+person standing on double seat bicycle . 
+
+verb-prep-object	stand on bicycle
+attribute-object	double bicycle
+attribute-object	seat bicycle
+object-verb	person stand
+object	bicycle
+object	person
+object	bicycle
+#####################################################

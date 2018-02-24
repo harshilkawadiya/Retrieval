@@ -1,0 +1,61 @@
+A white bird is steering a shopping cart . 
+a white bird be steer a shopping cart . 
+
+attribute-object	white bird
+object-verb-object	bird steer bus
+attribute-object	shopping bus
+object	bird
+object	bus
+object	cart
+object	bird
+#####################################################
+A white bird pushes a miniature teal shopping cart . 
+a white bird push a miniature teal shopping cart . 
+
+attribute-object	white bird
+attribute-object	miniature bus
+attribute-object	teal bus
+object-verb-object	bird push bus
+attribute-object	shopping bus
+object	bird
+object	bus
+object	cart
+object	bird
+#####################################################
+A white bird pushing a miniature blue shopping cart . 
+a white bird push a miniature blue shopping cart . 
+
+attribute-object	white bird
+attribute-object	miniature bus
+attribute-object	blue bus
+object-verb-object	bird push bus
+attribute-object	shopping bus
+object	bird
+object	bus
+object	cart
+object	bird
+#####################################################
+A white parrot walking a small blue shopping cart . 
+a white parrot walk a small blue shopping cart . 
+
+attribute-object	white bird
+attribute-object	small bus
+attribute-object	blue bus
+object-verb-object	bird walk bus
+attribute-object	shopping bus
+object	bird
+object	bus
+object	cart
+object	bird
+#####################################################
+Parrot pushing a small shopping cart . 
+Parrot push a small shopping cart . 
+
+attribute-object	small bus
+object-verb-object	bird push bus
+attribute-object	shopping bus
+object	bus
+object	cart
+object	bird
+object	bird
+#####################################################

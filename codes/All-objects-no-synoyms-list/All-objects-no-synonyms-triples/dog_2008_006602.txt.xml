@@ -1,0 +1,57 @@
+A dog is lying at the bottom of a staircase next to another standing dog . 
+a dog be lie at the bottom of a staircase next to another standing dog . 
+
+object-verb	dog lie
+verb-prep-object	lie at staircase
+object-prep-object	dog at staircase
+verb-prep-object	lie next_to dog
+object-prep-object	dog next_to dog
+attribute-object	standing dog
+object	dog
+object	staircase
+object	dog
+#####################################################
+Two black and white dogs at the bottom of stairs . 
+two black and white dog at the bottom of stair . 
+
+object-prep-object	dog at stair
+attribute-object	black dog
+attribute-object	white dog
+object	dog
+object	stair
+object	dog
+#####################################################
+Two black and white dogs looking guiltily at the camera while sitting or standing at the bottom of steps . 
+two black and white dog look guiltily at the camera while sit or stand at the bottom of step . 
+
+verb-prep-object	look at camera
+verb-attribute	look guiltily
+attribute-object	black dog
+attribute-object	white dog
+object-verb	dog look
+object-verb	dog stand
+verb-prep-object	stand at step
+object-prep-object	dog at step
+object	camera
+object	dog
+object	step
+object	dog
+#####################################################
+Two dogs eye the covered stairs , knowing to stay off . 
+two dog eye the covered stair , know to stay off . 
+
+attribute-object	covered stair
+object-verb-object	dog eye stair
+object	stair
+object	dog
+object	dog
+#####################################################
+Two dogs looking up a set of stairs . 
+two dog look up a set of stair . 
+
+object-verb-object	dog look stair
+verb-attribute	look up
+object	dog
+object	stair
+object	dog
+#####################################################

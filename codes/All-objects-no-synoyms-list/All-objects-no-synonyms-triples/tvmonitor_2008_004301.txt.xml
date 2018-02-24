@@ -1,0 +1,54 @@
+A boy looking at a computer screen . 
+a boy look at a computer screen . 
+
+verb-prep-object	look at screen
+attribute-object	computer screen
+object-verb	boy look
+object	screen
+object	boy
+object	tvmonitor
+#####################################################
+A boy looking at a computer screen that has a glare . 
+a boy look at a computer screen that have a glare . 
+
+verb-prep-object	look at screen
+object-verb-object	screen have glare
+attribute-object	computer screen
+object-verb	boy look
+object	screen
+object	glare
+object	boy
+object	tvmonitor
+#####################################################
+A young boy with glasses sits in front of a computer . 
+a young boy with glass sit in front of a computer . 
+
+object-prep-object	boy with glass
+verb-prep-object	sit in_front_of computer
+object-prep-object	boy in_front_of computer
+attribute-object	young boy
+object-verb	boy sit
+object	boy
+object	glass
+object	computer
+object	tvmonitor
+#####################################################
+Boy using a computer . 
+Boy use a computer . 
+
+object-verb-object	boy use computer
+object	boy
+object	computer
+object	tvmonitor
+#####################################################
+Boy with glasses typing on a computer . 
+Boy with glass type on a computer . 
+
+verb-prep-object	type on computer
+object-prep-object	boy with glass
+object-verb	boy type
+object	computer
+object	boy
+object	glass
+object	tvmonitor
+#####################################################

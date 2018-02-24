@@ -1,0 +1,73 @@
+A man in a Ninja Turtles t-shirt repairs televisions . 
+a man in a Ninja Turtles t-shirt repair television . 
+
+object-verb-object	person repair tvmonitor
+object-prep-object	person in man
+attribute-object	ninja t-shirt
+attribute-object	turtles t-shirt
+object	person
+object	man
+object	tvmonitor
+object	t-shirt
+object	tvmonitor
+#####################################################
+A man in a workshop looking at the back of two TV sets . 
+a man in a workshop look at the back of two tv set . 
+
+verb-prep-object	look at tvmonitor
+object-prep-object	person in man
+object-verb	person look
+object	tvmonitor
+object	tv
+object	person
+object	man
+object	tvmonitor
+#####################################################
+a man with sideburns looking at backs of white TVs . 
+a man with sideburn look at back of white tv . 
+
+verb-prep-object	look at tvmonitor
+object-prep-object	person with man
+attribute-object	white tvmonitor
+object-verb	person look
+object	tvmonitor
+object	tv
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A young man with long hair and sideburns in a Ninja Turtles shirt stands behind a row of computer monitors . 
+a young man with long hair and sideburn in a Ninja Turtles shirt stand behind a row of computer monitor . 
+
+object-prep-object	person with man
+object-prep-object	person with man
+attribute-object	young person
+attribute-object	long hair
+object-prep-object	person in man
+attribute-object	ninja shirt
+attribute-object	turtles shirt
+object-verb	person stand
+verb-prep-object	stand behind tvmonitor
+object-prep-object	person behind tvmonitor
+attribute-object	computer tvmonitor
+object	person
+object	man
+object	hair
+object	shirt
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+Guy standing behind two computer monitors . 
+Guy standing behind two computer monitor . 
+
+verb-prep-object	stand behind tvmonitor
+object-prep-object	person behind tvmonitor
+object-verb	person stand
+attribute-object	computer tvmonitor
+object	tvmonitor
+object	monitor
+object	person
+object	guy
+object	tvmonitor
+#####################################################

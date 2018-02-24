@@ -1,0 +1,45 @@
+The lamb is looking at the camera . 
+the lamb be look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	lamb look
+object	camera
+object	lamb
+object	sheep
+#####################################################
+There are several sheared sheep in a pen . 
+there be several sheared sheep in a pen . 
+
+object-prep-object	sheep in pen
+attribute-object	several sheep
+attribute-object	sheared sheep
+object	sheep
+object	pen
+object	sheep
+#####################################################
+This is an image of freshly sheared sheep . 
+this be a image of freshly sheared sheep . 
+
+attribute-object	freshly sheep
+attribute-object	sheared sheep
+object	sheep
+object	sheep
+#####################################################
+Three white sheep in an enclosure . 
+three white sheep in a enclosure . 
+
+object-prep-object	sheep in enclosure
+attribute-object	white sheep
+object	sheep
+object	enclosure
+object	sheep
+#####################################################
+White goats in a pen . 
+White goat in a pen . 
+
+object-prep-object	goat in pen
+attribute-object	white goat
+object	goat
+object	pen
+object	sheep
+#####################################################

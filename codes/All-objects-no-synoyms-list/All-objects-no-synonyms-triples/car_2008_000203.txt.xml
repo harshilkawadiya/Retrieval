@@ -1,0 +1,58 @@
+A black and white photo of a man driving a car and someone with a motorcycle . 
+a black and white photo of a man drive a car and someone with a motorcycle . 
+
+object-prep-object	someone with motorcycle
+object-verb-object	man drive car
+object	someone
+object	motorcycle
+object	man
+object	car
+object	car
+#####################################################
+A black and white photo of a man in a classic car and a man with a classic motorcycle . 
+a black and white photo of a man in a classic car and a man with a classic motorcycle . 
+
+object-prep-object	man in car
+attribute-object	classic car
+object-prep-object	man with motorcycle
+attribute-object	classic motorcycle
+object	man
+object	car
+object	motorcycle
+object	car
+#####################################################
+One man is riding a truck next to the man riding a bicycle . 
+one man be ride a truck next to the man ride a bicycle . 
+
+verb-prep-object	ride next_to man
+object-prep-object	man next_to man
+object-verb-object	man ride bicycle
+object-verb-object	man ride truck
+object	man
+object	bicycle
+object	truck
+object	car
+#####################################################
+Two men riding through field on motorized vehicles . 
+two man ride through field on motorize vehicle . 
+
+verb-prep-object	ride on vehicle
+object-prep-object	man on vehicle
+verb-prep-object	ride through field
+attribute-object	motorize vehicle
+object-verb	man ride
+object	vehicle
+object	man
+object	field
+object	car
+#####################################################
+Vintage picture of a man in a car and man on a motorcycle . 
+vintage picture of a man in a car and man on a motorcycle . 
+
+object-prep-object	man on motorcycle
+object-prep-object	man in car
+object	man
+object	motorcycle
+object	car
+object	car
+#####################################################

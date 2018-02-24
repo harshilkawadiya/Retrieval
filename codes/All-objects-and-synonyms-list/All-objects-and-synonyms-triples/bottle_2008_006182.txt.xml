@@ -1,0 +1,65 @@
+A figurine of a man next to a bottle of liquor . 
+a figurine of a man next to a bottle of liquor . 
+
+object-prep-object	bottle of liquor
+object-prep-object	person next_to man
+object	bottle
+object	liquor
+object	person
+object	man
+object	bottle
+#####################################################
+An action figure dancing in front of a bottle of Jack Daniels . 
+a action figure dancing in front of a bottle of Jack Daniels . 
+
+object-prep-object	bottle of daniels
+object-verb	figure dancing
+verb-prep-object	dancing in_front_of bottle
+attribute-object	action figure
+attribute-object	jack daniels
+object	bottle
+object	daniels
+object	figure
+object	bottle
+#####################################################
+A statue of an African American man by a Jack Daniels bottle . 
+a statue of a african american man by a Jack Daniels bottle . 
+
+object-prep-object	statue of person
+object-prep-object	statue by bottle
+attribute-object	african person
+attribute-object	american person
+attribute-object	jack bottle
+attribute-object	daniels bottle
+object	statue
+object	person
+object	bottle
+object	man
+object	bottle
+#####################################################
+Close up of a Jack Daniels bottle along side a plastic model of a man . 
+close up of a Jack Daniels bottle along side a plastic model of a man . 
+
+attribute-object	jack bottle
+attribute-object	daniels bottle
+attribute-object	plastic model
+object-prep-object	model of person
+object	bottle
+object	model
+object	person
+object	bottle
+#####################################################
+There is a bottle of Jack Daniels alcohol and a toy figure of a man . 
+there be a bottle of Jack Daniels alcohol and a toy figure of a man . 
+
+object-prep-object	bottle of alcohol
+object-prep-object	figure of person
+attribute-object	jack alcohol
+attribute-object	daniels alcohol
+attribute-object	toy figure
+object	bottle
+object	alcohol
+object	figure
+object	person
+object	bottle
+#####################################################

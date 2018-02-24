@@ -1,0 +1,50 @@
+A dining table in front of a window with two sofas in the foreground . 
+a dining table in front of a window with two sofa in the foreground . 
+
+object	sofa
+object-prep-object	diningtable in_front_of table
+attribute-object	dining diningtable
+object	sofa
+object	diningtable
+object	table
+object	sofa
+#####################################################
+A living room . 
+a living room . 
+
+attribute-object	living room
+object	room
+object	sofa
+#####################################################
+A living room with a dining table in the background . 
+a living room with a dining table in the background . 
+
+object-prep-object	room with diningtable
+attribute-object	living room
+attribute-object	dining diningtable
+object	room
+object	diningtable
+object	table
+object	sofa
+#####################################################
+Large living room with shiny tile covered floor . 
+large living room with shiny tile cover floor . 
+
+object-prep-object	room with floor
+attribute-object	large room
+attribute-object	shiny floor
+attribute-object	tile floor
+attribute-object	living room
+object	room
+object	floor
+object	sofa
+#####################################################
+View of a living room with a dining room in the background . 
+View of a living room with a dining room in the background . 
+
+object-prep-object	room with room
+attribute-object	living room
+attribute-object	dining room
+object	room
+object	sofa
+#####################################################

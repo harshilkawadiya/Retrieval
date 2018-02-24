@@ -1,0 +1,68 @@
+A family getting ready to go canoe on a small lake . 
+a family get ready to go canoe on a small lake . 
+
+verb-prep-object	go on lake
+attribute-object	small lake
+object-verb	family ready
+verb-prep-verb	ready to go
+verb-object	go canoe
+object	lake
+object	family
+object	canoe
+object	boat
+#####################################################
+Three people are by the water with yellow canoes . 
+three people be by the water with yellow canoe . 
+
+object-prep-object	people by water
+object-prep-object	people with canoe
+attribute-object	yellow canoe
+object	people
+object	water
+object	canoe
+object	boat
+#####################################################
+Three people preparing to canoe . 
+three people prepare to canoe . 
+
+verb-prep-object	prepare to canoe
+object-verb	people prepare
+object	canoe
+object	people
+object	boat
+#####################################################
+Two people are carrying a yellow canoe down to the water , while a man in red and black walks away from a canoe already near the water . 
+two people be carry a yellow canoe down to the water , while a man in red and black walk away from a canoe already near the water . 
+
+object-verb-object	people carry canoe
+attribute-object	yellow canoe
+verb-prep-object	carry to water
+object-verb	man walk
+object-prep-object	man in red
+object-prep-object	man in black
+verb-prep-object	walk away_from canoe
+object-prep-object	canoe near water
+object	people
+object	canoe
+object	water
+object	man
+object	red
+object	black
+object	boat
+#####################################################
+Two people carrying a canoe into a river while a third person walks out of the picture . 
+two people carry a canoe into a river while a third person walk out of the picture . 
+
+object-verb-object	people carry canoe
+verb-prep-object	carry into river
+verb-prep-object	walk out_of picture
+object-prep-object	person out_of picture
+attribute-object	third person
+object-verb	person walk
+object	people
+object	canoe
+object	river
+object	picture
+object	person
+object	boat
+#####################################################

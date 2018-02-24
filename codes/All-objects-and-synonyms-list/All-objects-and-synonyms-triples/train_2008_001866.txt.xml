@@ -1,0 +1,56 @@
+An Amtrak passenger train waiting at a station . 
+a Amtrak passenger train wait at a station . 
+
+verb-prep-object	wait at station
+object-prep-object	train at station
+attribute-object	amtrak train
+attribute-object	passenger train
+object-verb	train wait
+object	station
+object	train
+object	train
+#####################################################
+A silver and blue Amtrak train on the tracks near a small train station . 
+a silver and blue Amtrak train on the track near a small train station . 
+
+object-prep-object	train on track
+object-prep-object	train near station
+attribute-object	silver train
+attribute-object	blue train
+attribute-object	small station
+attribute-object	amtrak train
+attribute-object	train station
+object	train
+object	track
+object	station
+object	train
+#####################################################
+A train parked at a train station . 
+a train park at a train station . 
+
+verb-prep-object	park at station
+object-prep-object	train at station
+attribute-object	train station
+object-verb	train park
+object	station
+object	train
+object	train
+#####################################################
+Silver train at a station . 
+silver train at a station . 
+
+object-prep-object	train at station
+attribute-object	silver train
+object	train
+object	station
+object	train
+#####################################################
+There is a blue and silver astray train . 
+there be a blue and silver astray train . 
+
+attribute-object	blue train
+attribute-object	silver train
+attribute-object	astray train
+object	train
+object	train
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	A brown dog jumps through three hoops .
+beam_size_1	3	A dog is jumping through hoops held by people .
+beam_size_1	4	a dog jumps through a black hulahoop .
+beam_size_1	5	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	6	A trainer runs next to his dog as it jumps through multiple hoops .
+beam_size_1	7	A black and white dog catches flying discs thrown by a man .
+beam_size_1	8	a black a white dog catching Frisbees thrown by a man in a white shirt
+beam_size_1	9	A dog jumps for a Frisbee at the Purina Incredible Dog Challenge .
+beam_size_1	10	A man is throwing freesbies into the air and the border collie is catching them in the air .
+beam_size_1	11	Man in white shirt tossing Frisbee for black and white dog who has a white Frisbee in its mouth .
+beam_size_1	12	A group of girls sit back to back .
+beam_size_1	13	a group of girls sitting in a circle
+beam_size_1	14	Little girl in bare feet sitting in a circle .
+beam_size_1	15	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	16	The young girls sat in a circle on the wood floor .
+beam_size_1	17	A baby eats and has food on his face .
+beam_size_1	18	A boy with lips messy from eating fruit
+beam_size_1	19	A little boy is eating something and got it all over his mouth .
+beam_size_1	20	A small child with berries all over its mouth .
+beam_size_1	21	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	22	One child reaches up for something while another stands beside him .
+beam_size_1	23	One child with a colourful toy and another child reaching up .
+beam_size_1	24	Two babies in sweaters playing with a toy .
+beam_size_1	25	Two children have expressions of happiness as they reach for something out of sight .
+beam_size_1	26	Two kids playing on a street
+beam_size_1	27	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	28	A man in red trunks flies through the air with a boogie board .
+beam_size_1	29	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	30	A shirtless man bodysurfs .
+beam_size_1	31	Man is diving onto his wakeboard .
+beam_size_1	32	Airplane emitting heavy red colored smoke .
+beam_size_1	33	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	34	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	35	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	36	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	37	a brunette girl wearing sunglasses and a yellow shirt
+beam_size_1	38	A girl in sunglasses smiles .
+beam_size_1	39	A girl wearing a yellow shirt and sunglasses smiles .
+beam_size_1	40	a girl wearing sunglasses smiles for the camera .
+beam_size_1	41	A woman with a yellow shirt wears sunglasses and smiles .
+beam_size_1	42	A little girl hugs another little girl .
+beam_size_1	43	A young child is being held by another child looking straight at us .
+beam_size_1	44	Two toddlers posing for the camera .
+beam_size_1	45	Two young children holding each other and posing .
+beam_size_1	46	Two young girls hug .
+beam_size_1	47	A toddler girl plays with another younger toddler girl .
+beam_size_1	48	Two babies sitting on a playmat reaching for something
+beam_size_1	49	Two babies are sitting close together while reaching for something .
+beam_size_1	50	Two children sitting on the floor .
+beam_size_1	51	Two young children sitting together playing .

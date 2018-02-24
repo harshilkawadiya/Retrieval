@@ -1,0 +1,69 @@
+A girl in a plaid coat takes a photo of herself in a mirror by a staircase , holding a red bag . 
+a girl in a plaid coat take a photo of herself in a mirror by a staircase , hold a red bag . 
+
+object-verb-object	person take girl
+object-prep-object	person in girl
+attribute-object	plaid coat
+object-prep-object	mirror by staircase
+verb-prep-object	take in mirror
+attribute-object	red bag
+object-verb-object	person hold girl
+object	person
+object	girl
+object	coat
+object	mirror
+object	staircase
+object	bag
+object	person
+#####################################################
+A girl with a red bag standing on the street . 
+a girl with a red bag standing on the street . 
+
+object-prep-object	person on road
+verb-prep-object	stand on road
+object-prep-object	person with girl
+attribute-object	red bag
+object-verb	person stand
+object	person
+object	girl
+object	road
+object	street
+object	bag
+object	person
+#####################################################
+A woman looks to take a photo . 
+a woman look to take a photo . 
+
+object-verb	person look
+verb-prep-verb	look to take
+verb-object	take photo
+object	person
+object	woman
+object	photo
+object	person
+#####################################################
+A woman with a red bag takes a picture of herself in a mirror . 
+a woman with a red bag take a picture of herself in a mirror . 
+
+object-prep-object	person with woman
+attribute-object	red bag
+object-verb-object	person take woman
+verb-prep-object	take in mirror
+object	person
+object	woman
+object	bag
+object	mirror
+object	person
+#####################################################
+Young woman with red bag holding camera . 
+Young woman with red bag hold camera . 
+
+object-prep-object	person with woman
+attribute-object	red bag
+object-verb-object	person hold woman
+attribute-object	young person
+object	person
+object	woman
+object	bag
+object	person
+#####################################################

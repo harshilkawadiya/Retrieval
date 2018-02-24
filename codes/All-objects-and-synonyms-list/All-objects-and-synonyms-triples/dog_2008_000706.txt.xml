@@ -1,0 +1,80 @@
+an old black woman wearing a turban and a headdress and a dog next to her wearing the same red headdress . 
+a old black woman wear a turban and a headdress and a dog next to she wear the same red headdress . 
+
+object-prep-object	dog next_to person
+attribute-object	old person
+attribute-object	black person
+attribute-object	red headdress
+object-verb-object	person wear woman
+object-verb-object	person wear woman
+object-verb-object	dog wear headdress
+object	dog
+object	person
+object	woman
+object	headdress
+object	dog
+#####################################################
+A woman and dog are dressed in colorful clothes and sitting outside . 
+a woman and dog be dress in colorful clothes and sit outside . 
+
+verb-prep-object	dress in clothes
+object-prep-object	person in woman
+object-prep-object	dog in clothes
+verb-attribute	sit outside
+attribute-object	colorful clothes
+object-verb	person dress
+object-verb	person sit
+object-verb	dog sit
+object-verb	dog dress
+object	clothes
+object	person
+object	woman
+object	dog
+object	dog
+#####################################################
+Black woman with flower hat sitting next to dog with the same hat . 
+Black woman with flower hat sit next to dog with the same hat . 
+
+object-prep-object	person with woman
+verb-prep-object	sit next_to dog
+object-prep-object	person next_to woman
+object-prep-object	dog with hat
+attribute-object	flower hat
+attribute-object	black person
+object	person
+object	woman
+object	dog
+object	hat
+object	dog
+#####################################################
+The woman and the dog are both wearing flowers on their heads . 
+the woman and the dog be both wear flower on they head . 
+
+object-prep-object	flower on head
+object-verb-object	person wear woman
+object-verb-object	dog wear flower
+object	flower
+object	head
+object	person
+object	woman
+object	dog
+object	dog
+#####################################################
+Woman and her small dog dressed up together sitting on concrete curb . 
+Woman and she small dog dress up together sit on concrete curb . 
+
+verb-prep-object	sit on curb
+object-prep-object	person on woman
+object-prep-object	dog on curb
+attribute-object	small dog
+attribute-object	concrete curb
+object-verb	person dress
+object-verb	dog dress
+object-verb	person sit
+object-verb	dog sit
+object	curb
+object	person
+object	woman
+object	dog
+object	dog
+#####################################################

@@ -1,0 +1,46 @@
+A mother prepares to feed her infant son . 
+a mother prepare to feed she infant son . 
+
+attribute-object	infant son
+object-verb	mother prepare
+verb-prep-verb	prepare to feed
+verb-object	feed son
+object	son
+object	mother
+object	bottle
+#####################################################
+A person holding a baby . 
+a person hold a baby . 
+
+object-verb-object	person hold baby
+object	person
+object	baby
+object	bottle
+#####################################################
+A person holds a young baby who is sleeping . 
+a person hold a young baby who be sleep . 
+
+attribute-object	young baby
+object-verb-object	person hold baby
+object-verb	baby sleep
+object	baby
+object	person
+object	bottle
+#####################################################
+A person is holding a baby . 
+a person be hold a baby . 
+
+object-verb-object	person hold baby
+object	person
+object	baby
+object	bottle
+#####################################################
+The brown-haired person holds a baby which appears to be sleeping . 
+the brown-haired person hold a baby which appear to be sleep . 
+
+attribute-object	brown-haired person
+object-verb-object	person hold baby
+object	person
+object	baby
+object	bottle
+#####################################################

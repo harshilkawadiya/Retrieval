@@ -1,0 +1,52 @@
+Art items on a table . 
+Art item on a table . 
+
+object-prep-object	item on diningtable
+attribute-object	art item
+object	item
+object	diningtable
+object	pottedplant
+#####################################################
+A woman painting a chair with a dining room in the background . 
+a woman painting a chair with a dining room in the background . 
+
+object-verb-object	person paint woman
+attribute-object	dining room
+object	person
+object	woman
+object	room
+object	pottedplant
+#####################################################
+Someone is doing artwork and their are art supplies on the table . 
+someone be do artwork and they be art supplies on the table . 
+
+object-prep-object	supplies on diningtable
+object-verb-object	person do someone
+attribute-object	art supplies
+object	supplies
+object	diningtable
+object	person
+object	someone
+object	pottedplant
+#####################################################
+This person has a table full of crafting supplies at her disposal . 
+this person have a table full of craft supplies at she disposal . 
+
+object-verb-object	person have diningtable
+object-prep-object	diningtable full_of table
+attribute-object	craft supplies
+object	person
+object	diningtable
+object	table
+object	supplies
+object	pottedplant
+#####################################################
+Various art supplies on a table . 
+various art supplies on a table . 
+
+object-prep-object	supplies on diningtable
+attribute-object	art supplies
+object	supplies
+object	diningtable
+object	pottedplant
+#####################################################

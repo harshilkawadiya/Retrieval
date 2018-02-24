@@ -1,0 +1,72 @@
+A couple posing for a picture on a couch . 
+a couple pose for a picture on a couch . 
+
+verb-prep-object	pose on sofa
+object-prep-object	person on bed
+verb-prep-object	pose for picture
+object-verb	person pose
+object	sofa
+object	bed
+object	person
+object	couple
+object	picture
+object	sofa
+#####################################################
+A man and woman smiling for the camera while sitting on a black and red sofa . 
+a man and woman smile for the camera while sit on a black and red sofa . 
+
+object-verb	person smile
+object-verb	person smile
+verb-prep-object	smile for camera
+object-verb	person sit
+object-verb	person sit
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+object-prep-object	person on woman
+attribute-object	black sofa
+attribute-object	red sofa
+object	person
+object	man
+object	woman
+object	camera
+object	sofa
+object	sofa
+#####################################################
+A young male and female couple sitting next to each other . 
+a young male and female couple sit next to each other . 
+
+attribute-object	young person
+attribute-object	male person
+attribute-object	female person
+object-verb	person sit
+object	person
+object	couple
+object	sofa
+#####################################################
+Young couple sitting on a black couch . 
+Young couple sit on a black couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	black sofa
+attribute-object	young person
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	couple
+object	sofa
+#####################################################
+Young couple sitting on couch . 
+Young couple sit on couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	young person
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	couple
+object	sofa
+#####################################################

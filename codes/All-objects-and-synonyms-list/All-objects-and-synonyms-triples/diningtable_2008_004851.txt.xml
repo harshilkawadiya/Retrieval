@@ -1,0 +1,79 @@
+A man holding a baby and a woman eating at a table . 
+a man hold a baby and a woman eat at a table . 
+
+object-verb-object	person hold man
+verb-prep-object	eat at diningtable
+object-prep-object	person at diningtable
+object-verb	person eat
+object	person
+object	man
+object	diningtable
+object	table
+object	woman
+object	diningtable
+#####################################################
+A man , with a baby in his lap , next to a woman who is eating . 
+a man , with a baby in he lap , next to a woman who be eat . 
+
+object-prep-object	person with man
+object-prep-object	person next_to person
+object-prep-object	baby in lap
+object-verb	person eat
+object	person
+object	man
+object	baby
+object	lap
+object	woman
+object	diningtable
+#####################################################
+An elderly Asian couple pose with a yawning baby at a dinner table . 
+a elderly asian couple pose with a yawning baby at a dinner table . 
+
+object-verb	person pose
+attribute-object	elderly person
+attribute-object	asian person
+verb-prep-object	pose with baby
+object-prep-object	person with couple
+attribute-object	yawning baby
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+attribute-object	dinner diningtable
+object	person
+object	couple
+object	baby
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+An older Asian couple poses with a newborn baby at the dinner table . 
+a older asian couple pose with a newborn baby at the dinner table . 
+
+object-verb	person pose
+attribute-object	older person
+attribute-object	asian person
+verb-prep-object	pose with baby
+object-prep-object	person with couple
+attribute-object	newborn baby
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+attribute-object	dinner diningtable
+object	person
+object	couple
+object	baby
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+Oriental couple with an infant at a table of food . 
+oriental couple with a infant at a table of food . 
+
+object-prep-object	person with person
+object-prep-object	diningtable of table
+object-prep-object	person at diningtable
+attribute-object	oriental person
+object	person
+object	couple
+object	diningtable
+object	table
+object	diningtable
+#####################################################

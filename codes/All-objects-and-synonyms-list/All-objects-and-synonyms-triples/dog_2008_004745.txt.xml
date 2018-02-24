@@ -1,0 +1,80 @@
+A girl and dog pose before a Christmas tree with a train track circling it . 
+a girl and dog pose before a Christmas tree with a train track circle it . 
+
+object-verb	person pose
+object-verb	dog pose
+verb-prep-object	pose before tree
+object-prep-object	person before girl
+object-prep-object	dog before tree
+attribute-object	christmas tree
+object-prep-object	tree with track
+attribute-object	train track
+object	person
+object	girl
+object	dog
+object	tree
+object	track
+object	dog
+#####################################################
+A girl in purple pajamas and a dog under the Christmas tree . 
+a girl in purple pajamas and a dog under the Christmas tree . 
+
+object-prep-object	person under girl
+object-prep-object	dog under tree
+object-prep-object	person in girl
+attribute-object	purple pajamas
+attribute-object	christmas tree
+object	person
+object	girl
+object	dog
+object	tree
+object	pajamas
+object	dog
+#####################################################
+A young girl in purple with black and white dog in front of a Christmas tree . 
+a young girl in purple with black and white dog in front of a Christmas tree . 
+
+object-prep-object	person in girl
+object-prep-object	person with girl
+object-prep-object	dog in_front_of tree
+attribute-object	young person
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	christmas tree
+object	person
+object	girl
+object	dog
+object	tree
+object	dog
+#####################################################
+The girl is petting a dog in front of a christmas tree . 
+the girl be pet a dog in front of a christmas tree . 
+
+object-prep-object	dog in_front_of tree
+object-verb-object	person pet girl
+attribute-object	christmas tree
+object	dog
+object	tree
+object	person
+object	girl
+object	dog
+#####################################################
+Young girl near Christmas tree sitting on floor with black and white dog . 
+Young girl near Christmas tree sit on floor with black and white dog . 
+
+verb-prep-object	sit on floor
+object-prep-object	person on girl
+object-prep-object	person near girl
+verb-prep-object	sit with dog
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	young person
+attribute-object	christmas tree
+object-verb	person sit
+object	floor
+object	person
+object	girl
+object	dog
+object	tree
+object	dog
+#####################################################

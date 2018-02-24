@@ -1,0 +1,55 @@
+A chair as the central item in the picture . 
+a chair as the central item in the picture . 
+
+object	chair
+object	chair
+object	chair
+#####################################################
+A chair next to a vase of flowers . 
+a chair next to a vase of flower . 
+
+object-prep-object	vase of flower
+object-prep-object	chair next_to vase
+object	vase
+object	flower
+object	chair
+object	chair
+#####################################################
+A fancy chair sitting on the carpet with flowers to the left . 
+a fancy chair sit on the carpet with flower to the left . 
+
+object-prep-object	carpet with flower
+verb-prep-object	sit on carpet
+object-prep-object	chair on carpet
+attribute-object	fancy chair
+object-verb	chair sit
+object	carpet
+object	flower
+object	chair
+object	chair
+#####################################################
+A formal chair in the living room . 
+a formal chair in the living room . 
+
+object-prep-object	chair in room
+attribute-object	formal chair
+attribute-object	living room
+object	chair
+object	room
+object	chair
+#####################################################
+Wood chair with white cushion situated on blue carpeting . 
+Wood chair with white cushion situate on blue carpeting . 
+
+verb-prep-object	situate on carpeting
+object-prep-object	chair on carpeting
+object-prep-object	chair with cushion
+attribute-object	white cushion
+attribute-object	blue carpeting
+attribute-object	wood chair
+object-verb	chair situate
+object	carpeting
+object	chair
+object	cushion
+object	chair
+#####################################################

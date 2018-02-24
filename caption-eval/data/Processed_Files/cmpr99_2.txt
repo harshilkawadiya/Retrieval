@@ -1,0 +1,50 @@
+beam_size_1	2	A man is standing on an animal in the water .
+beam_size_1	3	A man is standing on an elephant lying in some water .
+beam_size_1	4	A man standing on a rock in a river with a spash next to him .
+beam_size_1	5	A man stands on top of an elephant in the water .
+beam_size_1	6	A man stands on top of a submerged elephant .
+beam_size_1	7	A little girl in a swing laughs .
+beam_size_1	8	A little girl is swinging in her brightly colored swing outside .
+beam_size_1	9	A little girl sits in a plastic swing set .
+beam_size_1	10	A young girl on a swing .
+beam_size_1	11	Girl wearing pink pants smiles in baby swing
+beam_size_1	12	A girl bends down to paint something underneath her .
+beam_size_1	13	A girl is holding a paint brush in a plastic cup and painting the ground .
+beam_size_1	14	a girl paints the road .
+beam_size_1	15	A little girl painting the sidwalk white .
+beam_size_1	16	A little girl paints the ground white outside .
+beam_size_1	17	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	18	A man in red trunks flies through the air with a boogie board .
+beam_size_1	19	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	20	A shirtless man bodysurfs .
+beam_size_1	21	Man is diving onto his wakeboard .
+beam_size_1	22	Two boys are running in a metal barrel .
+beam_size_1	23	Two boys are running in a spinning tube .
+beam_size_1	24	Two boys are walking inside a human-size exercise-wheel .
+beam_size_1	25	Two boys running in a giant metal wheel .
+beam_size_1	26	Two boys walking to make a cylinder roll at a small carnival .
+beam_size_1	27	A black dog and a tan dog fighting .
+beam_size_1	28	A black dog and a white dog are wrestling on the ground .
+beam_size_1	29	A black dog bites a white dog while standing on the sand .
+beam_size_1	30	two dogs fight .
+beam_size_1	31	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	32	A brown and white dog stands outside while it snows .
+beam_size_1	33	A dog is looking at something near the water .
+beam_size_1	34	A furry dog attempts to dry itself by shaking the water off its coat .
+beam_size_1	35	A white and brown dog shaking its self dry .
+beam_size_1	36	The large brown and white dog shakes off water .
+beam_size_1	37	A black and tan dog rolls on his back in a field .
+beam_size_1	38	A black dog rolling in the green grass .
+beam_size_1	39	A dog rolls on his back .
+beam_size_1	40	A dog rolls on his back in the grass .
+beam_size_1	41	A dog with paws in the air lying on grass
+beam_size_1	42	A man is standing in front of glass doors with a blue spot and a pink spot .
+beam_size_1	43	A man is standing outside the glass doors of an art center .
+beam_size_1	44	A man stands at the entrance of Yerba Buena Center for the Arts .
+beam_size_1	45	A man walking through glass double doors .
+beam_size_1	46	Person standing at glass doors with big blue circle and big pink circle
+beam_size_1	47	A dog chases a ball that has dropped in the water .
+beam_size_1	48	A dog on a log looks at a splash in the water as another dog looks on .
+beam_size_1	49	dogs playing in a stream
+beam_size_1	50	Two dogs are staring at a splash in the water
+beam_size_1	51	Two dogs look at something splashing in the water .

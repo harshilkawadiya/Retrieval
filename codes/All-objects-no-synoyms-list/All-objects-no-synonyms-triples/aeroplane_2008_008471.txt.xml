@@ -1,0 +1,57 @@
+An airplane is flying over a tree in the blue sky . 
+a airplane be fly over a tree in the blue sky . 
+
+verb-prep-object	fly over tree
+verb-prep-object	fly in sky
+object-prep-object	airplane over tree
+object-prep-object	airplane in sky
+attribute-object	blue sky
+object-verb	airplane fly
+object	tree
+object	sky
+object	airplane
+object	aeroplane
+#####################################################
+A plane is flying in the distance . 
+a plane be fly in the distance . 
+
+verb-prep-object	fly in distance
+object-prep-object	plane in distance
+object-verb	plane fly
+object	distance
+object	plane
+object	aeroplane
+#####################################################
+A small aircraft flies in the blue sky above the trees . 
+a small aircraft fly in the blue sky above the tree . 
+
+object-prep-object	aircraft above tree
+verb-prep-object	fly above tree
+verb-prep-object	fly in sky
+object-prep-object	aircraft in sky
+attribute-object	small aircraft
+attribute-object	blue sky
+object-verb	aircraft fly
+object	aircraft
+object	tree
+object	sky
+object	aeroplane
+#####################################################
+A small airplane flying above the trees . 
+a small airplane fly above the tree . 
+
+verb-prep-object	fly above tree
+object-prep-object	airplane above tree
+attribute-object	small airplane
+object-verb	airplane fly
+object	tree
+object	airplane
+object	aeroplane
+#####################################################
+The back of an airplane . 
+the back of a airplane . 
+
+object	airplane
+object	airplane
+object	aeroplane
+#####################################################

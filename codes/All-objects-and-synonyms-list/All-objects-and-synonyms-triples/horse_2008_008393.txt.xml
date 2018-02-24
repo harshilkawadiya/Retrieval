@@ -1,0 +1,45 @@
+A close up of a horse wearing a blue halter . 
+a close up of a horse wear a blue halter . 
+
+attribute-object	blue halter
+object-verb-object	horse wear halter
+object	halter
+object	horse
+object	horse
+#####################################################
+An upclose shot of a horse in the barn . 
+a upclose shot of a horse in the barn . 
+
+object-prep-object	horse in barn
+object	horse
+object	barn
+object	horse
+#####################################################
+An up close view of a horse . 
+a up close view of a horse . 
+
+object	horse
+object	horse
+object	horse
+#####################################################
+Close up of a brown horse with a blue halter . 
+close up of a brown horse with a blue halter . 
+
+object-prep-object	horse with halter
+attribute-object	brown horse
+attribute-object	blue halter
+object	horse
+object	halter
+object	horse
+#####################################################
+Up close view of horse with halter attached to face . 
+up close view of horse with halter attach to face . 
+
+object-prep-object	horse with halter
+object-verb	halter attach
+verb-prep-object	attach to face
+object	horse
+object	halter
+object	face
+object	horse
+#####################################################

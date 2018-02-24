@@ -1,0 +1,74 @@
+A bag of cotton in front of a couch . 
+a bag of cotton in front of a couch . 
+
+object-prep-object	bag of cotton
+object-prep-object	bag in_front_of bed
+object	bag
+object	cotton
+object	sofa
+object	bed
+object	sofa
+#####################################################
+A bag of white cotton leaning on a colorful couch . 
+a bag of white cotton lean on a colorful couch . 
+
+object-prep-object	bag of cotton
+verb-prep-object	lean on sofa
+object-prep-object	bag on bed
+attribute-object	white cotton
+attribute-object	colorful sofa
+object-verb	bag lean
+object	bag
+object	cotton
+object	sofa
+object	bed
+object	sofa
+#####################################################
+A giant polka bag filled with cotton in sits on a tan rug in front of a paisley couch . 
+a giant polka bag fill with cotton in sit on a tan rug in front of a paisley couch . 
+
+object-verb	bag fill
+attribute-object	giant bag
+attribute-object	polka bag
+verb-prep-object	fill with cotton
+object-prep-object	bag with cotton
+object-verb	bag sit
+verb-prep-object	sit on rug
+object-prep-object	bag on rug
+attribute-object	tan rug
+object-prep-object	rug in_front_of bed
+attribute-object	paisley sofa
+object	bag
+object	cotton
+object	rug
+object	sofa
+object	bed
+object	sofa
+#####################################################
+A polka bag of white cotton is sitting upright in from of a maroon couch . 
+a polka bag of white cotton be sit upright in from of a maroon couch . 
+
+object-prep-object	bag of cotton
+object-verb-object	bag sit upright
+attribute-object	white cotton
+attribute-object	maroon sofa
+attribute-object	polka bag
+object	bag
+object	cotton
+object	upright
+object	sofa
+object	bed
+object	sofa
+#####################################################
+Large bag of cotton in front of couch . 
+large bag of cotton in front of couch . 
+
+object-prep-object	bag of cotton
+object-prep-object	bag in_front_of bed
+attribute-object	large bag
+object	bag
+object	cotton
+object	sofa
+object	bed
+object	sofa
+#####################################################

@@ -1,0 +1,60 @@
+A customer inspects a new scooter . 
+a customer inspect a new scooter . 
+
+attribute-object	new scooter
+object-verb-object	customer inspect scooter
+object	scooter
+object	customer
+object	motorbike
+#####################################################
+A man sits on a small yellow scooter . 
+a man sit on a small yellow scooter . 
+
+verb-prep-object	sit on scooter
+object-prep-object	man on scooter
+attribute-object	small scooter
+attribute-object	yellow scooter
+object-verb	man sit
+object	scooter
+object	man
+object	motorbike
+#####################################################
+A man with tattooed arms sitting on a yellow scooter . 
+a man with tattooed arm sit on a yellow scooter . 
+
+verb-prep-object	sit on scooter
+object-prep-object	man on scooter
+object-prep-object	man with arm
+attribute-object	tattooed arm
+attribute-object	yellow scooter
+object-verb	man sit
+object	scooter
+object	man
+object	arm
+object	motorbike
+#####################################################
+A tattooed man sits on a yellow scooter as another man watches . 
+a tattooed man sit on a yellow scooter as another man watch . 
+
+verb-prep-object	sit on scooter
+object-prep-object	man on scooter
+attribute-object	tattooed man
+attribute-object	yellow scooter
+object-verb	man watch
+object-verb	man sit
+object	scooter
+object	man
+object	motorbike
+#####################################################
+Guy sitting on and checking out a yellow and black motorbike . 
+Guy sit on and check out a yellow and black motorbike . 
+
+object-verb	guy sit
+verb-prep-object	sit on motorbike
+object-prep-object	guy on motorbike
+attribute-object	yellow motorbike
+attribute-object	black motorbike
+object	guy
+object	motorbike
+object	motorbike
+#####################################################

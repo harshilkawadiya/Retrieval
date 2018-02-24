@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	3	A black dog with a purple collar is running .
+beam_size_1	4	A black dog with a purple collar running .
+beam_size_1	5	a black dog with purple collar running
+beam_size_1	6	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	7	A black dog and a tan dog fighting .
+beam_size_1	8	A black dog and a white dog are wrestling on the ground .
+beam_size_1	9	A black dog bites a white dog while standing on the sand .
+beam_size_1	10	two dogs fight .
+beam_size_1	11	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	12	A black and brown dog with a tan dog on a cement path in front of grass
+beam_size_1	13	A black dog and a yellow dog are walking on asphalt next to a field of grass .
+beam_size_1	14	A blurry photo of two dogs .
+beam_size_1	15	a white dog is running behind a black dog on a paved path by some grass .
+beam_size_1	16	Two dogs walk along a path beside the grass .
+beam_size_1	17	A large dog sniffing a human hand while a small dog is sniffing the large dog 's butt .
+beam_size_1	18	A person reaches for a large grey dog while a black dog trails .
+beam_size_1	19	A smaller dog sniffs a larger dog in the hills .
+beam_size_1	20	the black dog is sniffing the brown dog 's butt .
+beam_size_1	21	The lady ask the dog to give her the ball on their beach walk .
+beam_size_1	22	A brown dog is swimming through water with an orange ball in its mouth .
+beam_size_1	23	A dark brow dog holds an orange ball in his mouth while walking through water .
+beam_size_1	24	A dog wading in the water with a ball in his mouth
+beam_size_1	25	A wet , brownish-red dog with an orange ball in his mouth is swimming in some water .
+beam_size_1	26	Brown dog in water , with orange and blue ball in mouth .
+beam_size_1	27	a boy in an orange jacket climbes through a play tunnel
+beam_size_1	28	A boy slides through a tube .
+beam_size_1	29	A smiling child slides down a slippery tube slide
+beam_size_1	30	A young boy wearing a red coat is playing in a long tunnel .
+beam_size_1	31	Smiling boy in tube , extending had toward camera .
+beam_size_1	32	a black and white dog playing in the snow together
+beam_size_1	33	A black poodle jumping on the head of a white poodle while walking in the snow .
+beam_size_1	34	Black dog jumping over a white dog in a snowy path .
+beam_size_1	35	Two dogs playing in the snow .
+beam_size_1	36	Two poodles are running through the snow .
+beam_size_1	37	A large dog sniffing a smaller dog outside .
+beam_size_1	38	Two blond dogs are standing together on a patio .
+beam_size_1	39	Two dogs are standing together on a patio .
+beam_size_1	40	Two golden dogs are standing on a wooden patio .
+beam_size_1	41	Two golden dogs on a wood deck .
+beam_size_1	42	A dog and a cow are on a rocky slope .
+beam_size_1	43	A dog and a cow are standing on a hillside .
+beam_size_1	44	A white dog looks at a nervous cow in a mountain setting .
+beam_size_1	45	A white dog stands in front of a cow that has its head down and horns directed at the dog .
+beam_size_1	46	Two dogs are in a grassy area .
+beam_size_1	47	A dog hops in a field while another dog stands next to it .
+beam_size_1	48	One dog is jumping up at another dog in a grassy field .
+beam_size_1	49	The two tan colored dogs are in a field , and one is jumping in the air .
+beam_size_1	50	Two brown dogs in a field .
+beam_size_1	51	Two brown dogs play with one another in the field .

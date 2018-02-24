@@ -1,0 +1,53 @@
+A green glass jar . 
+a green glass jar . 
+
+attribute-object	green jar
+attribute-object	glass jar
+object	jar
+object	bottle
+#####################################################
+Close up of a green glass bear bottle . 
+close up of a green glass bear bottle . 
+
+attribute-object	green bottle
+attribute-object	glass bottle
+attribute-object	bear bottle
+object	bottle
+object	bottle
+#####################################################
+Green glass bottle with metal wire at top . 
+Green glass bottle with metal wire at top . 
+
+object-prep-object	bottle with wire
+attribute-object	green bottle
+attribute-object	glass bottle
+attribute-object	metal wire
+object	bottle
+object	wire
+object	bottle
+#####################################################
+Old green bottle sitting on a table . 
+Old green bottle sit on a table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	bottle on diningtable
+attribute-object	green bottle
+attribute-object	old bottle
+object-verb	bottle sit
+object	diningtable
+object	table
+object	bottle
+object	bottle
+#####################################################
+The green vase sits on the table . 
+the green vase sit on the table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	vase on diningtable
+attribute-object	green vase
+object-verb	vase sit
+object	diningtable
+object	table
+object	vase
+object	bottle
+#####################################################

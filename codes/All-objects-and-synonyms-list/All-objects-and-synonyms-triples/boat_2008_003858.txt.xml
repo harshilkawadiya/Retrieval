@@ -1,0 +1,52 @@
+A cruise ship called the Carnival Triumph is moving through the water . 
+a cruise ship call the Carnival Triumph be move through the water . 
+
+verb-prep-object	move through water
+object-prep-object	boat through ship
+attribute-object	cruise boat
+object-verb	boat move
+object	water
+object	boat
+object	ship
+object	boat
+#####################################################
+A large white Carnival cruise ship glides through the water against a blue sky . 
+a large white Carnival cruise ship glide through the water against a blue sky . 
+
+verb-prep-object	glide against sky
+verb-prep-object	glide through water
+object-prep-object	boat through ship
+attribute-object	large boat
+attribute-object	white boat
+attribute-object	blue sky
+attribute-object	carnival boat
+attribute-object	cruise boat
+object-verb	boat glide
+object	sky
+object	water
+object	boat
+object	ship
+object	boat
+#####################################################
+A large white cruise liner at sea . 
+a large white cruise liner at sea . 
+
+object-prep-object	ship at water
+attribute-object	large ship
+attribute-object	white ship
+attribute-object	cruise ship
+object	ship
+object	boat
+object	water
+object	boat
+#####################################################
+a white cruise ship sailing . 
+a white cruise ship sailing . 
+
+attribute-object	white boat
+attribute-object	cruise boat
+object-verb	boat sailing
+object	boat
+object	ship
+object	boat
+#####################################################

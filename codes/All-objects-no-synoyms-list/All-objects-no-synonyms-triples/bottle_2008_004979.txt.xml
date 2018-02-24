@@ -1,0 +1,58 @@
+a woman at a dinner table writing on her notebook . 
+a woman at a dinner table write on she notebook . 
+
+object-prep-object	woman at table
+verb-prep-object	write on notebook
+attribute-object	dinner table
+object-verb	woman write
+object	woman
+object	table
+object	notebook
+object	bottle
+#####################################################
+A woman at the dining table with wine , beer , and lemons . 
+a woman at the dining table with wine , beer , and lemon . 
+
+object-prep-object	woman at table
+object-prep-object	table with wine
+object-prep-object	table with beer
+object-prep-object	table with lemon
+attribute-object	dining table
+object	woman
+object	table
+object	wine
+object	beer
+object	lemon
+object	bottle
+#####################################################
+A woman by the table preparing drinks . 
+a woman by the table prepare drink . 
+
+object-prep-object	woman by table
+object-verb-object	woman prepare drink
+object	woman
+object	table
+object	drink
+object	bottle
+#####################################################
+A woman sits with her head down at a table that has alcohol beverages and accessories on it . 
+a woman sit with she head down at a table that have alcohol beverage and accessory on it . 
+
+object-verb	woman sit
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object	woman
+object	table
+object	bottle
+#####################################################
+Woman at table busy with something . 
+Woman at table busy with something . 
+
+object-prep-object	woman at table
+verb-prep-object	busy with something
+object-verb	woman busy
+object	woman
+object	table
+object	something
+object	bottle
+#####################################################

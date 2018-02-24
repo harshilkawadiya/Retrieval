@@ -1,0 +1,55 @@
+one white bird and a black and white bird on a grassy plain . 
+one white bird and a black and white bird on a grassy plain . 
+
+object-prep-object	bird on plain
+attribute-object	white bird
+attribute-object	black bird
+attribute-object	white bird
+attribute-object	grassy plain
+object	bird
+object	plain
+object	bird
+#####################################################
+Two affectionate birds in a field of dead grass . 
+two affectionate bird in a field of dead grass . 
+
+object-prep-object	field of grass
+object-prep-object	bird in field
+attribute-object	affectionate bird
+attribute-object	dead grass
+object	field
+object	grass
+object	bird
+object	bird
+#####################################################
+two birds close to each others . 
+two bird close to each other . 
+
+object-prep-object	bird close_to other
+object	bird
+object	other
+object	bird
+#####################################################
+Two birds , one white while the other more colorful , face each other . 
+two bird , one white while the other more colorful , face each other . 
+
+object-verb-object	bird face each_other
+attribute-object	white bird
+attribute-object	colorful bird
+object	bird
+object	each_other
+object	bird
+#####################################################
+Two long-legged birds face each other in tall grass . 
+two long-legged bird face each other in tall grass . 
+
+verb-prep-object	face in grass
+object-prep-object	bird in grass
+attribute-object	long-legged bird
+attribute-object	tall grass
+object-verb-object	bird face each_other
+object	grass
+object	bird
+object	each_other
+object	bird
+#####################################################

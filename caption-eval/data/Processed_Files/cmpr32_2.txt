@@ -1,0 +1,50 @@
+beam_size_1	2	A dog standing in the shallow part of the ocean while the waves splash around .
+beam_size_1	3	A dog standing in the water .
+beam_size_1	4	A wrinkled dog wading in shallow water .
+beam_size_1	5	The large brown dog is walking through water in the ocean .
+beam_size_1	6	The large brown dog stands in the choppy water .
+beam_size_1	7	A brown dog jumps through three hoops .
+beam_size_1	8	A dog is jumping through hoops held by people .
+beam_size_1	9	a dog jumps through a black hulahoop .
+beam_size_1	10	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	11	A trainer runs next to his dog as it jumps through multiple hoops .
+beam_size_1	12	A group of girls sit back to back .
+beam_size_1	13	a group of girls sitting in a circle
+beam_size_1	14	Little girl in bare feet sitting in a circle .
+beam_size_1	15	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	16	The young girls sat in a circle on the wood floor .
+beam_size_1	17	A boy is upside down in midair near a lake at sunset .
+beam_size_1	18	A person does a flip by two sailboats and a lake .
+beam_size_1	19	A person flipping upside down
+beam_size_1	20	a person in midair doing a back flip .
+beam_size_1	21	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	22	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	23	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	24	a little boy at the beach with a surfboard
+beam_size_1	25	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	26	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	27	A man in a tropical enviorment holding a camera to his face .
+beam_size_1	28	A man in blue takes a photo of the person taking a photo of him .
+beam_size_1	29	A man taking a picture with a silver camera .
+beam_size_1	30	Man in a blue shirt with a camera .
+beam_size_1	31	The man is outdoors , holding a camera .
+beam_size_1	32	a boy with a blue helmet is riding a bike
+beam_size_1	33	A young boy has his mouth open as he rides his bike outdoors past a stone wall .
+beam_size_1	34	A young boy is riding a bike .
+beam_size_1	35	A young boy wearing a helmet and riding a bike in a park .
+beam_size_1	36	The boy with the red and blue helmet rides his bicycle .
+beam_size_1	37	A girl in a red shirt takes a picture on a phone .
+beam_size_1	38	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	39	A woman in a red shirt holding a cellphone .
+beam_size_1	40	A woman taking pictures with her phone .
+beam_size_1	41	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	42	A few people are sitting inside of a building with lots of photography on the walls .
+beam_size_1	43	Four people in a dimmly lit room with pictures all over the walls and two bright lights are engaging in conversations .
+beam_size_1	44	People gathered in an artist 's studio .
+beam_size_1	45	Several people are sitting inside a dark art gallery .
+beam_size_1	46	Some people are mingling in a room that has photographs all over the walls .
+beam_size_1	47	A boy in a blue shirt runs while smiling .
+beam_size_1	48	A child in a black shirt , running .
+beam_size_1	49	A little boy in navy blue is running very fast .
+beam_size_1	50	A young boy in a dark blue shirt runs as the grassy background blurs .
+beam_size_1	51	A young boy in dark clothing with a smile sprints .

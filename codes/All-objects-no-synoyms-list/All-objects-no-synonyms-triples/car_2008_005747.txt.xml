@@ -1,0 +1,47 @@
+A close-up view of the headlights of a blue old-fashioned car . 
+a close-up view of the headlight of a blue old-fashioned car . 
+
+object-prep-object	headlight of car
+attribute-object	blue car
+attribute-object	old-fashioned car
+object	headlight
+object	car
+object	car
+#####################################################
+Close up of the headlights on a blue car . 
+close up of the headlight on a blue car . 
+
+object-prep-object	headlight on car
+attribute-object	blue car
+object	headlight
+object	car
+object	car
+#####################################################
+The front drivers side headlights of a blue Corvette . 
+the front driver side headlight of a blue Corvette . 
+
+object-prep-object	headlight of corvette
+attribute-object	blue corvette
+object	headlight
+object	corvette
+object	car
+#####################################################
+The headlights on a blue car . 
+the headlight on a blue car . 
+
+object-prep-object	headlight on car
+attribute-object	blue car
+object	headlight
+object	car
+object	car
+#####################################################
+The left headlights of a classic blue convertible . 
+the left headlight of a classic blue convertible . 
+
+object-prep-object	headlight of convertible
+attribute-object	classic convertible
+attribute-object	blue convertible
+object	headlight
+object	convertible
+object	car
+#####################################################

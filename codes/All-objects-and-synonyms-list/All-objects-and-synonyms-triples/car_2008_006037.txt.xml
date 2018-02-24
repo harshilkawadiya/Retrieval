@@ -1,0 +1,53 @@
+An Esso gas station with trees in the background . 
+a Esso gas station with tree in the background . 
+
+object-prep-object	station with tree
+attribute-object	esso station
+attribute-object	gas station
+object	station
+object	tree
+object	car
+#####################################################
+A small white car parked at the gas station . 
+a small white car park at the gas station . 
+
+verb-prep-object	park at station
+object-prep-object	car at station
+attribute-object	small car
+attribute-object	white car
+attribute-object	gas station
+object-verb	car park
+object	station
+object	car
+object	car
+#####################################################
+A view of an Esso gas station . 
+a view of a esso gas station . 
+
+attribute-object	esso station
+attribute-object	gas station
+object	station
+object	car
+#####################################################
+A white car is at an Esso gas station . 
+a white car be at a esso gas station . 
+
+object-prep-object	car at station
+attribute-object	white car
+attribute-object	esso station
+attribute-object	gas station
+object	car
+object	station
+object	car
+#####################################################
+There is one car at this gas station on a sunny day . 
+there be one car at this gas station on a sunny day . 
+
+object-prep-object	car at station
+attribute-object	sunny day
+attribute-object	gas station
+object	car
+object	station
+object	day
+object	car
+#####################################################

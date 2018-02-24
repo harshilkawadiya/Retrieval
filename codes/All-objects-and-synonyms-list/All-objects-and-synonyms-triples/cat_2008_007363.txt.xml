@@ -1,0 +1,74 @@
+A ginger and white cat curled up and asleep on a leather chair . 
+a ginger and white cat curl up and asleep on a leather chair . 
+
+verb-prep-object	asleep on chair
+object-prep-object	cat on chair
+attribute-verb	up curl
+attribute-object	ginger cat
+attribute-object	white cat
+attribute-object	leather chair
+object-verb	cat curl
+object-verb	cat asleep
+object	chair
+object	cat
+object	cat
+#####################################################
+A orange and white cat asleep on a leather chair . 
+a orange and white cat asleep on a leather chair . 
+
+object-prep-object	cat on chair
+verb-prep-object	asleep on chair
+object-verb	cat asleep
+attribute-object	orange cat
+attribute-object	white cat
+attribute-object	leather chair
+object	cat
+object	chair
+object	cat
+#####################################################
+A orange and white cat laying on a blanket in a black leather chair . 
+a orange and white cat lay on a blanket in a black leather chair . 
+
+verb-prep-object	lay on blanket
+object-prep-object	cat on blanket
+object-prep-object	cat in chair
+attribute-object	black chair
+attribute-object	orange cat
+attribute-object	white cat
+attribute-object	leather chair
+object-verb	cat lay
+object	blanket
+object	cat
+object	chair
+object	cat
+#####################################################
+Tan domestic cat lounging on office chair . 
+Tan domestic cat lounge on office chair . 
+
+verb-prep-object	lounge on chair
+object-prep-object	cat on chair
+attribute-object	tan cat
+attribute-object	domestic cat
+attribute-object	office chair
+object-verb	cat lounge
+object	chair
+object	cat
+object	cat
+#####################################################
+Yellow and white cat asleep on office chair with an animal print blanket . 
+Yellow and white cat asleep on office chair with a animal print blanket . 
+
+object-verb	cat asleep
+verb-prep-object	asleep on chair
+object-prep-object	cat on chair
+attribute-object	yellow cat
+attribute-object	white cat
+object-prep-object	chair with blanket
+attribute-object	office chair
+attribute-object	animal blanket
+attribute-object	print blanket
+object	cat
+object	chair
+object	blanket
+object	cat
+#####################################################

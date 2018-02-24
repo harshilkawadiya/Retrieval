@@ -1,0 +1,53 @@
+a view over a cliff with a big sailboat in the distance . 
+a view over a cliff with a big sailboat in the distance . 
+
+object-prep-object	cliff with sailboat
+attribute-object	big sailboat
+object	cliff
+object	sailboat
+object	boat
+#####################################################
+behind a cliff , a boat sails away . 
+behind a cliff , a boat sail away . 
+
+object-verb	boat sail
+verb-attribute	sail away
+object-prep-object	boat behind cliff
+object	boat
+object	cliff
+object	boat
+#####################################################
+Plants grow out of rock near blue water as a boat sails . 
+plant grow out of rock near blue water as a boat sail . 
+
+verb-prep-object	grow out_of rock
+verb-prep-object	grow near water
+attribute-object	blue water
+object-verb	boat sail
+object-verb	plant grow
+object	rock
+object	water
+object	boat
+object	plant
+object	boat
+#####################################################
+Sailboat in the distance with a closeup of a cliff . 
+Sailboat in the distance with a closeup of a cliff . 
+
+object-prep-object	sailboat with cliff
+object	sailboat
+object	cliff
+object	boat
+#####################################################
+The face of a cliff with a ship sailing in a body of water in the distance . 
+the face of a cliff with a ship sailing in a body of water in the distance . 
+
+verb-prep-object	sailing in water
+object-prep-object	ship in water
+object-prep-object	cliff with ship
+object-verb	ship sailing
+object	water
+object	ship
+object	cliff
+object	boat
+#####################################################

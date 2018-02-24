@@ -1,0 +1,62 @@
+A car is parked by the side of the road near mountains . 
+a car be park by the side of the road near mountain . 
+
+verb-prep-object	park near mountain
+object-prep-object	car near mountain
+verb-prep-object	park by road
+object-prep-object	car by road
+object-verb	car park
+object	mountain
+object	car
+object	road
+object	car
+#####################################################
+A car is pulling off the side of the road onto the street . 
+a car be pull off the side of the road onto the street . 
+
+object-verb-object	car pull road
+verb-attribute	pull off
+verb-prep-object	pull onto street
+object-prep-object	car onto street
+object	car
+object	road
+object	street
+object	car
+#####################################################
+A silver car parked on the side of the road in front of the hills . 
+a silver car park on the side of the road in front of the hill . 
+
+verb-prep-object	park on road
+object-prep-object	car on road
+verb-prep-object	park in_front_of hill
+object-prep-object	car in_front_of hill
+attribute-object	silver car
+object-verb	car park
+object	road
+object	car
+object	hill
+object	car
+#####################################################
+Car on side of the road near some mountains . 
+car on side of the road near some mountain . 
+
+object-prep-object	car on road
+object-prep-object	car near mountain
+object	car
+object	road
+object	mountain
+object	car
+#####################################################
+Silver car parked on side of road with mountains in background . 
+silver car park on side of road with mountain in background . 
+
+verb-prep-object	park with mountain
+verb-prep-object	park on road
+object-prep-object	car on road
+attribute-object	silver car
+object-verb	car park
+object	mountain
+object	road
+object	car
+object	car
+#####################################################

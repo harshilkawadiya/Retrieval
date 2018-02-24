@@ -1,0 +1,55 @@
+A couple of gals chat over a bottle of wine . 
+a couple of gal chat over a bottle of wine . 
+
+object-prep-object	couple of gal
+object-prep-object	bottle of wine
+verb-prep-object	chat over bottle
+object-verb	gal chat
+object	couple
+object	gal
+object	bottle
+object	wine
+object	bottle
+#####################################################
+Two girls looking at each other over a bottle of wine . 
+two girl look at each other over a bottle of wine . 
+
+verb-prep-object	look over bottle
+object-prep-object	bottle of wine
+object-verb	girl look
+object	bottle
+object	wine
+object	girl
+object	bottle
+#####################################################
+Two women having a conversation with a wine bottle in the foreground . 
+two woman have a conversation with a wine bottle in the foreground . 
+
+object-verb-object	woman have conversation
+attribute-object	wine bottle
+object	woman
+object	conversation
+object	bottle
+object	bottle
+#####################################################
+Two women sit at a table with a wine bottle and look at each other . 
+two woman sit at a table with a wine bottle and look at each other . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-prep-object	table with bottle
+attribute-object	wine bottle
+object-verb	woman sit
+object-verb	woman look
+object	table
+object	woman
+object	bottle
+object	bottle
+#####################################################
+Two women staring at each other . 
+two woman stare at each other . 
+
+object-verb	woman stare
+object	woman
+object	bottle
+#####################################################

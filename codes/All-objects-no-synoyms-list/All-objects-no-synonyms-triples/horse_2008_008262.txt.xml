@@ -1,0 +1,49 @@
+A black and white photo of three horses , their handlers , and three onlookers . 
+a black and white photo of three horse , they handler , and three onlooker . 
+
+object	horse
+object	handler
+object	onlooker
+object	horse
+object	handler
+object	onlooker
+object	horse
+#####################################################
+Black and white scene of three people looking at three horses . 
+Black and white scene of three people look at three horse . 
+
+verb-prep-object	look at horse
+object-verb	people look
+object	horse
+object	people
+object	horse
+#####################################################
+People stand in the arena with horses . 
+people stand in the arena with horse . 
+
+verb-prep-object	stand with horse
+object-prep-object	people with horse
+verb-prep-object	stand in arena
+object-prep-object	people in arena
+object-verb	people stand
+object	horse
+object	people
+object	arena
+object	horse
+#####################################################
+The horses prepare for the show . 
+the horse prepare for the show . 
+
+verb-prep-object	prepare for show
+object-verb	horse prepare
+object	show
+object	horse
+object	horse
+#####################################################
+Three horses are shown using halters . 
+three horse be show use halter . 
+
+object-verb	horse show
+object	horse
+object	horse
+#####################################################

@@ -1,0 +1,60 @@
+Cows are crossing a rural highway and blocking the way of 2 cars and a truck . 
+cow be cross a rural highway and block the way of 2 car and a truck . 
+
+object-prep-object	way of car
+object-prep-object	way of car
+attribute-object	rural highway
+object-verb-object	cow cross highway
+object-verb-object	cow block way
+object	way
+object	car
+object	bus
+object	highway
+object	cow
+object	car
+#####################################################
+Cows crossing a road and blocking traffic . 
+cow cross a road and block traffic . 
+
+object-verb-object	cow cross road
+object-verb-object	cow block traffic
+object	cow
+object	road
+object	traffic
+object	car
+#####################################################
+Group of cows walking through the middle of busy road . 
+Group of cow walk through the middle of busy road . 
+
+verb-prep-object	walk through road
+object-prep-object	cow through road
+attribute-object	busy road
+object-verb	cow walk
+object	road
+object	cow
+object	car
+#####################################################
+The cows are walking across the road in front of the car . 
+the cow be walk across the road in front of the car . 
+
+verb-prep-object	walk across road
+object-prep-object	cow across road
+verb-prep-object	walk in_front_of car
+object-prep-object	cow in_front_of car
+object-verb	cow walk
+object	road
+object	cow
+object	car
+object	car
+#####################################################
+Vehicles stop while several cows cross the street . 
+Vehicles stop while several cow cross the street . 
+
+attribute-object	several cow
+object-verb-object	cow cross road
+object-verb	vehicles stop
+object	cow
+object	road
+object	vehicles
+object	car
+#####################################################

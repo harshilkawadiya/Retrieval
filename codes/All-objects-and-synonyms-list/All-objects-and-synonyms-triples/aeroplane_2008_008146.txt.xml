@@ -1,0 +1,50 @@
+A jet flies high in the blue sky . 
+a jet fly high in the blue sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	aeroplane in sky
+object-verb	aeroplane fly
+attribute-verb	high fly
+attribute-object	blue sky
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################
+A plane flying at a distance . 
+a plane fly at a distance . 
+
+verb-prep-object	fly at distance
+object-prep-object	aeroplane at distance
+object-verb	aeroplane fly
+object	distance
+object	aeroplane
+object	aeroplane
+#####################################################
+A plane in the sky . 
+a plane in the sky . 
+
+object-prep-object	aeroplane in sky
+object	aeroplane
+object	sky
+object	aeroplane
+#####################################################
+A small jet airplane . 
+a small jet airplane . 
+
+attribute-object	small aeroplane
+attribute-object	jet aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+Fighter jet flying through the blue sky . 
+Fighter jet fly through the blue sky . 
+
+verb-prep-object	fly through sky
+object-prep-object	aeroplane through sky
+attribute-object	blue sky
+attribute-object	fighter aeroplane
+object-verb	aeroplane fly
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################

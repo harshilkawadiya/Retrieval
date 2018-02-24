@@ -1,0 +1,63 @@
+A female child in a pink skirt and pink and white shirt is riding a toy that looks like a duck . 
+a female child in a pink skirt and pink and white shirt be ride a toy that look like a duck . 
+
+object-prep-object	child in skirt
+object-prep-object	child in shirt
+attribute-object	female child
+attribute-object	pink skirt
+attribute-object	pink shirt
+attribute-object	white shirt
+object-verb-object	child ride toy
+object	child
+object	skirt
+object	shirt
+object	toy
+object	person
+#####################################################
+A girl sitting on a large yellow duck . 
+a girl sit on a large yellow duck . 
+
+verb-prep-object	sit on duck
+object-prep-object	girl on duck
+attribute-object	large duck
+attribute-object	yellow duck
+object-verb	girl sit
+object	duck
+object	girl
+object	person
+#####################################################
+a little girl is happy , riding a toy duck . 
+a little girl be happy , ride a toy duck . 
+
+attribute-object	little girl
+attribute-object	toy duck
+object-object	girl happy
+object-verb-object	girl ride duck
+object	girl
+object	duck
+object	happy
+object	person
+#####################################################
+A young girl smiles while riding a duck . 
+a young girl smile while ride a duck . 
+
+attribute-object	young girl
+object-verb	girl smile
+object-verb-object	girl ride duck
+object	girl
+object	duck
+object	person
+#####################################################
+Young girl sitting on yellow duck statue . 
+Young girl sit on yellow duck statue . 
+
+verb-prep-object	sit on statue
+object-prep-object	girl on statue
+attribute-object	yellow statue
+attribute-object	young girl
+attribute-object	duck statue
+object-verb	girl sit
+object	statue
+object	girl
+object	person
+#####################################################

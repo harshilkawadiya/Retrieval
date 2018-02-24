@@ -1,0 +1,55 @@
+A close-up picture of a desk with a computer and papers on it . 
+a close-up picture of a desk with a computer and papers on it . 
+
+object-prep-object	table with laptop
+object-prep-object	table with diningtable
+object	table
+object	diningtable
+object	laptop
+object	tvmonitor
+#####################################################
+a messy desktop with two monitors . 
+a messy desktop with two monitor . 
+
+object-prep-object	desktop with tvmonitor
+attribute-object	messy desktop
+object	desktop
+object	tvmonitor
+object	tvmonitor
+#####################################################
+Messy computer desk with two monitors . 
+messy computer desk with two monitor . 
+
+object-prep-object	table with tvmonitor
+attribute-object	messy table
+attribute-object	computer table
+object	table
+object	diningtable
+object	tvmonitor
+object	tvmonitor
+#####################################################
+The desk is very cluttered and has an old computer on it . 
+the desk be very cluttered and have a old computer on it . 
+
+attribute-object	old laptop
+object-verb-object	table have laptop
+object-object	table diningtable
+object	laptop
+object	computer
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################
+Very crowded office desk with computer monitor on . 
+very crowd office desk with computer monitor on . 
+
+object-prep-object	table with tvmonitor
+attribute-object	crowd table
+attribute-object	office table
+attribute-object	computer tvmonitor
+object	table
+object	diningtable
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################

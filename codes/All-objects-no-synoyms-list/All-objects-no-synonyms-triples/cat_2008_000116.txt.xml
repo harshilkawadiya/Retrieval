@@ -1,0 +1,63 @@
+A black and gray striped cat lying on a comforter looking toward the camera . 
+a black and gray striped cat lie on a comforter look toward the camera . 
+
+object-verb	cat lie
+attribute-object	black cat
+attribute-object	gray cat
+attribute-object	striped cat
+verb-prep-object	lie on comforter
+object-prep-object	cat on comforter
+object-verb	cat look
+verb-prep-object	look toward camera
+object	cat
+object	comforter
+object	camera
+object	cat
+#####################################################
+A cat curled up on a comforter . 
+a cat curl up on a comforter . 
+
+verb-prep-object	curl on comforter
+object-prep-object	cat on comforter
+object-verb	cat curl
+verb-attribute	curl up
+object	comforter
+object	cat
+object	cat
+#####################################################
+A tabby cat laying on a bed . 
+a tabby cat lay on a bed . 
+
+verb-prep-object	lay on bed
+object-prep-object	cat on bed
+attribute-object	tabby cat
+object-verb	cat lay
+object	bed
+object	cat
+object	cat
+#####################################################
+Gray domestic cat lying down on comforter . 
+Gray domestic cat lie down on comforter . 
+
+verb-prep-object	lie on comforter
+object-prep-object	cat on comforter
+attribute-object	domestic cat
+attribute-object	gray cat
+object-verb	cat lie
+verb-attribute	lie down
+object	comforter
+object	cat
+object	cat
+#####################################################
+The cat is laying on an animal print blanket . 
+the cat be lay on a animal print blanket . 
+
+verb-prep-object	lay on blanket
+object-prep-object	cat on blanket
+attribute-object	animal blanket
+attribute-object	print blanket
+object-verb	cat lay
+object	blanket
+object	cat
+object	cat
+#####################################################

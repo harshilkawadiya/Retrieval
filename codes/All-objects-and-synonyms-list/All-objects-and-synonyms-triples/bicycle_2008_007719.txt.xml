@@ -1,0 +1,50 @@
+A brown street bicycle . 
+a brown street bicycle . 
+
+attribute-object	brown bicycle
+attribute-object	road bicycle
+object	bicycle
+object	bicycle
+#####################################################
+An old brown and blue bicycle is parked in front of a blue curtain . 
+a old brown and blue bicycle be park in front of a blue curtain . 
+
+verb-prep-object	park in_front_of curtain
+object-prep-object	bicycle in_front_of curtain
+attribute-object	old bicycle
+attribute-object	brown bicycle
+attribute-object	blue bicycle
+attribute-object	blue curtain
+object-verb	bicycle park
+object	curtain
+object	bicycle
+object	bicycle
+#####################################################
+A parked brown and blue bicycle . 
+a park brown and blue bicycle . 
+
+attribute-object	park bicycle
+attribute-object	brown bicycle
+attribute-object	blue bicycle
+object	bicycle
+object	bicycle
+#####################################################
+Tan bicycle parked outside of blue building . 
+Tan bicycle park outside of blue building . 
+
+verb-prep-object	park outside_of building
+attribute-object	blue building
+attribute-object	tan bicycle
+object-verb	bicycle park
+object	building
+object	bicycle
+object	bicycle
+#####################################################
+Vintage looking 10 speed bicycle . 
+vintage look 10 speed bicycle . 
+
+attribute-object	speed bicycle
+attribute-object	vintage bicycle
+object	bicycle
+object	bicycle
+#####################################################

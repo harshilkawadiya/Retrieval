@@ -1,0 +1,50 @@
+2	A boy climbing a rocky area .
+3	A boy climbs rocks in the woods .
+4	A boy climbs up some rocks .
+5	A young boy wearing a white hat is climbing rocks .
+6	The boy is wearing a hat .
+7	A boy climbing a rocky area .
+8	A boy climbs rocks in the woods .
+9	A boy climbs up some rocks .
+10	A young boy wearing a white hat is climbing rocks .
+11	The boy is wearing a hat .
+12	A boy climbing a rocky area .
+13	A boy climbs rocks in the woods .
+14	A boy climbs up some rocks .
+15	A young boy wearing a white hat is climbing rocks .
+16	The boy is wearing a hat .
+17	A boy climbing a rocky area .
+18	A boy climbs rocks in the woods .
+19	A boy climbs up some rocks .
+20	A young boy wearing a white hat is climbing rocks .
+21	The boy is wearing a hat .
+22	A boy climbing a rocky area .
+23	A boy climbs rocks in the woods .
+24	A boy climbs up some rocks .
+25	A young boy wearing a white hat is climbing rocks .
+26	The boy is wearing a hat .
+27	A boy climbing a rocky area .
+28	A boy climbs rocks in the woods .
+29	A boy climbs up some rocks .
+30	A young boy wearing a white hat is climbing rocks .
+31	The boy is wearing a hat .
+32	A boy climbing a rocky area .
+33	A boy climbs rocks in the woods .
+34	A boy climbs up some rocks .
+35	A young boy wearing a white hat is climbing rocks .
+36	The boy is wearing a hat .
+37	A boy climbing a rocky area .
+38	A boy climbs rocks in the woods .
+39	A boy climbs up some rocks .
+40	A young boy wearing a white hat is climbing rocks .
+41	The boy is wearing a hat .
+42	A boy climbing a rocky area .
+43	A boy climbs rocks in the woods .
+44	A boy climbs up some rocks .
+45	A young boy wearing a white hat is climbing rocks .
+46	The boy is wearing a hat .
+47	A boy climbing a rocky area .
+48	A boy climbs rocks in the woods .
+49	A boy climbs up some rocks .
+50	A young boy wearing a white hat is climbing rocks .
+51	The boy is wearing a hat .

@@ -1,0 +1,65 @@
+A city street with a red double decker bus passing by . 
+a city street with a red double decker bus pass by . 
+
+object-prep-object	street with bus
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	city street
+attribute-object	decker bus
+object-verb	bus pass
+object	street
+object	bus
+object	bus
+#####################################################
+A red double-decker bus on the street outside of the Harrods building . 
+a red double-decker bus on the street outside of the Harrods building . 
+
+object-prep-object	bus on street
+object-prep-object	bus outside building
+attribute-object	red bus
+attribute-object	double-decker bus
+attribute-object	harrods building
+object	bus
+object	street
+object	building
+object	bus
+#####################################################
+People walk along a sidewalk near a red double-decker bus . 
+people walk along a sidewalk near a red double-decker bus . 
+
+verb-prep-object	walk along sidewalk
+object-prep-object	people along sidewalk
+verb-prep-object	sidewalk near bus
+object-prep-object	people near bus
+attribute-object	red bus
+attribute-object	double-decker bus
+object-verb	people walk
+object	sidewalk
+object	people
+object	bus
+object	bus
+#####################################################
+People walking on a sidewalk as a red bus drives by . 
+people walk on a sidewalk as a red bus drive by . 
+
+verb-prep-object	walk on sidewalk
+object-prep-object	people on sidewalk
+attribute-object	red bus
+object-verb	people walk
+object-verb	bus drive
+object	sidewalk
+object	people
+object	bus
+object	bus
+#####################################################
+Red double decker bus on side of street . 
+Red double decker bus on side of street . 
+
+object-prep-object	bus on street
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	street
+object	bus
+#####################################################

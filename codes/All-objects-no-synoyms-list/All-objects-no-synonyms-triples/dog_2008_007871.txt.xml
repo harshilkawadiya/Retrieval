@@ -1,0 +1,65 @@
+A black dog is standing near some scaffolding with some plywood in front of it . 
+a black dog be stand near some scaffolding with some plywood in front of it . 
+
+object-prep-object	scaffolding with plywood
+verb-prep-object	stand near scaffolding
+object-prep-object	dog near scaffolding
+attribute-object	black dog
+object-verb	dog stand
+object	scaffolding
+object	plywood
+object	dog
+object	dog
+#####################################################
+A black dog standing in a room being constructed . 
+a black dog standing in a room be construct . 
+
+verb-prep-object	stand in room
+object-prep-object	dog in room
+attribute-object	black dog
+object-verb	dog stand
+object	room
+object	dog
+object	dog
+#####################################################
+A black dog stands in the middle of a construction site . 
+a black dog stand in the middle of a construction site . 
+
+verb-prep-object	stand in site
+object-prep-object	dog in site
+attribute-object	black dog
+object-verb	dog stand
+attribute-object	construction site
+object	site
+object	dog
+object	dog
+#####################################################
+A black dog stands next to materials at a construction site . 
+a black dog stand next to material at a construction site . 
+
+verb-prep-object	stand at site
+object-prep-object	dog at site
+verb-prep-object	stand next_to material
+object-prep-object	dog next_to material
+object-prep-object	material at site
+attribute-object	black dog
+attribute-object	construction site
+object-verb	dog stand
+object	site
+object	dog
+object	material
+object	dog
+#####################################################
+A dog standing in an uncompleted house next to plywood . 
+a dog standing in a uncompleted house next to plywood . 
+
+object-prep-object	house next_to plywood
+verb-prep-object	stand in house
+object-prep-object	dog in house
+attribute-object	uncompleted house
+object-verb	dog stand
+object	house
+object	plywood
+object	dog
+object	dog
+#####################################################

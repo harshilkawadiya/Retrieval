@@ -1,0 +1,42 @@
+A close-up of an open refrigerator with food in it . 
+a close-up of a open refrigerator with food in it . 
+
+object-prep-object	refrigerator with food
+attribute-object	open refrigerator
+object	refrigerator
+object	food
+object	bottle
+#####################################################
+A fridge is open to show an assortment of food . 
+a fridge be open to show a assortment of food . 
+
+object-verb	fridge open
+object	fridge
+object	bottle
+#####################################################
+A white refrigerator holds various foods and drinks . 
+a white refrigerator hold various food and drink . 
+
+attribute-object	white refrigerator
+attribute-object	various food
+object-verb-object	refrigerator hold food
+object-verb-object	refrigerator hold drink
+object	refrigerator
+object	food
+object	drink
+object	bottle
+#####################################################
+The inside of a white refrigerator . 
+the inside of a white refrigerator . 
+
+attribute-object	white refrigerator
+object	refrigerator
+object	bottle
+#####################################################
+The inside of a white refrigerator . 
+the inside of a white refrigerator . 
+
+attribute-object	white refrigerator
+object	refrigerator
+object	bottle
+#####################################################

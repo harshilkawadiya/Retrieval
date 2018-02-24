@@ -1,0 +1,56 @@
+A dog laying down . 
+a dog lay down . 
+
+object-verb	dog lay
+verb-attribute	lay down
+object	dog
+object	pottedplant
+#####################################################
+A furry dog lying on a glass table . 
+a furry dog lie on a glass table . 
+
+verb-prep-object	lie on table
+object-prep-object	dog on table
+attribute-object	furry dog
+attribute-object	glass table
+object-verb	dog lie
+object	table
+object	dog
+object	pottedplant
+#####################################################
+A small brown dog . 
+a small brown dog . 
+
+attribute-object	small dog
+attribute-object	brown dog
+object	dog
+object	pottedplant
+#####################################################
+Small brown fluffy dog sitting on a glass surface . 
+small brown fluffy dog sit on a glass surface . 
+
+verb-prep-object	sit on surface
+object-prep-object	dog on surface
+attribute-object	small dog
+attribute-object	brown dog
+attribute-object	fluffy dog
+attribute-object	glass surface
+object-verb	dog sit
+object	surface
+object	dog
+object	pottedplant
+#####################################################
+Small , long-haired dog sitting on the glass table top . 
+small , long-haired dog sit on the glass table top . 
+
+verb-prep-object	sit on top
+object-prep-object	dog on top
+attribute-object	small dog
+attribute-object	long-haired dog
+attribute-object	glass top
+attribute-object	table top
+object-verb	dog sit
+object	top
+object	dog
+object	pottedplant
+#####################################################

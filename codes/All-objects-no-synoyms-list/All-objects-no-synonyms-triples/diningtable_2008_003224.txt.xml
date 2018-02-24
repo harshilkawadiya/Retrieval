@@ -1,0 +1,63 @@
+Several people holding glasses of wine at table . 
+several people hold glass of wine at table . 
+
+object-prep-object	glass of wine
+object-prep-object	wine at table
+attribute-object	several people
+object-verb-object	people hold glass
+object	glass
+object	wine
+object	table
+object	people
+object	diningtable
+#####################################################
+Three people pose at a table with a wine bottle . 
+three people pose at a table with a wine bottle . 
+
+verb-prep-object	pose at table
+object-prep-object	people at table
+object-prep-object	table with bottle
+attribute-object	wine bottle
+object-verb	people pose
+object	table
+object	people
+object	bottle
+object	diningtable
+#####################################################
+Three people drinking at a restaurant . 
+three people drink at a restaurant . 
+
+verb-prep-object	drink at restaurant
+object-prep-object	people at restaurant
+object-verb	people drink
+object	restaurant
+object	people
+object	diningtable
+#####################################################
+Two men and a woman at a table drinking wine . 
+two man and a woman at a table drinking wine . 
+
+object-prep-object	man at table
+object-prep-object	woman at table
+object-verb-object	man drink wine
+object-verb-object	woman drink wine
+object	man
+object	table
+object	woman
+object	wine
+object	diningtable
+#####################################################
+Two men and a woman drink alcohol at a diner . 
+two man and a woman drink alcohol at a diner . 
+
+object-prep-object	alcohol at diner
+object-prep-object	man at diner
+object-prep-object	woman at diner
+object-verb-object	man drink alcohol
+object-verb-object	woman drink alcohol
+object	alcohol
+object	diner
+object	man
+object	woman
+object	diningtable
+#####################################################

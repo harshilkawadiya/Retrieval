@@ -1,0 +1,71 @@
+A beautiful view in the mountains is taken in by a man wearing shorts . 
+a beautiful view in the mountain be take in by a man wear shorts . 
+
+verb-prep-object	view in mountain
+verb-prep-object	take by person
+attribute-object	beautiful view
+object-verb-object	person wear shorts
+object-verb	view take
+verb-attribute	take in
+object	mountain
+object	person
+object	view
+object	shorts
+object	aeroplane
+#####################################################
+A man on the summit of a mountain looking at a glider in the sky . 
+a man on the summit of a mountain look at a glider in the sky . 
+
+verb-prep-object	look at aeroplane
+object-prep-object	person on summit
+object-prep-object	aeroplane in sky
+object-prep-object	summit of mountain
+object-verb	person look
+object	aeroplane
+object	person
+object	summit
+object	sky
+object	mountain
+object	aeroplane
+#####################################################
+A man stands on a mountain , watching a plane . 
+a man stand on a mountain , watch a plane . 
+
+verb-prep-object	stand on mountain
+object-prep-object	person on mountain
+object-verb	person stand
+object-verb-object	person watch aeroplane
+object	mountain
+object	person
+object	aeroplane
+object	aeroplane
+#####################################################
+A man wearing shorts stands in the snow at the edge of a cliff . 
+a man wear shorts stand in the snow at the edge of a cliff . 
+
+verb-prep-object	stand at edge
+verb-prep-object	stand in snow
+object-prep-object	person at edge
+object-prep-object	person in snow
+object-prep-object	edge of mountain
+object-verb	person stand
+object-verb-object	person wear shorts
+object	edge
+object	snow
+object	person
+object	mountain
+object	shorts
+object	aeroplane
+#####################################################
+Someone standing on a snowy mountain , watching a plane . 
+someone standing on a snowy mountain , watch a plane . 
+
+verb-prep-object	stand on mountain
+attribute-object	snowy mountain
+object-verb-object	person watch aeroplane
+object-verb	person stand
+object	mountain
+object	person
+object	aeroplane
+object	aeroplane
+#####################################################

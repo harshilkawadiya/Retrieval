@@ -1,0 +1,46 @@
+An airplane approaches a runway . 
+a airplane approach a runway . 
+
+object-verb-object	airplane approach runway
+object	airplane
+object	runway
+object	aeroplane
+#####################################################
+A Swiss-Air flight has just taken off from a runway . 
+a Swiss-Air flight have just take off from a runway . 
+
+verb-prep-object	takeoff from runway
+object-prep-object	flight from runway
+attribute-object	swiss-air flight
+object-verb	flight takeoff
+object	runway
+object	flight
+object	aeroplane
+#####################################################
+A white Swiss airplane approaches the runway . 
+a white swiss airplane approach the runway . 
+
+attribute-object	white airplane
+attribute-object	swiss airplane
+object-verb-object	airplane approach runway
+object	airplane
+object	runway
+object	aeroplane
+#####################################################
+The Swiss airline arrives safely . 
+the swiss airline arrive safely . 
+
+attribute-verb	safely arrive
+attribute-object	swiss airline
+object-verb	airline arrive
+object	airline
+object	aeroplane
+#####################################################
+The white airplane is flying . 
+the white airplane be fly . 
+
+attribute-object	white airplane
+object-verb	airplane fly
+object	airplane
+object	aeroplane
+#####################################################

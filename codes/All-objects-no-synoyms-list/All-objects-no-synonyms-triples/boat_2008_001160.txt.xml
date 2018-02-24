@@ -1,0 +1,58 @@
+A cruise ship docked at a coast . 
+a cruise ship dock at a coast . 
+
+verb-prep-object	dock at coast
+object-prep-object	ship at coast
+attribute-object	cruise ship
+object-verb	ship dock
+object	coast
+object	ship
+object	boat
+#####################################################
+A docked blue and white cruise ship . 
+a dock blue and white cruise ship . 
+
+attribute-object	dock ship
+attribute-object	blue ship
+attribute-object	white ship
+attribute-object	cruise ship
+object	ship
+object	boat
+#####################################################
+A large cruise ship in harbor with trees behind . 
+a large cruise ship in harbor with tree behind . 
+
+object-prep-object	ship with tree
+object-prep-object	ship in harbor
+attribute-object	large ship
+attribute-object	cruise ship
+object	ship
+object	tree
+object	harbor
+object	boat
+#####################################################
+A wide screen view of a cruise liner docked at the sea shore . 
+a wide screen view of a cruise liner dock at the sea shore . 
+
+attribute-object	cruise liner
+object-verb	liner dock
+verb-prep-object	dock at shore
+object-prep-object	liner at shore
+attribute-object	sea shore
+object	liner
+object	shore
+object	boat
+#####################################################
+Large white cruise ship floating on water . 
+large white cruise ship float on water . 
+
+verb-prep-object	float on water
+object-prep-object	ship on water
+attribute-object	large ship
+attribute-object	white ship
+attribute-object	cruise ship
+object-verb	ship float
+object	water
+object	ship
+object	boat
+#####################################################

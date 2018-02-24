@@ -1,0 +1,74 @@
+A black dog laying on the deck . 
+a black dog lay on the deck . 
+
+verb-prep-object	lay on deck
+object-prep-object	dog on deck
+attribute-object	black dog
+object-verb	dog lay
+object	deck
+object	dog
+object	cat
+#####################################################
+A cat sits on a railing , looking down at a black dog on a leash . 
+a cat sit on a railing , look down at a black dog on a leash . 
+
+object-verb	cat sit
+object-verb	cat look
+verb-prep-object	look at dog
+verb-prep-object	sit on railing
+object-prep-object	cat on railing
+object-prep-object	dog on leash
+attribute-object	black dog
+verb-attribute	look down
+object	cat
+object	dog
+object	railing
+object	leash
+object	cat
+#####################################################
+A cat sits on top of a wooden railing as a large black dog looks up at it . 
+a cat sit on top of a wooden railing as a large black dog look up at it . 
+
+object-verb	cat sit
+verb-prep-object	sit on_top_of railing
+object-prep-object	cat on_top_of railing
+attribute-object	wooden railing
+attribute-object	large dog
+attribute-object	black dog
+object-verb	dog look
+verb-attribute	look up
+object	cat
+object	railing
+object	dog
+object	cat
+#####################################################
+a dog on the floor of a patio looks at a cat on the fence . 
+a dog on the floor of a patio look at a cat on the fence . 
+
+object-prep-object	dog on floor
+object-prep-object	cat on fence
+object-prep-object	floor of patio
+verb-prep-object	look at cat
+object-verb	dog look
+object	dog
+object	floor
+object	cat
+object	fence
+object	patio
+object	cat
+#####################################################
+Black dog with red leash on staring up at the cat on the fence . 
+Black dog with red leash on stare up at the cat on the fence . 
+
+object-prep-object	dog with leash
+object-verb	dog stare
+verb-prep-object	stare at cat
+object-prep-object	cat on fence
+attribute-object	red leash
+attribute-object	black dog
+object	dog
+object	leash
+object	cat
+object	fence
+object	cat
+#####################################################

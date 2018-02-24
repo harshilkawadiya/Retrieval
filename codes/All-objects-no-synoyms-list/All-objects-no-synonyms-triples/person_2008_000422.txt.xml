@@ -1,0 +1,72 @@
+A baby is sitting in the grass . 
+a baby be sit in the grass . 
+
+verb-prep-object	sit in grass
+object-prep-object	baby in grass
+object-verb	baby sit
+object	grass
+object	baby
+object	person
+#####################################################
+A baby with blonde hair wearing lavender and a bib is sitting in the grass and looking down . 
+a baby with blonde hair wear lavender and a bib be sit in the grass and look down . 
+
+object-prep-object	baby with hair
+attribute-object	blonde hair
+object-verb-object	baby wear lavender
+object-verb	bib sit
+verb-prep-object	sit in grass
+object-prep-object	bib in grass
+object-verb	bib look
+verb-attribute	look down
+object	baby
+object	hair
+object	lavender
+object	bib
+object	grass
+object	person
+#####################################################
+A small blonde child wearing a bib and a purple outfit sits in the grass . 
+a small blonde child wear a bib and a purple outfit sit in the grass . 
+
+verb-prep-object	sit in grass
+object-prep-object	child in grass
+attribute-object	small child
+attribute-object	blonde child
+attribute-object	purple outfit
+object-verb-object	child wear bib
+object-verb-object	child wear outfit
+object-verb	child sit
+object	grass
+object	child
+object	outfit
+object	bib
+object	person
+#####################################################
+Baby in pink outfit sitting on grass looking down . 
+Baby in pink outfit sit on grass look down . 
+
+verb-prep-object	sit on grass
+object-prep-object	baby on grass
+object-prep-object	baby in outfit
+attribute-object	pink outfit
+object-verb	baby sit
+object-verb	baby look
+verb-attribute	look down
+object	grass
+object	baby
+object	outfit
+object	person
+#####################################################
+Baby sitting in grass wearing a bib . 
+Baby sit in grass wear a bib . 
+
+verb-prep-object	sit in grass
+object-prep-object	baby in grass
+object-verb	baby sit
+object-verb-object	baby wear bib
+object	grass
+object	baby
+object	bib
+object	person
+#####################################################

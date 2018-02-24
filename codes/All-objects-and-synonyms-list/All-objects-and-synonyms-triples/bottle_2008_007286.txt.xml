@@ -1,0 +1,65 @@
+A dog looks into refrigerator while a person looks on . 
+a dog look into refrigerator while a person look on . 
+
+verb-prep-object	look into refrigerator
+object-verb	dog look
+object-verb	person look
+object	refrigerator
+object	dog
+object	person
+object	bottle
+#####################################################
+A dog stands near a person and an open refrigerator door . 
+a dog stand near a person and a open refrigerator door . 
+
+verb-prep-object	stand near person
+object-prep-object	dog near person
+verb-prep-object	stand near door
+object-prep-object	dog near door
+attribute-object	open door
+attribute-object	refrigerator door
+object-verb	dog stand
+object	person
+object	dog
+object	door
+object	bottle
+#####################################################
+A small terrier dog peeks inside the refrigerator . 
+a small terrier dog peek inside the refrigerator . 
+
+verb-prep-object	peek inside refrigerator
+attribute-object	small dog
+attribute-object	terrier dog
+object-verb	dog peek
+object	refrigerator
+object	dog
+object	bottle
+#####################################################
+Man standing in front of an open refrigerator , with a dog in front . 
+man standing in front of a open refrigerator , with a dog in front . 
+
+verb-prep-object	stand in_front_of refrigerator
+object-prep-object	person in_front_of man
+verb-prep-object	stand with dog
+object-prep-object	person with man
+attribute-object	open refrigerator
+object-verb	person stand
+object	refrigerator
+object	person
+object	man
+object	dog
+object	bottle
+#####################################################
+Small dog looking into refrigerator as the owner stands by . 
+small dog look into refrigerator as the owner stand by . 
+
+verb-prep-object	look into refrigerator
+attribute-object	small dog
+object-verb	person stand
+object-verb	dog look
+object	refrigerator
+object	dog
+object	person
+object	owner
+object	bottle
+#####################################################

@@ -1,0 +1,60 @@
+A blue-green hummingbird sits upon a twig . 
+a blue-green hummingbird sit upon a twig . 
+
+verb-prep-object	sit upon twig
+object-prep-object	hummingbird upon twig
+attribute-object	blue-green hummingbird
+object-verb	hummingbird sit
+object	twig
+object	hummingbird
+object	bird
+#####################################################
+A multicolored bird sits on a branch . 
+a multicolored bird sit on a branch . 
+
+verb-prep-object	sit on branch
+object-prep-object	bird on branch
+attribute-object	multicolored bird
+object-verb	bird sit
+object	branch
+object	bird
+object	bird
+#####################################################
+Blue and green bird perched on a twig . 
+Blue and green bird perch on a twig . 
+
+verb-prep-object	perch on twig
+object-prep-object	bird on twig
+attribute-object	green bird
+attribute-object	blue bird
+object-verb	bird perch
+object	twig
+object	bird
+object	bird
+#####################################################
+Blue and Green Hummingbird sitting on a branch . 
+Blue and Green Hummingbird sit on a branch . 
+
+verb-prep-object	sit on branch
+object-prep-object	hummingbird on branch
+attribute-object	blue hummingbird
+attribute-object	green hummingbird
+object-verb	hummingbird sit
+object	branch
+object	hummingbird
+object	bird
+#####################################################
+Small bird with colorful feathers perched on a branch . 
+small bird with colorful feather perch on a branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	bird on branch
+object-prep-object	bird with feather
+attribute-object	small bird
+attribute-object	colorful feather
+object-verb	bird perch
+object	branch
+object	bird
+object	feather
+object	bird
+#####################################################

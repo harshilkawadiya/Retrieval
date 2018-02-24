@@ -1,0 +1,55 @@
+A blue and green hummingbird hovers near a pink flower . 
+a blue and green hummingbird hover near a pink flower . 
+
+verb-prep-object	hover near flower
+object-prep-object	hummingbird near flower
+attribute-object	blue hummingbird
+attribute-object	green hummingbird
+attribute-object	pink flower
+object-verb	hummingbird hover
+object	flower
+object	hummingbird
+object	bird
+#####################################################
+A blue hummingbird is flying by a flower . 
+a blue hummingbird be fly by a flower . 
+
+verb-prep-object	fly by flower
+object-prep-object	hummingbird by flower
+attribute-object	blue hummingbird
+object-verb	hummingbird fly
+object	flower
+object	hummingbird
+object	bird
+#####################################################
+A hummingbird in front of a flower . 
+a hummingbird in front of a flower . 
+
+object-prep-object	hummingbird in_front_of flower
+object	hummingbird
+object	flower
+object	bird
+#####################################################
+A small hummingbird flying near a pink flower . 
+a small hummingbird fly near a pink flower . 
+
+verb-prep-object	fly near flower
+attribute-object	small hummingbird
+attribute-object	pink flower
+object-verb	hummingbird fly
+object	flower
+object	hummingbird
+object	bird
+#####################################################
+Colorful hummingbird hovering in front of red flower . 
+colorful hummingbird hover in front of red flower . 
+
+verb-prep-object	hover in_front_of flower
+object-prep-object	hummingbird in_front_of flower
+attribute-object	colorful hummingbird
+attribute-object	red flower
+object-verb	hummingbird hover
+object	flower
+object	hummingbird
+object	bird
+#####################################################

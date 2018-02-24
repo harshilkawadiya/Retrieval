@@ -1,0 +1,51 @@
+A yellow bus has a face and ears like a cat . 
+a yellow bus have a face and ear like a cat . 
+
+object-prep-object	ear like cat
+attribute-object	yellow bus
+object-verb-object	bus have face
+object-verb-object	bus have ear
+object	ear
+object	cat
+object	bus
+object	face
+object	bus
+#####################################################
+The bus is in the shape of a cat . 
+the bus be in the shape of a cat . 
+
+object-prep-object	bus in_shape_of cat
+object	bus
+object	cat
+object	bus
+#####################################################
+The kitty bus offers the riders a pleasant atmosphere . 
+the kitty bus offer the rider a pleasant atmosphere . 
+
+attribute-object	pleasant atmosphere
+object-verb-object	bus offer atmosphere
+attribute-object	kitty bus
+object	atmosphere
+object	bus
+object	bus
+#####################################################
+This is a yellow bus whose front is painted and shaped to look like a cat . 
+this be a yellow bus whose front be paint and shape to look like a cat . 
+
+attribute-object	yellow bus
+object-prep-object	bus like cat
+object	bus
+object	cat
+object	bus
+#####################################################
+Yellow bus shaped like a cat at side of road . 
+yellow bus shape like a cat at side of road . 
+
+verb-prep-object	shape like cat
+object-prep-object	bus like cat
+attribute-object	yellow bus
+object-verb	bus shape
+object	cat
+object	bus
+object	bus
+#####################################################

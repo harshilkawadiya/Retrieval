@@ -1,0 +1,47 @@
+A bicycle in front of some ruins . 
+a bicycle in front of some ruin . 
+
+object-prep-object	bicycle in_front_of ruin
+object	bicycle
+object	ruin
+object	motorbike
+#####################################################
+A blue bicycle parked at the bottom of the stairs . 
+a blue bicycle park at the bottom of the stair . 
+
+verb-prep-object	park at stair
+object-prep-object	bicycle at stair
+attribute-object	blue bicycle
+object-verb	bicycle park
+object	stair
+object	bicycle
+object	motorbike
+#####################################################
+A moped in front of ruins . 
+a mope in front of ruin . 
+
+object-prep-object	motorbike in_front_of scooter
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A moped in front of steps of ruins . 
+a mope in front of step of ruin . 
+
+object-prep-object	motorbike in_front_of scooter
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+An outdoor brick building with lots of stairs and a bicycle in front . 
+a outdoor brick building with lot of stair and a bicycle in front . 
+
+object-prep-object	building with stair
+object-prep-object	building with bicycle
+attribute-object	outdoor building
+attribute-object	brick building
+object	building
+object	stair
+object	bicycle
+object	motorbike
+#####################################################

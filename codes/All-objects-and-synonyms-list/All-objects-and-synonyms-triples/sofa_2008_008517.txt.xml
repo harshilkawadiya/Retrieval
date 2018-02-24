@@ -1,0 +1,72 @@
+A woman and elderly woman sitting together posing on a couch . 
+a woman and elderly woman sit together pose on a couch . 
+
+verb-prep-object	pose on sofa
+object-prep-object	person on bed
+attribute-object	elderly person
+object-verb	person sit
+object-verb	person pose
+object	sofa
+object	bed
+object	person
+object	woman
+object	sofa
+#####################################################
+Elderly woman sitting on red patterned couch with her arm around younger woman . 
+elderly woman sit on red pattern couch with she arm around younger woman . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	elderly person
+attribute-object	younger person
+attribute-object	red sofa
+attribute-object	pattern sofa
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	woman
+object	sofa
+#####################################################
+Two ladies , one younger and one older , sit on a living room sofa while smiling for the camera . 
+two lady , one younger and one older , sit on a living room sofa while smile for the camera . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on lady
+verb-prep-object	smile for camera
+attribute-object	living sofa
+attribute-object	room sofa
+object-verb	person sit
+object-verb	person smile
+object	sofa
+object	person
+object	lady
+object	camera
+object	sofa
+#####################################################
+Two women pose together on a sofa . 
+two woman pose together on a sofa . 
+
+verb-prep-object	pose on sofa
+object-prep-object	person on woman
+object-verb	person pose
+object	sofa
+object	person
+object	woman
+object	sofa
+#####################################################
+Two women sitting on couch posing for camera . 
+two woman sit on couch pose for camera . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+verb-prep-object	pose for camera
+object-verb	person sit
+object-verb	person pose
+object	sofa
+object	bed
+object	person
+object	woman
+object	camera
+object	sofa
+#####################################################

@@ -1,0 +1,61 @@
+A child in a green shirt and riding gear riding a tan horse . 
+a child in a green shirt and ride gear ride a tan horse . 
+
+object-prep-object	person in child
+object-prep-object	person in child
+attribute-object	green shirt
+attribute-object	ride gear
+object-verb-object	person ride child
+attribute-object	tan horse
+object	person
+object	child
+object	shirt
+object	gear
+object	horse
+object	horse
+#####################################################
+A child rides a horse down a marked path . 
+a child ride a horse down a marked path . 
+
+verb-prep-object	ride down path
+attribute-object	marked path
+object-verb-object	person ride child
+object	path
+object	person
+object	child
+object	horse
+#####################################################
+A girl in a riding hat on a horse . 
+a girl in a ride hat on a horse . 
+
+object-prep-object	person on girl
+object-prep-object	person in girl
+attribute-object	ride hat
+object	person
+object	girl
+object	hat
+object	horse
+#####################################################
+A girl riding a tan horse . 
+a girl ride a tan horse . 
+
+object-verb-object	person ride girl
+attribute-object	tan horse
+object	person
+object	girl
+object	horse
+object	horse
+#####################################################
+The young rider takes a ride on the brown horse . 
+the young rider take a ride on the brown horse . 
+
+verb-prep-object	ride on horse
+object-prep-object	person on rider
+attribute-object	young person
+attribute-object	brown horse
+object-verb-object	person take rider
+object	horse
+object	person
+object	rider
+object	horse
+#####################################################

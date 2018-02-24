@@ -1,0 +1,46 @@
+A large passenger jet flying close to the ground . 
+a large passenger jet fly close to the ground . 
+
+verb-prep-object	fly close_to ground
+object-prep-object	jet close_to ground
+attribute-object	large jet
+attribute-object	passenger jet
+object-verb	jet fly
+object	ground
+object	jet
+object	aeroplane
+#####################################################
+A Lufthansa Boeing 747 coming in to land . 
+a Lufthansa Boeing 747 come in to land . 
+
+attribute-object	lufthansa boeing
+object-verb	boeing come
+object	boeing
+object	aeroplane
+#####################################################
+A Lufthansa plane has just taken off . 
+a Lufthansa plane have just take off . 
+
+attribute-object	lufthansa plane
+object-verb	plane takeoff
+object	plane
+object	aeroplane
+#####################################################
+A passenger plane taking off . 
+a passenger plane take off . 
+
+attribute-object	passenger plane
+object-verb	plane takeoff
+object	plane
+object	aeroplane
+#####################################################
+Lufthansa airliner taking off of runway . 
+Lufthansa airliner take off of runway . 
+
+verb-prep-object	takeoff of runway
+attribute-object	lufthansa airliner
+object-verb	airliner takeoff
+object	runway
+object	airliner
+object	aeroplane
+#####################################################

@@ -1,0 +1,53 @@
+A boy holding a beer . 
+a boy hold a beer . 
+
+object-verb-object	boy hold beer
+object	boy
+object	beer
+object	bottle
+#####################################################
+A guy is drinking a beer and pointing at the camera . 
+a guy be drink a beer and point at the camera . 
+
+verb-prep-object	point at camera
+object-verb-object	guy drink beer
+object-verb	guy point
+object	camera
+object	guy
+object	beer
+object	bottle
+#####################################################
+An inebriated young boy with a beer in his hand . 
+a inebriated young boy with a beer in he hand . 
+
+object-prep-object	boy with beer
+attribute-object	inebriated boy
+attribute-object	young boy
+object	boy
+object	beer
+object	bottle
+#####################################################
+A teenage boy holding a bottle of beer and smiling . 
+a teenage boy hold a bottle of beer and smile . 
+
+object-prep-object	bottle of beer
+attribute-object	teenage boy
+object-verb-object	boy hold bottle
+object-verb	boy smile
+object	bottle
+object	beer
+object	boy
+object	bottle
+#####################################################
+A young man smiling as he holds a bottle of beer . 
+a young man smile as he hold a bottle of beer . 
+
+object-prep-object	bottle of beer
+attribute-object	young man
+object-verb-object	man hold bottle
+object-verb	man smile
+object	bottle
+object	beer
+object	man
+object	bottle
+#####################################################

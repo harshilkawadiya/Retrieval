@@ -1,0 +1,50 @@
+2	A man in a lime green vest directs traffic
+3	A policeman wearing a green vest blows his whistle and moves his arms .
+4	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+5	A police officer in a yellow vest directs traffic .
+6	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+7	A man in a lime green vest directs traffic
+8	A policeman wearing a green vest blows his whistle and moves his arms .
+9	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+10	A police officer in a yellow vest directs traffic .
+11	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+12	A man in a lime green vest directs traffic
+13	A policeman wearing a green vest blows his whistle and moves his arms .
+14	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+15	A police officer in a yellow vest directs traffic .
+16	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+17	A man in a lime green vest directs traffic
+18	A policeman wearing a green vest blows his whistle and moves his arms .
+19	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+20	A police officer in a yellow vest directs traffic .
+21	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+22	A man in a lime green vest directs traffic
+23	A policeman wearing a green vest blows his whistle and moves his arms .
+24	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+25	A police officer in a yellow vest directs traffic .
+26	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+27	A man in a lime green vest directs traffic
+28	A policeman wearing a green vest blows his whistle and moves his arms .
+29	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+30	A police officer in a yellow vest directs traffic .
+31	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+32	A man in a lime green vest directs traffic
+33	A policeman wearing a green vest blows his whistle and moves his arms .
+34	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+35	A police officer in a yellow vest directs traffic .
+36	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+37	A man in a lime green vest directs traffic
+38	A policeman wearing a green vest blows his whistle and moves his arms .
+39	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+40	A police officer in a yellow vest directs traffic .
+41	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+42	A man in a lime green vest directs traffic
+43	A policeman wearing a green vest blows his whistle and moves his arms .
+44	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+45	A police officer in a yellow vest directs traffic .
+46	A traffic director wears a yellow safety suit marked , " Seattle Police . "
+47	A man in a lime green vest directs traffic
+48	A policeman wearing a green vest blows his whistle and moves his arms .
+49	A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .
+50	A police officer in a yellow vest directs traffic .
+51	A traffic director wears a yellow safety suit marked , " Seattle Police . "

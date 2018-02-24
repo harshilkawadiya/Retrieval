@@ -1,0 +1,56 @@
+a brown cat sleeping on a sofa . 
+a brown cat sleep on a sofa . 
+
+verb-prep-object	sleep on sofa
+object-prep-object	cat on sofa
+attribute-object	brown cat
+object-verb	cat sleep
+object	sofa
+object	cat
+object	cat
+#####################################################
+A cat sleeping on the coach with a pillow behind it . 
+a cat sleep on the coach with a pillow behind it . 
+
+verb-prep-object	sleep on bus
+object-prep-object	cat on bus
+object-prep-object	bus with coach
+object-verb	cat sleep
+object	bus
+object	coach
+object	cat
+object	cat
+#####################################################
+An orange tabby cat sleeping on the sofa . 
+a orange tabby cat sleep on the sofa . 
+
+verb-prep-object	sleep on sofa
+object-prep-object	cat on sofa
+attribute-object	orange cat
+attribute-object	tabby cat
+object-verb	cat sleep
+object	sofa
+object	cat
+object	cat
+#####################################################
+Orange cat sleeping . 
+Orange cat sleep . 
+
+attribute-object	orange cat
+object-verb	cat sleep
+object	cat
+object	cat
+#####################################################
+Yellow striped cat resting on blue sofa . 
+yellow striped cat rest on blue sofa . 
+
+verb-prep-object	rest on sofa
+object-prep-object	cat on sofa
+attribute-object	yellow cat
+attribute-object	striped cat
+attribute-object	blue sofa
+object-verb	cat rest
+object	sofa
+object	cat
+object	cat
+#####################################################

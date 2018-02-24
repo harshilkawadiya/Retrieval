@@ -1,0 +1,54 @@
+A man is making a jump on a bicycle . 
+a man be make a jump on a bicycle . 
+
+object-prep-object	jump on bicycle
+object-verb-object	man make jump
+object	jump
+object	bicycle
+object	man
+object	motorbike
+#####################################################
+A man jumping his dirt bike . 
+a man jump he dirt bike . 
+
+object-verb-object	man jump bike
+attribute-object	dirt bike
+object	man
+object	bike
+object	motorbike
+#####################################################
+A man on a bike jumping through the air . 
+a man on a bike jump through the air . 
+
+object-prep-object	man on bike
+verb-prep-object	jump through air
+object-verb	man jump
+object	man
+object	bike
+object	air
+object	motorbike
+#####################################################
+A man on a dirt bike is on a tree stump . 
+a man on a dirt bike be on a tree stump . 
+
+object-prep-object	man on bike
+object-prep-object	man on stump
+attribute-object	dirt bike
+attribute-object	tree stump
+object	man
+object	bike
+object	stump
+object	motorbike
+#####################################################
+A mountain bike and rider riding through woods . 
+a mountain bike and rider ride through wood . 
+
+verb-prep-object	ride through wood
+attribute-object	mountain bike
+object-verb	bike ride
+object-verb	rider ride
+object	wood
+object	bike
+object	rider
+object	motorbike
+#####################################################

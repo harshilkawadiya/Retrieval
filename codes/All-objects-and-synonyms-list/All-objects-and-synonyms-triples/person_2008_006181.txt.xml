@@ -1,0 +1,56 @@
+A man jogging in a race . 
+a man jogging in a race . 
+
+verb-prep-object	jogging in race
+object-prep-object	person in man
+object-verb	person jogging
+object	race
+object	person
+object	man
+object	person
+#####################################################
+A man running a race down a street . 
+a man run a race down a street . 
+
+verb-prep-object	run down road
+object-verb-object	person run man
+object	road
+object	street
+object	person
+object	man
+object	person
+#####################################################
+A man running down a street wearing the number 129 . 
+a man run down a street wear the number 129 . 
+
+object-verb-object	person run road
+object-verb-object	person wear man
+verb-attribute	run down
+object	person
+object	man
+object	road
+object	person
+#####################################################
+A runner paces along the marathon path . 
+a runner pace along the marathon path . 
+
+verb-prep-object	pace along path
+object-prep-object	runner along path
+attribute-object	marathon path
+object-verb	runner pace
+object	path
+object	runner
+object	person
+#####################################################
+The man is running on the street . 
+the man be run on the street . 
+
+verb-prep-object	run on road
+object-prep-object	person on road
+object-verb	person run
+object	road
+object	street
+object	person
+object	man
+object	person
+#####################################################

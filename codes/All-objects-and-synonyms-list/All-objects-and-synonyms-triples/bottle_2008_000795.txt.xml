@@ -1,0 +1,60 @@
+Three balding men pose together . 
+three balding man pose together . 
+
+attribute-object	balding person
+object-verb	person pose
+object	person
+object	man
+object	bottle
+#####################################################
+Three guys , 1 wearing glasses , pose for the camera at an event held in a tent . 
+three guy , 1 wear glass , pose for the camera at a event hold in a tent . 
+
+verb-prep-object	pose for camera
+object-verb	person pose
+object-prep-object	person in man
+object	camera
+object	person
+object	guy
+object	man
+object	bottle
+#####################################################
+Three men posing in a tent . 
+three man pose in a tent . 
+
+verb-prep-object	pose in tent
+object-prep-object	person in man
+object-verb	person pose
+object	tent
+object	person
+object	man
+object	bottle
+#####################################################
+Three middle aged men having a good time under a tent-like structure at an evening social function . 
+three middle age man have a good time under a tent-like structure at a evening social function . 
+
+object-verb-object	person have man
+object-prep-object	person under man
+object-prep-object	person at man
+attribute-object	good time
+attribute-object	tent-like structure
+attribute-object	evening function
+attribute-object	social function
+object	person
+object	man
+object	time
+object	structure
+object	function
+object	bottle
+#####################################################
+Three older gentlemen under a large tent . 
+three older gentleman under a large tent . 
+
+object-prep-object	person under gentleman
+attribute-object	older person
+attribute-object	large tent
+object	person
+object	gentleman
+object	tent
+object	bottle
+#####################################################

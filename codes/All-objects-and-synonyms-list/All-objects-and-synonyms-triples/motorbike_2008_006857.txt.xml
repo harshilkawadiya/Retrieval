@@ -1,0 +1,68 @@
+A helmet wearing motorcycle stuntman performs for a crowd . 
+a helmet wear motorcycle stuntman perform for a crowd . 
+
+verb-prep-object	perform for person
+object-verb-object	helmet wear stuntman
+attribute-object	motorcycle stuntman
+object-verb	stuntman perform
+object	person
+object	crowd
+object	helmet
+object	stuntman
+object	motorbike
+#####################################################
+A man performing a trick on his motorcycle in front of a crowd . 
+a man perform a trick on he motorcycle in front of a crowd . 
+
+verb-prep-object	perform on motorbike
+object-prep-object	person on motorbike
+verb-prep-object	perform in_front_of person
+object-prep-object	person in_front_of person
+object-verb-object	person perform man
+object	motorbike
+object	motorcycle
+object	person
+object	man
+object	crowd
+object	motorbike
+#####################################################
+A man standing on the seat of a motorbike that is being ridden on its back wheel . 
+a man standing on the seat of a motorbike that be be ride on its back wheel . 
+
+verb-prep-object	stand on seat
+object-prep-object	person on man
+object-prep-object	seat of motorbike
+object-verb	person stand
+object	seat
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+A man wearing a helmet does a wheelie on a motorcycle as a crowd watches . 
+a man wear a helmet do a wheelie on a motorcycle as a crowd watch . 
+
+object-prep-object	wheelie on motorbike
+object-verb-object	person wear man
+object-verb-object	person do man
+object	wheelie
+object	motorbike
+object	person
+object	man
+object	motorbike
+#####################################################
+Young man wearing jeans and helmet rides his motorcycle in front of a small crowd . 
+Young man wear jeans and helmet ride he motorcycle in front of a small crowd . 
+
+object-verb-object	person ride motorbike
+verb-prep-object	ride in_front_of person
+attribute-object	small person
+object-verb-object	person wear man
+object-verb-object	person wear man
+attribute-object	young person
+object	person
+object	man
+object	motorbike
+object	crowd
+object	motorbike
+#####################################################

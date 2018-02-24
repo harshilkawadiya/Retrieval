@@ -1,0 +1,50 @@
+One jet lands at an airport while another takes off next to it . 
+one jet land at a airport while another take off next to it . 
+
+object-verb	jet land
+object-verb	jet takeoff
+object-prep-object	jet next_to jet
+object-prep-object	jet at airport
+verb-prep-object	land at airport
+object	jet
+object	airport
+object	aeroplane
+#####################################################
+Two airplanes parked in an airport . 
+two airplane park in a airport . 
+
+verb-prep-object	park in airport
+object-prep-object	airplane in airport
+object-verb	airplane park
+object	airport
+object	airplane
+object	aeroplane
+#####################################################
+Two jets taxi past each other . 
+two jet taxi past each other . 
+
+attribute-object	jet taxi
+object	taxi
+object	aeroplane
+#####################################################
+Two parked jet airplanes facing opposite directions . 
+two park jet airplane face opposite direction . 
+
+attribute-object	park airplane
+attribute-object	jet airplane
+object-verb-object	airplane face direction
+attribute-object	opposite direction
+object	airplane
+object	direction
+object	aeroplane
+#####################################################
+two passenger planes on a grassy plain . 
+two passenger plane on a grassy plain . 
+
+object-prep-object	plane on plain
+attribute-object	grassy plain
+attribute-object	passenger plane
+object	plane
+object	plain
+object	aeroplane
+#####################################################

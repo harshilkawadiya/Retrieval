@@ -1,0 +1,60 @@
+A group of four people walking past a giant mushroom . 
+a group of four people walk past a giant mushroom . 
+
+verb-prep-object	walk past mushroom
+object-prep-object	person past people
+attribute-object	giant mushroom
+object-verb	person walk
+object	mushroom
+object	person
+object	people
+object	pottedplant
+#####################################################
+A number of people in winter clothing walk among a pair of sculptures . 
+a number of people in winter clothing walk among a pair of sculpture . 
+
+verb-prep-object	walk among sculpture
+object-prep-object	person among people
+object-prep-object	person in people
+attribute-object	winter clothing
+object-verb	person walk
+object	sculpture
+object	person
+object	people
+object	clothing
+object	pottedplant
+#####################################################
+Crowd of people walking past a giant mushroom . 
+crowd of people walk past a giant mushroom . 
+
+verb-prep-object	walk past mushroom
+object-prep-object	person past people
+attribute-object	giant mushroom
+object-verb	person walk
+object	mushroom
+object	person
+object	people
+object	pottedplant
+#####################################################
+People under a giant mushroom . 
+people under a giant mushroom . 
+
+object-prep-object	person under people
+attribute-object	giant mushroom
+object	person
+object	people
+object	mushroom
+object	pottedplant
+#####################################################
+People walk at a theme park . 
+people walk at a theme park . 
+
+verb-prep-object	walk at park
+object-prep-object	person at people
+attribute-object	theme park
+object-verb	person walk
+object	park
+object	person
+object	people
+object	pottedplant
+#####################################################

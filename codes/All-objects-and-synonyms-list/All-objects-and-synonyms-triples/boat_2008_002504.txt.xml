@@ -1,0 +1,64 @@
+An empty boat begs to be used . 
+a empty boat beg to be use . 
+
+attribute-object	empty boat
+object-verb	boat beg
+object	boat
+object	boat
+#####################################################
+An empty boat named the `` Why Not '' is floating next to a sign that says `` Private Fishing '' . 
+a empty boat name the `` why not '' be float next to a sign that say `` private fishing '' . 
+
+object-verb	boat float
+attribute-object	empty boat
+verb-prep-object	float next_to sign
+object-prep-object	boat next_to sign
+attribute-object	private sign
+attribute-object	fishing sign
+object	boat
+object	sign
+object	boat
+#####################################################
+A small dingy in the water in front of a ` Private Fishing ' sign . 
+a small dingy in the water in front of a ` private fishing ' sign . 
+
+object-prep-object	boat in_front_of sign
+object-prep-object	boat in water
+attribute-object	small boat
+attribute-object	private sign
+attribute-object	fishing sign
+object	boat
+object	sign
+object	water
+object	boat
+#####################################################
+A small white boat tied up to the river bank next to a private fishing sign . 
+a small white boat tie up to the river bank next to a private fishing sign . 
+
+object-verb	boat tie
+verb-attribute	tie up
+attribute-object	small boat
+attribute-object	white boat
+verb-prep-object	tie to bank
+verb-prep-object	tie next_to sign
+object-prep-object	boat next_to sign
+attribute-object	private sign
+attribute-object	river bank
+attribute-object	fishing sign
+object	boat
+object	bank
+object	sign
+object	boat
+#####################################################
+White canoe docked on the water bank . 
+White canoe dock on the water bank . 
+
+verb-prep-object	dock on bank
+object-prep-object	boat on bank
+attribute-object	white boat
+attribute-object	water bank
+object-verb	boat dock
+object	bank
+object	boat
+object	boat
+#####################################################

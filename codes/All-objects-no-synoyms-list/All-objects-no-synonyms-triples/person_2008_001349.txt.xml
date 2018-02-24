@@ -1,0 +1,57 @@
+A lady and two children look at papers . 
+a lady and two child look at papers . 
+
+verb-prep-object	look at papers
+object-verb	lady look
+object-verb	child look
+object	papers
+object	lady
+object	child
+object	person
+#####################################################
+An Asian lady with a boy and a girl reading a newspaper . 
+a asian lady with a boy and a girl read a newspaper . 
+
+object-prep-object	lady with boy
+object-prep-object	lady with girl
+attribute-object	asian lady
+object-verb-object	lady read newspaper
+object	lady
+object	boy
+object	girl
+object	newspaper
+object	person
+#####################################################
+Asian and two children poring over a paper . 
+asian and two child pore over a paper . 
+
+verb-prep-object	pore over paper
+object-verb	asian pore
+object-verb	child pore
+object	paper
+object	asian
+object	child
+object	person
+#####################################################
+A woman and two children are looking at a piece of paper . 
+a woman and two child be look at a piece of paper . 
+
+verb-prep-object	look at paper
+object-verb	woman look
+object-verb	child look
+object	paper
+object	woman
+object	child
+object	person
+#####################################################
+Two children and a woman look at a sheet of paper . 
+two child and a woman look at a sheet of paper . 
+
+verb-prep-object	look at paper
+object-verb	child look
+object-verb	woman look
+object	paper
+object	child
+object	woman
+object	person
+#####################################################

@@ -1,0 +1,54 @@
+A computer and monitor on a desk . 
+a computer and monitor on a desk . 
+
+object-prep-object	laptop on diningtable
+object-prep-object	tvmonitor on diningtable
+object	laptop
+object	computer
+object	table
+object	diningtable
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################
+A computer operating on a desk . 
+a computer operating on a desk . 
+
+verb-prep-object	operating on table
+object-prep-object	laptop on diningtable
+object-verb	laptop operating
+object	table
+object	diningtable
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+A messy desk with a computer . 
+a messy desk with a computer . 
+
+object-prep-object	table with laptop
+attribute-object	messy table
+object	table
+object	diningtable
+object	laptop
+object	tvmonitor
+#####################################################
+A typical college student 's workstation ! 
+a typical college student 's workstation ! 
+
+attribute-object	typical laptop
+attribute-object	college laptop
+attribute-object	student laptop
+object	laptop
+object	workstation
+object	tvmonitor
+#####################################################
+Very cluttered computer desk . 
+very cluttered computer desk . 
+
+attribute-object	cluttered table
+attribute-object	computer table
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################

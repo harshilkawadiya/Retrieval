@@ -1,0 +1,60 @@
+A red car sits atop a semi on the set of a stunt show . 
+a red car sit atop a semus on the set of a stunt show . 
+
+verb-prep-object	sit atop semus
+object-prep-object	car atop semus
+verb-prep-object	sit on show
+object-prep-object	car on show
+attribute-object	red car
+attribute-object	stunt show
+object-verb	car sit
+object	semus
+object	car
+object	show
+object	motorbike
+#####################################################
+a small red car atop a large white truck . 
+a small red car atop a large white truck . 
+
+object-prep-object	car atop truck
+attribute-object	small car
+attribute-object	red car
+attribute-object	large truck
+attribute-object	white truck
+object	car
+object	truck
+object	motorbike
+#####################################################
+A small red car on top of a semi truck . 
+a small red car on top of a semus truck . 
+
+object-prep-object	car on truck
+attribute-object	small car
+attribute-object	red car
+attribute-object	semus truck
+object	car
+object	truck
+object	motorbike
+#####################################################
+A white semi with a red car on top being filmed in a stunt show . 
+a white semus with a red car on top be film in a stunt show . 
+
+object-prep-object	semus with car
+attribute-object	white semus
+attribute-object	red car
+object	semus
+object	car
+object	motorbike
+#####################################################
+Red sports car on top of white semi truck . 
+Red sport car on top of white semus truck . 
+
+object-prep-object	car on truck
+attribute-object	white truck
+attribute-object	red car
+attribute-object	sport car
+attribute-object	semus truck
+object	car
+object	truck
+object	motorbike
+#####################################################

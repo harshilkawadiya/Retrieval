@@ -1,0 +1,59 @@
+Two men paddle a red kayak . 
+two man paddle a red kayak . 
+
+attribute-object	red kayak
+object-verb-object	man paddle kayak
+object	kayak
+object	man
+object	person
+#####################################################
+Two people in a red canoe on a clear lake . 
+two people in a red canoe on a clear lake . 
+
+object-prep-object	people on lake
+object-prep-object	people in canoe
+attribute-object	red canoe
+attribute-object	clear lake
+object	people
+object	lake
+object	canoe
+object	person
+#####################################################
+Two people on a lake in a red canoe rowing . 
+two people on a lake in a red canoe rowing . 
+
+object-prep-object	people on lake
+object-prep-object	people in canoe
+attribute-object	red canoe
+object-verb	people rowing
+object	people
+object	lake
+object	canoe
+object	person
+#####################################################
+Two people paddling a red canoe are reflected in the still water . 
+two people paddle a red canoe be reflect in the still water . 
+
+verb-prep-object	reflect in water
+attribute-object	red canoe
+object-verb-object	people paddle canoe
+object-verb	people reflect
+object	water
+object	canoe
+object	people
+object	person
+#####################################################
+Two people paddling in a red canoe with trees in the background . 
+two people paddle in a red canoe with tree in the background . 
+
+object-prep-object	paddle in canoe
+object-prep-object	people in canoe
+attribute-object	red canoe
+object-verb	people paddle
+object	tree
+object	paddle
+object	canoe
+object	people
+object	tree
+object	person
+#####################################################

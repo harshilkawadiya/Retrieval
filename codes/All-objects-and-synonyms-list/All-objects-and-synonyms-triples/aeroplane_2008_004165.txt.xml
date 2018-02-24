@@ -1,0 +1,57 @@
+A black and white photo of the right side of a small propeller driven airplane . 
+a black and white photo of the right side of a small propeller drive airplane . 
+
+attribute-object	black photo
+attribute-object	white photo
+attribute-object	small aeroplane
+attribute-object	propeller aeroplane
+object-prep-object	photo of aeroplane
+object	photo
+object	aeroplane
+object	aeroplane
+#####################################################
+A single engine plane is sitting on the runway . 
+a single engine plane be sit on the runway . 
+
+verb-prep-object	sit on airport
+object-prep-object	aeroplane on airport
+attribute-object	single aeroplane
+attribute-object	engine aeroplane
+object-verb	aeroplane sit
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+A small black and white plane . 
+a small black and white plane . 
+
+attribute-object	small aeroplane
+attribute-object	black aeroplane
+attribute-object	white aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+A small private plane sitting in the tarmac . 
+a small private plane sit in the tarmac . 
+
+verb-prep-object	sit in airport
+object-prep-object	aeroplane in airport
+attribute-object	small aeroplane
+attribute-object	private aeroplane
+object-verb	aeroplane sit
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+A small propeller plane is parked on a rainy day . 
+a small propeller plane be park on a rainy day . 
+
+verb-prep-object	park on day
+attribute-object	small aeroplane
+attribute-object	rainy day
+attribute-object	propeller aeroplane
+object-verb	aeroplane park
+object	day
+object	aeroplane
+object	aeroplane
+#####################################################

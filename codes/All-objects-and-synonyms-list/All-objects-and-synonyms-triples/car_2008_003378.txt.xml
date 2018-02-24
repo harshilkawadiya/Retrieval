@@ -1,0 +1,54 @@
+A bus stop in front of a red brick building . 
+a bus stop in front of a red brick building . 
+
+object-verb	bus stop
+verb-prep-object	stop in_front_of building
+object-prep-object	bus in_front_of building
+attribute-object	red building
+attribute-object	brick building
+object	bus
+object	building
+object	car
+#####################################################
+An empty bus station . 
+a empty bus station . 
+
+attribute-object	empty station
+attribute-object	bus station
+object	station
+object	car
+#####################################################
+An empty bus station with cars parked in the background . 
+a empty bus station with car park in the background . 
+
+object-prep-object	station with car
+attribute-object	empty station
+attribute-object	bus station
+object-verb	car park
+object	station
+object	car
+object	car
+#####################################################
+Bus station with empty parking spots . 
+bus station with empty parking spot . 
+
+object-prep-object	station with spot
+attribute-object	empty spot
+attribute-object	bus station
+attribute-object	parking spot
+object	station
+object	spot
+object	car
+#####################################################
+This bus station has signs to direct the buses to their correct parking spaces . 
+this bus station have sign to direct the bus to they correct parking space . 
+
+verb-prep-verb	sign to direct
+verb-object	direct bus
+object-verb-object	station have sign
+attribute-object	bus station
+object	bus
+object	station
+object	sign
+object	car
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	Three women standing on a city street .
+beam_size_1	3	Three women walk down the street .
+beam_size_1	4	Two girls and a woman walking on the sidewalk
+beam_size_1	5	Two girls in bright green boots and a woman are together .
+beam_size_1	6	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	7	A child is happily playing on the slide .
+beam_size_1	8	A child is holding on to the top of a playground slide .
+beam_size_1	9	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	10	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	11	Child getting ready to go down a slide .
+beam_size_1	12	A woman in red shorts is writing on a tablet .
+beam_size_1	13	A woman wearing a white shirt and red pants is writing something down at a museum .
+beam_size_1	14	A woman writing while standing by men .
+beam_size_1	15	The lady is taking notes .
+beam_size_1	16	The lady is wearing a white shirt with red pants and writing on a note pad .
+beam_size_1	17	Children sit in a classroom holding slates .
+beam_size_1	18	Five of the six children have their own chalkboard .
+beam_size_1	19	Six African children sitting at two tables .
+beam_size_1	20	Six children are sitting in two rows with plastic bags on the desk in front of them .
+beam_size_1	21	Three children sitting at desks .
+beam_size_1	22	A man with red shirt and black hat stares at another man .
+beam_size_1	23	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	24	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	25	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	26	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	27	A couple are looking at an area map .
+beam_size_1	28	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	29	Tourists examine a sign .
+beam_size_1	30	Two people are reading a sign in front of a museum .
+beam_size_1	31	Two people read a sign in front of a museum .
+beam_size_1	32	A man in a tropical enviorment holding a camera to his face .
+beam_size_1	33	A man in blue takes a photo of the person taking a photo of him .
+beam_size_1	34	A man taking a picture with a silver camera .
+beam_size_1	35	Man in a blue shirt with a camera .
+beam_size_1	36	The man is outdoors , holding a camera .
+beam_size_1	37	A brown dog is sitting on a cobbled pavement .
+beam_size_1	38	A brown god relaxes on a brick sidewalk .
+beam_size_1	39	A dog lies down on a cobblestone street .
+beam_size_1	40	A yellow dog is lying near where people are walking .
+beam_size_1	41	The dog is lying on the cobblestone street .
+beam_size_1	42	A dog coming out of a large yellow tube .
+beam_size_1	43	A little brown and white dog emerges from a yellow collapsable toy tunnel onto the lawn .
+beam_size_1	44	A small dog in front of a yellow tube on grass .
+beam_size_1	45	A small white dog walks through a yellow tube .
+beam_size_1	46	A white dog emerges from a yellow tube on an obstacle course .
+beam_size_1	47	A little girl slides down a green slide with her arms up at a playground .
+beam_size_1	48	A little girl sliding down a slide at a playground .
+beam_size_1	49	A young girl is sliding down a slide at a playground .
+beam_size_1	50	A young girl slides down a green plastic slide on a playground .
+beam_size_1	51	The girl is sliding down a green slide .

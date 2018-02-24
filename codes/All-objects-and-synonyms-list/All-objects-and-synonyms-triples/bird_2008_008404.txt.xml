@@ -1,0 +1,50 @@
+A brown , white and black spotted owl . 
+a brown , white and black spotted owl . 
+
+attribute-object	brown bird
+attribute-object	white bird
+attribute-object	black bird
+attribute-object	spotted bird
+object	bird
+object	bird
+#####################################################
+A close up view of an owl . 
+a close up view of a owl . 
+
+attribute-object	close_up view
+object-prep-object	view of bird
+object	view
+object	bird
+object	bird
+#####################################################
+An owl sits quietly for the photo . 
+a owl sit quietly for the photo . 
+
+verb-prep-object	sit for photo
+object-prep-object	bird for photo
+attribute-verb	quietly sit
+object-verb	bird sit
+object	photo
+object	bird
+object	bird
+#####################################################
+Up close view of an owl . 
+up close view of a owl . 
+
+object-prep-object	view of bird
+attribute-object	close_up view
+object	view
+object	bird
+object	bird
+#####################################################
+Up close view of calico colored owl . 
+up close view of calico color owl . 
+
+object-prep-object	view of bird
+attribute-object	close_up view
+attribute-object	calico bird
+attribute-object	color bird
+object	view
+object	bird
+object	bird
+#####################################################

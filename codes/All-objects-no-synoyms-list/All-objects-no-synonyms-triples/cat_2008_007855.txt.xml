@@ -1,0 +1,40 @@
+A cat laying on its side with a light source to its backside . 
+a cat lay on its side with a light source to its backside . 
+
+object-verb	cat lay
+object	cat
+object	cat
+#####################################################
+A cat lying on its side . 
+a cat lie on its side . 
+
+object-verb	cat lie
+object	cat
+object	cat
+#####################################################
+A close up of a brown faced cat . 
+a close up of a brown face cat . 
+
+attribute-object	brown cat
+attribute-object	face cat
+object	cat
+object	cat
+#####################################################
+Cat shot from below . 
+cat shot from below . 
+
+object	cat
+object	cat
+object	cat
+#####################################################
+Multicolored cat laying on floor . 
+multicolor cat lay on floor . 
+
+verb-prep-object	lay on floor
+object-prep-object	cat on floor
+attribute-object	multicolor cat
+object-verb	cat lay
+object	floor
+object	cat
+object	cat
+#####################################################

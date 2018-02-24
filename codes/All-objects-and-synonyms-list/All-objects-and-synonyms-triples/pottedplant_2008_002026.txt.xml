@@ -1,0 +1,69 @@
+A beige living room has a chair , lamp , table , and other furniture . 
+a beige living room have a chair , lamp , table , and other furniture . 
+
+attribute-object	brown room
+object-verb-object	room have chair
+object-verb-object	room have lamp
+object-verb-object	room have diningtable
+object-verb-object	room have furniture
+attribute-object	living room
+object	room
+object	chair
+object	lamp
+object	diningtable
+object	furniture
+object	pottedplant
+#####################################################
+A chair has a throw pillow on it . 
+a chair have a throw pillow on it . 
+
+object-verb-object	chair have pillow
+attribute-object	throw pillow
+object	chair
+object	pillow
+object	pottedplant
+#####################################################
+A comfortable looking sitting room with a lamp turned on . 
+a comfortable look sit room with a lamp turn on . 
+
+object-prep-object	room with lamp
+attribute-object	comfortable room
+attribute-object	look room
+attribute-object	sit room
+object-verb	lamp turn
+verb-attribute	turn on
+object	room
+object	lamp
+object	pottedplant
+#####################################################
+A living room with table , chair and sofa alongside a large palm . 
+a living room with table , chair and sofa alongside a large palm . 
+
+object-prep-object	room with diningtable
+object-prep-object	room with chair
+object-prep-object	room with sofa
+object-prep-object	room alongside palm
+attribute-object	large palm
+attribute-object	living room
+object	room
+object	diningtable
+object	chair
+object	sofa
+object	palm
+object	pottedplant
+#####################################################
+A room decorated with furniture and potted plants . 
+a room decorate with furniture and potted plant . 
+
+verb-prep-object	decorate with furniture
+verb-prep-object	decorate with pottedplant
+object-prep-object	room with furniture
+object-prep-object	room with pottedplant
+attribute-object	potted pottedplant
+object-verb	room decorate
+object	furniture
+object	pottedplant
+object	plant
+object	room
+object	pottedplant
+#####################################################

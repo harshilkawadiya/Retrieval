@@ -1,0 +1,69 @@
+A girl has a meal and sips a drink by the water . 
+a girl have a meal and sip a drink by the water . 
+
+verb-prep-object	sip by water
+object-prep-object	person by girl
+object-verb-object	person have girl
+object-verb-object	person sip girl
+object	water
+object	person
+object	girl
+object	diningtable
+#####################################################
+A lady having a meal on plastic furniture overlooking the water . 
+a lady have a meal on plastic furniture overlook the water . 
+
+object-prep-object	meal on furniture
+object-verb-object	person have lady
+attribute-object	plastic furniture
+object	meal
+object	furniture
+object	person
+object	lady
+object	diningtable
+#####################################################
+A women drinking while sitting at a plastic table by the sea . 
+a woman drink while sit at a plastic table by the sea . 
+
+object-verb	person sit
+verb-prep-object	sit by water
+object-prep-object	person by water
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+attribute-object	plastic diningtable
+object-verb	person drink
+object	person
+object	woman
+object	water
+object	sea
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+The woman is drinking from a straw at a restaurant on the beach . 
+the woman be drink from a straw at a restaurant on the beach . 
+
+verb-prep-object	drink at restaurant
+object-prep-object	person at woman
+object-prep-object	restaurant on beach
+object-prep-object	person on woman
+verb-prep-object	drink from straw
+object-verb	person drink
+object	restaurant
+object	person
+object	woman
+object	beach
+object	straw
+object	diningtable
+#####################################################
+Woman eating and drinking while overlooking the ocean . 
+Woman eating and drinking while overlook the ocean . 
+
+object-verb-object	person overlook water
+object-verb	person eat
+object-verb	person drink
+object	person
+object	woman
+object	water
+object	diningtable
+#####################################################

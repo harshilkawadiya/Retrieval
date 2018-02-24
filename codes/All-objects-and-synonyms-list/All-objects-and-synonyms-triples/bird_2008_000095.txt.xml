@@ -1,0 +1,74 @@
+A large bird wades in the water while the turtles climb the log . 
+a large bird wade in the water while the turtle climb the log . 
+
+verb-prep-object	wade in water
+object-prep-object	bird in water
+attribute-object	large bird
+object-verb	bird wade
+object-verb-object	turtle climb log
+object	water
+object	bird
+object	turtle
+object	log
+object	bird
+#####################################################
+A stork stands on a fallen tree over a pond while three turtles climb out of the water . 
+a stork stand on a fall tree over a pond while three turtle climb out of the water . 
+
+verb-prep-object	stand over water
+object-prep-object	bird over water
+verb-prep-object	climb out_of water
+object-prep-object	turtle out_of water
+verb-prep-object	stand on tree
+object-prep-object	bird on tree
+attribute-object	fall tree
+object-verb	bird stand
+object-verb	turtle climb
+object	water
+object	bird
+object	turtle
+object	tree
+object	bird
+#####################################################
+The long necked bird is perched on a branch with three turtles . 
+the long necked bird be perch on a branch with three turtle . 
+
+object-prep-object	tree with branch
+verb-prep-object	perch on tree
+object-prep-object	bird on tree
+attribute-object	long bird
+attribute-object	necked bird
+object-verb	bird perch
+object	tree
+object	branch
+object	bird
+object	bird
+#####################################################
+Three turtles and an egret are standing on a log in a pond . 
+three turtle and a egret be stand on a log in a pond . 
+
+verb-prep-object	stand on log
+object-prep-object	turtle on log
+object-prep-object	bird on log
+object-prep-object	log in water
+object-verb	turtle stand
+object-verb	bird stand
+object	log
+object	turtle
+object	bird
+object	water
+object	bird
+#####################################################
+Three turtles climbing up a log that a bird is sitting on . 
+three turtle climb up a log that a bird be sit on . 
+
+object-verb-object	turtle climb log
+verb-attribute	climb up
+object-verb	bird sit
+verb-prep-object	sit on log
+object-prep-object	bird on log
+object	turtle
+object	log
+object	bird
+object	bird
+#####################################################

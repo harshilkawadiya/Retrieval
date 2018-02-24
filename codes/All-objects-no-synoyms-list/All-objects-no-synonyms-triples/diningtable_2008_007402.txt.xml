@@ -1,0 +1,58 @@
+A woman in a blue dress cuts a cake . 
+a woman in a blue dress cut a cake . 
+
+object-prep-object	woman in dress
+attribute-object	blue dress
+object-verb-object	woman cut cake
+object	woman
+object	dress
+object	cake
+object	diningtable
+#####################################################
+A woman wearing a navy dress is cutting a cake on a white table . 
+a woman wear a navy dress be cut a cake on a white table . 
+
+object-prep-object	cake on table
+attribute-object	white table
+object-verb-object	woman wear dress
+object-verb-object	woman cut cake
+attribute-object	navy dress
+object	cake
+object	table
+object	woman
+object	dress
+object	diningtable
+#####################################################
+A woman cutting a cake on a white plastic table . 
+a woman cut a cake on a white plastic table . 
+
+object-prep-object	cake on table
+attribute-object	white table
+object-verb-object	woman cut cake
+attribute-object	plastic table
+object	cake
+object	table
+object	woman
+object	diningtable
+#####################################################
+Woman cutting cake . 
+Woman cut cake . 
+
+object-verb-object	woman cut cake
+object	woman
+object	cake
+object	diningtable
+#####################################################
+Woman in blue shift dress cutting into food . 
+Woman in blue shift dress cut into food . 
+
+verb-prep-object	cut into food
+object-prep-object	woman in dress
+attribute-object	blue dress
+attribute-object	shift dress
+object-verb	woman cut
+object	food
+object	woman
+object	dress
+object	diningtable
+#####################################################

@@ -1,0 +1,73 @@
+A black cat looking at image in a mirror . 
+a black cat look at image in a mirror . 
+
+verb-prep-object	look at image
+object-prep-object	image in mirror
+attribute-object	black cat
+object-verb	cat look
+object	image
+object	mirror
+object	cat
+object	chair
+#####################################################
+A black cat sitting on a pink chair , next to a table holding a mirror and a plant . 
+a black cat sit on a pink chair , next to a table hold a mirror and a plant . 
+
+object-verb	cat sit
+object-verb-object	table hold mirror
+object-verb-object	table hold plant
+verb-prep-object	sit next_to table
+object-prep-object	cat next_to table
+verb-prep-object	sit on chair
+object-prep-object	cat on chair
+attribute-object	black cat
+attribute-object	pink chair
+object	cat
+object	table
+object	mirror
+object	plant
+object	chair
+object	chair
+#####################################################
+A black cat sitting on a pink folding chair staring into a mirror sitting on a table next to a plant . 
+a black cat sit on a pink folding chair stare into a mirror sit on a table next to a plant . 
+
+verb-prep-object	stare into mirror
+verb-prep-object	sit on chair
+object-prep-object	cat on chair
+attribute-object	black cat
+attribute-object	pink chair
+attribute-object	folding chair
+object-verb	cat sit
+object-verb	cat stare
+object	mirror
+object	chair
+object	cat
+object	chair
+#####################################################
+Black cat with pink collar staring into small mirror . 
+Black cat with pink collar stare into small mirror . 
+
+verb-prep-object	stare into mirror
+object-prep-object	cat with collar
+attribute-object	pink collar
+attribute-object	small mirror
+attribute-object	black cat
+object-verb	cat stare
+object	mirror
+object	cat
+object	collar
+object	chair
+#####################################################
+The cat seems to like her reflection in the mirror . 
+the cat seem to like she reflection in the mirror . 
+
+object-prep-object	reflection in mirror
+object-verb	cat seem
+verb-prep-verb	seem to like
+verb-object	like reflection
+object	reflection
+object	mirror
+object	cat
+object	chair
+#####################################################

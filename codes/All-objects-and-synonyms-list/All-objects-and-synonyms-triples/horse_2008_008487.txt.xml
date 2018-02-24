@@ -1,0 +1,72 @@
+A father and a daughter looking at a pony through a chain link fence . 
+a father and a daughter look at a pony through a chain link fence . 
+
+object-verb	person look
+object-verb	person look
+verb-prep-object	look through fence
+verb-prep-object	look at horse
+attribute-object	chain fence
+attribute-object	link fence
+object	person
+object	father
+object	daughter
+object	fence
+object	horse
+object	pony
+object	horse
+#####################################################
+A man and child admire a horse . 
+a man and child admire a horse . 
+
+object-verb-object	person admire man
+object-verb-object	person admire child
+object	person
+object	man
+object	child
+object	horse
+#####################################################
+A man and child looks at a horse through a wired fence . 
+a man and child look at a horse through a wire fence . 
+
+verb-prep-object	look through fence
+verb-prep-object	look at horse
+attribute-object	wire fence
+object-verb	person look
+object-verb	person look
+object	fence
+object	horse
+object	person
+object	man
+object	child
+object	horse
+#####################################################
+A man holding a small child looking at a pony . 
+a man hold a small child look at a pony . 
+
+verb-prep-object	look at horse
+attribute-object	small person
+object-verb-object	person hold person
+object-verb	person look
+object	horse
+object	pony
+object	person
+object	child
+object	man
+object	horse
+#####################################################
+A man holding a small child stands near a donkey in a pen . 
+a man hold a small child stand near a donkey in a pen . 
+
+verb-prep-object	stand near horse
+object-prep-object	person near horse
+object-prep-object	horse in donkey
+attribute-object	small person
+object-verb-object	person hold person
+object-verb	person stand
+object	horse
+object	donkey
+object	person
+object	man
+object	child
+object	horse
+#####################################################

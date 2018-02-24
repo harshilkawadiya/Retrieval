@@ -1,0 +1,63 @@
+A black and white bird sitting on the water looking down . 
+a black and white bird sit on the water look down . 
+
+verb-prep-object	sit on water
+attribute-object	black bird
+attribute-object	white bird
+object-verb	bird sit
+object-verb	bird look
+verb-attribute	look down
+object	water
+object	bird
+object	bird
+#####################################################
+A black duck floats on water . 
+a black duck float on water . 
+
+verb-prep-object	float on water
+object-prep-object	bird on water
+attribute-object	black bird
+object-verb	bird float
+object	water
+object	bird
+object	bird
+#####################################################
+A dark bird with a light-colored beak is in the water . 
+a dark bird with a light-colored beak be in the water . 
+
+object-prep-object	bird with beak
+object-prep-object	bird in water
+attribute-object	dark bird
+attribute-object	light-colored beak
+object	bird
+object	beak
+object	water
+object	bird
+#####################################################
+Black bird floating on water . 
+Black bird float on water . 
+
+verb-prep-object	float on water
+object-prep-object	bird on water
+attribute-object	black bird
+object-verb	bird float
+object	water
+object	bird
+object	bird
+#####################################################
+Close up of a black bird with a white beak floating on the water . 
+close up of a black bird with a white beak float on the water . 
+
+object-prep-object	bird with beak
+verb-prep-object	float on water
+object-prep-object	bird on water
+object-prep-object	close_up of bird
+attribute-object	black bird
+attribute-object	white beak
+object-verb	bird float
+object	bird
+object	beak
+object	water
+object	close_up
+object	bird
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	A bike rider in green jersey races along a road .
+beam_size_1	3	A biker looks back at the camera for a photo .
+beam_size_1	4	A cyclist in a helmet and yellow jersey .
+beam_size_1	5	A man in a safety vest riding a bicycle on the highway .
+beam_size_1	6	A man in a yellow shirt riding a blue bicycle moving very fast .
+beam_size_1	7	A black dog is running along the beach beside a brown dog in midair catching a stick in its mouth .
+beam_size_1	8	A black dog runs on the shore while a light brown dog jumps up to catch a stick .
+beam_size_1	9	A brown dog leaps into the air next to a black dog on a sandy bay .
+beam_size_1	10	On a beach , black and brown dog runs , brown dog jumps .
+beam_size_1	11	Two dogs are playing together
+beam_size_1	12	A race cars muffler catches on fire .
+beam_size_1	13	A race car sparks .
+beam_size_1	14	A sports car with flames coming out the exhaust .
+beam_size_1	15	The blue and white race car has flames coming out of its tail pipe .
+beam_size_1	16	The white racing car has fire bursting from its exhaust pipe .
+beam_size_1	17	A black dog carrying an object out of the water .
+beam_size_1	18	A black dog carrying some seaweed out of the water .
+beam_size_1	19	A black dog is coming out of the ocean water on the beach with something in its mouth .
+beam_size_1	20	A black dog with a stick in its mouth is walking out of the water onto a beach .
+beam_size_1	21	A dog retrieves a branch from on a beach .
+beam_size_1	22	A large grey and white water bird .
+beam_size_1	23	A large white bird flies over water .
+beam_size_1	24	A white birds lands swiftly in the water .
+beam_size_1	25	bird is taking off out of the water
+beam_size_1	26	Large white crane is flying low near the water .
+beam_size_1	27	A girl and guy dressed up in costumes
+beam_size_1	28	A man dressed as " Teen Wolf " hugs a woman made up like a vampire .
+beam_size_1	29	A man in a werewolf mask is with a woman wearing elf ears .
+beam_size_1	30	The man wearing the mask and sunglasses has his arm around the woman who is wearing fake pointed ears .
+beam_size_1	31	Two individuals dressed up like animals are posing for the camera .
+beam_size_1	32	A donkey pulling a cart with a boy in it takes a brake .
+beam_size_1	33	A donkey pulling a car with a man on it
+beam_size_1	34	A mule is carring a man in a cart next to some palm trees .
+beam_size_1	35	A mule pulling a carriage with a man inside along a dirt path .
+beam_size_1	36	A person is pulled in a cart by a donkey .
+beam_size_1	37	Three dogs are running in the water on the beach .
+beam_size_1	38	Three dogs entering the ocean .
+beam_size_1	39	Three dogs rush to chase a ball thrown into the surf .
+beam_size_1	40	Three dogs walking away on the waters edge of the shore .
+beam_size_1	41	Three large dogs are playing in the water at the beach .
+beam_size_1	42	A man dives into a lake .
+beam_size_1	43	A man dives into the water surrounded by rocks and pine trees .
+beam_size_1	44	A man is diving into water near a shore .
+beam_size_1	45	A young man dives into water .
+beam_size_1	46	The man is diving into the water .
+beam_size_1	47	A man drives an ATV down a dirt road with a power line behind him .
+beam_size_1	48	a man is driving a red ATV up a rugged hill .
+beam_size_1	49	A man wearing a white hat is on a red ATV driving on the dirt .
+beam_size_1	50	Man riding four-wheel , off-road vehicle in rural area .
+beam_size_1	51	The man rides his quad through a rural area followed by his dog .

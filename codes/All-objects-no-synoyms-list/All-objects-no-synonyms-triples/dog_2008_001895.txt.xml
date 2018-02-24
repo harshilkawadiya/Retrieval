@@ -1,0 +1,64 @@
+A scruffy dog looks up at someone . 
+a scruffy dog look up at someone . 
+
+verb-prep-object	look at someone
+attribute-object	scruffy dog
+object-verb	dog look
+verb-attribute	look up
+object	someone
+object	dog
+object	dog
+#####################################################
+A tan color dog looks up at a person wearing cargo pants . 
+a tan color dog look up at a person wear cargo pants . 
+
+verb-prep-object	look at person
+object-verb-object	person wear pants
+attribute-object	tan dog
+attribute-object	color dog
+attribute-object	cargo pants
+object-verb	dog look
+verb-attribute	look up
+object	person
+object	pants
+object	dog
+object	dog
+#####################################################
+A tan dog with its mouth open looking up at someone in khaki pants . 
+a tan dog with its mouth open look up at someone in khaki pants . 
+
+verb-prep-object	look at someone
+object-prep-object	someone in pants
+object-prep-object	dog with mouth
+attribute-object	khaki pants
+attribute-object	tan dog
+object-verb	dog look
+verb-attribute	look up
+object	someone
+object	pants
+object	dog
+object	mouth
+object	dog
+#####################################################
+Cute Benji like dog showing his bottom teeth . 
+cute Benji like dog show he bottom tooth . 
+
+attribute-object	cute dog
+attribute-object	benji dog
+object-verb-object	dog show tooth
+attribute-object	bottom tooth
+object	dog
+object	tooth
+object	dog
+#####################################################
+Shaggy dog looking up at a person . 
+shaggy dog look up at a person . 
+
+verb-prep-object	look at person
+attribute-object	shaggy dog
+object-verb	dog look
+verb-attribute	look up
+object	person
+object	dog
+object	dog
+#####################################################

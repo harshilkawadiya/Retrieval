@@ -1,0 +1,56 @@
+An electric train on tracks under an overpass . 
+a electric train on track under a overpass . 
+
+object-prep-object	train on track
+object-prep-object	train under overpass
+attribute-object	electric train
+object	train
+object	track
+object	overpass
+object	train
+#####################################################
+A passenger train sits in the station . 
+a passenger train sit in the station . 
+
+verb-prep-object	sit in station
+object-prep-object	train in station
+attribute-object	passenger train
+object-verb	train sit
+object	station
+object	train
+object	train
+#####################################################
+A red and white railroad car with passengers inside . 
+a red and white railroad car with passenger inside . 
+
+object-prep-object	car with passenger
+attribute-object	red car
+attribute-object	white car
+attribute-object	railroad car
+object	car
+object	passenger
+object	train
+#####################################################
+A red and white Sun Liner train beneath an overpass . 
+a red and white Sun Liner train beneath a overpass . 
+
+object-prep-object	train beneath overpass
+attribute-object	red train
+attribute-object	white train
+attribute-object	sun train
+attribute-object	liner train
+object	train
+object	overpass
+object	train
+#####################################################
+The train sits at the train station . 
+the train sit at the train station . 
+
+verb-prep-object	sit at station
+object-prep-object	train at station
+attribute-object	train station
+object-verb	train sit
+object	station
+object	train
+object	train
+#####################################################

@@ -1,0 +1,46 @@
+a brown horse about to start his run . 
+a brown horse about to start he run . 
+
+attribute-object	brown horse
+object	horse
+object	horse
+#####################################################
+A brown horse in a paddock . 
+a brown horse in a paddock . 
+
+object-prep-object	horse in paddock
+attribute-object	brown horse
+object	horse
+object	paddock
+object	horse
+#####################################################
+A horse trots around in a dirt enclosure . 
+a horse trot around in a dirt enclosure . 
+
+attribute-object	dirt enclosure
+verb-prep-object	trot in enclosure
+object-prep-object	horse in enclosure
+object-verb	horse trot
+object	enclosure
+object	horse
+object	horse
+#####################################################
+A young horse trots . 
+a young horse trot . 
+
+attribute-object	young horse
+object-verb	horse trot
+object	horse
+object	horse
+#####################################################
+Lovely brown horse with white feet . 
+lovely brown horse with white foot . 
+
+object-prep-object	horse with foot
+attribute-object	lovely horse
+attribute-object	brown horse
+attribute-object	white foot
+object	horse
+object	foot
+object	horse
+#####################################################

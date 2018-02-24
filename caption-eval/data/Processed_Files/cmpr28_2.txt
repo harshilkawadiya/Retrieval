@@ -1,0 +1,50 @@
+beam_size_1	2	a lone parasailer surfing in the ocean wearing a black swimsuit .
+beam_size_1	3	A man is kite surfing away from the camera .
+beam_size_1	4	A man is sky surfing on the water .
+beam_size_1	5	A man waterskis while attached to a parachute .
+beam_size_1	6	A waterskier cuts through the blue water with sailboats in the background .
+beam_size_1	7	Two boys and two dogs are playing in the sand and water at the seashore .
+beam_size_1	8	Two boys are playing with two dogs on the beach .
+beam_size_1	9	Two boys play with two dogs at the shore .
+beam_size_1	10	Two boys play with two dogs next to the ocean .
+beam_size_1	11	Two guys are playing with two dogs on the beach .
+beam_size_1	12	a brown and white dog is sniffing the snow covered ground .
+beam_size_1	13	A brown and white dog walking in the snow near a fence .
+beam_size_1	14	A brown & white greyhound dog sniffs the snow .
+beam_size_1	15	A lean white and brown dog makes its way through a patch of snow .
+beam_size_1	16	A slender dog checks out a snowy patch of land .
+beam_size_1	17	A brown dog leaps into the water .
+beam_size_1	18	A dog leaping off a boat
+beam_size_1	19	A dog wearing a collar jumping from a platform .
+beam_size_1	20	a grey and brown dog jumps off a dock into a lake
+beam_size_1	21	A light brown dog with his tail in the air jumps of a pontoon toward the water .
+beam_size_1	22	A brown dog holding something purple and black in its mouth .
+beam_size_1	23	a dog catches black Frisbee .
+beam_size_1	24	A large wet yellow dog retrives his toy .
+beam_size_1	25	Dog running with toy .
+beam_size_1	26	The wet dog catches a toy while playing on the sand .
+beam_size_1	27	A dog hops in a field while another dog stands next to it .
+beam_size_1	28	One dog is jumping up at another dog in a grassy field .
+beam_size_1	29	The two tan colored dogs are in a field , and one is jumping in the air .
+beam_size_1	30	Two brown dogs in a field .
+beam_size_1	31	Two brown dogs play with one another in the field .
+beam_size_1	32	A boy sitting in water .
+beam_size_1	33	A small boy is sitting in the water and water is splashing up through his legs .
+beam_size_1	34	A young boy in a swimming suit sits in water .
+beam_size_1	35	A young boy sitting on a water jet in a pool .
+beam_size_1	36	Little boy sitting in water with a fountain coming up through his lap .
+beam_size_1	37	A black dog with his pink tongue sticking out running on the beach with a white dog wearing a red collar .
+beam_size_1	38	A white dog is following a black dog along the beach .
+beam_size_1	39	Two dogs run across the barren ground .
+beam_size_1	40	Two dogs running on the beach .
+beam_size_1	41	Two terrier dogs frolic on the beach .
+beam_size_1	42	A man in the near distance is pointing to a silver sedan near him .
+beam_size_1	43	A man is playing tennis with himself against a large wall in a parking lot .
+beam_size_1	44	A man walks toward a car in a parking lot .
+beam_size_1	45	Man stands outside against wall with tennis racket in dark .
+beam_size_1	46	The man is playing tennis against the building .
+beam_size_1	47	A child is happily playing on the slide .
+beam_size_1	48	A child is holding on to the top of a playground slide .
+beam_size_1	49	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	50	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	51	Child getting ready to go down a slide .

@@ -1,0 +1,61 @@
+A red boat in the middle of a lake with trees in the distance . 
+a red boat in the middle of a lake with tree in the distance . 
+
+object-prep-object	lake with tree
+object-prep-object	boat in lake
+attribute-object	red boat
+object	lake
+object	tree
+object	boat
+object	boat
+#####################################################
+A red boat is floating on water , surrounded by evergreen trees . 
+a red boat be float on water , surround by evergreen tree . 
+
+verb-prep-object	float on water
+object-prep-object	boat on water
+verb-prep-object	surround by tree
+attribute-object	red boat
+attribute-object	evergreen tree
+object-verb	boat float
+object-verb	boat surround
+object	water
+object	boat
+object	tree
+object	boat
+#####################################################
+Bright blue lake with a boat in the distance . 
+bright blue lake with a boat in the distance . 
+
+object-prep-object	lake with boat
+attribute-object	bright lake
+attribute-object	blue lake
+object	lake
+object	boat
+object	boat
+#####################################################
+Red boat in lake surrounded by trees . 
+Red boat in lake surround by tree . 
+
+verb-prep-object	surround by tree
+object-prep-object	boat in lake
+attribute-object	red boat
+object-verb	boat surround
+object	tree
+object	boat
+object	lake
+object	boat
+#####################################################
+Small red and white boat floating in middle of lake . 
+small red and white boat float in middle of lake . 
+
+object-verb	boat float
+verb-prep-object	float in lake
+object-prep-object	boat in lake
+attribute-object	small boat
+attribute-object	red boat
+attribute-object	white boat
+object	boat
+object	lake
+object	boat
+#####################################################

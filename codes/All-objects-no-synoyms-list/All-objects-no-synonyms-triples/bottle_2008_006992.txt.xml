@@ -1,0 +1,53 @@
+A black and white photo of a dilapidated wooden fence . 
+a black and white photo of a dilapidated wooden fence . 
+
+attribute-object	dilapidated fence
+attribute-object	wooden fence
+object	fence
+object	bottle
+#####################################################
+A black and white photo of an old wooden fence near a dirty street . 
+a black and white photo of a old wooden fence near a dirty street . 
+
+object-prep-object	fence near street
+attribute-object	old fence
+attribute-object	wooden fence
+attribute-object	dirty street
+object	fence
+object	street
+object	bottle
+#####################################################
+A black and white street scene of litter and a broken fence . 
+a black and white street scene of litter and a broken fence . 
+
+attribute-object	broken fence
+attribute-object	street scene
+object	fence
+object	scene
+object	bottle
+#####################################################
+A discarded bottle and other debris are near a fence on a street . 
+a discard bottle and other debris be near a fence on a street . 
+
+object-prep-object	bottle near fence
+object-prep-object	debris near fence
+object-prep-object	bottle on street
+object-prep-object	debris on street
+attribute-object	discard bottle
+object	bottle
+object	fence
+object	debris
+object	street
+object	bottle
+#####################################################
+Olde leaning wood fence on side of street . 
+Olde lean wood fence on side of street . 
+
+object-prep-object	fence on street
+attribute-object	olde fence
+attribute-object	lean fence
+attribute-object	wood fence
+object	fence
+object	street
+object	bottle
+#####################################################

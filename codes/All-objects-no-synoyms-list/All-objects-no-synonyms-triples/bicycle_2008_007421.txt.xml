@@ -1,0 +1,60 @@
+A cyclist is riding through the woods . 
+a cyclist be ride through the wood . 
+
+verb-prep-object	ride through wood
+object-prep-object	cyclist through wood
+object-verb	cyclist ride
+object	wood
+object	cyclist
+object	bicycle
+#####################################################
+A mountain bike and rider riding through woods . 
+a mountain bike and rider ride through wood . 
+
+verb-prep-object	ride through wood
+attribute-object	mountain bike
+object-verb	bike ride
+object-verb	rider ride
+object	wood
+object	bike
+object	rider
+object	bicycle
+#####################################################
+A person wearing a bike helmet rides a bike on a path through trees . 
+a person wear a bike helmet ride a bike on a path through tree . 
+
+verb-prep-object	ride through tree
+verb-prep-object	ride on path
+object-verb-object	person ride bike
+object-verb-object	person wear helmet
+attribute-object	bike helmet
+object	tree
+object	path
+object	person
+object	bike
+object	helmet
+object	bicycle
+#####################################################
+A woman riding a bike on a forest trail . 
+a woman ride a bike on a forest trail . 
+
+verb-prep-object	ride on trail
+object-verb-object	woman ride bike
+attribute-object	forest trail
+object	trail
+object	woman
+object	bike
+object	bicycle
+#####################################################
+Motion shot of a woman riding a mountain bike . 
+Motion shot of a woman ride a mountain bike . 
+
+object-verb-object	woman ride bike
+attribute-object	mountain bike
+object-verb-object	shot of woman
+attribute-object	motion shot
+object	woman
+object	bike
+object	shot
+object	bicycle
+#####################################################

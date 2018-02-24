@@ -1,0 +1,68 @@
+An old airplane with yellow wings and a blue tail flying on a beautiful day . 
+a old airplane with yellow wing and a blue tail fly on a beautiful day . 
+
+object-prep-object	airplane with wing
+object-prep-object	airplane with tail
+verb-prep-object	fly on day
+attribute-object	old airplane
+attribute-object	yellow wing
+attribute-object	blue tail
+attribute-object	beautiful day
+object-verb	airplane fly
+object	airplane
+object	wing
+object	tail
+object	day
+object	aeroplane
+#####################################################
+A small yellow plane with blue and white stars flies against the blue sky . 
+a small yellow plane with blue and white star fly against the blue sky . 
+
+verb-prep-object	fly against sky
+object-prep-object	plane against sky
+verb-prep-object	plane with star
+attribute-object	small plane
+attribute-object	yellow plane
+attribute-object	blue star
+attribute-object	white star
+attribute-object	blue sky
+object-verb	plane fly
+object	sky
+object	plane
+object	star
+object	aeroplane
+#####################################################
+A yellow and blue airplane is flying in the sky . 
+a yellow and blue airplane be fly in the sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	airplane in sky
+attribute-object	yellow airplane
+attribute-object	blue airplane
+object-verb	airplane fly
+object	sky
+object	airplane
+object	aeroplane
+#####################################################
+A yellow and white biplane in the sky viewed from below . 
+a yellow and white biplane in the sky view from below . 
+
+verb-prep-object	biplane in sky
+attribute-object	yellow biplane
+attribute-object	white biplane
+object	sky
+object	biplane
+object	aeroplane
+#####################################################
+Yellow and white plane flying through the air . 
+Yellow and white plane fly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	plane through air
+attribute-object	white plane
+attribute-object	yellow plane
+object-verb	plane fly
+object	air
+object	plane
+object	aeroplane
+#####################################################

@@ -1,0 +1,51 @@
+A gray jet on a tarmac . 
+a gray jet on a tarmac . 
+
+object-prep-object	jet on tarmac
+attribute-object	gray jet
+object	jet
+object	tarmac
+object	aeroplane
+#####################################################
+An airplane being inspected before takeoff . 
+a airplane be inspect before takeoff . 
+
+verb-prep-object	inspect before takeoff
+object-verb	airplane inspect
+object	takeoff
+object	airplane
+object	aeroplane
+#####################################################
+An airplane is getting a service check before its next flight . 
+a airplane be get a service check before its next flight . 
+
+object-verb-object	airplane get check
+attribute-object	service check
+object	airplane
+object	check
+object	aeroplane
+#####################################################
+Several people standing beneath a large gray plane . 
+several people stand beneath a large gray plane . 
+
+verb-prep-object	stand beneath plane
+object-prep-object	people beneath plane
+attribute-object	several people
+attribute-object	large plane
+attribute-object	gray plane
+object-verb	people stand
+object	plane
+object	people
+object	aeroplane
+#####################################################
+There are several men standing around a plane . 
+there be several man stand around a plane . 
+
+verb-prep-object	stand around plane
+object-prep-object	man around plane
+attribute-object	several man
+object-verb	man stand
+object	plane
+object	man
+object	aeroplane
+#####################################################

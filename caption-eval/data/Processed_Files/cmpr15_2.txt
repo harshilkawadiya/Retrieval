@@ -1,0 +1,50 @@
+beam_size_1	2	A dog is running with a yellow tennis ball and wearing a red harness .
+beam_size_1	3	a small black and white dog running through the grass with a tennis ball in his mouth
+beam_size_1	4	Small black and white dog wearing a red harness is running around with a ball in its mouth .
+beam_size_1	5	Small dog with red harness fetching a ball .
+beam_size_1	6	The dog wearing the red collar is running across the grass with a ball in its mouth .
+beam_size_1	7	Children play with large hoops .
+beam_size_1	8	Little kids playing with sparklers at night .
+beam_size_1	9	Two small children are twirling sparkling rope .
+beam_size_1	10	Two young boys playing with sparklers .
+beam_size_1	11	Two young children and an older man play with sparklers .
+beam_size_1	12	A black and brown dog with a tan dog on a cement path in front of grass
+beam_size_1	13	A black dog and a yellow dog are walking on asphalt next to a field of grass .
+beam_size_1	14	A blurry photo of two dogs .
+beam_size_1	15	a white dog is running behind a black dog on a paved path by some grass .
+beam_size_1	16	Two dogs walk along a path beside the grass .
+beam_size_1	17	A black dog and a tan dog fighting .
+beam_size_1	18	A black dog and a white dog are wrestling on the ground .
+beam_size_1	19	A black dog bites a white dog while standing on the sand .
+beam_size_1	20	two dogs fight .
+beam_size_1	21	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	22	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	23	An elderly woman rides a bicycle along a city street .
+beam_size_1	24	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	25	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	26	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	27	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	28	A black dog with a purple collar is running .
+beam_size_1	29	A black dog with a purple collar running .
+beam_size_1	30	a black dog with purple collar running
+beam_size_1	31	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	32	a black dog plays with a ball in the water .
+beam_size_1	33	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	34	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	35	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	36	The black dog is running though the water with a pink ball .
+beam_size_1	37	A brown and black dog on a leash is sniffed by a black and white dog .
+beam_size_1	38	A dog on a leash walks on the sidewalk while another dog follows .
+beam_size_1	39	A small dog on a leash is being smelled by another animal .
+beam_size_1	40	The black and white dog is sniffing the butt of the brown dog that is on a leash .
+beam_size_1	41	Two small dogs , one black-and-white and one brown-and-black , walk down the street .
+beam_size_1	42	A black and grey dog is playing with a blue ball outside .
+beam_size_1	43	A dog is playing with a ball on the grass .
+beam_size_1	44	a dog playing with a blue ball
+beam_size_1	45	A gray dog chases a blue soccer ball on the grass .
+beam_size_1	46	A graying dog is pushing a blue soccer ball downhill with his nose .
+beam_size_1	47	The two white dogs are playing in a field .
+beam_size_1	48	Two little dogs run in the field .
+beam_size_1	49	Two white dogs running
+beam_size_1	50	Two white dogs running in the grass together .
+beam_size_1	51	Two white dogs run through the grass .

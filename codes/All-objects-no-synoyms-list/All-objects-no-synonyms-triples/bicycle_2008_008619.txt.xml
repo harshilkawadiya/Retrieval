@@ -1,0 +1,59 @@
+Two African men carry a tied up animal in the basket of their bicycles . 
+two african man carry a tie up animal in the basket of they bicycle . 
+
+verb-prep-object	carry in basket
+object-prep-object	basket of bicycle
+attribute-object	african man
+attribute-object	tie animal
+object-verb-object	man carry animal
+object	basket
+object	bicycle
+object	man
+object	animal
+object	bicycle
+#####################################################
+Two black men with bikes . 
+two black man with bike . 
+
+object-prep-object	man with bike
+attribute-object	black man
+object	man
+object	bike
+object	bicycle
+#####################################################
+Two men are holding bicycles with goats in them . 
+two man be hold bicycle with goat in they . 
+
+object-prep-object	bicycle with goat
+object-verb-object	man hold bicycle
+object	bicycle
+object	goat
+object	man
+object	bicycle
+#####################################################
+Two men have animals in the baskets on their bicycles . 
+two man have animal in the basket on they bicycle . 
+
+object-prep-object	basket on bicycle
+object-prep-object	animal in basket
+object-verb-object	man have animal
+object	basket
+object	bicycle
+object	animal
+object	man
+object	bicycle
+#####################################################
+Two men with bikes standing together with dead goats in the baskets . 
+two man with bike stand together with dead goat in the basket . 
+
+object-prep-object	man with bike
+verb-prep-object	stand together_with goat
+object-prep-object	goat in basket
+attribute-object	dead goat
+object-verb	man stand
+object	man
+object	bike
+object	goat
+object	basket
+object	bicycle
+#####################################################

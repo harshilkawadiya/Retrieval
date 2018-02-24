@@ -1,0 +1,57 @@
+A brown race horse , jockey in green , and handler . 
+a brown race horse , jockey in green , and handler . 
+
+object-prep-object	person in jockey
+attribute-object	brown horse
+attribute-object	race horse
+object	handler
+object	person
+object	jockey
+object	horse
+object	handler
+object	horse
+#####################################################
+A horse jockey is mounted . 
+a horse jockey be mount . 
+
+attribute-object	horse person
+object-verb	person mount
+object	person
+object	jockey
+object	horse
+#####################################################
+A jockey rides a horse led by a walking man . 
+a jockey ride a horse lead by a walk man . 
+
+object-verb-object	person ride jockey
+attribute-object	walk person
+object	person
+object	jockey
+object	man
+object	horse
+#####################################################
+The horse and jockey enters the winner circle after the race . 
+the horse and jockey enter the winner circle after the race . 
+
+object-verb-object	horse enter circle
+object-verb-object	person enter jockey
+attribute-object	winner circle
+object	horse
+object	circle
+object	person
+object	jockey
+object	horse
+#####################################################
+The jockey sitting atop a brown horse smiles . 
+the jockey sit atop a brown horse smile . 
+
+verb-prep-object	sit atop horse
+object-prep-object	person atop jockey
+attribute-object	brown horse
+object-verb	person smile
+object-verb	person sit
+object	horse
+object	person
+object	jockey
+object	horse
+#####################################################

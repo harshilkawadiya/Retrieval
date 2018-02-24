@@ -1,0 +1,50 @@
+2	A dog lays on a mattress on the porch .
+3	A dog rolls on a mattress placed on a porch and scratches his back .
+4	A spotted dog rolling over on a pad placed on a porch .
+5	A white dog rolling on its back on a porch .
+6	The spotted dog rolls on its back .
+7	A dog lays on a mattress on the porch .
+8	A dog rolls on a mattress placed on a porch and scratches his back .
+9	A spotted dog rolling over on a pad placed on a porch .
+10	A white dog rolling on its back on a porch .
+11	The spotted dog rolls on its back .
+12	A dog lays on a mattress on the porch .
+13	A dog rolls on a mattress placed on a porch and scratches his back .
+14	A spotted dog rolling over on a pad placed on a porch .
+15	A white dog rolling on its back on a porch .
+16	The spotted dog rolls on its back .
+17	A dog lays on a mattress on the porch .
+18	A dog rolls on a mattress placed on a porch and scratches his back .
+19	A spotted dog rolling over on a pad placed on a porch .
+20	A white dog rolling on its back on a porch .
+21	The spotted dog rolls on its back .
+22	A dog lays on a mattress on the porch .
+23	A dog rolls on a mattress placed on a porch and scratches his back .
+24	A spotted dog rolling over on a pad placed on a porch .
+25	A white dog rolling on its back on a porch .
+26	The spotted dog rolls on its back .
+27	A dog lays on a mattress on the porch .
+28	A dog rolls on a mattress placed on a porch and scratches his back .
+29	A spotted dog rolling over on a pad placed on a porch .
+30	A white dog rolling on its back on a porch .
+31	The spotted dog rolls on its back .
+32	A dog lays on a mattress on the porch .
+33	A dog rolls on a mattress placed on a porch and scratches his back .
+34	A spotted dog rolling over on a pad placed on a porch .
+35	A white dog rolling on its back on a porch .
+36	The spotted dog rolls on its back .
+37	A dog lays on a mattress on the porch .
+38	A dog rolls on a mattress placed on a porch and scratches his back .
+39	A spotted dog rolling over on a pad placed on a porch .
+40	A white dog rolling on its back on a porch .
+41	The spotted dog rolls on its back .
+42	A dog lays on a mattress on the porch .
+43	A dog rolls on a mattress placed on a porch and scratches his back .
+44	A spotted dog rolling over on a pad placed on a porch .
+45	A white dog rolling on its back on a porch .
+46	The spotted dog rolls on its back .
+47	A dog lays on a mattress on the porch .
+48	A dog rolls on a mattress placed on a porch and scratches his back .
+49	A spotted dog rolling over on a pad placed on a porch .
+50	A white dog rolling on its back on a porch .
+51	The spotted dog rolls on its back .

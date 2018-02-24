@@ -1,0 +1,50 @@
+beam_size_1	2	A boy is diving through the air into a swimming pool .
+beam_size_1	3	A boy jumps into a pool on a bright sunny day .
+beam_size_1	4	a boy jumps into the blue pool water .
+beam_size_1	5	A smiling child dives into a pool .
+beam_size_1	6	The young boy is jumping into the pool on his belly .
+beam_size_1	7	Airplane emitting heavy red colored smoke .
+beam_size_1	8	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	9	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	10	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	11	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	12	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	13	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	14	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	15	Two people riding a bike are riding towards a stop sign .
+beam_size_1	16	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	17	A girl making a sad face standing in front of her tricycle
+beam_size_1	18	A little girl in a pink shirt about to cry
+beam_size_1	19	A little girl with mud on her face cries .
+beam_size_1	20	A young girl with dirt on her face and a red child 's bike is in the background .
+beam_size_1	21	The girl in a pink top is standing next to a red tricycle looking like she is about to cry .
+beam_size_1	22	A woman is laying on a striped couch on a grassy yard in a residential neighborhood .
+beam_size_1	23	A woman lays on a sofa in a yard .
+beam_size_1	24	A woman lies down on an old couch sitting on the grass .
+beam_size_1	25	Girl poses on couch on suburban lawn .
+beam_size_1	26	There is a couch sitting on grass with a girl in jeans and light brown hair on it .
+beam_size_1	27	A group of people are watching fireworks outside .
+beam_size_1	28	A group of people gathered to watch fireworks .
+beam_size_1	29	A small crowd in winter jackets stand in a snow field , looking at fireworks .
+beam_size_1	30	A small crowd stands watching a fireworks display .
+beam_size_1	31	People watch as something lights up the sky .
+beam_size_1	32	A girl jumping over a jump rope .
+beam_size_1	33	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	34	A girl wearing shorts plays jump rope .
+beam_size_1	35	A little girl is jumping over a yellow rope .
+beam_size_1	36	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	37	A man in a red baseball cap eats a chip .
+beam_size_1	38	a man wearing a red hat has a potato chip in his mouth
+beam_size_1	39	A man wearing sunglasses and a red cap putting a chip in his mouth .
+beam_size_1	40	A man wearing sunglasses and a red hat is opening his mouth wide and eating a chip .
+beam_size_1	41	A man with sunglasses on puts a chip in his mouth .
+beam_size_1	42	A kid walks on a snowy hill with their arms out .
+beam_size_1	43	a little boy plays in the snow .
+beam_size_1	44	A toddler in a red jacket is balancing on top of snow .
+beam_size_1	45	A young child wearing orange balances on a snowy ledge .
+beam_size_1	46	The little boy in black and orange walks through the snow .
+beam_size_1	47	A baby sits on a tire and holds a toy .
+beam_size_1	48	A little kid , with a red toy , is sitting on a tire .
+beam_size_1	49	Boy in pajamas , with red and yellow toy , seated on tire near plants .
+beam_size_1	50	Child holding plastic car sits on a tire .
+beam_size_1	51	The child is sitting on the street playing with a red toy .

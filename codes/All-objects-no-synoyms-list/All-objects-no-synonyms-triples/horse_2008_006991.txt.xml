@@ -1,0 +1,56 @@
+A jockey rides a brown and white horse in a dirt corral . 
+a jockey ride a brown and white horse in a dirt corral . 
+
+object-prep-object	horse in corral
+attribute-object	dirt corral
+attribute-object	brown horse
+attribute-object	white horse
+object-verb-object	jockey ride horse
+object	horse
+object	corral
+object	jockey
+object	horse
+#####################################################
+A person dressed in white on a brown horse . 
+a person dress in white on a brown horse . 
+
+object-prep-object	person on horse
+verb-prep-object	dress in white
+object-prep-object	person in white
+attribute-object	brown horse
+object-verb	person dress
+object	person
+object	horse
+object	white
+object	horse
+#####################################################
+A person rides a brown horse . 
+a person ride a brown horse . 
+
+attribute-object	brown horse
+object-verb-object	person ride horse
+object	horse
+object	person
+object	horse
+#####################################################
+A woman riding a brown horse . 
+a woman ride a brown horse . 
+
+attribute-object	brown horse
+object-verb-object	woman ride horse
+object	horse
+object	woman
+object	horse
+#####################################################
+Horse trotting through arena with person on back . 
+Horse trot through arena with person on back . 
+
+verb-prep-object	trot through arena
+object-prep-object	horse through arena
+object-prep-object	horse with person
+object-verb	horse trot
+object	arena
+object	horse
+object	person
+object	horse
+#####################################################

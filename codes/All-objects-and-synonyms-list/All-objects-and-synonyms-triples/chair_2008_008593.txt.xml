@@ -1,0 +1,81 @@
+A man is laying on the floor holding a baby up above him . 
+a man be lay on the floor hold a baby up above he . 
+
+object-verb	person lay
+verb-prep-object	lay on floor
+object-prep-object	person on man
+object-verb-object	person hold man
+verb-attribute	hold up
+object	person
+object	man
+object	floor
+object	chair
+#####################################################
+A small baby being held in the air by a woman laying on the floor . 
+a small baby be hold in the air by a woman lay on the floor . 
+
+verb-prep-object	lay on floor
+object-prep-object	person on woman
+verb-prep-object	hold in sky
+object-prep-object	baby in sky
+verb-prep-object	hold by person
+attribute-object	small baby
+object-verb	baby hold
+object-verb	person lay
+object	floor
+object	person
+object	woman
+object	sky
+object	air
+object	baby
+object	chair
+#####################################################
+A woman is laying down on the floor and holding a baby up above her . 
+a woman be lay down on the floor and hold a baby up above she . 
+
+verb-prep-object	lay on floor
+object-prep-object	person on woman
+object-verb	person lay
+object-verb-object	person hold woman
+verb-attribute	lay down
+object	floor
+object	person
+object	woman
+object	chair
+#####################################################
+A woman lying on the floor is holding a fair skinned baby above her with a large brown sofa in the background . 
+a woman lie on the floor be hold a fair skinned baby above she with a large brown sofa in the background . 
+
+object-verb-object	person hold woman
+object-verb	person lie
+verb-prep-object	lie on floor
+object-prep-object	person on woman
+attribute-object	fair baby
+attribute-object	skinned baby
+attribute-object	large sofa
+attribute-object	brown sofa
+object	person
+object	woman
+object	floor
+object	baby
+object	sofa
+object	chair
+#####################################################
+Woman lying on the floor holding naked baby in the air . 
+Woman lie on the floor hold naked baby in the air . 
+
+verb-prep-object	lie on floor
+object-prep-object	person on woman
+verb-prep-object	hold in sky
+object-prep-object	baby in sky
+attribute-object	naked baby
+object-verb-object	person hold woman
+object-verb	person lie
+object	floor
+object	person
+object	woman
+object	sky
+object	air
+object	baby
+object	chair
+#####################################################

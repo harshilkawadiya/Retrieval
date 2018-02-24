@@ -1,0 +1,51 @@
+A gray jet parked near the building . 
+a gray jet park near the building . 
+
+verb-prep-object	park near building
+object-prep-object	aeroplane near building
+attribute-object	gray aeroplane
+object-verb	aeroplane park
+object	building
+object	aeroplane
+object	aeroplane
+#####################################################
+A U.S. military jet fighter on display . 
+a U.S. military jet fighter on display . 
+
+object-prep-object	aeroplane on display
+attribute-object	military aeroplane
+attribute-object	u.s. aeroplane
+attribute-object	jet aeroplane
+object	aeroplane
+object	display
+object	aeroplane
+#####################################################
+A white airplane is parked on the cement . 
+a white airplane be park on the cement . 
+
+verb-prep-object	park on cement
+object-verb-object	aeroplane on cement
+attribute-object	white aeroplane
+object-verb	aeroplane park
+object	cement
+object	aeroplane
+object	aeroplane
+#####################################################
+A white plane on the runway . 
+a white plane on the runway . 
+
+object-prep-object	aeroplane on airport
+attribute-object	white aeroplane
+object	aeroplane
+object	airport
+object	aeroplane
+#####################################################
+Large gray parked airplane . 
+large gray park airplane . 
+
+attribute-object	large aeroplane
+attribute-object	gray aeroplane
+attribute-object	parked aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################

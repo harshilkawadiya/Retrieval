@@ -1,0 +1,67 @@
+A messy bedroom . 
+a messy bedroom . 
+
+attribute-object	messy bedroom
+object	bedroom
+object	tvmonitor
+#####################################################
+A pile of bunched-up sheets lay on top of a bed , next to some discarded clothes and a box . 
+a pile of bunched-up sheet lay on top of a bed , next to some discard clothes and a box . 
+
+object-verb	pile lay
+object-prep-object	pile of sheet
+attribute-object	bunched-up sheet
+verb-prep-object	lay on_top_of bed
+object-prep-object	pile on_top_of bed
+verb-prep-object	lay next_to clothes
+object-prep-object	pile next_to clothes
+verb-prep-object	lay next_to box
+object-prep-object	pile next_to box
+attribute-object	discard clothes
+object	pile
+object	sheet
+object	bed
+object	clothes
+object	box
+object	tvmonitor
+#####################################################
+A single bed with boxes and bedding piled on the bed and floor . 
+a single bed with box and bedding pile on the bed and floor . 
+
+object-prep-object	bed with box
+object-prep-object	bed with bedding
+attribute-object	single bed
+object-verb	bedding pile
+verb-prep-object	pile on bed
+object-prep-object	bedding on bed
+verb-prep-object	pile on floor
+object-prep-object	bedding on floor
+object	bed
+object	box
+object	bedding
+object	floor
+object	tvmonitor
+#####################################################
+An unkempt bedroom with boxes to the right . 
+a unkempt bedroom with box to the right . 
+
+object-prep-object	bedroom with box
+attribute-object	unkempt bedroom
+object	bedroom
+object	box
+object	tvmonitor
+#####################################################
+Messy room with unmade twin bed and moving boxes . 
+messy room with unmade twin bed and move box . 
+
+object-prep-object	room with bed
+object-prep-object	room with box
+attribute-object	messy room
+attribute-object	unmade bed
+attribute-object	twin bed
+attribute-object	move box
+object	room
+object	bed
+object	box
+object	tvmonitor
+#####################################################

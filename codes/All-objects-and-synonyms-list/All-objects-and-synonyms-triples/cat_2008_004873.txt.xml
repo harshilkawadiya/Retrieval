@@ -1,0 +1,62 @@
+A black and brown cat looks up with green eyes . 
+a black and brown cat look up with green eye . 
+
+verb-prep-object	look with eye
+object-prep-object	cat with eye
+attribute-object	black cat
+attribute-object	brown cat
+attribute-object	green eye
+object-verb	cat look
+verb-attribute	look up
+object	eye
+object	cat
+object	cat
+#####################################################
+A black cat is laying on a purple blanket . 
+a black cat be lay on a purple blanket . 
+
+verb-prep-object	lay on blanket
+object-prep-object	cat on blanket
+attribute-object	black cat
+attribute-object	purple blanket
+object-verb	cat lay
+object	blanket
+object	cat
+object	cat
+#####################################################
+A small cat laying on a knitted garment . 
+a small cat lay on a knit garment . 
+
+verb-prep-object	lay on garment
+object-prep-object	cat on garment
+attribute-object	small cat
+attribute-object	knit garment
+object-verb	cat lay
+object	garment
+object	cat
+object	cat
+#####################################################
+Black kitten lying down on blue blanket . 
+Black kitten lie down on blue blanket . 
+
+verb-prep-object	lie on blanket
+object-prep-object	cat on kitten
+attribute-object	blue blanket
+attribute-object	black cat
+object-verb	cat lie
+verb-attribute	lie down
+object	blanket
+object	cat
+object	kitten
+object	cat
+#####################################################
+The kitten looks curiously at the camera . 
+the kitten look curiously at the camera . 
+
+verb-prep-object	look at camera
+object-verb	cat look
+object	camera
+object	cat
+object	kitten
+object	cat
+#####################################################

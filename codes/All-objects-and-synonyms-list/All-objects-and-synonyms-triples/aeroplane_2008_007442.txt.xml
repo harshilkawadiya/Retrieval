@@ -1,0 +1,57 @@
+Two biplanes are flying side by side , emitting contrails . 
+two biplane be fly side by side , emit contrail . 
+
+verb-attribute	fly side_by_side
+object-verb	aeroplane fly
+object-verb-object	aeroplane emit contrail
+object	aeroplane
+object	contrail
+object	aeroplane
+#####################################################
+Two biplanes flying close together amidst lots of smoke . 
+two biplane fly close together amidst lot of smoke . 
+
+verb-prep-object	fly amidst smoke
+verb-attribute	fly close
+verb-attribute	fly together
+object-verb	aeroplane fly
+object	smoke
+object	aeroplane
+object	aeroplane
+#####################################################
+Two planes are leaving smoky trails in the sky . 
+two plane be leave smoky trail in the sky . 
+
+object-prep-object	trail in sky
+attribute-object	smoky trail
+object-verb-object	aeroplane leave trail
+object	trail
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################
+Two stunt airplanes with their pilots standing on the wings . 
+two stunt airplane with they pilot stand on the wing . 
+
+verb-prep-object	stand on wing
+object-prep-object	person on wing
+object-prep-object	aeroplane with person
+attribute-object	stunt aeroplane
+object-verb	person stand
+object	wing
+object	person
+object	aeroplane
+object	aeroplane
+#####################################################
+Two stunt biplanes with walkers and smoke plumes . 
+two stunt biplane with walker and smoke plume . 
+
+object-prep-object	aeroplane with walker
+object-prep-object	aeroplane with plume
+attribute-object	stunt aeroplane
+attribute-object	smoke plume
+object	aeroplane
+object	walker
+object	plume
+object	aeroplane
+#####################################################

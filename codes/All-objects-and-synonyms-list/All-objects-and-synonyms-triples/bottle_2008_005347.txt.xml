@@ -1,0 +1,62 @@
+A closet door stands open next to a marble-top counter . 
+a closet door stand open next to a marble-top counter . 
+
+verb-prep-object	stand next_to counter
+object-verb	door stand
+verb-attribute	stand open
+attribute-object	marble-top counter
+attribute-object	closet door
+object	counter
+object	door
+object	bottle
+#####################################################
+A kitchen sink and countertop with bowls on shelves . 
+a kitchen sink and countertop with bowl on shelf . 
+
+object-prep-object	bowl on shelf
+object-prep-object	sink with bowl
+object-prep-object	countertop with bowl
+attribute-object	kitchen sink
+object	bowl
+object	shelf
+object	sink
+object	countertop
+object	bottle
+#####################################################
+A kitchen with granite countertops and tiled flooring . 
+a kitchen with granite countertop and tiled flooring . 
+
+object-prep-object	kitchen with countertop
+object-prep-object	kitchen with flooring
+attribute-object	tiled flooring
+attribute-object	granite countertop
+object	kitchen
+object	countertop
+object	flooring
+object	bottle
+#####################################################
+A small kitchen with items stacked on the shelves and on the counter . 
+a small kitchen with item stack on the shelf and on the counter . 
+
+object-prep-object	kitchen with item
+verb-prep-object	stack on shelf
+object-prep-object	item on shelf
+verb-prep-object	stack on counter
+object-prep-object	item on counter
+attribute-object	small kitchen
+object-verb	item stack
+object	kitchen
+object	item
+object	shelf
+object	counter
+object	bottle
+#####################################################
+A small tiled kitchen area . 
+a small tiled kitchen area . 
+
+attribute-object	small area
+attribute-object	tiled area
+attribute-object	kitchen area
+object	area
+object	bottle
+#####################################################

@@ -1,0 +1,60 @@
+a room with a red ottoman overlooking a window . 
+a room with a red ottoman overlook a window . 
+
+object-prep-object	room with ottoman
+attribute-object	red ottoman
+object-verb-object	room overlook window
+object	room
+object	ottoman
+object	window
+object	diningtable
+#####################################################
+A room with christmas lights and furniture covered in bright cloths . 
+a room with christmas light and furniture cover in bright cloth . 
+
+object-prep-object	room with light
+object-prep-object	room with furniture
+verb-prep-object	cover in cloth
+object-prep-object	room in cloth
+attribute-object	bright cloth
+attribute-object	christmas light
+object-verb	room cover
+object	room
+object	light
+object	furniture
+object	cloth
+object	diningtable
+#####################################################
+A view outside looking outside a window . 
+a view outside look outside a window . 
+
+object	window
+object	window
+object	diningtable
+#####################################################
+Furniture is covered by sheets in a room with a view of the street . 
+Furniture be cover by sheet in a room with a view of the street . 
+
+object-prep-object	sheet in room
+verb-prep-object	cover by sheet
+object-verb	furniture cover
+object	sheet
+object	room
+object	furniture
+object	diningtable
+#####################################################
+Furniture pieces covered with sheets are near a window with Christmas lights . 
+Furniture piece cover with sheet be near a window with Christmas light . 
+
+verb-prep-object	cover with sheet
+object-prep-object	window with light
+object-prep-object	piece near window
+attribute-object	furniture piece
+attribute-object	christmas light
+object-verb	piece cover
+object	sheet
+object	window
+object	light
+object	piece
+object	diningtable
+#####################################################

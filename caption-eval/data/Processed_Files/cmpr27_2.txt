@@ -1,0 +1,50 @@
+beam_size_1	2	A snowboarder is doing a flip over a mound of snow .
+beam_size_1	3	A snowboarder is in midair doing a trick .
+beam_size_1	4	somebody in the air on a board
+beam_size_1	5	Someone on a rooftop jumping on some sort of a board caught in midair .
+beam_size_1	6	There is a person on a snowboard up high in the air .
+beam_size_1	7	A girl in a black coat next to some school kids .
+beam_size_1	8	Four teenagers are standing at the foot of some steps by a brick wall .
+beam_size_1	9	Kids are waiting at the bottom of a staircase attached to a brick building .
+beam_size_1	10	Peoople stand outside a building near a street .
+beam_size_1	11	Teenagers congregate outside a brick building
+beam_size_1	12	A brown dog is sitting on a cobbled pavement .
+beam_size_1	13	A brown god relaxes on a brick sidewalk .
+beam_size_1	14	A dog lies down on a cobblestone street .
+beam_size_1	15	A yellow dog is lying near where people are walking .
+beam_size_1	16	The dog is lying on the cobblestone street .
+beam_size_1	17	A group of basketball players wearing yellow and green reach for a ball .
+beam_size_1	18	Basketball players shoot for a goal during a game .
+beam_size_1	19	Four men jumping in a basketball game
+beam_size_1	20	In this picture all men from both basketball teams with red and green jerseys are jumping .
+beam_size_1	21	The man on the yellow basketball team tries to score while the men on the opposing team try to block his shot .
+beam_size_1	22	Children participate in a sport on a green field while in uniforms .
+beam_size_1	23	The young soccer player enjoys the game .
+beam_size_1	24	Two girls in soccer strips are playing on a sports field .
+beam_size_1	25	Two girls play on a fenced in field .
+beam_size_1	26	Two girls wearing black and white uniforms run down a grassy field .
+beam_size_1	27	Three women standing on a city street .
+beam_size_1	28	Three women walk down the street .
+beam_size_1	29	Two girls and a woman walking on the sidewalk
+beam_size_1	30	Two girls in bright green boots and a woman are together .
+beam_size_1	31	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	32	A dog chases a stuffed animal attached to a string .
+beam_size_1	33	A white and black dog chases after a decoy-animal on a string .
+beam_size_1	34	A white dog is chasing a stuffed animal being pulled on a string .
+beam_size_1	35	The white dog is chasing a toy that is attached to a string across the grass .
+beam_size_1	36	The white dog is running in the green grass .
+beam_size_1	37	A person in a black wetsuit is surfing in the ocean with a wave coming down .
+beam_size_1	38	A person is surfing .
+beam_size_1	39	A surfer in all black is riding a wave .
+beam_size_1	40	A surfer rides the waves .
+beam_size_1	41	A woman in a black wetsuit surfs in bad weather .
+beam_size_1	42	A man in black shorts is stretching out his leg .
+beam_size_1	43	A man practicing a high kick on the cement near the grass .
+beam_size_1	44	A young , fit man wearing short does a high right kick in the air .
+beam_size_1	45	A young man practices a martial art kicking skill in front of his home in the early morning .
+beam_size_1	46	A young man wearing shorts and no shirt is high kicking as water flies from his clothing .
+beam_size_1	47	A distant person is climbing up a very sheer mountain .
+beam_size_1	48	A panoramic distance view of a rock climber going up a steep mountain wall .
+beam_size_1	49	person rock climbing
+beam_size_1	50	There is a person scaling a very steep rock wall .
+beam_size_1	51	This person is climbing the side of a mountain .

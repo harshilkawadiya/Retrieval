@@ -1,0 +1,51 @@
+A passenger train coming into a station . 
+a passenger train come into a station . 
+
+verb-prep-object	come into station
+attribute-object	passenger train
+object-verb	train come
+object	station
+object	train
+object	train
+#####################################################
+A subway train pulling into the station . 
+a subway train pull into the station . 
+
+verb-prep-object	pull into station
+attribute-object	subway train
+object-verb	train pull
+object	station
+object	train
+object	train
+#####################################################
+A train on drinks pulling into a station . 
+a train on drink pull into a station . 
+
+object-prep-object	train on drink
+verb-prep-object	pull into station
+object-verb	train pull
+object	train
+object	drink
+object	station
+object	train
+#####################################################
+Train going down the tracks through a tunnel . 
+train go down the track through a tunnel . 
+
+verb-prep-object	go through tunnel
+object-prep-object	train through tunnel
+object-verb-object	train go track
+verb-attribute	go down
+object	tunnel
+object	train
+object	track
+object	train
+#####################################################
+Train in a station . 
+train in a station . 
+
+object-prep-object	train in station
+object	train
+object	station
+object	train
+#####################################################

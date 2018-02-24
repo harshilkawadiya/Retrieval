@@ -1,0 +1,69 @@
+A man and woman with helmets on brown horses at a farm . 
+a man and woman with helmet on brown horse at a farm . 
+
+object-prep-object	man at farm
+object-prep-object	woman at farm
+object-prep-object	man with helmet
+object-prep-object	woman with helmet
+object-prep-object	man on horse
+object-prep-object	woman on horse
+attribute-object	brown horse
+object	man
+object	farm
+object	woman
+object	helmet
+object	horse
+object	horse
+#####################################################
+an Asian man with glasses riding on a horse and a fat woman riding on another horse to the right . 
+a asian man with glass ride on a horse and a fat woman ride on another horse to the right . 
+
+object-verb	man ride
+object-prep-object	man with glass
+verb-prep-object	ride on horse
+object-prep-object	man on horse
+verb-prep-object	ride on horse
+attribute-object	asian man
+attribute-object	fat woman
+object-verb	woman ride
+object	man
+object	glass
+object	horse
+object	woman
+object	horse
+#####################################################
+Smiling kid sitting on a horse . 
+smile kid sit on a horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	kid on horse
+attribute-object	smile kid
+object-verb	kid sit
+object	horse
+object	kid
+object	horse
+#####################################################
+The profile of a smiling boy on a horse and a woman on a horse in the background . 
+the profile of a smile boy on a horse and a woman on a horse in the background . 
+
+object-prep-object	boy on horse
+object-prep-object	woman on horse
+attribute-object	smile boy
+object	boy
+object	horse
+object	woman
+object	horse
+#####################################################
+Two people sitting on horses in a stable yard . 
+two people sit on horse in a stable yard . 
+
+verb-prep-object	sit on horse
+object-prep-object	people on horse
+object-prep-object	horse in yard
+attribute-object	stable yard
+object-verb	people sit
+object	horse
+object	people
+object	yard
+object	horse
+#####################################################

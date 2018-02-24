@@ -1,0 +1,62 @@
+A black dog and two sheep running through the grass . 
+a black dog and two sheep run through the grass . 
+
+verb-prep-object	run through grass
+object-prep-object	dog through grass
+object-prep-object	sheep through grass
+attribute-object	black dog
+object-verb	dog run
+object-verb	sheep run
+object	grass
+object	dog
+object	sheep
+object	dog
+#####################################################
+A black dog is running with two sheep in a grassy field . 
+a black dog be run with two sheep in a grassy field . 
+
+verb-prep-object	run with sheep
+object-prep-object	dog with sheep
+object-prep-object	sheep in field
+attribute-object	black dog
+attribute-object	grassy field
+object-verb	dog run
+object	sheep
+object	dog
+object	field
+object	dog
+#####################################################
+A dog herding two sheep . 
+a dog herd two sheep . 
+
+object-verb-object	dog herd sheep
+object	dog
+object	sheep
+object	dog
+#####################################################
+A sheep dog and two sheep walking in a field . 
+a sheep dog and two sheep walking in a field . 
+
+attribute-object	sheep dog
+object-verb	dog walk
+object-verb	sheep walk
+verb-prep-object	walk in field
+object-prep-object	dog in field
+object-prep-object	sheep in field
+object	dog
+object	sheep
+object	field
+object	dog
+#####################################################
+Black dog herding sheep in grassy field . 
+Black dog herd sheep in grassy field . 
+
+object-prep-object	sheep in field
+attribute-object	grassy field
+object-verb-object	dog herd sheep
+attribute-object	black dog
+object	sheep
+object	field
+object	dog
+object	dog
+#####################################################

@@ -1,0 +1,61 @@
+Five cows are grazing beside the road . 
+five cow be grazing beside the road . 
+
+verb-prep-object	graze beside road
+object-prep-object	cow beside road
+object-verb	cow graze
+object	road
+object	cow
+object	car
+#####################################################
+Five cows grazing on a patch of grass between two roadways . 
+five cow grazing on a patch of grass between two roadway . 
+
+object-verb	cow graze
+object-prep-object	grass between roadway
+verb-prep-object	graze on patch
+object-prep-object	patch of grass
+object	cow
+object	grass
+object	roadway
+object	patch
+object	car
+#####################################################
+Several bulls are grazing on the grass in between two roads . 
+several bull be grazing on the grass in between two road . 
+
+verb-prep-object	graze on grass
+object-prep-object	cow on bull
+object-prep-object	grass in road
+attribute-object	several cow
+object-verb	cow graze
+object	grass
+object	cow
+object	bull
+object	road
+object	car
+#####################################################
+Several cows are grazing along the roadside . 
+several cow be grazing along the roadside . 
+
+verb-prep-object	graze along roadside
+object-prep-object	cow along roadside
+attribute-object	several cow
+object-verb	cow graze
+object	roadside
+object	cow
+object	car
+#####################################################
+Several cows grazing on the median by the road . 
+several cow grazing on the median by the road . 
+
+verb-prep-object	graze on median
+verb-prep-object	graze by road
+object-prep-object	cow by road
+attribute-object	several cow
+object-verb	cow graze
+object	median
+object	road
+object	cow
+object	car
+#####################################################

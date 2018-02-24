@@ -1,0 +1,68 @@
+A mother reading with her daughter and dog . 
+a mother reading with she daughter and dog . 
+
+verb-prep-object	read with daughter
+verb-prep-object	read with dog
+object-prep-object	mother with daughter
+object-prep-object	mother with dog
+object-verb	mother read
+object	daughter
+object	dog
+object	mother
+object	dog
+#####################################################
+A mother reads to her daughter with the dog looking on . 
+a mother read to she daughter with the dog look on . 
+
+object-prep-object	mother with dog
+verb-prep-object	read to daughter
+object-verb	mother read
+object-verb	dog look
+object	mother
+object	dog
+object	daughter
+object	dog
+#####################################################
+Mom reading to daughter and dog . 
+mom reading to daughter and dog . 
+
+verb-prep-object	read to daughter
+verb-prep-object	read to dog
+object-verb	mom read
+object	daughter
+object	dog
+object	mom
+object	dog
+#####################################################
+Older woman reading a book to young girl in pink jacket . 
+older woman read a book to young girl in pink jacket . 
+
+verb-prep-object	read to girl
+object-prep-object	girl in jacket
+attribute-object	older woman
+attribute-object	young girl
+attribute-object	pink jacket
+object-verb-object	woman read book
+object	girl
+object	jacket
+object	woman
+object	book
+object	dog
+#####################################################
+Woman , girl , and dog reading on a blue sofa . 
+Woman , girl , and dog reading on a blue sofa . 
+
+verb-prep-object	read on sofa
+object-prep-object	woman on sofa
+object-prep-object	girl on sofa
+object-prep-object	dog on sofa
+attribute-object	blue sofa
+object-verb	woman read
+object-verb	girl read
+object-verb	dog read
+object	sofa
+object	woman
+object	girl
+object	dog
+object	dog
+#####################################################

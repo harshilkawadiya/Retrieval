@@ -1,0 +1,58 @@
+A plant growing in a pot . 
+a plant grow in a pot . 
+
+verb-prep-object	grow in pottedplant
+object-prep-object	pottedplant in pottedplant
+object-verb	pottedplant grow
+object	pottedplant
+object	pot
+object	plant
+object	pottedplant
+#####################################################
+A plant sprouting . 
+a plant sprout . 
+
+object-verb	pottedplant sprout
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+Small plant in dirt with a couple of new leaves . 
+small plant in dirt with a couple of new leaf . 
+
+object-prep-object	pottedplant with plant
+object-prep-object	pottedplant in dirty
+attribute-object	small pottedplant
+attribute-object	new leaf
+object	pottedplant
+object	plant
+object	dirty
+object	leaf
+object	pottedplant
+#####################################################
+The green leaved plant is growing in the dirt . 
+the green leaved plant be grow in the dirt . 
+
+verb-prep-object	grow in dirty
+object-prep-object	pottedplant in dirty
+attribute-object	green pottedplant
+attribute-object	leaved pottedplant
+object-verb	pottedplant grow
+object	dirty
+object	dirt
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+Two bamboo shoots grow in a turquoise bowl . 
+two bamboo shoot grow in a turquoise bowl . 
+
+verb-prep-object	grow in bowl
+object-prep-object	shoot in bowl
+attribute-object	bamboo shoot
+attribute-object	turquoise bowl
+object-verb	shoot grow
+object	bowl
+object	shoot
+object	pottedplant
+#####################################################

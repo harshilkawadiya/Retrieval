@@ -1,0 +1,67 @@
+A city street with buses in the distance . 
+a city street with bus in the distance . 
+
+object-prep-object	road with street
+attribute-object	city road
+object	road
+object	street
+object	bus
+#####################################################
+A paved road in an urban setting . 
+a paved road in a urban setting . 
+
+object-prep-object	road in setting
+attribute-object	paved road
+attribute-object	urban setting
+object	road
+object	setting
+object	bus
+#####################################################
+A wide street with a person standing on the sidewalk waiting for a bus . 
+a wide street with a person stand on the sidewalk wait for a bus . 
+
+object-prep-object	road with street
+verb-prep-object	stand on sidewalk
+object-prep-object	person on sidewalk
+verb-prep-object	wait for bus
+attribute-object	wide road
+object-verb	person stand
+object-verb	person wait
+object	road
+object	street
+object	sidewalk
+object	person
+object	bus
+object	bus
+#####################################################
+Empty downtown road in the winter with pedestrians on the sidewalk . 
+empty downtown road in the winter with pedestrian on the sidewalk . 
+
+object-prep-object	road with person
+object-prep-object	person on pedestrian
+object-prep-object	road in winter
+attribute-object	empty road
+attribute-object	downtown road
+object	road
+object	person
+object	pedestrian
+object	winter
+object	bus
+#####################################################
+Several people standing on sidewalk on side of empty street . 
+several people stand on sidewalk on side of empty street . 
+
+verb-prep-object	stand on sidewalk
+object-prep-object	person on people
+verb-prep-object	stand on road
+object-prep-object	person on road
+attribute-object	several person
+attribute-object	empty road
+object-verb	person stand
+object	sidewalk
+object	person
+object	people
+object	road
+object	street
+object	bus
+#####################################################

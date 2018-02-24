@@ -1,0 +1,57 @@
+people riding tandem bicycle . 
+people ride tandem bicycle . 
+
+object-verb-object	people ride bicycle
+attribute-object	tandem bicycle
+object	people
+object	bicycle
+object	bicycle
+#####################################################
+Spectators watch racers on a tandem bike . 
+spectator watch racer on a tandem bike . 
+
+object-prep-object	racer on bike
+object-verb-object	spectator watch racer
+attribute-object	tandem bike
+object	racer
+object	bike
+object	spectator
+object	bicycle
+#####################################################
+Two men on a yellow tandem bicycle rest at the curb . 
+two man on a yellow tandem bicycle rest at the curb . 
+
+object-verb	man rest
+object-prep-object	man at curb
+verb-prep-object	rest at curb
+object-prep-object	man on bicycle
+attribute-object	yellow bicycle
+attribute-object	tandem bicycle
+object	man
+object	curb
+object	bicycle
+object	bicycle
+#####################################################
+Two people riding a tandem bicycle while wearing lira racing outfits . 
+two people ride a tandem bicycle while wear lira race outfit . 
+
+object-verb-object	people wear outfit
+attribute-object	lira outfit
+attribute-object	race outfit
+object-verb-object	people ride bicycle
+attribute-object	tandem bicycle
+object	people
+object	outfit
+object	bicycle
+object	bicycle
+#####################################################
+Two prop-leg ride a yellow tandem bike while someone helps . 
+two prop-leg ride a yellow tandem bike while someone help . 
+
+object-verb-object	prop-leg ride bike
+attribute-object	yellow bike
+attribute-object	tandem bike
+object	prop-leg
+object	bike
+object	bicycle
+#####################################################

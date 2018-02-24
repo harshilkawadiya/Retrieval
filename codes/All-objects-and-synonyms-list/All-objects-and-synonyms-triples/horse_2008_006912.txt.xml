@@ -1,0 +1,59 @@
+A horse rider is riding a white horse . 
+a horse rider be ride a white horse . 
+
+attribute-object	white horse
+object-verb-object	person ride rider
+attribute-object	horse person
+object	horse
+object	person
+object	rider
+object	horse
+#####################################################
+a man in black riding a white horse . 
+a man in black ride a white horse . 
+
+object-prep-object	person in man
+attribute-object	white horse
+object-verb-object	person ride man
+object	person
+object	man
+object	horse
+object	horse
+#####################################################
+A man in riding gear on a gray horse . 
+a man in ride gear on a gray horse . 
+
+object-prep-object	person on man
+object-prep-object	person in man
+attribute-object	ride gear
+attribute-object	gray horse
+object	person
+object	man
+object	gear
+object	horse
+object	horse
+#####################################################
+A man rides a prancing horse . 
+a man ride a prance horse . 
+
+attribute-object	prance horse
+object-verb-object	person ride man
+object	horse
+object	person
+object	man
+object	horse
+#####################################################
+A show jumping horse and rider galloping around an arena . 
+a show jump horse and rider gallop around a arena . 
+
+verb-prep-object	gallop around arena
+attribute-object	show horse
+attribute-object	jump horse
+object-verb	horse gallop
+object-verb	person gallop
+object	arena
+object	horse
+object	person
+object	rider
+object	horse
+#####################################################

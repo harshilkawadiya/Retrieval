@@ -1,0 +1,59 @@
+A white limo is parked on the side of a street . 
+a white limo be park on the side of a street . 
+
+verb-prep-object	park on street
+object-prep-object	limo on street
+attribute-object	white limo
+object-verb	limo park
+object	street
+object	limo
+object	car
+#####################################################
+A white limousine decorated for a wedding . 
+a white limousine decorate for a wedding . 
+
+verb-prep-object	decorate for wedding
+attribute-object	white limousine
+object-verb	limousine decorate
+object	wedding
+object	limousine
+object	car
+#####################################################
+A white limo with tinted windows is parked . 
+a white limo with tinted window be park . 
+
+object-prep-object	limo with window
+attribute-object	white limo
+attribute-object	tinted window
+object-verb	limo park
+object	limo
+object	window
+object	car
+#####################################################
+A white luxury car with a window insignia parked on a street . 
+a white luxury car with a window insignia park on a street . 
+
+object-prep-object	car with insignia
+verb-prep-object	park on street
+object-prep-object	car on street
+attribute-object	white car
+attribute-object	luxury car
+attribute-object	window insignia
+object-verb	car park
+object	car
+object	insignia
+object	street
+object	car
+#####################################################
+Long white car parked on the street . 
+Long white car park on the street . 
+
+verb-prep-object	park on street
+object-prep-object	car on street
+attribute-object	long car
+attribute-object	white car
+object-verb	car park
+object	street
+object	car
+object	car
+#####################################################

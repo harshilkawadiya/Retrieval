@@ -1,0 +1,48 @@
+Back of sticker-covered street signs . 
+back of sticker-covered street sign . 
+
+attribute-object	sticker-covered sign
+attribute-object	street sign
+object	sign
+object	car
+#####################################################
+Street sign on the side of an empty street . 
+Street sign on the side of a empty street . 
+
+object-prep-object	sign on road
+attribute-object	empty road
+attribute-object	street sign
+object	sign
+object	road
+object	street
+object	car
+#####################################################
+The back of a sign with stickers on . 
+the back of a sign with sticker on . 
+
+object-prep-object	sign with sticker
+object	sign
+object	sticker
+object	car
+#####################################################
+the back of a stop sign with many stickers on it . 
+the back of a stop sign with many sticker on it . 
+
+object-prep-object	sign with sticker
+attribute-object	many sticker
+attribute-object	stop sign
+object	sign
+object	sticker
+object	car
+#####################################################
+The back of the stop sign is adorned with stickers . 
+the back of the stop sign be adorn with sticker . 
+
+verb-prep-object	adorn with sticker
+object-prep-object	sign with sticker
+attribute-object	stop sign
+object-verb	sign adorn
+object	sticker
+object	sign
+object	car
+#####################################################

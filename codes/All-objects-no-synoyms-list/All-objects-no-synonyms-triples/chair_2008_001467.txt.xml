@@ -1,0 +1,67 @@
+A child eating a cookie at a lemonade stand . 
+a child eat a cookie at a lemonade stand . 
+
+verb-prep-object	eat at stand
+object-prep-object	child at stand
+object-verb-object	child eat cookie
+attribute-object	lemonade stand
+object	stand
+object	child
+object	cookie
+object	chair
+#####################################################
+A Lemonade stand is manned by a blonde child with a cookie . 
+a Lemonade stand be man by a blonde child with a cookie . 
+
+object-prep-object	child with cookie
+verb-prep-object	man by child
+attribute-object	blonde child
+attribute-object	lemonade stand
+object-verb	stand man
+object	child
+object	cookie
+object	stand
+object	chair
+#####################################################
+A small child at a lemonade and cookie stand on a city corner . 
+a small child at a lemonade and cookie stand on a city corner . 
+
+object-prep-object	child at stand
+verb-prep-object	stand on corner
+object-prep-object	child on corner
+attribute-object	small child
+attribute-object	city corner
+object-verb	child stand
+attribute-object	lemonade stand
+attribute-object	cookie stand
+object	child
+object	stand
+object	corner
+object	chair
+#####################################################
+A small child eating a cookie while standing next to a lemonade stand . 
+a small child eat a cookie while stand next to a lemonade stand . 
+
+verb-prep-object	stand next_to stand
+object-prep-object	child next_to stand
+attribute-object	small child
+object-verb-object	child eat cookie
+object-verb	child stand
+attribute-object	lemonade stand
+object	stand
+object	child
+object	cookie
+object	chair
+#####################################################
+Young child behind lemonade stand eating a cookie . 
+young child behind lemonade stand eat a cookie . 
+
+object-prep-object	child behind stand
+attribute-object	young child
+attribute-object	lemonade stand
+object-verb-object	child eat cookie
+object	child
+object	stand
+object	cookie
+object	chair
+#####################################################

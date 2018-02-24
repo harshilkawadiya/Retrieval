@@ -1,0 +1,49 @@
+A row of brightly colored motorcycles . 
+a row of brightly color motorcycle . 
+
+attribute-object	brightly motorcycle
+attribute-object	color motorcycle
+object	motorcycle
+object	motorbike
+#####################################################
+A row of motorcycles is parked outside of a row of stores . 
+a row of motorcycle be park outside of a row of store . 
+
+verb-prep-object	park outside_of store
+object-prep-object	motorcycle outside_of store
+object-verb	motorcycle park
+object	store
+object	motorcycle
+object	motorbike
+#####################################################
+A row of parked motorbikes . 
+a row of park motorbike . 
+
+attribute-object	park motorbike
+object	motorbike
+object	motorbike
+#####################################################
+Brightly colored motorcycles are parked in a line . 
+brightly color motorcycle be park in a line . 
+
+verb-prep-object	park in line
+object-prep-object	motorcycle in line
+attribute-object	brightly motorcycle
+attribute-object	color motorcycle
+object-verb	motorcycle park
+object	line
+object	motorcycle
+object	motorbike
+#####################################################
+Motorcycles parked in town with men gathered together in the background . 
+Motorcycles park in town with man gather together in the background . 
+
+verb-prep-object	park in town
+object-prep-object	motorcycles in town
+object-verb	motorcycles park
+object-verb	man gather
+object	town
+object	motorcycles
+object	man
+object	motorbike
+#####################################################

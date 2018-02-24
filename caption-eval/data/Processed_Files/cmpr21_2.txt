@@ -1,0 +1,50 @@
+beam_size_1	2	A little boy takes a picture at the park .
+beam_size_1	3	A young boy is looking through binoculars at a playground .
+beam_size_1	4	A young boy wearing a blue and red hat is using a camera near a swing set .
+beam_size_1	5	Little boy takes photos outside .
+beam_size_1	6	The little boy is taking a picture with the camera .
+beam_size_1	7	A black and white dog catches flying discs thrown by a man .
+beam_size_1	8	a black a white dog catching Frisbees thrown by a man in a white shirt
+beam_size_1	9	A dog jumps for a Frisbee at the Purina Incredible Dog Challenge .
+beam_size_1	10	A man is throwing freesbies into the air and the border collie is catching them in the air .
+beam_size_1	11	Man in white shirt tossing Frisbee for black and white dog who has a white Frisbee in its mouth .
+beam_size_1	12	A little boy runs away from the approaching waves of the ocean .
+beam_size_1	13	A little girl runs across the wet beach .
+beam_size_1	14	A little girl runs on the wet sand near the ocean .
+beam_size_1	15	A young girl runs across a wet beach with the ocean in the background .
+beam_size_1	16	Child running on the beach .
+beam_size_1	17	A boy holding a large foam wand waves it near a swimming pool .
+beam_size_1	18	A boy plays with a foam noodle toy by a pool .
+beam_size_1	19	a boy plays with a noodle by the pool .
+beam_size_1	20	A child with a water noodle .
+beam_size_1	21	A little boy wearing blue shorts is holding a yellow noodle over a pool .
+beam_size_1	22	A man is skiing down a mountain .
+beam_size_1	23	A person dressed in red and grey is skiing down a snowy slope .
+beam_size_1	24	a skier is throwing up snow as he skis off piste .
+beam_size_1	25	A skier skiing downhill in a cloud of snow .
+beam_size_1	26	A skier wearing white sunglasses is skiing down a snowy mountain very fast .
+beam_size_1	27	A girl in a black coat next to some school kids .
+beam_size_1	28	Four teenagers are standing at the foot of some steps by a brick wall .
+beam_size_1	29	Kids are waiting at the bottom of a staircase attached to a brick building .
+beam_size_1	30	Peoople stand outside a building near a street .
+beam_size_1	31	Teenagers congregate outside a brick building
+beam_size_1	32	a brown and white dog chasing a ball on some grass .
+beam_size_1	33	a brown and white dog has is playing with a white ball on the grass .
+beam_size_1	34	A collie plays with a white ball in a field of green grass .
+beam_size_1	35	A orange dog playing with a white ball on green grass .
+beam_size_1	36	A small brown dog paws at a white ball
+beam_size_1	37	A golden retreiver standing outside in the snow with a person standing with skis and poles .
+beam_size_1	38	A man and a dog outside in a snow storm .
+beam_size_1	39	A person is standing on skis in the snow with a dog .
+beam_size_1	40	Person with skis and a dog are standing in the snow .
+beam_size_1	41	The man is skiing in the snow with a large brown dog .
+beam_size_1	42	A person in a black wetsuit is surfing in the ocean with a wave coming down .
+beam_size_1	43	A person is surfing .
+beam_size_1	44	A surfer in all black is riding a wave .
+beam_size_1	45	A surfer rides the waves .
+beam_size_1	46	A woman in a black wetsuit surfs in bad weather .
+beam_size_1	47	A man performing a skateboard jump off the top of a ramp .
+beam_size_1	48	A skateboarder becomes airborne at the top of a black and yellow ramp .
+beam_size_1	49	A skateboarder does a trick on a black and yellow striped ramp .
+beam_size_1	50	Skateboarder flying over ramp outside .
+beam_size_1	51	This man is doing a stunt on a skateboard outdoors .

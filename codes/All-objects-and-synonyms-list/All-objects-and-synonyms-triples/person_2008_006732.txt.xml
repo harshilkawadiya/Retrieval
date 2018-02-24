@@ -1,0 +1,70 @@
+A baby sits in a car seat looking upward . 
+a baby sit in a car seat look upward . 
+
+object-verb	baby sit
+verb-prep-object	sit in seat
+object-prep-object	baby in seat
+attribute-object	car seat
+verb-attribute	look upward
+object-verb	baby look
+object	baby
+object	seat
+object	person
+#####################################################
+A baby strapped into a car seat . 
+a baby strap into a car seat . 
+
+verb-prep-object	strap into seat
+object-prep-object	baby into seat
+attribute-object	car seat
+object-verb	baby strap
+object	seat
+object	baby
+object	person
+#####################################################
+A small baby is buckled into a plaid car seat . 
+a small baby be buckle into a plaid car seat . 
+
+verb-prep-object	buckle into seat
+attribute-object	small baby
+attribute-object	plaid seat
+attribute-object	car seat
+object-verb	baby buckle
+object	seat
+object	baby
+object	person
+#####################################################
+A small baby sitting in a car seat . 
+a small baby sit in a car seat . 
+
+verb-prep-object	sit in seat
+object-prep-object	baby in seat
+attribute-object	small baby
+attribute-object	car seat
+object-verb	baby sit
+object	seat
+object	baby
+object	person
+#####################################################
+A small infant dressed in yellow and white strapped into a car seat carrier . 
+a small infant dress in yellow and white strap into a car seat carrier . 
+
+attribute-object	small person
+object-verb	person dress
+verb-prep-object	dress in yellow
+verb-prep-object	dress in white
+object-prep-object	person in infant
+object-prep-object	person in infant
+object-verb	person strap
+verb-prep-object	strap into boat
+object-prep-object	person into boat
+attribute-object	car boat
+attribute-object	seat boat
+object	person
+object	infant
+object	yellow
+object	white
+object	boat
+object	carrier
+object	person
+#####################################################

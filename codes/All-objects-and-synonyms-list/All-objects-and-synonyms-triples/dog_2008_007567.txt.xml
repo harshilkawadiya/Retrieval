@@ -1,0 +1,72 @@
+An elderly woman poses beside a small child dressed as a bumble-bee on Halloween . 
+a elderly woman pose beside a small child dress as a bumble-bee on Halloween . 
+
+verb-prep-object	dress as bumble-bee
+verb-prep-object	pose beside person
+object-prep-object	person beside person
+attribute-object	elderly person
+attribute-object	small person
+object-verb	person pose
+object-verb	person dress
+verb-prep-object	dress on halloween
+object	bumble-bee
+object	person
+object	child
+object	woman
+object	halloween
+object	dog
+#####################################################
+An older woman faces the camera with a baby dressed as a bee on Halloween . 
+a older woman face the camera with a baby dress as a bee on Halloween . 
+
+verb-prep-object	dress as bee
+verb-prep-object	dress on halloween
+attribute-object	older person
+object-verb-object	person face woman
+object-verb	baby dress
+object	bee
+object	halloween
+object	person
+object	woman
+object	baby
+object	dog
+#####################################################
+An older woman next to a child dressed in a costume . 
+a older woman next to a child dress in a costume . 
+
+object-prep-object	person next_to person
+verb-prep-object	dress in costume
+object-prep-object	person in child
+object-verb	person dress
+attribute-object	older person
+object	person
+object	woman
+object	costume
+object	child
+object	dog
+#####################################################
+A woman hugs a child that is in a bumblebee costume . 
+a woman hug a child that be in a bumblebee costume . 
+
+object-verb-object	person hug person
+attribute-object	bumblebee costume
+object-prep-object	person in child
+object	person
+object	woman
+object	costume
+object	child
+object	dog
+#####################################################
+A woman poses with a toddler in a costume . 
+a woman pose with a toddler in a costume . 
+
+verb-prep-object	pose with toddler
+object-prep-object	person with woman
+object-prep-object	toddler in costume
+object-verb	person pose
+object	toddler
+object	person
+object	woman
+object	costume
+object	dog
+#####################################################

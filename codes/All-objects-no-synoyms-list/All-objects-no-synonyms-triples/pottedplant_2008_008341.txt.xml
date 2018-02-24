@@ -1,0 +1,58 @@
+A metallic and ceramic dolphin sculpture in a mall . 
+a metallic and ceramic dolphin sculpture in a mall . 
+
+object-prep-object	sculpture in mall
+attribute-object	metallic sculpture
+attribute-object	ceramic sculpture
+attribute-object	dolphin sculpture
+object	sculpture
+object	mall
+object	pottedplant
+#####################################################
+A mosaic glass sculpture of a whale sits in mall . 
+a mosaic glass sculpture of a whale sit in mall . 
+
+verb-prep-object	sit in mall
+object-prep-object	sculpture in mall
+object-prep-object	sculpture of whale
+attribute-object	mosaic sculpture
+attribute-object	glass sculpture
+object-verb	sculpture sit
+object	mall
+object	sculpture
+object	whale
+object	pottedplant
+#####################################################
+A sculpture of a dolphin inside a building . 
+a sculpture of a dolphin inside a building . 
+
+object-prep-object	sculpture of dolphin
+object-prep-object	sculpture inside building
+object	sculpture
+object	dolphin
+object	building
+object	pottedplant
+#####################################################
+A sculpture of a whale in an indoor area . 
+a sculpture of a whale in a indoor area . 
+
+object-prep-object	sculpture of whale
+object-prep-object	sculpture in area
+attribute-object	indoor area
+object	sculpture
+object	whale
+object	area
+object	pottedplant
+#####################################################
+Glass whale statue in lobby of a building . 
+Glass whale statue in lobby of a building . 
+
+object-prep-object	statue in lobby
+attribute-object	glass statue
+attribute-object	whale statue
+object-prep-object	lobby of building
+object	statue
+object	lobby
+object	building
+object	pottedplant
+#####################################################

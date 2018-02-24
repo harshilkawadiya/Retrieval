@@ -1,0 +1,60 @@
+A Mickey Mouse figurine is sitting next to a toy hippo . 
+a Mickey Mouse figurine be sit next to a toy hippo . 
+
+verb-prep-object	sit next_to hippo
+object-prep-object	figurine next_to hippo
+attribute-object	mickey figurine
+attribute-object	mouse figurine
+attribute-object	toy hippo
+object-verb	figurine sit
+object	hippo
+object	figurine
+object	tvmonitor
+#####################################################
+A Mickey Mouse toy . 
+a Mickey Mouse toy . 
+
+attribute-object	mickey toy
+attribute-object	mouse toy
+object	toy
+object	tvmonitor
+#####################################################
+A small Mickey Mouse figurine on a desk next to a crazy white figurine . 
+a small Mickey Mouse figurine on a desk next to a crazy white figurine . 
+
+object-prep-object	figurine on diningtable
+object-prep-object	figurine next_to figurine
+attribute-object	small figurine
+attribute-object	crazy figurine
+attribute-object	white figurine
+attribute-object	mickey figurine
+attribute-object	mouse figurine
+object	figurine
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################
+Trinkets sit on a desk for all to admire . 
+trinket sit on a desk for all to admire . 
+
+verb-prep-object	sit on table
+object-prep-object	trinket on diningtable
+object-verb	trinket sit
+object	table
+object	diningtable
+object	trinket
+object	tvmonitor
+#####################################################
+Two plastic toys sitting on top of an office monitor . 
+two plastic toy sit on top of a office monitor . 
+
+verb-prep-object	sit on_top_of tvmonitor
+object-prep-object	toy on_top_of tvmonitor
+attribute-object	plastic toy
+attribute-object	office tvmonitor
+object-verb	toy sit
+object	tvmonitor
+object	monitor
+object	toy
+object	tvmonitor
+#####################################################

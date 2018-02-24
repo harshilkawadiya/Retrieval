@@ -1,0 +1,71 @@
+A couple posing in a picture with a cat in hand . 
+a couple pose in a picture with a cat in hand . 
+
+verb-prep-object	pose in picture
+object-prep-object	couple with cat
+verb-prep-object	pose with cat
+object-verb	couple pose
+object	picture
+object	couple
+object	cat
+object	cat
+#####################################################
+A man and a woman sitting on a couch with a cat . 
+a man and a woman sit on a couch with a cat . 
+
+verb-prep-object	sit on couch
+object-prep-object	man on couch
+object-prep-object	woman on couch
+object-prep-object	couch with cat
+verb-prep-object	sit with cat
+object-prep-object	man with cat
+object-prep-object	woman with cat
+object-verb	man sit
+object-verb	woman sit
+object	couch
+object	man
+object	woman
+object	cat
+object	cat
+#####################################################
+A man and woman smiling at the camera while holding a white cat . 
+a man and woman smile at the camera while hold a white cat . 
+
+verb-prep-object	smile at camera
+attribute-object	white cat
+object-verb	man smile
+object-verb	woman smile
+object-verb-object	man hold cat
+object-verb-object	woman hold cat
+object	camera
+object	cat
+object	man
+object	woman
+object	cat
+#####################################################
+Asian couple sitting on couch with a white cat in the woman 's arms . 
+asian couple sit on couch with a white cat in the woman 's arm . 
+
+verb-prep-object	sit with cat
+verb-prep-object	sit on couch
+object-prep-object	couple with cat
+object-prep-object	couple on couch
+attribute-object	asian couple
+attribute-object	white cat
+object-verb	couple sit
+object	cat
+object	couch
+object	couple
+object	cat
+#####################################################
+The man and woman are holding a less than enthusiastic cat . 
+the man and woman be hold a less than enthusiastic cat . 
+
+attribute-object	enthusiastic cat
+object-verb-object	man hold cat
+object-verb-object	woman hold cat
+object	cat
+object	man
+object	woman
+object	cat
+#####################################################

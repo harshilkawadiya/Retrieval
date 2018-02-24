@@ -1,0 +1,58 @@
+A dark haired woman with green eyes and a blue sweater is smiling . 
+a dark haired woman with green eye and a blue sweater be smile . 
+
+object-prep-object	person with woman
+object-prep-object	person with woman
+attribute-object	dark person
+attribute-object	haired person
+attribute-object	green eye
+attribute-object	blue sweater
+object-verb	person smile
+object	person
+object	woman
+object	eye
+object	sweater
+object	person
+#####################################################
+Close up head shot of a woman . 
+close up head shot of a woman . 
+
+object	person
+object	person
+object	woman
+object	person
+#####################################################
+Close up of a brunette woman with brown eyes in a gray shirt . 
+close up of a brunette woman with brown eye in a gray shirt . 
+
+object-prep-object	person with woman
+object-prep-object	person in woman
+attribute-object	brown eye
+attribute-object	gray shirt
+attribute-object	brunette person
+object	person
+object	woman
+object	eye
+object	shirt
+object	person
+#####################################################
+The smiling lady takes a picture of herself . 
+the smile lady take a picture of herself . 
+
+attribute-object	smile person
+object-verb-object	person take lady
+object	person
+object	lady
+object	person
+#####################################################
+Woman with brown hair smiling . 
+Woman with brown hair smile . 
+
+object-prep-object	person with woman
+attribute-object	brown hair
+object-verb	person smile
+object	person
+object	woman
+object	hair
+object	person
+#####################################################

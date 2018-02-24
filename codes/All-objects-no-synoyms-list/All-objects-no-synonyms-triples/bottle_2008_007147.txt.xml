@@ -1,0 +1,85 @@
+A man and woman posing on a field with a bottle of wine . 
+a man and woman pose on a field with a bottle of wine . 
+
+verb-prep-object	pose with bottle
+verb-prep-object	pose on field
+object-prep-object	bottle of wine
+object-prep-object	man with bottle
+object-prep-object	man on field
+object-prep-object	woman with bottle
+object-prep-object	woman on field
+object-verb	man pose
+object-verb	woman pose
+object	bottle
+object	field
+object	wine
+object	man
+object	woman
+object	bottle
+#####################################################
+A man and woman wearing white outfits stand on grass and smile . 
+a man and woman wear white outfit stand on grass and smile . 
+
+verb-prep-object	stand on grass
+object-prep-object	man on grass
+object-prep-object	woman on grass
+attribute-object	white outfit
+object-verb-object	man wear outfit
+object-verb-object	woman wear outfit
+object-verb	man stand
+object-verb	woman stand
+object-verb	man smile
+object-verb	woman smile
+object	grass
+object	man
+object	woman
+object	outfit
+object	bottle
+#####################################################
+A man in white with a wine bottle and a woman in a red turtleneck with a white vest . 
+a man in white with a wine bottle and a woman in a red turtleneck with a white vest . 
+
+object-prep-object	man with bottle
+object-prep-object	man in white
+object-prep-object	woman in turtleneck
+object-prep-object	woman with vest
+attribute-object	red turtleneck
+attribute-object	white vest
+attribute-object	wine bottle
+object	man
+object	bottle
+object	white
+object	woman
+object	turtleneck
+object	vest
+object	bottle
+#####################################################
+Man holding a bottle of wine standing next to an asian woman . 
+man hold a bottle of wine stand next to a asian woman . 
+
+verb-prep-object	stand next_to woman
+object-prep-object	man next_to woman
+object-prep-object	bottle of wine
+attribute-object	asian woman
+object-verb-object	man hold bottle
+object-verb	man stand
+object	woman
+object	man
+object	bottle
+object	wine
+object	bottle
+#####################################################
+Two people dressed in white standing on a grass field . 
+two people dress in white standing on a grass field . 
+
+verb-prep-object	stand on field
+object-prep-object	people on field
+verb-prep-object	dress in white
+attribute-object	grass field
+object-verb	people dress
+object-verb	people stand
+object	field
+object	people
+object	white
+object	bottle
+#####################################################

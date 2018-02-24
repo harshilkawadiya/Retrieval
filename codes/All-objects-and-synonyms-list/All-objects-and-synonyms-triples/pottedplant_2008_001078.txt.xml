@@ -1,0 +1,69 @@
+A black and white cat gets into a basket of yarn . 
+a black and white cat get into a basket of yarn . 
+
+verb-prep-object	get into basket
+object-prep-object	cat into basket
+object-prep-object	basket of yarn
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat get
+object	basket
+object	cat
+object	yarn
+object	pottedplant
+#####################################################
+A black and white cat is pawing at a pile of yarn on the floor . 
+a black and white cat be paw at a pile of yarn on the floor . 
+
+verb-prep-object	paw at pile
+object-prep-object	cat at pile
+verb-prep-object	paw on floor
+object-prep-object	cat on floor
+object-prep-object	pile of yarn
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat paw
+object	pile
+object	cat
+object	floor
+object	yarn
+object	pottedplant
+#####################################################
+A black and white cat playing with a blanket . 
+a black and white cat play with a blanket . 
+
+verb-prep-object	play with blanket
+object-prep-object	cat with blanket
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat play
+object	blanket
+object	cat
+object	pottedplant
+#####################################################
+A black and white cat playing with a wool basket . 
+a black and white cat play with a wool basket . 
+
+verb-prep-object	play with basket
+object-prep-object	cat with basket
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	wool basket
+object-verb	cat play
+object	basket
+object	cat
+object	pottedplant
+#####################################################
+A black cat with white paws in a cluttered room . 
+a black cat with white paw in a cluttered room . 
+
+object-prep-object	cat with paw
+attribute-object	black cat
+attribute-object	white paw
+object-prep-object	cat in room
+attribute-object	cluttered room
+object	cat
+object	paw
+object	room
+object	pottedplant
+#####################################################

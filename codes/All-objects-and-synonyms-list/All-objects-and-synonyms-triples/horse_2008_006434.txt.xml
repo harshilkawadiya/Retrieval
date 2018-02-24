@@ -1,0 +1,59 @@
+A brown on in the field on a sunny day . 
+a brown on in the field on a sunny day . 
+
+object-prep-object	brown in field
+attribute-object	sunny day
+object	brown
+object	field
+object	day
+object	horse
+#####################################################
+A close-up of a brown horse standing in front of a tree . 
+a close-up of a brown horse standing in front of a tree . 
+
+attribute-object	brown horse
+object-verb	horse stand
+verb-prep-object	stand in_front_of tree
+object-prep-object	horse in_front_of tree
+object	horse
+object	tree
+object	horse
+#####################################################
+A close-up of an animal with a long face standing on grass near a tree . 
+a close-up of a animal with a long face standing on grass near a tree . 
+
+object-prep-object	animal with face
+attribute-object	long face
+object-verb	animal stand
+verb-prep-object	stand on grass
+object-prep-object	animal on grass
+verb-prep-object	stand near tree
+object-prep-object	animal near tree
+object	animal
+object	face
+object	grass
+object	tree
+object	horse
+#####################################################
+A close up picture of a horse wearing a jacket while in a paddock . 
+a close up picture of a horse wear a jacket while in a paddock . 
+
+object-verb-object	horse wear jacket
+object-prep-object	horse in paddock
+object	horse
+object	jacket
+object	paddock
+object	horse
+#####################################################
+A horse standing near a tree is facing the camera . 
+a horse standing near a tree be face the camera . 
+
+verb-prep-object	stand near tree
+object-prep-object	horse near tree
+object-verb-object	horse face camera
+object-verb	horse stand
+object	tree
+object	horse
+object	camera
+object	horse
+#####################################################

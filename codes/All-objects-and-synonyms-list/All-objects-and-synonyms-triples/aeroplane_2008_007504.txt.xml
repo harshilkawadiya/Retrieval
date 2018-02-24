@@ -1,0 +1,58 @@
+A blue and orange airplane flying with its landing gear down . 
+a blue and orange airplane fly with its landing gear down . 
+
+verb-prep-object	fly with gear
+object-attribute	gear down
+attribute-object	blue aeroplane
+attribute-object	orange aeroplane
+attribute-object	landing gear
+object-verb	aeroplane fly
+object	gear
+object	aeroplane
+object	aeroplane
+#####################################################
+a blue and red airplane while in flight . 
+a blue and red airplane while in flight . 
+
+attribute-object	blue aeroplane
+attribute-object	red aeroplane
+object-prep-object	aeroplane in aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+A red and blue plane flying with its landing gears down . 
+a red and blue plane fly with its landing gear down . 
+
+verb-prep-object	fly with gear
+object-attribute	gear down
+attribute-object	red aeroplane
+attribute-object	blue aeroplane
+attribute-object	landing gear
+object-verb	aeroplane fly
+object	gear
+object	aeroplane
+object	aeroplane
+#####################################################
+Blue and red plane in mid-air flight . 
+Blue and red plane in mid-air flight . 
+
+object-prep-object	aeroplane in aeroplane
+attribute-object	red aeroplane
+attribute-object	blue aeroplane
+attribute-object	mid-air aeroplane
+object	aeroplane
+object	flight
+object	aeroplane
+#####################################################
+The front half of a blue and orange airplane with landing gear down . 
+the front half of a blue and orange airplane with landing gear down . 
+
+object-prep-object	aeroplane with gear
+object-attribute	gear down
+attribute-object	blue aeroplane
+attribute-object	orange aeroplane
+attribute-object	landing gear
+object	aeroplane
+object	gear
+object	aeroplane
+#####################################################

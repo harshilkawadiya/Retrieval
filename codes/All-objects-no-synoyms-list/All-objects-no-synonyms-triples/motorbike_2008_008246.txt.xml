@@ -1,0 +1,63 @@
+African man on blue bike posing with 2 friends . 
+african man on blue bike pose with 2 friend . 
+
+object-prep-object	man on bike
+verb-prep-object	pose with friend
+object-prep-object	man with friend
+attribute-object	african man
+attribute-object	blue bike
+object-verb	man pose
+object	man
+object	bike
+object	friend
+object	motorbike
+#####################################################
+A man sitting on a blue motorcycle with two men beside him . 
+a man sit on a blue motorcycle with two man beside he . 
+
+verb-prep-object	sit on motorcycle
+object-prep-object	man on motorcycle
+attribute-object	blue motorcycle
+object-verb	man sit
+object-prep-object	man with man
+object	motorcycle
+object	man
+object	motorbike
+#####################################################
+Three men pose with a blue motorcycle . 
+three man pose with a blue motorcycle . 
+
+verb-prep-object	pose with motorcycle
+object-prep-object	man with motorcycle
+attribute-object	blue motorcycle
+object-verb	man pose
+object	motorcycle
+object	man
+object	motorbike
+#####################################################
+Three men posing with a blue motorcycle . 
+three man pose with a blue motorcycle . 
+
+verb-prep-object	pose with motorcycle
+object-prep-object	man with motorcycle
+attribute-object	blue motorcycle
+object-verb	man pose
+object	motorcycle
+object	man
+object	motorbike
+#####################################################
+Two guys standing next to a person on a blue motorcycle with a truck in the background . 
+two guy stand next to a person on a blue motorcycle with a truck in the background . 
+
+object-prep-object	motorcycle with truck
+verb-prep-object	stand next_to person
+object-prep-object	guy next_to person
+object-prep-object	person on motorcycle
+attribute-object	blue motorcycle
+object-verb	guy stand
+object	motorcycle
+object	truck
+object	person
+object	guy
+object	motorbike
+#####################################################

@@ -1,0 +1,61 @@
+A bicyclist in black on a black and red racing bike . 
+a bicyclist in black on a black and red racing bike . 
+
+object-prep-object	bicyclist on bike
+object-prep-object	bicyclist in black
+attribute-object	black bike
+attribute-object	red bike
+attribute-object	racing bike
+object	bicyclist
+object	bike
+object	black
+object	bicycle
+#####################################################
+A boy wearing racing gear on a bicycle . 
+a boy wear race gear on a bicycle . 
+
+object-prep-object	boy on bicycle
+attribute-object	race gear
+object-verb-object	boy wear gear
+object	boy
+object	bicycle
+object	gear
+object	bicycle
+#####################################################
+A cyclist in black and white lira speeding past spectators . 
+a cyclist in black and white lira speed past spectator . 
+
+object-prep-object	cyclist in lira
+attribute-object	black lira
+attribute-object	white lira
+verb-attribute	speed past
+object-verb-object	cyclist speed spectator
+object	cyclist
+object	lira
+object	spectator
+object	bicycle
+#####################################################
+a cyclist wearing black riding on a bicycle . 
+a cyclist wear black ride on a bicycle . 
+
+verb-prep-object	ride on bicycle
+object-prep-object	cyclist on bicycle
+object-verb-object	cyclist wear black
+object-verb	cyclist ride
+object	bicycle
+object	cyclist
+object	black
+object	bicycle
+#####################################################
+Cyclist dressed in racing uniform peddling down track . 
+cyclist dress in race uniform peddle down track . 
+
+attribute-object	racing uniform
+object-prep-object	cyclist in uniform
+object-verb-object	cyclist peddle track
+verb-attribute	peddle down
+object	uniform
+object	cyclist
+object	track
+object	bicycle
+#####################################################

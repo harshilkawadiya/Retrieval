@@ -1,0 +1,66 @@
+A brown and white cow in a snow covered field . 
+a brown and white cow in a snow cover field . 
+
+object-prep-object	cow in field
+attribute-object	brown cow
+attribute-object	white cow
+attribute-object	snow field
+attribute-object	cover field
+object	cow
+object	field
+object	cow
+#####################################################
+A large brown and white yak standing in the snow . 
+a large brown and white yak standing in the snow . 
+
+object-verb	cow stand
+verb-prep-object	stand in snow
+object-prep-object	cow in yak
+attribute-object	large cow
+attribute-object	brown cow
+attribute-object	white cow
+object	cow
+object	yak
+object	snow
+object	cow
+#####################################################
+Brown and white cow on a snow covered field . 
+Brown and white cow on a snow cover field . 
+
+object-prep-object	cow on field
+attribute-object	brown cow
+attribute-object	white cow
+attribute-object	snow field
+attribute-object	cover field
+object	cow
+object	field
+object	cow
+#####################################################
+Large buffalo standing in the snow . 
+large buffalo standing in the snow . 
+
+verb-prep-object	stand in snow
+object-prep-object	cow in buffalo
+attribute-object	large cow
+object-verb	cow stand
+object	snow
+object	cow
+object	buffalo
+object	cow
+#####################################################
+The bison stands in a snowy field in a mountainous area . 
+the bison stand in a snowy field in a mountainous area . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in bison
+object-prep-object	cow in bison
+verb-prep-object	stand in area
+attribute-object	snowy field
+attribute-object	mountainous area
+object-verb	cow stand
+object	field
+object	cow
+object	bison
+object	area
+object	cow
+#####################################################

@@ -1,0 +1,61 @@
+A group of men sitting around a table drinking while a man behind stands pointing . 
+a group of man sit around a table drinking while a man behind stand point . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-verb	person sit
+object-verb	person drink
+object	diningtable
+object	table
+object	person
+object	man
+object	diningtable
+#####################################################
+An evening celebrations of good friends at a popular restaurant . 
+a evening celebration of good friend at a popular restaurant . 
+
+object-prep-object	person at friend
+attribute-object	good person
+attribute-object	popular restaurant
+object	person
+object	friend
+object	restaurant
+object	diningtable
+#####################################################
+At a party , five men are seated at a table while another man stands pointing . 
+at a party , five man be seat at a table while another man stand point . 
+
+verb-prep-object	seat at party
+verb-prep-object	seat at diningtable
+object-prep-object	person at man
+object-prep-object	person at diningtable
+object-verb	person stand
+object-verb	person seat
+object	party
+object	diningtable
+object	table
+object	person
+object	man
+object	diningtable
+#####################################################
+Five men are sitting at a restaurant table . 
+five man be sit at a restaurant table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+attribute-object	restaurant diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	diningtable
+#####################################################
+Six avians at dinner . 
+six avian at dinner . 
+
+object-prep-object	avian at dinner
+object	avian
+object	dinner
+object	diningtable
+#####################################################

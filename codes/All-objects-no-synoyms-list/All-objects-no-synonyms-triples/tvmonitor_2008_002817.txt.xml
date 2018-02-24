@@ -1,0 +1,78 @@
+A computer and collection of gadgets , including pop , cell phone , pot and game advance . 
+a computer and collection of gadget , include pop , cell phone , pot and game advance . 
+
+object	computer
+object-prep-object	collection of gadget
+object-prep-object	gadget including pop
+object-prep-object	gadget including phone
+object-prep-object	gadget including pot
+object-prep-object	gadget including advance
+attribute-object	cell phone
+attribute-object	game advance
+object	computer
+object	collection
+object	gadget
+object	pop
+object	phone
+object	pot
+object	advance
+object	tvmonitor
+#####################################################
+A computer monitor , keyboard , pot , and cell phone sitting on a table . 
+a computer monitor , keyboard , pot , and cell phone sit on a table . 
+
+verb-prep-object	sit on table
+object-prep-object	monitor on table
+object-prep-object	keyboard on table
+object-prep-object	pot on table
+object-prep-object	phone on table
+attribute-object	computer monitor
+attribute-object	cell phone
+object-verb	monitor sit
+object-verb	keyboard sit
+object-verb	pot sit
+object-verb	phone sit
+object	table
+object	monitor
+object	keyboard
+object	pot
+object	phone
+object	tvmonitor
+#####################################################
+A computer with four mobile electronic devices and one magazine in front of it . 
+a computer with four mobile electronic device and one magazine in front of it . 
+
+object-prep-object	computer with device
+object-prep-object	computer with magazine
+attribute-object	mobile device
+attribute-object	electronic device
+object	computer
+object	device
+object	magazine
+object	tvmonitor
+#####################################################
+A desktop computer with electronic devices lined up in front of it . 
+a desktop computer with electronic device line up in front of it . 
+
+object-prep-object	computer with device
+attribute-object	electronic device
+attribute-object	desktop computer
+object	computer
+object	device
+object	tvmonitor
+#####################################################
+Computer monitor , and various electronic devices on a desk , and a magazine to the left . 
+Computer monitor , and various electronic device on a desk , and a magazine to the left . 
+
+object-prep-object	device on desk
+object-prep-object	monitor on desk
+attribute-object	various device
+attribute-object	electronic device
+attribute-object	computer monitor
+object	magazine
+object	device
+object	desk
+object	monitor
+object	magazine
+object	tvmonitor
+#####################################################

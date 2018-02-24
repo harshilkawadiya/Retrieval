@@ -1,0 +1,88 @@
+A hotel room with a flat panel on the wall and a wet bar . 
+a hotel room with a flat panel on the wall and a wet bar . 
+
+object-prep-object	room with panel
+object-prep-object	panel on wall
+object-prep-object	room with bar
+attribute-object	flat panel
+attribute-object	wet bar
+attribute-object	hotel room
+object	room
+object	panel
+object	wall
+object	bar
+object	sofa
+#####################################################
+A living room with a large screen TV and a man sitting on a sofa . 
+a living room with a large screen tv and a man sit on a sofa . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with person
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+attribute-object	large tvmonitor
+attribute-object	living room
+attribute-object	screen tvmonitor
+object-verb	person sit
+object	room
+object	tvmonitor
+object	person
+object	sofa
+object	man
+object	tv
+object	sofa
+#####################################################
+A man on a couch sits in a tidy living room with a large television . 
+a man on a couch sit in a tidy living room with a large television . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	person on bed
+verb-prep-object	sit in room
+object-prep-object	person in man
+attribute-object	tidy room
+attribute-object	large tvmonitor
+attribute-object	living room
+object-verb	person sit
+object	room
+object	tvmonitor
+object	person
+object	man
+object	sofa
+object	bed
+object	television
+object	sofa
+#####################################################
+A person sitting on a couch reading a magazine in a room with a large flatscreen television . 
+a person sit on a couch read a magazine in a room with a large flatscreen television . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+verb-prep-object	read in room
+object-prep-object	person in room
+object-prep-object	room with tvmonitor
+attribute-object	large tvmonitor
+object-verb-object	person read magazine
+attribute-object	flatscreen tvmonitor
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	room
+object	tvmonitor
+object	television
+object	magazine
+object	sofa
+#####################################################
+Living room or den with large screen television . 
+live room or den with large screen television . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with tvmonitor
+attribute-object	large tvmonitor
+attribute-object	screen tvmonitor
+object	room
+object	tvmonitor
+object	den
+object	television
+object	sofa
+#####################################################

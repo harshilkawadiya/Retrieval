@@ -1,0 +1,59 @@
+Two baby kittens are sitting inside a cow-schemed , fur-covered dome . 
+two baby kitten be sit inside a cow-schemed , fur-covered dome . 
+
+verb-prep-object	sit inside dome
+object-prep-object	kitten inside dome
+attribute-object	cow-schemed dome
+attribute-object	fur-covered dome
+attribute-object	baby kitten
+object-verb	kitten sit
+object	dome
+object	kitten
+object	cat
+#####################################################
+Two cats are close together inside a black and white furry enclosure . 
+two cat be close together inside a black and white furry enclosure . 
+
+object-prep-object	cat inside enclosure
+attribute-object	black enclosure
+attribute-object	white enclosure
+attribute-object	furry enclosure
+object	cat
+object	enclosure
+object	cat
+#####################################################
+Two kittens hiding under black and white bedding . 
+two kitten hide under black and white bedding . 
+
+verb-prep-object	hide under bedding
+object-prep-object	kitten under bedding
+attribute-object	black bedding
+attribute-object	white bedding
+object-verb	kitten hide
+object	bedding
+object	kitten
+object	cat
+#####################################################
+Two kittens sitting in cow-patterned kitty furniture . 
+two kitten sit in cow-patterned kitty furniture . 
+
+verb-prep-object	sit in furniture
+object-prep-object	kitten in furniture
+attribute-object	cow-patterned furniture
+attribute-object	kitty furniture
+object-verb	kitten sit
+object	furniture
+object	kitten
+object	cat
+#####################################################
+Two kittens sitting inside a cat house . 
+two kitten sit inside a cat house . 
+
+verb-prep-object	sit inside house
+object-prep-object	kitten inside house
+attribute-object	cat house
+object-verb	kitten sit
+object	house
+object	kitten
+object	cat
+#####################################################

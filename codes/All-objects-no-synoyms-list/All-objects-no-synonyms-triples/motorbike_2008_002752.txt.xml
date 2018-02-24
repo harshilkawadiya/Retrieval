@@ -1,0 +1,65 @@
+A family preparing to ride dirt bikes . 
+a family prepare to ride dirt bike . 
+
+attribute-object	dirt bike
+object-verb	family prepare
+verb-prep-verb	prepare to ride
+verb-object	ride bike
+object	bike
+object	family
+object	motorbike
+#####################################################
+A man and a child on a green dirt bike and a couple getting on a blue dirt bike . 
+a man and a child on a green dirt bike and a couple get on a blue dirt bike . 
+
+object-prep-object	man on bike
+object-prep-object	child on bike
+attribute-object	green bike
+attribute-object	dirt bike
+verb-prep-object	get on bike
+object-prep-object	couple on bike
+attribute-object	blue bike
+attribute-object	dirt bike
+object-verb	couple get
+object	man
+object	bike
+object	child
+object	couple
+object	motorbike
+#####################################################
+A man and a woman beside a blue motor bike and two people on a green motor bike . 
+a man and a woman beside a blue motor bike and two people on a green motor bike . 
+
+object-prep-object	man beside bike
+object-prep-object	woman beside bike
+attribute-object	blue bike
+attribute-object	motor bike
+object-prep-object	people on bike
+attribute-object	green bike
+attribute-object	motor bike
+object	man
+object	bike
+object	woman
+object	people
+object	motorbike
+#####################################################
+Four people and two motorcycles on a sunny day . 
+four people and two motorcycle on a sunny day . 
+
+object-prep-object	people on day
+object-prep-object	motorcycle on day
+attribute-object	sunny day
+object	people
+object	day
+object	motorcycle
+object	motorbike
+#####################################################
+Two couples and two dirt bikes . 
+two couple and two dirt bike . 
+
+attribute-object	dirt bike
+object	couple
+object	bike
+object	couple
+object	motorbike
+#####################################################

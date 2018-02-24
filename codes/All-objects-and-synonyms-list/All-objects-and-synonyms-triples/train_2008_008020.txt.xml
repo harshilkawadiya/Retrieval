@@ -1,0 +1,58 @@
+A moving train in a suburban area . 
+a move train in a suburban area . 
+
+object-prep-object	train in area
+attribute-object	move train
+attribute-object	suburban area
+object	train
+object	area
+object	train
+#####################################################
+A train is railing between a dead end street and a stand of evergreens . 
+a train be railing between a dead end street and a stand of evergreen . 
+
+verb-prep-object	railing between road
+verb-prep-object	railing between stand
+object-prep-object	stand of evergreen
+attribute-object	dead road
+attribute-object	end road
+object-verb	train railing
+object	road
+object	street
+object	stand
+object	evergreen
+object	train
+object	train
+#####################################################
+Black train on train tracks . 
+Black train on train track . 
+
+object-prep-object	train on track
+attribute-object	black train
+attribute-object	train track
+object	train
+object	track
+object	train
+#####################################################
+The locomotive is visible just beyond the guardrail and in front of the telephone pole . 
+the locomotive be visible just beyond the guardrail and in front of the telephone pole . 
+
+object-verb	train visible
+verb-prep-object	visible beyond guardrail
+verb-prep-object	visible in_front_of pole
+attribute-object	telephone pole
+object	train
+object	locomotive
+object	guardrail
+object	pole
+object	train
+#####################################################
+Train engine with trees in the background . 
+train engine with tree in the background . 
+
+object-prep-object	engine with tree
+attribute-object	train engine
+object	engine
+object	tree
+object	train
+#####################################################

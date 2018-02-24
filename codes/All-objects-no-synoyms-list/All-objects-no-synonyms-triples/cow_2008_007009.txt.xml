@@ -1,0 +1,57 @@
+A brown and white calf laying down on the hay in a barn . 
+a brown and white calf lay down on the hay in a barn . 
+
+verb-prep-object	lay on hay
+object-prep-object	calf on hay
+object-prep-object	hay in barn
+attribute-object	brown calf
+attribute-object	white calf
+object-verb	calf lay
+verb-attribute	lay down
+object	hay
+object	calf
+object	barn
+object	cow
+#####################################################
+A cow and two calves in some hay . 
+a cow and two calf in some hay . 
+
+object-prep-object	cow in hay
+object-prep-object	calf in hay
+object	cow
+object	hay
+object	calf
+object	cow
+#####################################################
+Calf lying down in the straw . 
+calf lie down in the straw . 
+
+verb-prep-object	lie in straw
+object-prep-object	calf in straw
+object-verb	calf lie
+verb-attribute	lie down
+object	straw
+object	calf
+object	cow
+#####################################################
+Some cows standing , while another lies in the hay . 
+some cow standing , while another lie in the hay . 
+
+verb-prep-object	lie in hay
+object-prep-object	cow in hay
+object-verb	cow stand
+object-verb	cow lie
+object	hay
+object	cow
+object	cow
+#####################################################
+The calf is asleep in the hay with two cows to the left . 
+the calf be asleep in the hay with two cow to the left . 
+
+verb-prep-object	asleep in hay
+object-prep-object	calf in hay
+object-verb	calf asleep
+object	hay
+object	calf
+object	cow
+#####################################################

@@ -1,0 +1,61 @@
+A sheep . 
+a sheep . 
+
+object	sheep
+object	sheep
+object	sheep
+#####################################################
+A sheep standing angst wild flowers and grasses . 
+a sheep standing angst wild flower and grass . 
+
+object-verb	sheep stand
+verb-prep-object	stand angst flower
+verb-prep-object	stand angst grass
+attribute-object	wild flower
+object-prep-object	sheep angst flower
+object-prep-object	sheep angst grass
+object	sheep
+object	flower
+object	grass
+object	sheep
+#####################################################
+A white sheep standing on a field next to wild flowers . 
+a white sheep standing on a field next to wild flower . 
+
+verb-prep-object	stand on field
+object-prep-object	sheep on field
+verb-prep-object	stand next_to flower
+object-prep-object	sheep next_to flower
+attribute-object	wild flower
+attribute-object	white sheep
+object-verb	sheep stand
+object	field
+object	sheep
+object	flower
+object	sheep
+#####################################################
+The white sheep is standing next to the plant . 
+the white sheep be stand next to the plant . 
+
+verb-prep-object	stand next_to pottedplant
+object-prep-object	sheep next_to pottedplant
+attribute-object	white sheep
+object-verb	sheep stand
+object	pottedplant
+object	plant
+object	sheep
+object	sheep
+#####################################################
+Two lambs stand on a grassy hill . 
+two lamb stand on a grassy hill . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+attribute-object	grassy mountain
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	lamb
+object	sheep
+#####################################################

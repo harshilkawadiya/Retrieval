@@ -1,0 +1,61 @@
+A close-up of a cream animal with big ears and a black nose . 
+a close-up of a cream animal with big ear and a black nose . 
+
+object-prep-object	animal with ear
+object-prep-object	animal with nose
+attribute-object	big ear
+attribute-object	black nose
+attribute-object	cream animal
+object	animal
+object	ear
+object	nose
+object	cow
+#####################################################
+A white and gray cow with very large ears stands in a grassy field . 
+a white and gray cow with very large ear stand in a grassy field . 
+
+object-prep-object	cow with ear
+object-verb	cow stand
+attribute-object	white cow
+attribute-object	gray cow
+attribute-object	large ear
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	grassy field
+object	cow
+object	ear
+object	field
+object	cow
+#####################################################
+A white cow with big ears looking into the camera . 
+a white cow with big ear look into the camera . 
+
+verb-prep-object	look into camera
+object-prep-object	cow with ear
+attribute-object	white cow
+attribute-object	big ear
+object-verb	cow look
+object	camera
+object	cow
+object	ear
+object	cow
+#####################################################
+A white cow with ears as large as its head . 
+a white cow with ear as large as its head . 
+
+object-prep-object	cow with ear
+attribute-object	white cow
+object	cow
+object	ear
+object	cow
+#####################################################
+The cow is grazing in a field . 
+the cow be grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################

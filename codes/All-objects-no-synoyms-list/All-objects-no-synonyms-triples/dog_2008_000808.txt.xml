@@ -1,0 +1,51 @@
+A dog is wearing a gray jacket . 
+a dog be wear a gray jacket . 
+
+attribute-object	gray jacket
+object-verb-object	dog wear jacket
+object	jacket
+object	dog
+object	dog
+#####################################################
+A pug in a bomber jacket . 
+a pug in a bomber jacket . 
+
+object-prep-object	pug in jacket
+attribute-object	bomber jacket
+object	pug
+object	jacket
+object	dog
+#####################################################
+A pug sitting while wearing an aviator jacket . 
+a pug sit while wear a aviator jacket . 
+
+object-prep-object	pug wear jacket
+attribute-object	aviator jacket
+object-verb	pug sit
+object	pug
+object	jacket
+object	dog
+#####################################################
+Pug dressed in leather pilot jacket . 
+pug dress in leather pilot jacket . 
+
+verb-prep-object	dress in jacket
+object-prep-object	pug in jacket
+attribute-object	leather jacket
+attribute-object	pilot jacket
+object-verb	pug dress
+object	jacket
+object	pug
+object	dog
+#####################################################
+The dog is a Pug and is wearing a bomber jacket . 
+the dog be a Pug and be wear a bomber jacket . 
+
+object-verb-object	dog wear jacket
+attribute-object	bomber jacket
+object-object	dog pug
+object	dog
+object	jacket
+object	pug
+object	dog
+#####################################################

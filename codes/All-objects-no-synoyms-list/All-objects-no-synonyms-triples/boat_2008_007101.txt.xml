@@ -1,0 +1,51 @@
+Couple sailing in a small sailboat . 
+couple sailing in a small sailboat . 
+
+verb-prep-object	sailing in sailboat
+object-prep-object	couple in sailboat
+attribute-object	small sailboat
+object-verb	couple sailing
+object	sailboat
+object	couple
+object	boat
+#####################################################
+The two sailors take the boat for a ride on a windy day . 
+the two sailor take the boat for a ride on a windy day . 
+
+object-prep-object	boat for ride
+attribute-object	windy day
+object-verb-object	sailor take boat
+object	boat
+object	ride
+object	day
+object	sailor
+object	boat
+#####################################################
+Two people are sailing a small boat . 
+two people be sail a small boat . 
+
+attribute-object	small boat
+object-verb-object	people sail boat
+object	boat
+object	people
+object	boat
+#####################################################
+Two people sailing a small white sail boat . 
+two people sail a small white sail boat . 
+
+attribute-object	small boat
+attribute-object	white boat
+object-verb-object	people sail boat
+attribute-object	sail boat
+object	boat
+object	people
+object	boat
+#####################################################
+Two women in a sailboat . 
+two woman in a sailboat . 
+
+object-prep-object	woman in sailboat
+object	woman
+object	sailboat
+object	boat
+#####################################################

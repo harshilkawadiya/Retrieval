@@ -1,0 +1,45 @@
+A heads of a horse eating clover . 
+a head of a horse eat clover . 
+
+object-verb-object	horse eat clover
+object	horse
+object	clover
+object	horse
+#####################################################
+An up close picture of a horse in the country . 
+a up close picture of a horse in the country . 
+
+object-prep-object	horse in country
+object	horse
+object	country
+object	horse
+#####################################################
+Profile headshot of a brown , bridled horse . 
+Profile headshot of a brown , bridle horse . 
+
+attribute-object	brown horse
+attribute-object	bridle horse
+object	horse
+object	horse
+#####################################################
+The face and head of horse wearing a bridle . 
+the face and head of horse wear a bridle . 
+
+object-verb-object	horse wear bridle
+object-prep-object	face of horse
+object-prep-object	head of horse
+object	horse
+object	bridle
+object	face
+object	head
+object	horse
+#####################################################
+This chestnut horse is bridled and ready to ride . 
+this chestnut horse be bridle and ready to ride . 
+
+attribute-object	chestnut horse
+object-object	horse bridle
+object	horse
+object	bridle
+object	horse
+#####################################################

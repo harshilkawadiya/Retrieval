@@ -1,0 +1,71 @@
+Four people are behind a table . 
+four people be behind a table . 
+
+object-prep-object	person behind diningtable
+object	person
+object	people
+object	diningtable
+object	person
+#####################################################
+Three middle-aged women and a man sit at a patio table with a bottle of wine . 
+three middle-aged woman and a man sit at a patio table with a bottle of wine . 
+
+object-verb	person sit
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+object-prep-object	bottle of wine
+attribute-object	middle-aged person
+attribute-object	patio diningtable
+object	person
+object	woman
+object	man
+object	diningtable
+object	table
+object	bottle
+object	wine
+object	person
+#####################################################
+Three women drinking wine on a patio with a man , in a city . 
+three woman drink wine on a patio with a man , in a city . 
+
+verb-prep-object	drink with person
+object-prep-object	person with person
+object-prep-object	wine on patio
+object-prep-object	person on woman
+verb-prep-object	drink in city
+object-prep-object	person in woman
+object-verb-object	person drink woman
+object	person
+object	man
+object	woman
+object	wine
+object	patio
+object	city
+object	person
+#####################################################
+Three women drinking wine while a man looks on . 
+three woman drink wine while a man look on . 
+
+object-verb-object	person drink woman
+object-verb	person look
+object	person
+object	woman
+object	man
+object	person
+#####################################################
+Two women sitting around a table drinking wine while others watch . 
+two woman sit around a table drinking wine while other watch . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-verb	person drink
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	woman
+object	person
+#####################################################

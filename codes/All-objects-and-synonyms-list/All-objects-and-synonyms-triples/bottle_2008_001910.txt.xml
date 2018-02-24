@@ -1,0 +1,54 @@
+A man adding ingredients to a large , streaming bowl . 
+a man add ingredient to a large , stream bowl . 
+
+verb-prep-object	add to bowl
+object-verb-object	person add man
+attribute-object	large bowl
+attribute-object	stream bowl
+object	bowl
+object	person
+object	man
+object	bottle
+#####################################################
+A man in a black sweatshirt cooks vegetables . 
+a man in a black sweatshirt cook vegetable . 
+
+object-verb-object	person cook man
+object-prep-object	person in man
+attribute-object	black sweatshirt
+object	person
+object	man
+object	sweatshirt
+object	bottle
+#####################################################
+Asian man cooking . 
+asian man cooking . 
+
+attribute-object	asian person
+object-verb	person cooking
+object	person
+object	man
+object	bottle
+#####################################################
+A young oriental man cooking . 
+a young oriental man cooking . 
+
+attribute-object	young person
+attribute-object	oriental person
+object-verb	person cooking
+object	person
+object	man
+object	bottle
+#####################################################
+The young man cooks at home . 
+the young man cook at home . 
+
+attribute-object	young person
+object-verb	person cook
+verb-prep-object	cook at home
+object-prep-object	person at man
+object	person
+object	man
+object	home
+object	bottle
+#####################################################

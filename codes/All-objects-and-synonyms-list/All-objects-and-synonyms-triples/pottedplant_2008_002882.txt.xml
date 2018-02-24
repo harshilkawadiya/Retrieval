@@ -1,0 +1,66 @@
+A man , woman and teenage boy pose together inside . 
+a man , woman and teenage boy pose together inside . 
+
+attribute-object	teenage person
+object-verb	person pose
+object-verb	person pose
+object-verb	person pose
+object	person
+object	boy
+object	man
+object	woman
+object	pottedplant
+#####################################################
+A woman , man and a boy smiling while looking at the camera . 
+a woman , man and a boy smile while look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	person smile
+object-verb	person smile
+object-verb	person smile
+object-verb	person look
+object-verb	person look
+object-verb	person look
+object	camera
+object	person
+object	woman
+object	man
+object	boy
+object	pottedplant
+#####################################################
+A younger brother , sister and older brother in their home . 
+a younger brother , sister and older brother in they home . 
+
+object-prep-object	brother in home
+object-prep-object	sister in home
+object-prep-object	brother in home
+attribute-object	younger brother
+attribute-object	older brother
+object	brother
+object	home
+object	sister
+object	pottedplant
+#####################################################
+Photo of three young adults standing in a room . 
+Photo of three young adult stand in a room . 
+
+verb-prep-object	stand in room
+object-prep-object	person in adult
+attribute-object	young person
+object-verb	person stand
+object	room
+object	person
+object	adult
+object	pottedplant
+#####################################################
+Three people posing in front of a window . 
+three people pose in front of a window . 
+
+verb-prep-object	pose in_front_of window
+object-prep-object	person in_front_of people
+object-verb	person pose
+object	window
+object	person
+object	people
+object	pottedplant
+#####################################################

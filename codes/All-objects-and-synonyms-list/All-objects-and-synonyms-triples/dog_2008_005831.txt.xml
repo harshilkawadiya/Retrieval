@@ -1,0 +1,68 @@
+A white animal running through snow covered woods . 
+a white animal run through snow cover wood . 
+
+verb-prep-object	run through wooden
+object-prep-object	animal through wooden
+attribute-object	white animal
+attribute-object	snow wooden
+attribute-object	cover wooden
+object-verb	animal run
+object	wooden
+object	wood
+object	animal
+object	dog
+#####################################################
+A white dog running through the forest covered in snow . 
+a white dog run through the forest cover in snow . 
+
+verb-prep-object	run through forest
+object-prep-object	dog through forest
+verb-prep-object	cover in snow
+object-prep-object	forest in snow
+attribute-object	white dog
+object-verb	forest cover
+object-verb	dog run
+object	forest
+object	dog
+object	snow
+object	dog
+#####################################################
+A white dog runs through a snow covered wood . 
+a white dog run through a snow cover wood . 
+
+verb-prep-object	run through wooden
+object-prep-object	dog through wooden
+attribute-object	white dog
+attribute-object	snow wooden
+attribute-object	cover wooden
+object-verb	dog run
+object	wooden
+object	wood
+object	dog
+object	dog
+#####################################################
+Furry white dog running through snow . 
+furry white dog run through snow . 
+
+verb-prep-object	run through snow
+object-prep-object	dog through snow
+attribute-object	furry dog
+attribute-object	white dog
+object-verb	dog run
+object	snow
+object	dog
+object	dog
+#####################################################
+The dog is playing with a snowball on a wintry day . 
+the dog be play with a snowball on a wintry day . 
+
+verb-prep-object	play with snowball
+object-prep-object	dog with snowball
+verb-prep-object	play on day
+attribute-object	wintry day
+object-verb	dog play
+object	snowball
+object	dog
+object	day
+object	dog
+#####################################################

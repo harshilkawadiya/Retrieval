@@ -1,0 +1,65 @@
+A black dog standing in a grassy area . 
+a black dog standing in a grassy area . 
+
+verb-prep-object	stand in area
+object-prep-object	dog in area
+attribute-object	black dog
+attribute-object	grassy area
+object-verb	dog stand
+object	area
+object	dog
+object	dog
+#####################################################
+A black lab looks on while standing in the dry brush . 
+a black lab look on while stand in the dry brush . 
+
+verb-prep-object	stand in brush
+object-prep-object	lab in brush
+attribute-object	black lab
+attribute-object	dry brush
+object-verb	lab look
+object-verb	lab stand
+object	brush
+object	lab
+object	dog
+#####################################################
+A large , black , long-haired dog stands in a sunny field . 
+a large , black , long-haired dog stand in a sunny field . 
+
+verb-prep-object	stand in field
+object-prep-object	dog in field
+attribute-object	large dog
+attribute-object	black dog
+attribute-object	long-haired dog
+attribute-object	sunny field
+object-verb	dog stand
+object	field
+object	dog
+object	dog
+#####################################################
+A long-haired dog stands in a grassy wooded area . 
+a long-haired dog stand in a grassy wooded area . 
+
+verb-prep-object	stand in area
+object-prep-object	dog in area
+attribute-object	long-haired dog
+attribute-object	grassy area
+attribute-object	wooded area
+object-verb	dog stand
+object	area
+object	dog
+object	dog
+#####################################################
+Long-haired black dog standing in grassy field . 
+long-haired black dog standing in grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	dog in field
+attribute-object	long-haired dog
+attribute-object	black dog
+attribute-object	grassy field
+object-verb	dog stand
+object	field
+object	dog
+object	dog
+#####################################################

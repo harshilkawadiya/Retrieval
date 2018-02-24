@@ -1,0 +1,57 @@
+An orange Moped . 
+a orange Moped . 
+
+attribute-object	orange motorbike
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+An orange scooter is parked with its kickstand down on the cement . 
+a orange scooter be park with its kickstand down on the cement . 
+
+verb-prep-object	park on cement
+object-prep-object	motorbike on scooter
+attribute-object	orange motorbike
+object-verb	motorbike park
+object-prep-object	motorbike with scooter
+object	cement
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A vintage looking orange motor scooter with kick stand extended . 
+a vintage look orange motor scooter with kick stand extend . 
+
+attribute-object	vintage_looking motorbike
+attribute-object	orange motorbike
+attribute-object	motor motorbike
+object-prep-object	motorbike with scooter
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Orange scooter parked with kickstand out on concrete . 
+Orange scooter park with kickstand out on concrete . 
+
+verb-prep-object	park on concrete
+object-prep-object	motorbike on scooter
+object-prep-object	motorbike with scooter
+attribute-object	orange motorbike
+object-verb	motorbike park
+object	concrete
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Yellow scooter parked in an alleyway . 
+yellow scooter park in a alleyway . 
+
+verb-prep-object	park in alleyway
+object-prep-object	motorbike in scooter
+attribute-object	yellow motorbike
+object-verb	motorbike park
+object	alleyway
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################

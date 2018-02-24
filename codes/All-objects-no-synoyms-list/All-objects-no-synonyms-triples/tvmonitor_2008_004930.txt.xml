@@ -1,0 +1,58 @@
+A close-up of a television monitor with a man on t.v. 
+a close-up of a television monitor with a man on t.v.  
+
+object-prep-object	monitor with man
+object-prep-object	man on t.v.
+attribute-object	television monitor
+object	monitor
+object	man
+object	t.v.
+object	tvmonitor
+#####################################################
+A walled television screen shows an image of a dark-haired man in a white suit and brown tie . 
+a walled television screen show a image of a dark-haired man in a white suit and brown tie .
+
+object-prep-object	man in suit
+object-prep-object	man in tie
+attribute-object	walled screen
+attribute-object	television screen
+attribute-object	dark-haired man
+attribute-object	white suit
+attribute-object	brown tie
+object-verb-object	scrren show image
+object-prep-object	image of man
+object	man
+object	suit
+object	tie
+object	screen
+object	scrren
+object	image
+object	tvmonitor
+#####################################################
+photo of a television screen showing a movie . 
+photo of a television screen show a movie . 
+
+attribute-object	television screen
+object-verb-object	screen show movie
+object	screen
+object	movie
+object	tvmonitor
+#####################################################
+There is a picture of a man on the television . 
+there be a picture of a man on the television . 
+
+object-prep-object	man on television
+object	man
+object	television
+object	tvmonitor
+#####################################################
+The wall-mounted flat-screen TV is showing a movie . 
+the wall-mounted flat-screen tv be show a movie . 
+
+attribute-object	wall-mounted tv
+attribute-object	flat-screen tv
+object-verb-object	tv show movie
+object	tv
+object	movie
+object	tvmonitor
+#####################################################

@@ -1,0 +1,43 @@
+An intricately carved brown chair is empty . 
+a intricately carve brown chair be empty . 
+
+attribute-object	intricately chair
+attribute-object	carve chair
+attribute-object	brown chair
+object-verb	chair empty
+object	chair
+object	chair
+#####################################################
+An ornate wooden chair . 
+a ornate wooden chair . 
+
+attribute-object	ornate chair
+attribute-object	wooden chair
+object	chair
+object	chair
+#####################################################
+A wooden church throne ? 
+a wooden church throne ? 
+
+attribute-object	wooden throne
+attribute-object	church throne
+object	throne
+object	chair
+#####################################################
+Close-up of an ornately carved wooden chair . 
+close-up of a ornately carve wooden chair . 
+
+attribute-object	ornately chair
+attribute-object	carve chair
+attribute-object	wooden chair
+object	chair
+object	chair
+#####################################################
+Ornately carved chair . 
+ornately carve chair . 
+
+attribute-object	ornately chair
+attribute-object	carve chair
+object	chair
+object	chair
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	3	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	4	A little boy is leaping in the air onto a water slide .
+beam_size_1	5	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	6	The boy in the swimming trunks is playing in the yard .
+beam_size_1	7	A child plays on the floor .
+beam_size_1	8	A little girl throws a pink and yellow chunk of chalk .
+beam_size_1	9	A small girl is sitting on the cement dropping some chalk
+beam_size_1	10	A young child plays with sidewalk chalk by dropping it on the gound .
+beam_size_1	11	A young girl throwing her pink chalk .
+beam_size_1	12	One young girl pushing a toy while her twin sister looks on .
+beam_size_1	13	Two children wearing bright pink clothes are playing with a toy lawnmower .
+beam_size_1	14	Two girls are dressed the same and one of them is playing with a toy lawnmower .
+beam_size_1	15	Two little girls stand against a wall , one girl has a happy face and the other girl has a sad face .
+beam_size_1	16	Two twin girls playing with a toy in the driveway
+beam_size_1	17	A girl wets her head in a white bucket .
+beam_size_1	18	A little girl dips her hair into a bucket filled with water .
+beam_size_1	19	A little girl has dunked her head in a bowl of water .
+beam_size_1	20	A little girl in a dress lifts her soaked head from a bucket .
+beam_size_1	21	a young girl lifting her wet hair out of a white bucket
+beam_size_1	22	A girl dressed in a red dress and another girl dressed as a pirate are playing around .
+beam_size_1	23	Girls dressed in red and black costumes hold a wrestling pose .
+beam_size_1	24	two girls dress up for halloween .
+beam_size_1	25	Two girls in red costumes play together .
+beam_size_1	26	Two little girls in red and black costumes are posing for a picture .
+beam_size_1	27	A man in a green shirt climbs an indoor climbing wall .
+beam_size_1	28	A man in a green shirt is climbing an obstacle course .
+beam_size_1	29	A teenage boy climbs an indoor climbing wall .
+beam_size_1	30	A teenager climbs a rock wall .
+beam_size_1	31	Someone climbs an indoor climbing wall .
+beam_size_1	32	Airplane emitting heavy red colored smoke .
+beam_size_1	33	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	34	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	35	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	36	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	37	A few boats ride in the water in front of a city skyline .
+beam_size_1	38	A large boat drives through the harbor .
+beam_size_1	39	A white boat is cruising near a large city backdrop .
+beam_size_1	40	Small yachts in harbor , city in background .
+beam_size_1	41	There is a white boat in the bay with a city in the background .
+beam_size_1	42	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	43	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	44	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	45	Two people riding a bike are riding towards a stop sign .
+beam_size_1	46	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	47	A girl making a sad face standing in front of her tricycle
+beam_size_1	48	A little girl in a pink shirt about to cry
+beam_size_1	49	A little girl with mud on her face cries .
+beam_size_1	50	A young girl with dirt on her face and a red child 's bike is in the background .
+beam_size_1	51	The girl in a pink top is standing next to a red tricycle looking like she is about to cry .

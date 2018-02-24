@@ -1,0 +1,68 @@
+a dark living room with a white couch and a fireplace . 
+a dark living room with a white couch and a fireplace . 
+
+object-prep-object	room with bed
+object-prep-object	room with fireplace
+attribute-object	dark room
+attribute-object	white sofa
+attribute-object	living room
+object	room
+object	sofa
+object	bed
+object	fireplace
+object	sofa
+#####################################################
+A living room containing a large cream sofa along with a chair and fireplace . 
+a living room contain a large cream sofa along with a chair and fireplace . 
+
+object-prep-object	sofa along_with chair
+object-prep-object	sofa along_with fireplace
+attribute-object	large sofa
+object-verb-object	room contain sofa
+attribute-object	living room
+attribute-object	cream sofa
+object	sofa
+object	chair
+object	fireplace
+object	room
+object	sofa
+#####################################################
+An empty room with a beige couch and blinds on the windows . 
+a empty room with a beige couch and blind on the window . 
+
+object-prep-object	blind on window
+object-prep-object	room with bed
+object-prep-object	room with blind
+attribute-object	empty room
+attribute-object	brown sofa
+object	blind
+object	window
+object	room
+object	sofa
+object	bed
+object	sofa
+#####################################################
+A room with a fireplace and large sofa . 
+a room with a fireplace and large sofa . 
+
+object-prep-object	room with fireplace
+object-prep-object	room with sofa
+attribute-object	large sofa
+object	room
+object	fireplace
+object	sofa
+object	sofa
+#####################################################
+Sun shining through the window of a tidy living room . 
+Sun shine through the window of a tidy living room . 
+
+verb-prep-object	shine through window
+object-prep-object	window of room
+attribute-object	tidy room
+attribute-object	living room
+object-verb	sun shine
+object	window
+object	room
+object	sun
+object	sofa
+#####################################################

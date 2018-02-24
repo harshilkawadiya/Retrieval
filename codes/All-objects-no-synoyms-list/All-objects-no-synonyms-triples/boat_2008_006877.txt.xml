@@ -1,0 +1,46 @@
+A boat is going down a river in a city . 
+a boat be go down a river in a city . 
+
+object-prep-object	boat in city
+object-verb-object	boat go river
+verb-attribute	go down
+object	boat
+object	city
+object	river
+object	boat
+#####################################################
+A passenger boat travels down a city river . 
+a passenger boat travel down a city river . 
+
+object-verb-object	boat travel river
+attribute-object	passenger boat
+attribute-object	city river
+verb-attribute	travel down
+object	boat
+object	river
+object	boat
+#####################################################
+A river view of a city . 
+a river view of a city . 
+
+object	city
+object	city
+object	boat
+#####################################################
+A view of a city from the river . 
+a view of a city from the river . 
+
+object	city
+object	city
+object	boat
+#####################################################
+Tranquil image of a riverboat moving smoothly with the city in the background . 
+Tranquil image of a riverboat move smoothly with the city in the background . 
+
+object-prep-object	riverboat with city
+object-verb	riverboat move
+verb-attribute	move smoothly
+object	riverboat
+object	city
+object	boat
+#####################################################

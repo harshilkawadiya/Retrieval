@@ -1,0 +1,54 @@
+A group of women posing for a picture . 
+a group of woman pose for a picture . 
+
+verb-prep-object	pose for picture
+object-verb	woman pose
+object	picture
+object	woman
+object	chair
+#####################################################
+Three Indian girls dressed up for a gathering . 
+three indian girl dress up for a gathering . 
+
+verb-prep-object	dress for gathering
+attribute-object	indian girl
+object-verb	girl dress
+verb-attribute	dress up
+object	gathering
+object	girl
+object	chair
+#####################################################
+Three women in Indian dresses in a crowded room smiling . 
+three woman in indian dress in a crowded room smile . 
+
+object-prep-object	woman in dress
+object-prep-object	woman in room
+attribute-object	indian dress
+attribute-object	crowded room
+object-verb	woman smile
+object	woman
+object	dress
+object	room
+object	chair
+#####################################################
+Three women with brown hair are smiling . 
+three woman with brown hair be smile . 
+
+object-prep-object	woman with hair
+attribute-object	brown hair
+object-verb	woman smile
+object	woman
+object	hair
+object	chair
+#####################################################
+Three young ladies from India in a restaurant . 
+three young lady from India in a restaurant . 
+
+object-prep-object	lady from india
+object-prep-object	lady in restaurant
+attribute-object	young lady
+object	lady
+object	india
+object	restaurant
+object	chair
+#####################################################

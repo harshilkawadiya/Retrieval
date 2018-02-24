@@ -1,0 +1,50 @@
+beam_size_1	2	A costumes woman applies makeup while looking in a mirror .
+beam_size_1	3	A showgirl , holding lipstick in her hand , and wearing a feather headdress , looks in a mirror .
+beam_size_1	4	A showgirl puts on her lipstick in the mirror .
+beam_size_1	5	A woman in a fancy costume is fixer her makeup in front of a mirror .
+beam_size_1	6	Costumed woman applying lipstick .
+beam_size_1	7	a small black dog biting a ladies two fingers on a beige couch
+beam_size_1	8	A small black dog chews on fingers .
+beam_size_1	9	A small dog bites a ladies fingers .
+beam_size_1	10	Small black dog biting on a person 's finger .
+beam_size_1	11	Small black dog biting the fingers of a woman .
+beam_size_1	12	A woman in a blue sweater with a blue scarf around her head .
+beam_size_1	13	A woman in a head covering is looking away from the camera .
+beam_size_1	14	A woman is wearing a blue headscarf and a blue sweater .
+beam_size_1	15	A woman wearing a teal cardigan with a teal scarf and sunglasses on her head .
+beam_size_1	16	There is a woman with a green scarf around her head .
+beam_size_1	17	A blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake .
+beam_size_1	18	A boy diving backward off a pier in a large lake .
+beam_size_1	19	A boy in a blue life jacket jumps into the water .
+beam_size_1	20	A boy in a blue life jacket jumps off a board into the lake .
+beam_size_1	21	A boy is holding his nose and jumping off a diving board backwards into a lake .
+beam_size_1	22	A basset hound is leashed to the rearview mirror of a yellow and white vehicle
+beam_size_1	23	a black and white dog tied to a yellow and white van
+beam_size_1	24	A dog , lying down , tethered to the side mirror of a yellow VW bus .
+beam_size_1	25	a dog with black , white , and brown coloring is leashed up to a mirror
+beam_size_1	26	The black and white dog is tethered next to a yellow car .
+beam_size_1	27	A coach speaking to a football player while everyone watches .
+beam_size_1	28	A football player from OU talks to the coach about the game .
+beam_size_1	29	A football player is talking to his coach .
+beam_size_1	30	The coaching official and football player are talking in front a crowd and other team members .
+beam_size_1	31	The coach talks it over with his quarterback during a timeout .
+beam_size_1	32	A snowboarder going over a cliff .
+beam_size_1	33	A snowboarder is jumping off a high stone wall .
+beam_size_1	34	A snowboarder vaulting over a rock ridge .
+beam_size_1	35	Snowboarder performing a trick high in the air over snow .
+beam_size_1	36	The snowboarder is doing a jump .
+beam_size_1	37	A man and a woman sitting on a bench
+beam_size_1	38	An older couple is resting on a bench .
+beam_size_1	39	An older man and woman sitting on a cement bench with frowns on their faces .
+beam_size_1	40	An older woman and an old man sitting down looking unhappy .
+beam_size_1	41	An overweight woman and man have upset faces as they sit on a bench .
+beam_size_1	42	A male athlete is wearing a teal sweatband and a shirt from Nike and is holding a tennis racket .
+beam_size_1	43	A man plays tennis .
+beam_size_1	44	A tennis player is carrying a tennis racket .
+beam_size_1	45	a tennis player wearing a yellow , white and blue shirt carrying a racquet
+beam_size_1	46	The tennis player is wearing a yellow and blue shirt and a blue headband .
+beam_size_1	47	There are women in St Patrick 's Day costumes
+beam_size_1	48	Three women celebrate St Patrick 's day by dressing up in green and white on a busy street .
+beam_size_1	49	Three women dressed in green celebrating St Patricks Day .
+beam_size_1	50	Three women dressed up in green and shamrocks .
+beam_size_1	51	Three women wearing plenty of green and shamrocks .

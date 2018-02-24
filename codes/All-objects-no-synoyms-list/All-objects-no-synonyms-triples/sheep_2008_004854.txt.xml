@@ -1,0 +1,62 @@
+A black sheep and a white sheep stand on grass , but the white one has blue earphones and a spot . 
+a black sheep and a white sheep stand on grass , but the white one have blue earphone and a spot . 
+
+verb-prep-object	stand on grass
+attribute-object	black sheep
+attribute-object	white sheep
+object-verb	sheep stand
+object-prep-object	sheep on grass
+attribute-object	blue earphone
+object-verb-object	sheep have earphone
+object-verb-object	sheep have spot
+object	grass
+object	sheep
+object	earphone
+object	spot
+object	sheep
+#####################################################
+A white sheep wearing blue headphones with a black sheep behind . 
+a white sheep wear blue headphone with a black sheep behind . 
+
+object-verb-object	sheep wear headphone
+attribute-object	white sheep
+attribute-object	blue headphone
+object-prep-object	sheep with sheep
+attribute-object	black sheep
+object	sheep
+object	headphone
+object	sheep
+#####################################################
+One white sheep and one black sheep listening to music with headphones . 
+one white sheep and one black sheep listen to music with headphone . 
+
+verb-prep-object	listen with headphone
+object-prep-object	sheep with headphone
+verb-prep-object	listen to music
+attribute-object	white sheep
+attribute-object	black sheep
+object-verb	sheep listen
+object	headphone
+object	sheep
+object	music
+object	sheep
+#####################################################
+Sheep wearing a blue headset . 
+Sheep wear a blue headset . 
+
+attribute-object	blue headset
+object-verb-object	sheep wear headset
+object	headset
+object	sheep
+object	sheep
+#####################################################
+Two sheep in a field , one of them wearing headphones . 
+two sheep in a field , one of they wear headphone . 
+
+object-prep-object	sheep in field
+object-verb-object	sheep wear headphone
+object	sheep
+object	field
+object	headphone
+object	sheep
+#####################################################

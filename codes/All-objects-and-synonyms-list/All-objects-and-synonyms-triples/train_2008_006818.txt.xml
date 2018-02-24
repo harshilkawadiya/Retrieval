@@ -1,0 +1,58 @@
+An old passenger train in blue and white sits in Sheffield Station . 
+a old passenger train in blue and white sit in Sheffield Station . 
+
+object-verb	train sit
+object-prep-object	train in blue
+object-prep-object	train in white
+verb-prep-object	sit in station
+object-prep-object	train in station
+attribute-object	old train
+attribute-object	passenger train
+attribute-object	sheffield station
+object	train
+object	blue
+object	white
+object	station
+object	train
+#####################################################
+A passenger train waiting at the city train station . 
+a passenger train wait at the city train station . 
+
+verb-prep-object	wait at station
+object-prep-object	train at station
+attribute-object	passenger train
+attribute-object	city station
+attribute-object	train station
+object-verb	train wait
+object	station
+object	train
+object	train
+#####################################################
+A passenger train with a yellow engine . 
+a passenger train with a yellow engine . 
+
+object-prep-object	train with engine
+attribute-object	yellow engine
+attribute-object	passenger train
+object	train
+object	engine
+object	train
+#####################################################
+Black train arriving at train . 
+Black train arrive at train . 
+
+verb-prep-object	arrive at train
+attribute-object	black train
+object-verb	train arrive
+object	train
+object	train
+#####################################################
+The blue train is at the station . 
+the blue train be at the station . 
+
+object-prep-object	train at station
+attribute-object	blue train
+object	train
+object	station
+object	train
+#####################################################

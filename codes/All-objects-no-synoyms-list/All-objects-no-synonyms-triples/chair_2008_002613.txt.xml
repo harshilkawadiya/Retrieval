@@ -1,0 +1,67 @@
+A close-up of a woman posing with a lotion bottle . 
+a close-up of a woman pose with a lotion bottle . 
+
+verb-prep-object	pose with bottle
+object-prep-object	woman with bottle
+attribute-object	lotion bottle
+object-verb	woman pose
+object	bottle
+object	woman
+object	chair
+#####################################################
+A woman sitting in a chair at Christmas holding make up . 
+a woman sit in a chair at Christmas hold make up . 
+
+verb-prep-object	sit at christmas
+verb-prep-object	sit in chair
+object-prep-object	woman in chair
+object-verb-object	woman hold make_up
+object-verb	woman sit
+object	christmas
+object	chair
+object	woman
+object	make_up
+object	chair
+#####################################################
+Girl on Christmas posing with a tube of cream . 
+Girl on Christmas pose with a tube of cream . 
+
+object-prep-object	girl on christmas
+object-prep-object	tube of cream
+verb-prep-object	pose with tube
+object-prep-object	girl with tube
+object-verb	girl pose
+object	girl
+object	christmas
+object	tube
+object	cream
+object	chair
+#####################################################
+Woman dressed in red posing with Christmas present . 
+Woman dress in red pose with Christmas present . 
+
+verb-prep-object	pose with present
+object-prep-object	woman with present
+verb-prep-object	dress in red
+object-prep-object	woman in red
+attribute-object	christmas present
+object-verb	woman dress
+object-verb	woman pose
+object	present
+object	woman
+object	red
+object	chair
+#####################################################
+Woman in red sweater presenting a bottle of cream . 
+Woman in red sweater present a bottle of cream . 
+
+object-prep-object	woman in sweater
+object-prep-object	bottle of cream
+attribute-object	red sweater
+object-verb-object	woman present bottle
+object	woman
+object	sweater
+object	bottle
+object	cream
+object	chair
+#####################################################

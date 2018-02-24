@@ -1,0 +1,53 @@
+A back porch in the rain . 
+a back porch in the rain . 
+
+object-prep-object	porch in rain
+attribute-object	back porch
+object	porch
+object	rain
+object	pottedplant
+#####################################################
+A patio with a chair is beside a tool shed . 
+a patio with a chair be beside a tool shed . 
+
+object-prep-object	patio beside tool
+object-prep-object	patio with chair
+object-verb	tool shed
+object	patio
+object	tool
+object	chair
+object	pottedplant
+#####################################################
+A small yard with plants and a green plastic chair . 
+a small yard with plant and a green plastic chair . 
+
+object-prep-object	yard with plant
+attribute-object	small yard
+object-prep-object	yard with chair
+attribute-object	green chair
+attribute-object	plastic chair
+object	yard
+object	plant
+object	chair
+object	pottedplant
+#####################################################
+Hail stone-covered patio outside . 
+hail stone-covered patio outside . 
+
+attribute-object	hail patio
+attribute-object	stone-covered patio
+object	patio
+object	pottedplant
+#####################################################
+There is a green chair on a deck along with some potted plants . 
+there be a green chair on a deck along with some potted plant . 
+
+object-prep-object	chair along_with plant
+object-prep-object	chair on deck
+attribute-object	green chair
+attribute-object	potted plant
+object	chair
+object	plant
+object	deck
+object	pottedplant
+#####################################################

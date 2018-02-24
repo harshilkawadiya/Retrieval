@@ -1,0 +1,69 @@
+A large yellow bus is parked next to a building by a field . 
+a large yellow bus be park next to a building by a field . 
+
+verb-prep-object	park next_to building
+verb-prep-object	park by field
+object-prep-object	bus next_to building
+object-prep-object	bus by field
+attribute-object	large bus
+attribute-object	yellow bus
+object-verb	bus park
+object	building
+object	field
+object	bus
+object	bus
+#####################################################
+A yellow school bus is parked in a rural area . 
+a yellow school bus be park in a rural area . 
+
+verb-prep-object	park in area
+object-prep-object	bus in area
+attribute-object	yellow bus
+attribute-object	rural area
+attribute-object	school bus
+object-verb	bus park
+object	area
+object	bus
+object	bus
+#####################################################
+A yellow school bus parked in a field . 
+a yellow school bus park in a field . 
+
+verb-prep-object	park in field
+object-prep-object	bus in field
+attribute-object	yellow bus
+attribute-object	school bus
+object-verb	bus park
+object	field
+object	bus
+object	bus
+#####################################################
+Old school bus parked beside a run down building . 
+Old school bus park beside a run down building . 
+
+object-verb	bus park
+verb-prep-object	park beside building
+object-prep-object	bus beside building
+attribute-object	run_down building
+attribute-object	old bus
+attribute-object	school bus
+object	bus
+object	building
+object	bus
+#####################################################
+Yellow schoolbus parked on grassy dirt road in front of house . 
+yellow schoolbus park on grassy dirt road in front of house . 
+
+verb-prep-object	park on road
+object-prep-object	schoolbus on road
+verb-prep-object	park in_front_of house
+object-prep-object	schoolbus in_front_of house
+attribute-object	yellow schoolbus
+attribute-object	grassy road
+attribute-object	dirt road
+object-verb	schoolbus park
+object	road
+object	schoolbus
+object	house
+object	bus
+#####################################################

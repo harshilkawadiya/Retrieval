@@ -1,0 +1,56 @@
+A motorcycle and rider in a large field . 
+a motorcycle and rider in a large field . 
+
+object-prep-object	motorcycle in field
+object-prep-object	rider in field
+attribute-object	large field
+object	motorcycle
+object	field
+object	rider
+object	motorbike
+#####################################################
+Individual in a red helmet on a motorbike in a green field underneath a blue sky . 
+individual in a red helmet on a motorbike in a green field underneath a blue sky . 
+
+object-prep-object	individual in helmet
+object-prep-object	individual on motorbike
+attribute-object	red helmet
+object-prep-object	motorbike in field
+attribute-object	green field
+object	individual
+object	helmet
+object	motorbike
+object	field
+object	motorbike
+#####################################################
+Man on a motorcycle in the woods . 
+man on a motorcycle in the wood . 
+
+object-prep-object	man on motorcycle
+object-prep-object	man in wood
+object-prep-object	motorcycle in wood
+object	man
+object	motorcycle
+object	wood
+object	motorbike
+#####################################################
+Off road motorcycle riding is n't only in the dirt ! 
+off road motorcycle ride be not only in the dirt ! 
+
+object-verb	motorcycle ride
+object	motorcycle
+object	motorbike
+#####################################################
+White motorcycle with a person with a red helmet riding . 
+White motorcycle with a person with a red helmet ride . 
+
+object-prep-object	motorcycle with person
+attribute-object	white motorcycle
+object-prep-object	person with helmet
+attribute-object	red helmet
+object-verb	person ride
+object	motorcycle
+object	person
+object	helmet
+object	motorbike
+#####################################################

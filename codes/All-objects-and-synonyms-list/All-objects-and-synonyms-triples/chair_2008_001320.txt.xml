@@ -1,0 +1,74 @@
+A man in a blue shirt is standing beside a table with a birthday cake . 
+a man in a blue shirt be stand beside a table with a birthday cake . 
+
+object-prep-object	diningtable with table
+object-prep-object	person in man
+attribute-object	blue shirt
+attribute-object	birthday cake
+object-verb	person stand
+verb-prep-object	stand beside diningtable
+object-prep-object	person beside diningtable
+object	diningtable
+object	table
+object	person
+object	man
+object	shirt
+object	cake
+object	chair
+#####################################################
+A man stands behind a birthday cake smiling . 
+a man stand behind a birthday cake smile . 
+
+verb-prep-object	stand behind cake
+object-prep-object	person behind man
+attribute-object	birthday cake
+object-verb	person stand
+object-verb	person smile
+object	cake
+object	person
+object	man
+object	chair
+#####################################################
+An elderly man stands behind a birthday cake with four candles . 
+a elderly man stand behind a birthday cake with four candle . 
+
+object-prep-object	cake with candle
+verb-prep-object	stand behind cake
+object-prep-object	person behind man
+attribute-object	elderly person
+attribute-object	birthday cake
+object-verb	person stand
+object	cake
+object	candle
+object	person
+object	man
+object	chair
+#####################################################
+An older man poses for a photo in front of a birthday cake . 
+a older man pose for a photo in front of a birthday cake . 
+
+object-prep-object	person in_front_of man
+verb-prep-object	pose in_front_of cake
+verb-prep-object	pose for photo
+attribute-object	older person
+attribute-object	birthday cake
+object-verb	person pose
+object	person
+object	man
+object	cake
+object	photo
+object	chair
+#####################################################
+An older man stands behind a birthday cake . 
+a older man stand behind a birthday cake . 
+
+verb-prep-object	stand behind cake
+object-prep-object	person behind man
+attribute-object	older person
+attribute-object	birthday cake
+object-verb	person stand
+object	cake
+object	person
+object	man
+object	chair
+#####################################################

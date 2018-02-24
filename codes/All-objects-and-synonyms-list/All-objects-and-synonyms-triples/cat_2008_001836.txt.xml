@@ -1,0 +1,61 @@
+A ginger cat laying on black plastic . 
+a ginger cat lay on black plastic . 
+
+verb-prep-object	lay on plastic
+object-prep-object	cat on plastic
+attribute-object	black plastic
+attribute-object	ginger cat
+object-verb	cat lay
+object	plastic
+object	cat
+object	cat
+#####################################################
+An orange cat is laying on a black beanbag . 
+a orange cat be lay on a black beanbag . 
+
+verb-prep-object	lay on beanbag
+object-prep-object	cat on beanbag
+attribute-object	orange cat
+attribute-object	black beanbag
+object-verb	cat lay
+object	beanbag
+object	cat
+object	cat
+#####################################################
+Tan domestic cat under black tarp . 
+Tan domestic cat under black tarp . 
+
+object-prep-object	cat under tarp
+attribute-object	tan cat
+attribute-object	domestic cat
+attribute-object	black tarp
+object	cat
+object	tarp
+object	cat
+#####################################################
+The ginger cat is sitting inside black plastic lining with part of a gray tabby cat in the foreground . 
+the ginger cat be sit inside black plastic line with part of a gray tabby cat in the foreground . 
+
+object-verb	cat sit
+attribute-object	ginger cat
+verb-prep-object	sit inside lining
+object-prep-object	cat inside lining
+attribute-object	black lining
+attribute-object	plastic lining
+attribute-object	gray cat
+attribute-object	tabby cat
+object	cat
+object	lining
+object	cat
+#####################################################
+The orange cat is inside of a black plastic bag . 
+the orange cat be inside of a black plastic bag . 
+
+object-prep-object	cat inside_of bag
+attribute-object	orange cat
+attribute-object	black bag
+attribute-object	plastic bag
+object	cat
+object	bag
+object	cat
+#####################################################

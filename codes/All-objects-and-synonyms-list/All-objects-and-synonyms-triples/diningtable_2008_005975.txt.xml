@@ -1,0 +1,86 @@
+A bronze statue of a buddy holding a candle sitting on a white table and runner with leaves . 
+a bronze statue of a buddy hold a candle sit on a white table and runner with leaf . 
+
+object-verb-object	buddy hold candle
+object-verb	buddy sit
+verb-prep-object	sit on diningtable
+object-prep-object	buddy on diningtable
+object-prep-object	statue of buddy
+attribute-object	bronze statue
+attribute-object	white diningtable
+verb-prep-object	sit on runner
+object-prep-object	runner with leaf
+object	buddy
+object	candle
+object	diningtable
+object	table
+object	statue
+object	runner
+object	leaf
+object	diningtable
+#####################################################
+A buddha candle holder rests on a bamboo mat in the center of the table . 
+a buddha candle holder rest on a bamboo mat in the center of the table . 
+
+verb-prep-object	rest on mat
+object-prep-object	holder on mat
+verb-prep-object	rest in_center_of diningtable
+object-prep-object	holder in_center_of diningtable
+attribute-object	bamboo mat
+attribute-object	buddha holder
+attribute-object	candle holder
+object-verb	holder rest
+object	mat
+object	holder
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+A buddha statue holding a candle is sitting on a table . 
+a buddha statue hold a candle be sit on a table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	statue on diningtable
+object-verb-object	statue hold candle
+attribute-object	buddha statue
+object-verb	statue sit
+object	diningtable
+object	table
+object	statue
+object	candle
+object	diningtable
+#####################################################
+A buddha statue sits on a table with a wooden table runner . 
+a buddha statue sit on a table with a wooden table runner . 
+
+object-prep-object	diningtable with table
+verb-prep-object	sit on diningtable
+object-prep-object	statue on diningtable
+attribute-object	wooden runner
+attribute-object	buddha statue
+attribute-object	table runner
+object-verb	statue sit
+object	diningtable
+object	table
+object	statue
+object	runner
+object	diningtable
+#####################################################
+A Buddhist idle is placed at the center of a long white table on top of a bamboo runner . 
+a buddhist idle be place at the center of a long white table on top of a bamboo runner . 
+
+verb-prep-object	place at diningtable
+object-prep-object	idle at diningtable
+verb-prep-object	place on_top_of runner
+object-prep-object	idle on_top_of runner
+attribute-object	buddhist idle
+attribute-object	long diningtable
+attribute-object	white diningtable
+attribute-object	bamboo runner
+object-verb	idle place
+object	diningtable
+object	table
+object	idle
+object	runner
+object	diningtable
+#####################################################

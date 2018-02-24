@@ -1,0 +1,54 @@
+an Asian woman sitting in a chair on her balcony . 
+a asian woman sit in a chair on she balcony . 
+
+verb-prep-object	sit on balcony
+object-prep-object	woman on balcony
+verb-prep-object	sit in chair
+object-prep-object	woman in chair
+attribute-object	asian woman
+object-verb	woman sit
+object	balcony
+object	woman
+object	chair
+object	person
+#####################################################
+A woman smiling . 
+a woman smile . 
+
+object-verb	woman smile
+object	woman
+object	person
+#####################################################
+Smiling Asian woman in floral dress . 
+smile asian woman in floral dress . 
+
+object-prep-object	woman in dress
+attribute-object	smile woman
+attribute-object	asian woman
+attribute-object	floral dress
+object	woman
+object	dress
+object	person
+#####################################################
+The happy lady enjoys her surroundings . 
+the happy lady enjoy she surroundings . 
+
+attribute-object	happy lady
+object-verb-object	lady enjoy surroundings
+object	lady
+object	surroundings
+object	person
+#####################################################
+The woman in the floral dress is posing among plants . 
+the woman in the floral dress be pose among plant . 
+
+verb-prep-object	pose among plant
+object-prep-object	woman among plant
+object-prep-object	woman in dress
+attribute-object	floral dress
+object-verb	woman pose
+object	plant
+object	woman
+object	dress
+object	person
+#####################################################

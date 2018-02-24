@@ -1,0 +1,52 @@
+Two black and white cows drinking out of a pond . 
+two black and white cow drink out of a pond . 
+
+verb-prep-object	drink out_of water
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow drink
+object	water
+object	pond
+object	cow
+object	cow
+#####################################################
+Two black and white cows drinking water . 
+two black and white cow drink water . 
+
+attribute-object	black cow
+attribute-object	white cow
+object-verb-object	cow drink water
+object	cow
+object	water
+object	cow
+#####################################################
+Two cows are drinking from a pond . 
+two cow be drink from a pond . 
+
+verb-prep-object	drink from water
+object-verb	cow drink
+object	water
+object	pond
+object	cow
+object	cow
+#####################################################
+Two cows drinking from a stream . 
+two cow drink from a stream . 
+
+verb-prep-object	drink from stream
+object-verb	cow drink
+object	stream
+object	cow
+object	cow
+#####################################################
+Two dairy cows drinking from a pond . 
+two dairy cow drink from a pond . 
+
+verb-prep-object	drink from water
+attribute-object	dairy cow
+object-verb	cow drink
+object	water
+object	pond
+object	cow
+object	cow
+#####################################################

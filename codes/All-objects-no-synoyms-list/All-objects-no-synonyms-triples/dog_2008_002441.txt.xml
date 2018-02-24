@@ -1,0 +1,54 @@
+A man holds a ball in a puppies mouth . 
+a man hold a ball in a puppy mouth . 
+
+object-prep-object	ball in mouth
+object-verb-object	man hold ball
+attribute-object	puppy mouth
+object	ball
+object	mouth
+object	man
+object	dog
+#####################################################
+A puppy bites a ball . 
+a puppy bite a ball . 
+
+object-verb-object	puppy bite ball
+object	puppy
+object	ball
+object	dog
+#####################################################
+A small puppy being fed a chocolate treat . 
+a small puppy be feed a chocolate treat . 
+
+attribute-object	small puppy
+object-verb-object	puppy feed treat
+attribute-object	chocolate treat
+object	puppy
+object	treat
+object	dog
+#####################################################
+A tan puppy with a hand holding something in his mouth . 
+a tan puppy with a hand hold something in he mouth . 
+
+object-prep-object	puppy with hand
+attribute-object	tan puppy
+object-verb-object	puppy hold something
+object-prep-object	something in mouth
+object	puppy
+object	hand
+object	something
+object	mouth
+object	dog
+#####################################################
+Someone is putting something in the white dog 's mouth . 
+someone be put something in the white dog 's mouth . 
+
+object-prep-object	something in mouth
+attribute-object	white dog
+object-verb-object	someone put something
+object	something
+object	mouth
+object	dog
+object	someone
+object	dog
+#####################################################

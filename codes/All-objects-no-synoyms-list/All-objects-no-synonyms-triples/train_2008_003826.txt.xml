@@ -1,0 +1,55 @@
+A London Underground train in a siding next to a London Overground train . 
+a London underground train in a siding next to a London Overground train . 
+
+object-prep-object	train next_to train
+object-prep-object	train in siding
+attribute-object	underground train
+attribute-object	london train
+attribute-object	london train
+attribute-object	overground train
+object	train
+object	siding
+object	train
+#####################################################
+The red train and the yellow train on on the tracks . 
+the red train and the yellow train on on the track . 
+
+attribute-object	red train
+attribute-object	yellow train
+object-prep-object	train on track
+object	train
+object	track
+object	train
+#####################################################
+Trains amble by the rail yard . 
+train amble by the rail yard . 
+
+verb-prep-object	amble by yard
+object-prep-object	train by yard
+attribute-object	rail yard
+object-verb	train amble
+object	yard
+object	train
+object	train
+#####################################################
+Two trains are traveling on the track . 
+two train be travel on the track . 
+
+verb-prep-object	travel on track
+object-prep-object	train on track
+object-verb	train travel
+object	track
+object	train
+object	train
+#####################################################
+Two trains stopped on a railroad track . 
+two train stop on a railroad track . 
+
+object-verb	train stop
+attribute-object	railroad track
+verb-prep-object	stop on track
+object-prep-object	train on track
+object	train
+object	track
+object	train
+#####################################################

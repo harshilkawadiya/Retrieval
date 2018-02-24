@@ -1,0 +1,60 @@
+A dark brown and black bull in front of a wire fence . 
+a dark brown and black bull in front of a wire fence . 
+
+object-prep-object	cow in_front_of bull
+attribute-object	dark cow
+attribute-object	brown cow
+attribute-object	black cow
+attribute-object	wire fence
+object	cow
+object	bull
+object	fence
+object	cow
+#####################################################
+A waterfall is staring right at the camera . 
+a waterfall be stare right at the camera . 
+
+verb-prep-object	stare at camera
+object-verb	waterfall stare
+object	camera
+object	waterfall
+object	cow
+#####################################################
+Brown and black bull standing out in the open . 
+Brown and black bull stand out in the open . 
+
+verb-prep-object	stand in open
+object-prep-object	cow in bull
+attribute-object	brown cow
+attribute-object	black cow
+object-verb	cow stand
+verb-attribute	stand out
+object	open
+object	cow
+object	bull
+object	cow
+#####################################################
+Brown cow with horns standing in a field . 
+Brown cow with horn stand in a field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+object-prep-object	cow with horn
+attribute-object	brown cow
+object-verb	cow stand
+object	field
+object	cow
+object	horn
+object	cow
+#####################################################
+The black and brown cow is looking at the camera . 
+the black and brown cow be look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	black cow
+attribute-object	brown cow
+object-verb	cow look
+object	camera
+object	cow
+object	cow
+#####################################################

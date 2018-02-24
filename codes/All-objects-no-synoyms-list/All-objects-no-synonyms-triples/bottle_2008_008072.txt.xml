@@ -1,0 +1,67 @@
+A baby in a red sox sweatshirt and a dirty face prepares to eat a lemon . 
+a baby in a red sox sweatshirt and a dirty face prepare to eat a lemon . 
+
+object-prep-object	baby in sweatshirt
+attribute-object	red sweatshirt
+attribute-object	sox sweatshirt
+attribute-object	dirty face
+object-verb	baby prepare
+verb-prep-verb	prepare to eat
+verb-object	eat lemon
+object	baby
+object	sweatshirt
+object	face
+object	lemon
+object	bottle
+#####################################################
+A baby with a dirty face eats a lemon wedge . 
+a baby with a dirty face eat a lemon wedge . 
+
+object-prep-object	baby with face
+attribute-object	dirty face
+attribute-object	lemon wedge
+object-verb-object	baby eat wedge
+object	baby
+object	face
+object	wedge
+object	bottle
+#####################################################
+A boy with food on his face looking at a lemon in a restaurant . 
+a boy with food on he face look at a lemon in a restaurant . 
+
+verb-prep-object	look at lemon
+object-prep-object	boy with food
+object-prep-object	food on face
+object-prep-object	boy in restaurant
+object-verb	boy look
+object	lemon
+object	boy
+object	food
+object	face
+object	restaurant
+object	bottle
+#####################################################
+A small child looking at a lemon on the table in front of them . 
+a small child look at a lemon on the table in front of they . 
+
+verb-prep-object	look at lemon
+object-prep-object	lemon on table
+attribute-object	small child
+object-verb	child look
+object	lemon
+object	table
+object	child
+object	bottle
+#####################################################
+Infant playing with lemon slice on table . 
+infant playing with lemon slice on table . 
+
+object-prep-object	slice on table
+verb-prep-object	play with slice
+object-verb	infant play
+attribute-object	lemon slice
+object	slice
+object	table
+object	infant
+object	bottle
+#####################################################

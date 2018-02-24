@@ -1,0 +1,59 @@
+An empty hallway leading into a room with brown furniture . 
+a empty hallway lead into a room with brown furniture . 
+
+verb-prep-object	lead into room
+object-prep-object	room with furniture
+attribute-object	empty hallway
+attribute-object	brown furniture
+object-verb	hallway lead
+object	room
+object	furniture
+object	hallway
+object	chair
+#####################################################
+Down the hallway you can see a doorway , a window and two couches . 
+down the hallway you can see a doorway , a window and two couch . 
+
+object	doorway
+object	window
+object	couch
+object	doorway
+object	window
+object	couch
+object	chair
+#####################################################
+Empty house with garbage on the floor and leather chairs in the living room . 
+empty house with garbage on the floor and leather chair in the living room . 
+
+attribute-object	empty house
+object-prep-object	house with garbage
+object-prep-object	house with chair
+object-prep-object	garbage on floor
+object-prep-object	chair in room
+attribute-object	leather chair
+attribute-object	living room
+object	house
+object	garbage
+object	chair
+object	floor
+object	room
+object	chair
+#####################################################
+Looking down a hallway into the living room of a home . 
+look down a hallway into the living room of a home . 
+
+object-prep-object	room of home
+attribute-object	living room
+object	room
+object	home
+object	chair
+#####################################################
+The hallway has wooden floors . 
+the hallway have wooden floor . 
+
+attribute-object	wooden floor
+object-verb-object	hallway have floor
+object	floor
+object	hallway
+object	chair
+#####################################################

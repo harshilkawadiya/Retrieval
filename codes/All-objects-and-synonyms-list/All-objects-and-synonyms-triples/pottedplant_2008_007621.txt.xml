@@ -1,0 +1,75 @@
+A brown and white dog poses near a fruit tree in a container pot . 
+a brown and white dog pose near a fruit tree in a container pot . 
+
+verb-prep-object	pose near tree
+object-prep-object	dog near tree
+verb-prep-object	pose in pottedplant
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	fruit tree
+attribute-object	container pottedplant
+object-verb	dog pose
+object	tree
+object	dog
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################
+A brown and white dog stands and looks at the camera . 
+a brown and white dog stand and look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	brown dog
+attribute-object	white dog
+object-verb	dog stand
+object-verb	dog look
+object	camera
+object	dog
+object	pottedplant
+#####################################################
+A dog with large ears looks up at the camera while next to a small bush . 
+a dog with large ear look up at the camera while next to a small bush . 
+
+verb-prep-object	look at camera
+object-prep-object	dog with ear
+object-prep-object	dog next_to bush
+attribute-object	large ear
+attribute-object	small bush
+object-verb	dog look
+verb-attribute	look up
+object	camera
+object	dog
+object	ear
+object	bush
+object	pottedplant
+#####################################################
+the white and brown dog is excited to go on a walk in the sunshine . 
+the white and brown dog be excite to go on a walk in the sunshine . 
+
+verb-prep-object	go on walk
+object-prep-object	walk in sunny
+attribute-object	white dog
+attribute-object	brown dog
+object-verb	dog excite
+verb-prep-verb	excite to go
+object	walk
+object	sunny
+object	dog
+object	pottedplant
+#####################################################
+Young basset hound standing on patio looking at camera . 
+Young basset hound stand on patio look at camera . 
+
+verb-prep-object	stand on patio
+object-prep-object	dog on hound
+verb-prep-object	look at camera
+attribute-object	young dog
+attribute-object	basset dog
+object-verb	dog stand
+object-verb	dog look
+object	patio
+object	dog
+object	hound
+object	camera
+object	pottedplant
+#####################################################

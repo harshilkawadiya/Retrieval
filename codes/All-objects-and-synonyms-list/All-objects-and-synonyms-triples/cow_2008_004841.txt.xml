@@ -1,0 +1,59 @@
+A child on a pink stool milking a black and white cow . 
+a child on a pink stool milk a black and white cow . 
+
+object-prep-object	person on child
+attribute-object	pink stool
+attribute-object	black cow
+attribute-object	white cow
+object-verb-object	person milk child
+object	person
+object	child
+object	stool
+object	cow
+object	cow
+#####################################################
+A young boy is milking a cow . 
+a young boy be milk a cow . 
+
+attribute-object	young person
+object-verb-object	person milk boy
+object	person
+object	boy
+object	cow
+#####################################################
+A young boy milking a cow while sitting on a pink stool . 
+a young boy milk a cow while sit on a pink stool . 
+
+verb-prep-object	sit on stool
+object-prep-object	person on boy
+object-verb	person sit
+attribute-object	young person
+attribute-object	pink stool
+object-verb-object	person milk boy
+object	stool
+object	person
+object	boy
+object	cow
+#####################################################
+A young boy sitting on a pink stool milking a cow . 
+a young boy sit on a pink stool milk a cow . 
+
+verb-prep-object	sit on stool
+object-prep-object	person on boy
+attribute-object	young person
+attribute-object	pink stool
+object-verb-object	person milk boy
+object-verb	person sit
+object	stool
+object	person
+object	boy
+object	cow
+#####################################################
+Child milking a cow outside . 
+child milk a cow outside . 
+
+object-verb-object	person milk child
+object	person
+object	child
+object	cow
+#####################################################

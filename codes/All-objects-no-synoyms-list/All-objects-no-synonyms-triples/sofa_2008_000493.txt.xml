@@ -1,0 +1,75 @@
+A woman holds a baby on a sofa with a small boy sitting next to her . 
+a woman hold a baby on a sofa with a small boy sit next to she . 
+
+verb-prep-object	sit next_to woman
+object-prep-object	boy next_to woman
+verb-prep-object	hold on sofa
+object-prep-object	woman on sofa
+attribute-object	small boy
+object-verb-object	woman hold baby
+object-verb	boy sit
+object	woman
+object	boy
+object	sofa
+object	baby
+object	sofa
+#####################################################
+Older woman holding newborn baby on couch . 
+older woman hold newborn baby on couch . 
+
+verb-prep-object	hold on couch
+object-prep-object	woman on couch
+attribute-object	older woman
+attribute-object	newborn baby
+object-verb-object	woman hold baby
+object	couch
+object	woman
+object	baby
+object	sofa
+#####################################################
+Woman holding newborn and sitting next to young boy . 
+Woman hold newborn and sit next to young boy . 
+
+verb-prep-object	sit next_to boy
+object-prep-object	woman next_to boy
+object-verb-object	woman hold newborn
+object-verb	woman sit
+attribute-object	young boy
+object	boy
+object	woman
+object	newborn
+object	sofa
+#####################################################
+Woman with infant , and child sitting next to her on couch . 
+Woman with infant , and child sit next to she on couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	child on couch
+object-prep-object	woman with infant
+verb-prep-object	sit next_to woman
+object-prep-object	child next_to woman
+object-verb	child sit
+object	couch
+object	child
+object	woman
+object	infant
+object	sofa
+#####################################################
+Woman with short haircut sitting on brown couch is holding a baby while another child watches . 
+Woman with short haircut sit on brown couch be hold a baby while another child watch . 
+
+object-prep-object	woman with haircut
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+attribute-object	short haircut
+attribute-object	brown couch
+object-verb-object	woman hold baby
+object-verb	child watch
+object-verb	woman sit
+object	woman
+object	haircut
+object	couch
+object	baby
+object	child
+object	sofa
+#####################################################

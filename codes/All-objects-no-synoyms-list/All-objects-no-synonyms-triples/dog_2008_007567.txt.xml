@@ -1,0 +1,68 @@
+An elderly woman poses beside a small child dressed as a bumble-bee on Halloween . 
+a elderly woman pose beside a small child dress as a bumble-bee on Halloween . 
+
+verb-prep-object	dress as bumble-bee
+verb-prep-object	pose beside child
+object-prep-object	woman beside child
+attribute-object	elderly woman
+attribute-object	small child
+object-verb	woman pose
+object-verb	child dress
+verb-prep-object	dress on halloween
+object	bumble-bee
+object	child
+object	woman
+object	halloween
+object	dog
+#####################################################
+An older woman faces the camera with a baby dressed as a bee on Halloween . 
+a older woman face the camera with a baby dress as a bee on Halloween . 
+
+verb-prep-object	dress as bee
+verb-prep-object	dress on halloween
+attribute-object	older woman
+object-verb-object	woman face camera
+object-verb	baby dress
+object	bee
+object	halloween
+object	woman
+object	camera
+object	baby
+object	dog
+#####################################################
+An older woman next to a child dressed in a costume . 
+a older woman next to a child dress in a costume . 
+
+object-prep-object	woman next_to child
+verb-prep-object	dress in costume
+object-prep-object	child in costume
+object-verb	child dress
+attribute-object	older woman
+object	woman
+object	child
+object	costume
+object	dog
+#####################################################
+A woman hugs a child that is in a bumblebee costume . 
+a woman hug a child that be in a bumblebee costume . 
+
+object-verb-object	woman hug child
+attribute-object	bumblebee costume
+object-prep-object	child in costume
+object	woman
+object	child
+object	costume
+object	dog
+#####################################################
+A woman poses with a toddler in a costume . 
+a woman pose with a toddler in a costume . 
+
+verb-prep-object	pose with toddler
+object-prep-object	woman with toddler
+object-prep-object	toddler in costume
+object-verb	woman pose
+object	toddler
+object	woman
+object	costume
+object	dog
+#####################################################

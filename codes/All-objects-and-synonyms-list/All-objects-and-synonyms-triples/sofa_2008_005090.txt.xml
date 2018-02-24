@@ -1,0 +1,70 @@
+There are two people sitting on a purple couch while smoking . 
+there be two people sit on a purple couch while smoking . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	purple sofa
+object-verb	person sit
+object-verb	person smoking
+object	sofa
+object	bed
+object	person
+object	people
+object	sofa
+#####################################################
+Two guys on a couch watching tv . 
+two guy on a couch watch tv . 
+
+object-prep-object	person on bed
+object-verb-object	person watch tvmonitor
+object	person
+object	guy
+object	sofa
+object	bed
+object	tvmonitor
+object	sofa
+#####################################################
+Two guys sitting on a couch watching television , drinking , and smoking . 
+two guy sit on a couch watch television , drinking , and smoking . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb-object	person watch tvmonitor
+object-verb	person drink
+object-verb	person smoking
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	guy
+object	tvmonitor
+object	sofa
+#####################################################
+two men in black tops and blue jeans smoking cigarettes and watching TV . 
+two man in black top and blue jeans smoke cigarette and watch tv . 
+
+object-prep-object	person in man
+object-prep-object	person in man
+attribute-object	black top
+attribute-object	blue jeans
+object-verb-object	person smoke man
+object-verb-object	person watch tvmonitor
+object	person
+object	man
+object	top
+object	jeans
+object	tvmonitor
+object	sofa
+#####################################################
+Two young men relaxing , watching television and drinking beer . 
+two young man relax , watch television and drinking beer . 
+
+attribute-object	young person
+object-verb	person relax
+object-verb-object	person watch tvmonitor
+object-verb-object	person drink man
+object	person
+object	man
+object	tvmonitor
+object	sofa
+#####################################################

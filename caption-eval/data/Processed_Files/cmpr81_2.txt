@@ -1,0 +1,50 @@
+beam_size_1	2	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	3	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	4	A little boy is leaping in the air onto a water slide .
+beam_size_1	5	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	6	The boy in the swimming trunks is playing in the yard .
+beam_size_1	7	A man sleeping with a bag on his lap on public transportation
+beam_size_1	8	A man who has fallen asleep on public transportation .
+beam_size_1	9	An asian man in a suit on the subway , asleep .
+beam_size_1	10	A tired business man takes a quick nap while riding the train .
+beam_size_1	11	A young man in a suit and tie leans against a railing to take a nap on public transit .
+beam_size_1	12	A teacher is instructing two boys how to use the computer in a class .
+beam_size_1	13	A woman helps boys on a computer .
+beam_size_1	14	Children sit in front of a computer while their teacher instructs them .
+beam_size_1	15	Kids work at computers with a teacher 's help .
+beam_size_1	16	Two boys are getting help on a computer from a teacher .
+beam_size_1	17	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	18	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	19	a little boy at the beach with a surfboard
+beam_size_1	20	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	21	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	22	A man fly fishes in a large river .
+beam_size_1	23	A man stands on the edge of the water and holds a fishing pole .
+beam_size_1	24	A man with a tan hat and jacket is fishing in green waters .
+beam_size_1	25	one lone fisherman with his line cast out into the river .
+beam_size_1	26	The man is fishing at the water 's edge .
+beam_size_1	27	A boy plays a game with wooden blocks .
+beam_size_1	28	A child playing with building blocks on a wooden table .
+beam_size_1	29	A small boy is building with some wooden blocks .
+beam_size_1	30	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	31	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	32	A boy is upside down in midair near a lake at sunset .
+beam_size_1	33	A person does a flip by two sailboats and a lake .
+beam_size_1	34	A person flipping upside down
+beam_size_1	35	a person in midair doing a back flip .
+beam_size_1	36	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	37	A baby sits on a tire and holds a toy .
+beam_size_1	38	A little kid , with a red toy , is sitting on a tire .
+beam_size_1	39	Boy in pajamas , with red and yellow toy , seated on tire near plants .
+beam_size_1	40	Child holding plastic car sits on a tire .
+beam_size_1	41	The child is sitting on the street playing with a red toy .
+beam_size_1	42	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	43	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	44	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	45	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	46	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	47	A brown dog jumps through three hoops .
+beam_size_1	48	A dog is jumping through hoops held by people .
+beam_size_1	49	a dog jumps through a black hulahoop .
+beam_size_1	50	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	51	A trainer runs next to his dog as it jumps through multiple hoops .

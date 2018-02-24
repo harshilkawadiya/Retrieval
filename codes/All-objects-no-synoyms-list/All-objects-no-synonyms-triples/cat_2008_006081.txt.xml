@@ -1,0 +1,57 @@
+A black and white cat laying on a cat bed . 
+a black and white cat lay on a cat bed . 
+
+verb-prep-object	lay on bed
+object-prep-object	cat on bed
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	cat bed
+object-verb	cat lay
+object	bed
+object	cat
+object	cat
+#####################################################
+A black cat is on a pet bed . 
+a black cat be on a pet bed . 
+
+object-prep-object	cat on bed
+attribute-object	black cat
+attribute-object	pet bed
+object	cat
+object	bed
+object	cat
+#####################################################
+A black cat stretches while laying in its leopard-printed bed . 
+a black cat stretch while lay in its leopard-printed bed . 
+
+verb-prep-object	lay in bed
+object-prep-object	cat in bed
+attribute-object	black cat
+attribute-object	leopard-printed bed
+object-verb	cat stretch
+object-verb	cat lay
+object	bed
+object	cat
+object	cat
+#####################################################
+A cat lounging in a blue room . 
+a cat lounge in a blue room . 
+
+verb-prep-object	lounge in room
+object-prep-object	cat in room
+attribute-object	blue room
+object-verb	cat lounge
+object	room
+object	cat
+object	cat
+#####################################################
+Black domestic cat laying halfway in and out of the bedding . 
+Black domestic cat lay halfway in and out of the bedding . 
+
+attribute-object	black cat
+attribute-object	domestic cat
+object-verb-object	cat lay halfway
+object	cat
+object	halfway
+object	cat
+#####################################################

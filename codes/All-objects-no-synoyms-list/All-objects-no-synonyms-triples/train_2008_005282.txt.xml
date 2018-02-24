@@ -1,0 +1,49 @@
+An indoor train depot with trains on both sides of the walkway . 
+a indoor train depot with train on both side of the walkway . 
+
+object-prep-object	depot with train
+attribute-object	indoor depot
+attribute-object	train depot
+object-prep-object	train on walkway
+object	depot
+object	train
+object	walkway
+object	train
+#####################################################
+A train parked at a train station . 
+a train park at a train station . 
+
+verb-prep-object	park at station
+object-prep-object	train at station
+attribute-object	train station
+object-verb	train park
+object	station
+object	train
+object	train
+#####################################################
+Trains inside an indoor station . 
+train inside a indoor station . 
+
+object-prep-object	train inside station
+attribute-object	indoor station
+object	train
+object	station
+object	train
+#####################################################
+Train station . 
+train station . 
+
+attribute-object	train station
+object	station
+object	train
+#####################################################
+Two old passenger trains in a depot . 
+two old passenger train in a depot . 
+
+object-prep-object	train in depot
+attribute-object	old train
+attribute-object	passenger train
+object	train
+object	depot
+object	train
+#####################################################

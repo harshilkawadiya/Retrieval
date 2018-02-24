@@ -1,0 +1,62 @@
+A small white cat sitting in a sink . 
+a small white cat sit in a sink . 
+
+verb-prep-object	sit in sink
+object-prep-object	cat in sink
+attribute-object	small cat
+attribute-object	white cat
+object-verb	cat sit
+object	sink
+object	cat
+object	bottle
+#####################################################
+A small white cat standing in a sink . 
+a small white cat standing in a sink . 
+
+verb-prep-object	stand in sink
+object-prep-object	cat in sink
+attribute-object	small cat
+attribute-object	white cat
+object-verb	cat stand
+object	sink
+object	cat
+object	bottle
+#####################################################
+A white and gray cat in a bathroom sink looking at the camera . 
+a white and gray cat in a bathroom sink look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	cat in sink
+attribute-object	white cat
+attribute-object	gray cat
+attribute-object	bathroom sink
+object-verb	cat look
+object	camera
+object	cat
+object	sink
+object	bottle
+#####################################################
+Gray and white cat sitting in bathroom sink . 
+Gray and white cat sit in bathroom sink . 
+
+verb-prep-object	sit in sink
+object-prep-object	cat in sink
+attribute-object	gray cat
+attribute-object	white cat
+attribute-object	bathroom sink
+object-verb	cat sit
+object	sink
+object	cat
+object	bottle
+#####################################################
+White cat sitting inside of a sink . 
+White cat sit inside of a sink . 
+
+verb-prep-object	sit inside_of sink
+object-prep-object	cat inside_of sink
+attribute-object	white cat
+object-verb	cat sit
+object	sink
+object	cat
+object	bottle
+#####################################################

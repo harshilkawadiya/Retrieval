@@ -1,0 +1,75 @@
+A unique living room with tv , brown table , green and brown walls , and white chairs . 
+a unique living room with tv , brown table , green and brown wall , and white chair . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with diningtable
+object-prep-object	room with wall
+object-prep-object	room with chair
+attribute-object	unique room
+attribute-object	brown diningtable
+attribute-object	green wall
+attribute-object	brown wall
+attribute-object	white chair
+attribute-object	living room
+object	room
+object	tvmonitor
+object	diningtable
+object	wall
+object	chair
+object	table
+object	pottedplant
+#####################################################
+A very retro living room with a television in it . 
+a very retro living room with a television in it . 
+
+object-prep-object	room with tvmonitor
+attribute-object	retro room
+attribute-object	living room
+object	room
+object	tvmonitor
+object	pottedplant
+#####################################################
+Modern room with TV in a round brown frame . 
+Modern room with tv in a round brown frame . 
+
+object-prep-object	tvmonitor in tv
+object-prep-object	room with tvmonitor
+attribute-object	round frame
+attribute-object	brown frame
+attribute-object	modern room
+object	tvmonitor
+object	tv
+object	room
+object	frame
+object	pottedplant
+#####################################################
+Television encased in a wood frame in a lobby . 
+Television encase in a wood frame in a lobby . 
+
+verb-prep-object	encase in frame
+object-prep-object	tvmonitor in television
+verb-prep-object	encase in room
+object-prep-object	tvmonitor in room
+attribute-object	wooden frame
+object-verb	tvmonitor encase
+object	frame
+object	tvmonitor
+object	television
+object	room
+object	lobby
+object	pottedplant
+#####################################################
+There is a TV with a wooden oval frame in a modern room . 
+there be a tv with a wooden oval frame in a modern room . 
+
+object-prep-object	tvmonitor with tv
+object-prep-object	tvmonitor in tv
+attribute-object	wooden frame
+attribute-object	oval frame
+attribute-object	modern room
+object	tvmonitor
+object	tv
+object	frame
+object	room
+object	pottedplant
+#####################################################

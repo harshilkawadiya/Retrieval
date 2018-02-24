@@ -1,0 +1,53 @@
+A bicycle on display with a shade attached . 
+a bicycle on display with a shade attach . 
+
+object-prep-object	bicycle on display
+object-prep-object	bicycle with shade
+object-verb	shade attach
+object	bicycle
+object	display
+object	shade
+object	bicycle
+#####################################################
+A vintage bicycle on display in a museum . 
+a vintage bicycle on display in a museum . 
+
+object-prep-object	bicycle on display
+object-prep-object	bicycle in museum
+verb-prep-object	display in museum
+attribute-object	vintage bicycle
+object	bicycle
+object	display
+object	museum
+object	bicycle
+#####################################################
+A wooden bicycle with an attached shade cover . 
+a wooden bicycle with a attach shade cover . 
+
+object-prep-object	bicycle with cover
+attribute-object	wooden bicycle
+attribute-object	attach cover
+attribute-object	shade cover
+object	bicycle
+object	cover
+object	bicycle
+#####################################################
+A wooden bicycle with an awning . 
+a wooden bicycle with a awning . 
+
+object-prep-object	bicycle with awning
+attribute-object	wooden bicycle
+object	bicycle
+object	awning
+object	bicycle
+#####################################################
+Old style bicycle with umbrella attached to it . 
+Old style bicycle with umbrella attach to it . 
+
+object-prep-object	bicycle with umbrella
+attribute-object	old bicycle
+attribute-object	style bicycle
+object	bicycle
+object	umbrella
+object	bicycle
+#####################################################

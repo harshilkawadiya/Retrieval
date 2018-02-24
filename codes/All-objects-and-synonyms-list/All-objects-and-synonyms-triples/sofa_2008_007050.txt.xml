@@ -1,0 +1,64 @@
+A living room with wooden floors and patterned sofas . 
+a living room with wooden floor and pattern sofa . 
+
+object-prep-object	room with floor
+object-prep-object	room with sofa
+attribute-object	wooden floor
+attribute-object	pattern sofa
+attribute-object	living room
+object	room
+object	floor
+object	sofa
+object	sofa
+#####################################################
+A matching furniture set in a living room . 
+a match furniture set in a living room . 
+
+object-prep-object	set in room
+attribute-object	match set
+attribute-object	furniture set
+attribute-object	living room
+object	set
+object	room
+object	sofa
+#####################################################
+A red , green , and white couch and ottoman in a living room with a hardwood floor . 
+a red , green , and white couch and ottoman in a living room with a hardwood floor . 
+
+object-prep-object	room with floor
+object-prep-object	sofa in bed
+object-prep-object	ottoman in room
+attribute-object	red sofa
+attribute-object	green sofa
+attribute-object	white sofa
+attribute-object	hardwood floor
+attribute-object	living room
+object	room
+object	floor
+object	sofa
+object	bed
+object	ottoman
+object	sofa
+#####################################################
+Colorful furniture on wooden floor in room . 
+colorful furniture on wooden floor in room . 
+
+object-prep-object	furniture on floor
+object-prep-object	furniture in room
+attribute-object	colorful furniture
+attribute-object	wooden floor
+object	furniture
+object	floor
+object	room
+object	sofa
+#####################################################
+Matched flowered and plaid living room set . 
+match flowered and plaid living room set . 
+
+attribute-object	match room
+attribute-object	flowered room
+attribute-object	plaid room
+attribute-object	living room
+object	room
+object	sofa
+#####################################################

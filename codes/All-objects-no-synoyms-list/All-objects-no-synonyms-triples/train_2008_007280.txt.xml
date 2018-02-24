@@ -1,0 +1,63 @@
+A commuter train pulling into a platform at night . 
+a commuter train pull into a platform at night . 
+
+verb-prep-object	pull at night
+verb-prep-object	pull into platform
+attribute-object	commuter train
+object-verb	train pull
+object	night
+object	platform
+object	train
+object	train
+#####################################################
+A woman in a black hat is standing by the subway . 
+a woman in a black hat be stand by the subway . 
+
+verb-prep-object	stand by subway
+object-prep-object	woman by subway
+object-prep-object	woman in hat
+attribute-object	black hat
+object-verb	woman stand
+object	subway
+object	woman
+object	hat
+object	train
+#####################################################
+A woman is waiting by a subway train . 
+a woman be wait by a subway train . 
+
+verb-prep-object	wait by train
+attribute-object	subway train
+object-verb	woman wait
+object	train
+object	woman
+object	train
+#####################################################
+A woman waits for a train on the platform . 
+a woman wait for a train on the platform . 
+
+verb-prep-object	wait on platform
+object-prep-object	woman on platform
+verb-prep-object	wait for train
+object-verb	woman wait
+object	platform
+object	woman
+object	train
+object	train
+#####################################################
+A woman with a black hat and coat standing beside a subway car . 
+a woman with a black hat and coat standing beside a subway car . 
+
+object-prep-object	woman with hat
+object-prep-object	woman with coat
+attribute-object	black hat
+object-verb	woman stand
+verb-prep-object	stand beside car
+object-prep-object	woman beside car
+attribute-object	subway car
+object	woman
+object	hat
+object	coat
+object	car
+object	train
+#####################################################

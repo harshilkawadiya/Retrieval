@@ -1,0 +1,59 @@
+A cruise liner docked at a port . 
+a cruise liner dock at a port . 
+
+verb-prep-object	dock at port
+object-prep-object	ship at boat
+attribute-object	cruise ship
+object-verb	ship dock
+object	port
+object	ship
+object	boat
+object	boat
+#####################################################
+A cruise liner docked at the shoreline . 
+a cruise liner dock at the shoreline . 
+
+verb-prep-object	dock at shoreline
+object-prep-object	ship at boat
+attribute-object	cruise ship
+object-verb	ship dock
+object	shoreline
+object	ship
+object	boat
+object	boat
+#####################################################
+A cruise ship docked at shore . 
+a cruise ship dock at shore . 
+
+verb-prep-object	dock at shore
+object-prep-object	boat at ship
+attribute-object	cruise boat
+object-verb	boat dock
+object	shore
+object	boat
+object	ship
+object	boat
+#####################################################
+A small boat sets off across a lake ! 
+a small boat set off across a lake ! 
+
+verb-prep-object	set across water
+object-prep-object	boat across water
+attribute-object	small boat
+object-verb	boat set
+verb-attribute	set off
+object	water
+object	lake
+object	boat
+object	boat
+#####################################################
+Overlook of ocean with boat in water . 
+Overlook of ocean with boat in water . 
+
+object-prep-object	water with ocean
+object-prep-object	boat in water
+object	water
+object	ocean
+object	boat
+object	boat
+#####################################################

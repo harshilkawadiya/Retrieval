@@ -1,0 +1,68 @@
+A black and white image of a cyclist riding in the bike lane . 
+a black and white image of a cyclist ride in the bike lane . 
+
+verb-prep-object	ride in lane
+object-prep-object	cyclist in lane
+object-prep-object	image of cyclist
+attribute-object	black image
+attribute-object	white image
+attribute-object	bike lane
+object-verb	cyclist ride
+object	lane
+object	cyclist
+object	image
+object	bicycle
+#####################################################
+A black and white photo of a person riding a bicycle among cars . 
+a black and white photo of a person ride a bicycle among car . 
+
+object-prep-object	bicycle among car
+verb-prep-object	ride among car
+object-prep-object	photo of person
+attribute-object	black photo
+attribute-object	white photo
+object-verb-object	person ride bicycle
+object	bicycle
+object	car
+object	photo
+object	person
+object	bicycle
+#####################################################
+A man rides a bicycle on the bike path of a highway . 
+a man ride a bicycle on the bike path of a highway . 
+
+verb-prep-object	ride on path
+object-prep-object	path of highway
+object-verb-object	man ride bicyle
+attribute-object	bike path
+object	path
+object	highway
+object	man
+object	bicyle
+object	bicycle
+#####################################################
+A man riding a bicycle alongside a black car . 
+a man ride a bicycle alongside a black car . 
+
+verb-prep-object	ride alongside car
+object-prep-object	man alongside car
+attribute-object	black car
+object-verb-object	man ride bicycle
+object	car
+object	man
+object	bicycle
+object	bicycle
+#####################################################
+Person riding bicycle in the bicycle lane on a road . 
+person ride bicycle in the bicycle lane on a road . 
+
+verb-prep-object	ride on road
+verb-prep-object	ride in lane
+object-verb-object	person ride bicycle
+attribute-object	bicycle lane
+object	road
+object	lane
+object	person
+object	bicycle
+object	bicycle
+#####################################################

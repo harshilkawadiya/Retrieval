@@ -1,0 +1,58 @@
+A brindle dog lying on a cushion next to a plant . 
+a brindle dog lie on a cushion next to a plant . 
+
+verb-prep-object	lie on cushion
+verb-prep-object	lie next_to plant
+object-prep-object	dog on cushion
+object-prep-object	dog next_to plant
+attribute-object	brindle dog
+object-verb	dog lie
+object	cushion
+object	plant
+object	dog
+object	dog
+#####################################################
+A brown and white dog lays on a large green pillow . 
+a brown and white dog lay on a large green pillow . 
+
+verb-prep-object	lay on pillow
+object-prep-object	dog on pillow
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	large pillow
+attribute-object	green pillow
+object-verb	dog lay
+object	pillow
+object	dog
+object	dog
+#####################################################
+A dog sleeping on his back . 
+a dog sleep on he back . 
+
+verb-prep-object	sleep on back
+object-verb	dog sleep
+object	back
+object	dog
+object	dog
+#####################################################
+A dog sleeps belly up near furniture . 
+a dog sleep belly up near furniture . 
+
+verb-prep-object	sleep near furniture
+object-prep-object	dog near furniture
+object-verb	dog sleep
+object	furniture
+object	dog
+object	dog
+#####################################################
+Young boxer lying upside down in bed . 
+Young boxer lie upside down in bed . 
+
+verb-prep-object	lie in bed
+object-prep-object	boxer in bed
+attribute-object	young boxer
+object-verb	boxer lie
+object	bed
+object	boxer
+object	dog
+#####################################################

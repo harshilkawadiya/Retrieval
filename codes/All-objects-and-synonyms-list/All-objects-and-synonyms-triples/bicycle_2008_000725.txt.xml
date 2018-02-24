@@ -1,0 +1,83 @@
+A cyclist relaxes on a bench and gazes toward the ocean . 
+a cyclist relax on a bench and gaze toward the ocean . 
+
+verb-prep-object	relax on chair
+object-prep-object	person on chair
+verb-prep-object	gaze toward water
+object-prep-object	person toward water
+object-verb	person relax
+object-verb	person gaze
+object	chair
+object	bench
+object	person
+object	water
+object	bicycle
+#####################################################
+Man sits on bench and looks toward ocean with a bike at his side . 
+man sit on bench and look toward ocean with a bike at he side . 
+
+object-prep-object	person with bicycle
+verb-prep-object	look toward water
+object-prep-object	person toward water
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-verb	person sit
+object-verb	person look
+object	person
+object	bicycle
+object	water
+object	chair
+object	bench
+object	bicycle
+#####################################################
+Person sitting on a bench taking a break from bike riding . 
+person sit on a bench take a break from bike ride . 
+
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-prep-object	break from ride
+object-verb	person sit
+object-verb-object	person take break
+attribute-object	bicycle ride
+object	chair
+object	bench
+object	person
+object	break
+object	ride
+object	bicycle
+#####################################################
+Someone sitting on a bench next to a bike looking out over the sea . 
+someone sit on a bench next to a bike look out over the sea . 
+
+verb-prep-object	look over water
+verb-prep-object	sit next_to bicycle
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-prep-object	person next_to bicycle
+object-verb	person sit
+object-verb	person look
+verb-attribute	look out
+object	water
+object	bicycle
+object	chair
+object	bench
+object	person
+object	bicycle
+#####################################################
+Woman sitting next to bicycle on a snowy bench facing the ocean . 
+Woman sit next to bicycle on a snowy bench face the ocean . 
+
+verb-prep-object	sit next_to bicycle
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-prep-object	person next_to bicycle
+attribute-object	snowy chair
+object-verb-object	person face water
+object-verb	person sit
+object	bicycle
+object	chair
+object	bench
+object	person
+object	water
+object	bicycle
+#####################################################

@@ -1,0 +1,59 @@
+Boats anchor off a short distance from the shore . 
+boat anchor off a short distance from the shore . 
+
+verb-prep-object	anchor from shore
+attribute-object	short distance
+object-verb-object	boat anchor distance
+verb-attribute	anchor off
+object	shore
+object	distance
+object	boat
+object	boat
+#####################################################
+Boats , blue lake and villas in front of a hill . 
+boat , blue lake and villa in front of a hill . 
+
+object-prep-object	boat in_front_of mountain
+object-prep-object	water in_front_of mountain
+object-prep-object	villa in_front_of mountain
+attribute-object	blue water
+object	boat
+object	mountain
+object	water
+object	lake
+object	villa
+object	boat
+#####################################################
+Boats on the ocean with a hill behind it . 
+boat on the ocean with a hill behind it . 
+
+object-prep-object	boat on water
+object-prep-object	boat with mountain
+object	boat
+object	water
+object	mountain
+object	boat
+#####################################################
+The boats are on the water located in front of the mountain . 
+the boat be on the water locate in front of the mountain . 
+
+object-prep-object	boat on water
+object-prep-object	boat in_front_of mountain
+object	boat
+object	water
+object	mountain
+object	boat
+#####################################################
+Three sailboats in a row on a bright blue sea . 
+three sailboat in a row on a bright blue sea . 
+
+object-prep-object	boat on water
+object-prep-object	boat in sailboat
+attribute-object	bright water
+attribute-object	blue water
+object	boat
+object	sailboat
+object	water
+object	sea
+object	boat
+#####################################################

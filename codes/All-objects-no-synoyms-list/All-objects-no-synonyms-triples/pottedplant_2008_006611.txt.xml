@@ -1,0 +1,62 @@
+A boy pointing at another boy at the table . 
+a boy point at another boy at the table . 
+
+verb-prep-object	point at boy
+object-prep-object	boy at table
+object-verb	boy point
+object	boy
+object	table
+object	pottedplant
+#####################################################
+A boy points at the other boy sitting across the table from him . 
+a boy point at the other boy sit across the table from he . 
+
+verb-prep-object	point at boy
+verb-prep-object	sit across table
+object-prep-object	boy across table
+object-verb	boy point
+object-verb	boy sit
+object	boy
+object	table
+object	pottedplant
+#####################################################
+Two boys sit facing one another at a table and one points at the other . 
+two boy sit face one another at a table and one point at the other . 
+
+verb-prep-object	sit at table
+object-prep-object	boy at table
+object-verb	boy sit
+object-verb	boy point
+object	table
+object	boy
+object	pottedplant
+#####################################################
+Two people sit facing each other at a table as one points at the other . 
+two people sit face each other at a table as one point at the other . 
+
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-verb	people sit
+object-verb	people point
+object	table
+object	people
+object	pottedplant
+#####################################################
+Two young people are sitting at a table next to a sliding glass door , with one person pointing at the other . 
+two young people be sit at a table next to a slide glass door , with one person point at the other . 
+
+object-verb	people sit
+verb-prep-object	sit at table
+object-prep-object	people at table
+attribute-object	young people
+verb-prep-object	sit next_to door
+object-prep-object	people next_to door
+attribute-object	slide door
+attribute-object	glass door
+object-verb	person point
+object	people
+object	table
+object	door
+object	person
+object	pottedplant
+#####################################################

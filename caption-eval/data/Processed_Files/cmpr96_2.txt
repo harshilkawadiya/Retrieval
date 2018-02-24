@@ -1,0 +1,50 @@
+beam_size_1	2	A man who has a gray beard and gray hair laughs while wearing a purple shirt .
+beam_size_1	3	A man with a bushy beard and pink shirt is smiling .
+beam_size_1	4	A man with disheveled hair and facial hair in a crowd of people is smiling .
+beam_size_1	5	A man with poofy gray hair laughing
+beam_size_1	6	An old man with white long hair and a white long beard .
+beam_size_1	7	A girl smiles as she runs across the white sandy beach in her swimsuit .
+beam_size_1	8	a little girl in a flowered bathingsuit runs through the sand at the beach
+beam_size_1	9	A little girl in a flower swimsuit running across the beach with waves in the background .
+beam_size_1	10	There is a little girl running on the beach .
+beam_size_1	11	The young girl is running on a sandy beach .
+beam_size_1	12	A boy looks suspiciously at someone nearby .
+beam_size_1	13	A group of people sit on pavement wearing dark shoes and warm clothes .
+beam_size_1	14	A row of legs and black boots with a boy sitting at the end of the row .
+beam_size_1	15	A row of people sitting on the ground wearing matching heeled boots .
+beam_size_1	16	The young man is waiting with others on the sidewalk .
+beam_size_1	17	A group of dark skinned children are sitting beside a red metal container .
+beam_size_1	18	A group of kids sitting against a large red dumpster .
+beam_size_1	19	a group of people sitting outside in the dirt on the ground .
+beam_size_1	20	A large group of people sitting near a shipping container .
+beam_size_1	21	Two sub Saharan African girls in purple dresses sit on the ground .
+beam_size_1	22	A group of girls and guys hang out , one is making a sad face .
+beam_size_1	23	A group of women ; one serious , one frowning , and another smiling .
+beam_size_1	24	A woman in a pink sweater looks pensive next to a crowd of laughing women .
+beam_size_1	25	A young girl gazes at something in the distance as those around her talk .
+beam_size_1	26	There are oriental people standing together .
+beam_size_1	27	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	28	A firetruck with ladder extended on the side of the road .
+beam_size_1	29	A jogger with a dog approaches a ladder truck .
+beam_size_1	30	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	31	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	32	Children are playing soccer , while an adult looks on .
+beam_size_1	33	Children dressed in green and yellow soccer uniforms run after a soccer ball
+beam_size_1	34	Three children in neon colors play soccer while young man watches
+beam_size_1	35	Three children wearing soccer uniforms chase after a blue and grey soccer ball .
+beam_size_1	36	Three child soccer players go for the ball .
+beam_size_1	37	A girl jumping over a jump rope .
+beam_size_1	38	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	39	A girl wearing shorts plays jump rope .
+beam_size_1	40	A little girl is jumping over a yellow rope .
+beam_size_1	41	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	42	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	43	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	44	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	45	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	46	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	47	A boy hangs from a t-bar while a man gives him a push .
+beam_size_1	48	A little boy being pushed by an older person on playground
+beam_size_1	49	A little boy is going down a pulley swing .
+beam_size_1	50	a man pushes a boy on a zip line .
+beam_size_1	51	A smiling boy slides down a rope while hanging on .

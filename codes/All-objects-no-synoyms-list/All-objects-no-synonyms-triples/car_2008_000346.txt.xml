@@ -1,0 +1,57 @@
+A man is standing next to a yellow sports car . 
+a man be stand next to a yellow sport car . 
+
+verb-prep-object	stand next_to car
+object-prep-object	man next_to car
+attribute-object	yellow car
+attribute-object	sport car
+object-verb	man stand
+object	car
+object	man
+object	car
+#####################################################
+A man standing next to a yellow sports car . 
+a man stand next to a yellow sport car . 
+
+verb-prep-object	stand next_to car
+object-prep-object	man next_to car
+attribute-object	yellow car
+attribute-object	sport car
+object-verb	man stand
+object	car
+object	man
+object	car
+#####################################################
+A man stands next to a yellow Corvette . 
+a man stand next to a yellow Corvette . 
+
+verb-prep-object	stand next_to corvette
+object-prep-object	man next_to corvette
+attribute-object	yellow corvette
+object-verb	man stand
+object	corvette
+object	man
+object	car
+#####################################################
+Man standing in front of yellow corvette . 
+man standing in front of yellow corvette . 
+
+verb-prep-object	stand in_front_of corvette
+object-prep-object	man in_front_of corvette
+attribute-object	yellow corvette
+object-verb	man stand
+object	corvette
+object	man
+object	car
+#####################################################
+The proud owner shows off his new car . 
+the proud owner show off he new car . 
+
+attribute-object	proud owner
+attribute-object	new car
+object-verb-object	owner show car
+verb-attribute	show off
+object	owner
+object	car
+object	car
+#####################################################

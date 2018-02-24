@@ -1,0 +1,56 @@
+A heavy traffic scene with many cars and motorcycles . 
+a heavy traffic scene with many car and motorcycle . 
+
+object-prep-object	scene with car
+object-prep-object	scene with motorbike
+attribute-object	heavy scene
+attribute-object	many car
+attribute-object	traffic scene
+object	scene
+object	car
+object	motorbike
+object	motorbike
+#####################################################
+A street crowded with traffic with three motorbikes in front . 
+a street crowd with traffic with three motorbike in front . 
+
+verb-prep-object	crowd with traffic
+object-prep-object	road with street
+verb-prep-object	crowd with motorbike
+object-prep-object	road with street
+object-verb	road crowd
+object	traffic
+object	road
+object	street
+object	motorbike
+object	motorbike
+#####################################################
+Several motorcyclists weaving in and out of traffic . 
+several motorcyclist weave in and out of traffic . 
+
+verb-prep-object	weave in traffic
+object-prep-object	motorcyclist in traffic
+attribute-object	several motorcyclist
+object-verb	motorcyclist weave
+object	traffic
+object	motorcyclist
+object	motorbike
+#####################################################
+Three motorcycles in traffic . 
+three motorcycle in traffic . 
+
+object-prep-object	motorbike in motorcycle
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Three motorcyclists are on a busy street . 
+three motorcyclist be on a busy street . 
+
+object-prep-object	motorcyclist on road
+attribute-object	busy road
+object	motorcyclist
+object	road
+object	street
+object	motorbike
+#####################################################

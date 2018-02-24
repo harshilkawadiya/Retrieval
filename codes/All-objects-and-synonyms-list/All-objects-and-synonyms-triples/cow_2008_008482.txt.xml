@@ -1,0 +1,61 @@
+A black cow in a field with some snow in it . 
+a black cow in a field with some snow in it . 
+
+object-prep-object	field with snow
+object-prep-object	cow in field
+attribute-object	black cow
+object	field
+object	snow
+object	cow
+object	cow
+#####################################################
+A black cow standing in the middle of a snow covered field . 
+a black cow standing in the middle of a snow cover field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	snow field
+attribute-object	cover field
+object-verb	cow stand
+object	field
+object	cow
+object	cow
+#####################################################
+A bull standing in the field . 
+a bull standing in the field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in bull
+object-verb	cow stand
+object	field
+object	cow
+object	bull
+object	cow
+#####################################################
+A distant view of a cow in a field with melting snow . 
+a distant view of a cow in a field with melt snow . 
+
+object-prep-object	field with snow
+object-prep-object	cow in field
+attribute-object	melt snow
+object	field
+object	snow
+object	cow
+object	cow
+#####################################################
+A large black animal standing in an open field with snow . 
+a large black animal standing in a open field with snow . 
+
+object-prep-object	field with snow
+verb-prep-object	stand in field
+object-prep-object	animal in field
+attribute-object	large animal
+attribute-object	black animal
+attribute-object	open field
+object-verb	animal stand
+object	field
+object	snow
+object	animal
+object	cow
+#####################################################

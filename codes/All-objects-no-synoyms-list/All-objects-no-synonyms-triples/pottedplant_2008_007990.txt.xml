@@ -1,0 +1,70 @@
+Three dark haired young women in white , red and black sweaters . 
+three dark haired young woman in white , red and black sweater . 
+
+object-prep-object	woman in sweater
+attribute-object	dark woman
+attribute-object	haired woman
+attribute-object	young woman
+attribute-object	white sweater
+attribute-object	red sweater
+attribute-object	black sweater
+object	woman
+object	sweater
+object	pottedplant
+#####################################################
+Three females wearing sweaters line up in the living room . 
+three female wear sweater line up in the living room . 
+
+object-verb-object	female wear sweater
+object-verb	female line
+verb-attribute	line up
+verb-prep-object	line in room
+attribute-object	living room
+object-prep-object	female in room
+object	female
+object	sweater
+object	room
+object	pottedplant
+#####################################################
+Three women posing for a picture in a home . 
+three woman pose for a picture in a home . 
+
+verb-prep-object	pose for picture
+verb-prep-object	pose in home
+object-prep-object	woman in home
+object-verb	woman pose
+object	picture
+object	home
+object	woman
+object	pottedplant
+#####################################################
+Three women wearing white , red , and black are smiling at the camera in a living room . 
+three woman wear white , red , and black be smile at the camera in a living room . 
+
+verb-prep-object	smile at camera
+verb-prep-object	smile in room
+object-prep-object	woman in room
+object-verb-object	woman wear white
+object-verb-object	woman wear red
+object-verb-object	woman wear black
+attribute-object	living room
+object-verb	woman smile
+object	camera
+object	room
+object	woman
+object	white
+object	red
+object	black
+object	pottedplant
+#####################################################
+Three young women standing in a room together . 
+three young woman stand in a room together . 
+
+verb-prep-object	stand in room
+object-prep-object	woman in room
+attribute-object	young woman
+object-verb	woman stand
+object	room
+object	woman
+object	pottedplant
+#####################################################

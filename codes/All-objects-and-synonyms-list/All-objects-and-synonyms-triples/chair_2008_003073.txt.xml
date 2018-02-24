@@ -1,0 +1,67 @@
+A plaid patterned bedspread in a room with plaid patterned wall paper . 
+a plaid pattern bedspread in a room with plaid pattern wall paper . 
+
+object-prep-object	bedspread in room
+object-prep-object	room with paper
+attribute-object	plaid bedspread
+attribute-object	pattern bedspread
+attribute-object	plaid paper
+attribute-object	pattern paper
+attribute-object	wall paper
+object	bedspread
+object	room
+object	paper
+object	chair
+#####################################################
+A small room containing a day bed with quilt and old books on the wall . 
+a small room contain a day bed with quilt and old book on the wall . 
+
+object-verb-object	room contain bed
+attribute-object	small room
+attribute-object	day bed
+object-prep-object	bed with quilt
+object-prep-object	room with book
+attribute-object	old book
+object-prep-object	book on wall
+object	room
+object	bed
+object	quilt
+object	book
+object	wall
+object	chair
+#####################################################
+The span style bedroom is small but clean . 
+the span style bedroom be small but clean . 
+
+object-object	bedroom small
+object-object	bedroom clean
+attribute-object	span bedroom
+attribute-object	style bedroom
+object	bedroom
+object	small
+object	clean
+object	chair
+#####################################################
+Two twin beds with old fashioned quilts . 
+two twin bed with old fashion quilt . 
+
+object-prep-object	bed with quilt
+attribute-object	twin bed
+attribute-object	old quilt
+attribute-object	fashion quilt
+object	bed
+object	quilt
+object	chair
+#####################################################
+Very patterned room with bed made and wooden chair next to it . 
+very pattern room with bed make and wooden chair next to it . 
+
+object-prep-object	room with bed
+attribute-object	pattern room
+attribute-object	wooden chair
+object-prep-object	chair next_to bed
+object	room
+object	bed
+object	chair
+object	chair
+#####################################################

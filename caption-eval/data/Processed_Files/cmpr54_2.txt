@@ -1,0 +1,50 @@
+beam_size_1	2	A curly haired girl is dragging a grey inflatable raft with a red paddle into the water .
+beam_size_1	3	A girl in a yellow headscarf is pulling a boat to the water .
+beam_size_1	4	A woman pulls an inflatable boat into the water .
+beam_size_1	5	a woman pulls her raft into the water .
+beam_size_1	6	Someone is pulling an inflatable boat with an oar in it .
+beam_size_1	7	A class full of students .
+beam_size_1	8	A classroom of students watching a presentation .
+beam_size_1	9	A conference is being held that involves laptops and big screen presentations .
+beam_size_1	10	A group of people are at a conference watching a slideshow .
+beam_size_1	11	A man is giving a presentation in front of a lot of people .
+beam_size_1	12	The three dogs are standing in the sand .
+beam_size_1	13	Three small dogs stand in the sand and stare at each other .
+beam_size_1	14	Three small dogs , two of which are sniffing noses .
+beam_size_1	15	Two dogs meet and check out a third dog at the beach .
+beam_size_1	16	Two small dogs facing a third dog .
+beam_size_1	17	A boy with an orange shirt smiles , while a boy in a blue shirt looks on .
+beam_size_1	18	A little boy in a tan hat on the ground of a play area .
+beam_size_1	19	A smiling boy in an orange shirt with a safari hat sits at the playground , while a boy in a blue shirt looks on .
+beam_size_1	20	Boy in tan hat laughs while sitting near playground equipment .
+beam_size_1	21	Two boys , one wearing a hat , in a playground .
+beam_size_1	22	A man in a yellow jacket is riding a horse through the mountains .
+beam_size_1	23	A man rides a horse , while mountains and clouds are shown in the background .
+beam_size_1	24	A man riding a brown horse poses in front of a mountain scene .
+beam_size_1	25	A man sits on a horse with mountains in the background .
+beam_size_1	26	Man sitting on brown horse with mountains in background .
+beam_size_1	27	A Japanese woman in a colorful outfit is walking with a man dressed in black past a wooden building .
+beam_size_1	28	A lady dressed in a kimono is looking at the camera .
+beam_size_1	29	Two people stop on an empty city street .
+beam_size_1	30	Two women dressed in traditional Japanese clothing
+beam_size_1	31	Two women in Japanese dress walk down the street .
+beam_size_1	32	A group of basketball players wearing yellow and green reach for a ball .
+beam_size_1	33	Basketball players shoot for a goal during a game .
+beam_size_1	34	Four men jumping in a basketball game
+beam_size_1	35	In this picture all men from both basketball teams with red and green jerseys are jumping .
+beam_size_1	36	The man on the yellow basketball team tries to score while the men on the opposing team try to block his shot .
+beam_size_1	37	a black and white dog jumping in the air to catch a Frisbee
+beam_size_1	38	A black and white dog jumping in a yard .
+beam_size_1	39	A black dog jumps for a Frisbee in a backyard with a white fence .
+beam_size_1	40	A dog catches a flying disk in a yard with a tree .
+beam_size_1	41	A jumping dog in motion .
+beam_size_1	42	A family sitting on rocks posing for the camera .
+beam_size_1	43	The couple have children sitting in their laps on the rocky hillside .
+beam_size_1	44	The four people sit on a pile of rocks .
+beam_size_1	45	Two adults and two children pose on a pile of rocks .
+beam_size_1	46	Two adults and two children sitting on rocks for a picture
+beam_size_1	47	A girl wearing a blue dress is sliding down a tube slide .
+beam_size_1	48	A little girl in a white top is inside a concrete tube .
+beam_size_1	49	A little girl is sliding down a tunnel smiling .
+beam_size_1	50	A little girl smiles as she slides down a tube on a sunny day .
+beam_size_1	51	A young girl in inside a tunnel .

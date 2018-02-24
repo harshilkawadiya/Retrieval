@@ -1,0 +1,50 @@
+A small gray dog on a leash . 
+a small gray dog on a leash . 
+
+object-prep-object	dog on leash
+attribute-object	small dog
+attribute-object	gray dog
+object	dog
+object	leash
+object	dog
+#####################################################
+a small terrier on leash . 
+a small terrier on leash . 
+
+object-prep-object	dog on terrier
+attribute-object	small dog
+object	dog
+object	terrier
+object	dog
+#####################################################
+Furry gray dog on a leash . 
+Furry gray dog on a leash . 
+
+object-prep-object	dog on leash
+attribute-object	furry dog
+attribute-object	gray dog
+object	dog
+object	leash
+object	dog
+#####################################################
+The tiny dog notices something on his daily walk . 
+the tiny dog notice something on he daily walk . 
+
+object-verb-object	dog notice something
+attribute-object	tiny dog
+object-prep-object	dog on walk
+attribute-object	daily walk
+object	dog
+object	something
+object	walk
+object	dog
+#####################################################
+Young schnauzer on leash . 
+Young schnauzer on leash . 
+
+object-prep-object	dog on schnauzer
+attribute-object	young dog
+object	dog
+object	schnauzer
+object	dog
+#####################################################

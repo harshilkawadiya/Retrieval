@@ -1,0 +1,57 @@
+A black and wood colored dining room set in a small apartment . 
+a black and wood color dining room set in a small apartment . 
+
+verb-prep-object	set in apartment
+attribute-object	small apartment
+object-prep-object	room in apartment
+attribute-object	black room
+attribute-object	wood room
+attribute-object	color room
+attribute-object	dining room
+object-verb	room set
+object	apartment
+object	room
+object	diningtable
+#####################################################
+A dining table and chairs in a large white room . 
+a dining table and chair in a large white room . 
+
+object-prep-object	table in room
+object-prep-object	chair in room
+attribute-object	large room
+attribute-object	white room
+attribute-object	dining table
+object	table
+object	room
+object	chair
+object	diningtable
+#####################################################
+A picture overlooking a small table . 
+a picture overlook a small table . 
+
+attribute-object	small table
+object	table
+object	diningtable
+#####################################################
+Black and brown table in living room setting . 
+Black and brown table in live room setting . 
+
+object-prep-object	table in setting
+attribute-object	black table
+attribute-object	brown table
+attribute-object	live setting
+attribute-object	room setting
+object	table
+object	setting
+object	diningtable
+#####################################################
+Room with wooden dining table . 
+room with wooden dining table . 
+
+object-prep-object	room with table
+attribute-object	wooden table
+attribute-object	dining table
+object	room
+object	table
+object	diningtable
+#####################################################

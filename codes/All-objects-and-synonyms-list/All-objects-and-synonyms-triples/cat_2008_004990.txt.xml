@@ -1,0 +1,55 @@
+A brown and orange cat eating from a bowl . 
+a brown and orange cat eat from a bowl . 
+
+verb-prep-object	eat from bowl
+attribute-object	brown cat
+attribute-object	orange cat
+object-verb	cat eat
+object	bowl
+object	cat
+object	cat
+#####################################################
+Brown cat eating in front of a wicker basket . 
+Brown cat eating in front of a wicker basket . 
+
+verb-prep-object	eat in_front_of basket
+object-prep-object	cat in_front_of basket
+attribute-object	brown cat
+object-verb	cat eat
+attribute-object	wicker basket
+object	basket
+object	cat
+object	cat
+#####################################################
+Cat standing next to basket , consuming food . 
+cat standing next to basket , consuming food . 
+
+verb-prep-object	stand next_to basket
+object-prep-object	cat next_to basket
+object-verb	cat stand
+object-verb-object	cat consuming food
+object	basket
+object	cat
+object	food
+object	cat
+#####################################################
+The backside of a wet orange and black cat drinking water . 
+the backside of a wet orange and black cat drinking water . 
+
+attribute-object	wet cat
+attribute-object	orange cat
+attribute-object	black cat
+object-verb-object	cat drink water
+object	cat
+object	water
+object	cat
+#####################################################
+The wet cat is drinking water . 
+the wet cat be drink water . 
+
+attribute-object	wet cat
+object-verb-object	cat drink water
+object	cat
+object	water
+object	cat
+#####################################################

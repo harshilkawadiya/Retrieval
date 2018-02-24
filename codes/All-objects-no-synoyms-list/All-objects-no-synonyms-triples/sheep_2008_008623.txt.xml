@@ -1,0 +1,50 @@
+A sheep eats grass . 
+a sheep eat grass . 
+
+object-verb-object	sheep eat grass
+object	sheep
+object	grass
+object	sheep
+#####################################################
+A sheep eats grass . 
+a sheep eat grass . 
+
+object-verb-object	sheep eat grass
+object	sheep
+object	grass
+object	sheep
+#####################################################
+A sheep grazing in a field . 
+a sheep grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	sheep in field
+object-verb	sheep graze
+object	field
+object	sheep
+object	sheep
+#####################################################
+A sheep grazing near a fence . 
+a sheep grazing near a fence . 
+
+verb-prep-object	graze near fence
+object-prep-object	sheep near fence
+object-verb	sheep graze
+object	fence
+object	sheep
+object	sheep
+#####################################################
+the sheep is dyed blue and purple and is grazing on the grass . 
+the sheep be dye blue and purple and be grazing on the grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	sheep on grass
+object-verb	sheep graze
+object-verb-object	sheep dye blue
+object-verb-object	sheep dye purple
+object	grass
+object	sheep
+object	blue
+object	purple
+object	sheep
+#####################################################

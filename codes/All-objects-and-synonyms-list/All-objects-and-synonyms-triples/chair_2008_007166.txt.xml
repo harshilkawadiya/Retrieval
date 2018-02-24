@@ -1,0 +1,51 @@
+A modern open plan living room and kitchen . 
+a modern open plan live room and kitchen . 
+
+attribute-object	modern room
+attribute-object	open room
+attribute-object	plan room
+attribute-object	live room
+object	kitchen
+object	room
+object	kitchen
+object	chair
+#####################################################
+An apartment has all the basics available . 
+a apartment have all the basics available . 
+
+object-verb-object	room have apartment
+object	room
+object	apartment
+object	chair
+#####################################################
+A spacious home done mostly in white . 
+a spacious home do mostly in white . 
+
+object-prep-object	home in white
+attribute-object	spacious home
+object	home
+object	white
+object	chair
+#####################################################
+A view of the kitchen and dining room of an apartment with white furniture . 
+a view of the kitchen and dining room of a apartment with white furniture . 
+
+object-prep-object	room with apartment
+object-prep-object	kitchen of room
+object-prep-object	room of room
+attribute-object	white furniture
+attribute-object	dining room
+object	room
+object	apartment
+object	kitchen
+object	furniture
+object	chair
+#####################################################
+Picture of an apartment . 
+Picture of a apartment . 
+
+object	room
+object	room
+object	apartment
+object	chair
+#####################################################

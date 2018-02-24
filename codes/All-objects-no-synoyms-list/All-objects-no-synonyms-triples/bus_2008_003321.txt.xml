@@ -1,0 +1,64 @@
+A graffiti-covered school bus sits under a highway overpass . 
+a graffiti-covered school bus sit under a highway overpass . 
+
+verb-prep-object	sit under overpass
+object-prep-object	bus under overpass
+attribute-object	graffiti-covered bus
+attribute-object	school bus
+attribute-object	highway overpass
+object-verb	bus sit
+object	overpass
+object	bus
+object	bus
+#####################################################
+An old school bus covered in graffiti parked under a freeway . 
+a old school bus cover in graffitus park under a freeway . 
+
+verb-prep-object	park under freeway
+object-prep-object	bus under freeway
+verb-prep-object	cover in graffitus
+attribute-object	old bus
+attribute-object	school bus
+object-verb	bus cover
+object-verb	bus park
+object	freeway
+object	bus
+object	graffitus
+object	bus
+#####################################################
+An old yellow bus with graffiti painted on it is parked on a city street under a bridge . 
+a old yellow bus with graffitus paint on it be park on a city street under a bridge . 
+
+object-verb	bus park
+verb-prep-object	park under bridge
+verb-prep-object	park on street
+object-prep-object	bus with graffitus
+attribute-object	old bus
+attribute-object	yellow bus
+attribute-object	city street
+object	bus
+object	bridge
+object	street
+object	graffitus
+object	bus
+#####################################################
+Bus with graffiti painted on it . 
+bus with graffitus paint on it . 
+
+object-prep-object	bus with graffitus
+object-verb	bus paint
+object	bus
+object	graffitus
+object	bus
+#####################################################
+Graffiti-covered bus parked on street . 
+graffiti-covered bus park on street . 
+
+verb-prep-object	park on street
+object-prep-object	bus on street
+attribute-object	graffiti-covered bus
+object-verb	bus park
+object	street
+object	bus
+object	bus
+#####################################################

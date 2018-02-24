@@ -1,0 +1,56 @@
+A black , flat screen television placed on the floor . 
+a black , flat screen television place on the floor . 
+
+object-verb	television place
+verb-prep-object	place on floor
+object-prep-object	television on floor
+attribute-object	black television
+attribute-object	flat television
+attribute-object	screen television
+object	television
+object	floor
+object	tvmonitor
+#####################################################
+A flat screen TV on the floor . 
+a flat screen tv on the floor . 
+
+object-prep-object	tv on floor
+attribute-object	flat tv
+attribute-object	screen tv
+object	tv
+object	floor
+object	tvmonitor
+#####################################################
+A flat-screen TV sits on the floor . 
+a flat-screen tv sit on the floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	tv on floor
+attribute-object	flat-screen tv
+object-verb	tv sit
+object	floor
+object	tv
+object	tvmonitor
+#####################################################
+A large LCD television on the floor with many wires connected . 
+a large LCD television on the floor with many wire connect . 
+
+object-prep-object	television with wire
+object-prep-object	television on floor
+attribute-object	large television
+attribute-object	many wire
+attribute-object	lcd television
+object	television
+object	wire
+object	floor
+object	tvmonitor
+#####################################################
+The idle monitor is wide . 
+the idle monitor be wide . 
+
+attribute-object	idle monitor
+object-object	monitor wide
+object	monitor
+object	wide
+object	tvmonitor
+#####################################################

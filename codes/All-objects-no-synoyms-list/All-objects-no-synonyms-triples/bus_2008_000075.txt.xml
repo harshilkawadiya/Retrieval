@@ -1,0 +1,58 @@
+A large white `` Victory Liner '' bus with red and yellow trim is in a parking lot . 
+a large white `` Victory Liner '' bus with red and yellow trim be in a parking lot . 
+
+object-prep-object	bus with trim
+attribute-object	large bus
+attribute-object	white bus
+attribute-object	red trim
+attribute-object	yellow trim
+attribute-object	victory bus
+attribute-object	liner bus
+object	bus
+object	trim
+object	bus
+#####################################################
+A side view of a passenger bus . 
+a side view of a passenger bus . 
+
+attribute-object	passenger bus
+object	bus
+object	bus
+#####################################################
+A Victory Liner bus is white with red and gold stripes . 
+a Victory Liner bus be white with red and gold stripe . 
+
+object-prep-object	bus with stripe
+attribute-object	red stripe
+attribute-object	gold stripe
+attribute-object	victory bus
+attribute-object	liner bus
+attribute-object	white bus
+object	bus
+object	stripe
+object	bus
+#####################################################
+A white tour bus with red , orange and yellow stripes . 
+a white tour bus with red , orange and yellow stripe . 
+
+object-prep-object	bus with stripe
+attribute-object	red stripe
+attribute-object	orange stripe
+attribute-object	yellow stripe
+attribute-object	white bus
+attribute-object	tour bus
+object	bus
+object	stripe
+object	bus
+#####################################################
+The bus has a red , orange and yellow design on it . 
+the bus have a red , orange and yellow design on it . 
+
+attribute-object	red design
+attribute-object	orange design
+attribute-object	yellow design
+object-verb-object	bus have design
+object	design
+object	bus
+object	bus
+#####################################################

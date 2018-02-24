@@ -1,0 +1,67 @@
+Elderly man in an orange vest looking at a golf cart with another elderly man . 
+elderly man in a orange vest look at a golf cart with another elderly man . 
+
+verb-prep-object	look at cart
+object-prep-object	man in vest
+object-prep-object	man with man
+attribute-object	elderly man
+attribute-object	orange vest
+attribute-object	elderly man
+attribute-object	golf cart
+object-verb	man look
+object	cart
+object	man
+object	vest
+object	chair
+#####################################################
+The two old men are standing outside in front of the house . 
+the two old man be stand outside in front of the house . 
+
+verb-prep-object	stand in_front_of house
+object-prep-object	man in_front_of house
+attribute-object	old man
+object-verb	man stand
+object	house
+object	man
+object	chair
+#####################################################
+Two men looking at what appears to be a golf cart . 
+two man look at what appear to be a golf cart . 
+
+verb-prep-verb	look at cart
+attribute-object	golf cart
+object-verb	man look
+object	cart
+object	man
+object	chair
+#####################################################
+Two men standing in grass staring at a car . 
+two man stand in grass stare at a car . 
+
+verb-prep-object	stand in grass
+object-prep-object	man in grass
+object-verb	man stand
+object-verb	man stare
+verb-prep-object	stare at car
+object	grass
+object	man
+object	car
+object	chair
+#####################################################
+Two middle-aged to older men stand in front of a brown farmhouse , looking at a small vehicle . 
+two middle-aged to older man stand in front of a brown farmhouse , look at a small vehicle . 
+
+verb-prep-object	look at vehicle
+verb-prep-object	stand in_front_of farmhouse
+object-prep-object	man in_front_of farmhouse
+attribute-object	middle-aged man
+attribute-object	older man
+attribute-object	brown farmhouse
+attribute-object	small vehicle
+object-verb	man stand
+object-verb	man look
+object	vehicle
+object	farmhouse
+object	man
+object	chair
+#####################################################

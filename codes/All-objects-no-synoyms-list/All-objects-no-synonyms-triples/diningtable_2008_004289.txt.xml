@@ -1,0 +1,50 @@
+A naturally stained wooden table with four chairs . 
+a naturally stained wooden table with four chair . 
+
+object-prep-object	table with chair
+attribute-object	naturally table
+attribute-object	stained table
+attribute-object	wooden table
+object	table
+object	chair
+object	diningtable
+#####################################################
+Close up of a wooden table and four chairs . 
+close up of a wooden table and four chair . 
+
+object	chair
+attribute-object	wooden table
+object	chair
+object	table
+object	diningtable
+#####################################################
+There is a wooden table with two wooden chair on either side . 
+there be a wooden table with two wooden chair on either side . 
+
+object-prep-object	table with chair
+attribute-object	wooden table
+attribute-object	wooden chair
+object	table
+object	chair
+object	diningtable
+#####################################################
+This is a wooden table with four chairs in partial sunlight . 
+this be a wooden table with four chair in partial sunlight . 
+
+object-prep-object	table with chair
+object-prep-object	chair in sunlight
+attribute-object	wooden table
+object	table
+object	chair
+object	sunlight
+object	diningtable
+#####################################################
+Wood table with four chairs . 
+Wood table with four chair . 
+
+object-prep-object	table with chair
+attribute-object	wood table
+object	table
+object	chair
+object	diningtable
+#####################################################

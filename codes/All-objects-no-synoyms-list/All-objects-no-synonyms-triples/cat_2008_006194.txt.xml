@@ -1,0 +1,47 @@
+A closeup headshot of a sleeping cat . 
+a closeup headshot of a sleep cat . 
+
+attribute-object	sleep cat
+object	cat
+object	cat
+#####################################################
+A close up of a cat with its eyes closed . 
+a close up of a cat with its eye close . 
+
+object-prep-object	cat with eye
+object-verb	eye close
+object	cat
+object	eye
+object	cat
+#####################################################
+A gray cat with its eyes closed . 
+a gray cat with its eye close . 
+
+object-prep-object	cat with eye
+object-verb	eye close
+attribute-object	gray cat
+object	cat
+object	eye
+object	cat
+#####################################################
+A longed-haired cat with it 's eyes closed . 
+a longed-haired cat with it be eye close . 
+
+object-prep-object	cat with eye
+attribute-object	longed-haired cat
+object-verb	eye close
+object	cat
+object	eye
+object	cat
+#####################################################
+Gray furry cat with eyes closed . 
+Gray furry cat with eye close . 
+
+object-prep-object	cat with eye
+attribute-object	gray cat
+attribute-object	furry cat
+object-verb	eye close
+object	cat
+object	eye
+object	cat
+#####################################################

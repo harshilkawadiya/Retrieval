@@ -1,0 +1,61 @@
+A black striped cat . 
+a black striped cat . 
+
+attribute-object	black cat
+attribute-object	striped cat
+object	cat
+object	cat
+#####################################################
+A striped cat laying down on a bag of cat litter . 
+a striped cat lay down on a bag of cat litter . 
+
+verb-prep-object	lay on bag
+object-prep-object	cat on bag
+object-prep-object	bag of litter
+attribute-object	striped cat
+attribute-object	cat litter
+object-verb	cat lay
+verb-attribute	lay down
+object	bag
+object	cat
+object	litter
+object	cat
+#####################################################
+Domestic cat laying on back of cat litter . 
+domestic cat lay on back of cat litter . 
+
+verb-prep-object	lay on litter
+object-prep-object	cat on litter
+attribute-object	domestic cat
+attribute-object	cat litter
+object-verb	cat lay
+object	litter
+object	cat
+object	cat
+#####################################################
+Striped cat lounges on top of cat food bag . 
+striped cat lounge on top of cat food bag . 
+
+verb-prep-object	lounge on bag
+object-prep-object	cat on bag
+attribute-object	striped cat
+object-verb	cat lounge
+attribute-object	cat bag
+attribute-object	food bag
+object	bag
+object	cat
+object	cat
+#####################################################
+The cat is sitting on a bag of cat food . 
+the cat be sit on a bag of cat food . 
+
+verb-prep-object	sit on bag
+object-prep-object	cat on bag
+object-prep-object	bag of food
+attribute-object	cat food
+object-verb	cat sit
+object	bag
+object	cat
+object	food
+object	cat
+#####################################################

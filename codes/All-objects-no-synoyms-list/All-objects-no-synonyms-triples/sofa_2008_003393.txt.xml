@@ -1,0 +1,68 @@
+A girl on a couch looking to the woman sitting next to her . 
+a girl on a couch look to the woman sit next to she . 
+
+object-prep-object	girl on couch
+verb-prep-object	look to woman
+object-verb	girl look
+object-verb	woman sit
+object	girl
+object	couch
+object	woman
+object	sofa
+#####################################################
+A mother and daughter sit on a brown couch with a baby pillow . 
+a mother and daughter sit on a brown couch with a baby pillow . 
+
+verb-prep-object	sit with pillow
+verb-prep-object	sit on couch
+object-prep-object	mother on couch
+object-prep-object	daughter on couch
+attribute-object	brown couch
+attribute-object	baby pillow
+object-verb	mother sit
+object-verb	daughter sit
+object	pillow
+object	couch
+object	mother
+object	daughter
+object	sofa
+#####################################################
+A woman with a white pillow sits on a sofa near a girl in a pink sweater . 
+a woman with a white pillow sit on a sofa near a girl in a pink sweater . 
+
+object-prep-object	woman with pillow
+verb-prep-object	sit on sofa
+object-prep-object	woman on sofa
+verb-prep-object	sit near girl
+object-prep-object	girl in sweater
+attribute-object	white pillow
+attribute-object	pink sweater
+object-verb	woman sit
+object	woman
+object	pillow
+object	sofa
+object	girl
+object	sweater
+object	sofa
+#####################################################
+A woman sitting with her daughter . 
+a woman sit with she daughter . 
+
+verb-prep-object	sit with daughter
+object-prep-object	woman with daughter
+object-verb	woman sit
+object	daughter
+object	woman
+object	sofa
+#####################################################
+The young girl looks admirably at her grandmother . 
+the young girl look admirably at she grandmother . 
+
+verb-prep-object	look at grandmother
+object-verb-object	girl look admirably
+attribute-object	young girl
+object	grandmother
+object	girl
+object	admirably
+object	sofa
+#####################################################

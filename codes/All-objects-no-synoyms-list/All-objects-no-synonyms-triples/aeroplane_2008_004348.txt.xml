@@ -1,0 +1,59 @@
+A camouflaged plane sitting on the green grass . 
+a camouflage plane sit on the green grass . 
+
+verb-prep-object	sit on grass
+object-prep-object	plane on grass
+attribute-object	camouflage plane
+attribute-object	green grass
+object-verb	plane sit
+object	grass
+object	plane
+object	aeroplane
+#####################################################
+A plane painted in camouflage in a grassy field . 
+a plane paint in camouflage in a grassy field . 
+
+verb-prep-object	paint in camouflage
+object-prep-object	plane in camouflage
+object-prep-object	plane in field
+attribute-object	grassy field
+object-verb	plane paint
+object	camouflage
+object	plane
+object	field
+object	aeroplane
+#####################################################
+A small camouflaged airplane parked in the grass . 
+a small camouflage airplane park in the grass . 
+
+verb-prep-object	park in grass
+object-prep-object	airplane in grass
+attribute-object	small airplane
+attribute-object	camouflage airplane
+object-verb	airplane park
+object	grass
+object	airplane
+object	aeroplane
+#####################################################
+Camouflage airplane sitting on grassy field . 
+camouflage airplane sit on grassy field . 
+
+verb-prep-object	sit on field
+object-verb-object	airplane on field
+attribute-object	grassy field
+attribute-object	camouflage airplane
+object-verb	airplane sit
+object	field
+object	airplane
+object	aeroplane
+#####################################################
+Parked camouflage high wing aircraft . 
+park camouflage high wing aircraft . 
+
+attribute-object	park aircraft
+attribute-object	camouflage aircraft
+attribute-object	high aircraft
+attribute-object	wing aircraft
+object	aircraft
+object	aeroplane
+#####################################################

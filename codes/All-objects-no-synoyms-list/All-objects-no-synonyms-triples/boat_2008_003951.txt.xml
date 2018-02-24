@@ -1,0 +1,71 @@
+Two men on a pebble beach , near the edge of the water , are posing on a cloudy day . 
+two man on a pebble beach , near the edge of the water , be pose on a cloudy day . 
+
+object-prep-object	man on beach
+object-prep-object	man near water
+verb-prep-object	pose on day
+attribute-object	pebble beach
+attribute-object	cloudy day
+object-verb	man pose
+object	man
+object	beach
+object	water
+object	day
+object	boat
+#####################################################
+Two men standing on beach . 
+two man stand on beach . 
+
+verb-prep-object	stand on beach
+object-prep-object	man on beach
+object-verb	man stand
+object	beach
+object	man
+object	boat
+#####################################################
+Two men wearing coats and hats stand on the shore of a body of water . 
+two man wear coat and hat stand on the shore of a body of water . 
+
+verb-prep-object	stand on shore
+object-prep-object	man on shore
+object-prep-object	shore of water
+object-verb-object	man wear coat
+object-verb-object	man wear hat
+object-verb	man stand
+object	shore
+object	man
+object	water
+object	coat
+object	hat
+object	boat
+#####################################################
+Two people stand on a shore with a suspension bridge in the background . 
+two people stand on a shore with a suspension bridge in the background . 
+
+verb-prep-object	stand with bridge
+verb-prep-object	stand on shore
+object-prep-object	people on shore
+attribute-object	suspension bridge
+object-verb	people stand
+object	bridge
+object	shore
+object	people
+object	boat
+#####################################################
+Two people wearing jeans , jackets , and hats stand near a large river . 
+two people wear jeans , jacket , and hat stand near a large river . 
+
+verb-prep-object	stand near river
+object-prep-object	people near river
+attribute-object	large river
+object-verb-object	people wear jeans
+object-verb-object	people wear jacket
+object-verb-object	people wear hat
+object-verb	people stand
+object	river
+object	people
+object	jeans
+object	jacket
+object	hat
+object	boat
+#####################################################

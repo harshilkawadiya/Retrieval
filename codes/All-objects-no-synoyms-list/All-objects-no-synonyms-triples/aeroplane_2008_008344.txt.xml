@@ -1,0 +1,58 @@
+A fighter jet parked on the tarmac with its canopy open . 
+a fighter jet park on the tarmac with its canopy open . 
+
+object-prep-object	jet with canopy
+verb-prep-object	park on tarmac
+object-prep-object	jet on tarmac
+attribute-object	fighter jet
+object-verb	jet park
+object	jet
+object	canopy
+object	tarmac
+object	aeroplane
+#####################################################
+A grounded fighter jet with a pin-up girl painted on it . 
+a ground fighter jet with a pin-up girl paint on it . 
+
+verb-prep-object	jet with girl
+attribute-object	ground jet
+attribute-object	pin-up girl
+attribute-object	fighter jet
+object-verb	jet paint
+object	girl
+object	jet
+object	aeroplane
+#####################################################
+an F-16 on the ground . 
+a f-16 on the ground . 
+
+object-prep-object	f-16 on ground
+object	f-16
+object	ground
+object	aeroplane
+#####################################################
+An open gray jet with a woman painted on the tail has missiles attached . 
+a open gray jet with a woman paint on the tail have missile attach . 
+
+object-prep-object	jet with woman
+verb-prep-object	paint on tail
+object-prep-object	woman on tail
+attribute-object	open jet
+attribute-object	gray jet
+object-verb-object	jet have missile
+object-verb	woman paint
+object-verb	missile attach
+object	jet
+object	woman
+object	tail
+object	missile
+object	aeroplane
+#####################################################
+Vintage plane that is parked . 
+vintage plane that be park . 
+
+attribute-object	vintage plane
+object-verb	plane park
+object	plane
+object	aeroplane
+#####################################################

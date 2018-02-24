@@ -1,0 +1,85 @@
+A computer and collection of gadgets , including pop , cell phone , pot and game advance . 
+a computer and collection of gadget , include pop , cell phone , pot and game advance . 
+
+object	laptop
+object-prep-object	collection of gadget
+object-prep-object	gadget including pop
+object-prep-object	gadget including phone
+object-prep-object	gadget including pottedplant
+object-prep-object	gadget including advance
+attribute-object	cell phone
+attribute-object	game advance
+object	laptop
+object	computer
+object	collection
+object	gadget
+object	pop
+object	phone
+object	pottedplant
+object	advance
+object	tvmonitor
+#####################################################
+A computer monitor , keyboard , pot , and cell phone sitting on a table . 
+a computer monitor , keyboard , pot , and cell phone sit on a table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	tvmonitor on diningtable
+object-prep-object	keyboard on diningtable
+object-prep-object	pottedplant on diningtable
+object-prep-object	phone on diningtable
+attribute-object	computer tvmonitor
+attribute-object	cell phone
+object-verb	tvmonitor sit
+object-verb	keyboard sit
+object-verb	pottedplant sit
+object-verb	phone sit
+object	diningtable
+object	table
+object	tvmonitor
+object	monitor
+object	keyboard
+object	pottedplant
+object	pot
+object	phone
+object	tvmonitor
+#####################################################
+A computer with four mobile electronic devices and one magazine in front of it . 
+a computer with four mobile electronic device and one magazine in front of it . 
+
+object-prep-object	laptop with computer
+object-prep-object	laptop with computer
+attribute-object	mobile device
+attribute-object	electronic device
+object	laptop
+object	computer
+object	device
+object	tvmonitor
+#####################################################
+A desktop computer with electronic devices lined up in front of it . 
+a desktop computer with electronic device line up in front of it . 
+
+object-prep-object	laptop with computer
+attribute-object	electronic device
+attribute-object	desktop laptop
+object	laptop
+object	computer
+object	device
+object	tvmonitor
+#####################################################
+Computer monitor , and various electronic devices on a desk , and a magazine to the left . 
+Computer monitor , and various electronic device on a desk , and a magazine to the left . 
+
+object-prep-object	device on diningtable
+object-prep-object	tvmonitor on diningtable
+attribute-object	various device
+attribute-object	electronic device
+attribute-object	computer tvmonitor
+object	magazine
+object	device
+object	table
+object	diningtable
+object	tvmonitor
+object	monitor
+object	magazine
+object	tvmonitor
+#####################################################

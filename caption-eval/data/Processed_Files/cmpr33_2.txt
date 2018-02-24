@@ -1,0 +1,50 @@
+beam_size_1	2	a brown dog about to jump on a smaller black and tan dog
+beam_size_1	3	Large dog playing with smaller dog
+beam_size_1	4	Two dogs are playing together outside .
+beam_size_1	5	Two dogs playing in the grass with an adult nearby .
+beam_size_1	6	Two dogs playing with each other .
+beam_size_1	7	A boy with his hands above his head stands on a cement pillar above the cobblestones .
+beam_size_1	8	A child in colorful shorts is standing on a post in the street .
+beam_size_1	9	A small boy stands on a cement stump in a park with his hands on his head .
+beam_size_1	10	a young man wearing a white t-shirt and green and black shorts standing on a stump .
+beam_size_1	11	Small child in white shirt and print shorts with hands over their head standing on object .
+beam_size_1	12	A closeup of an older man with glasses speaking .
+beam_size_1	13	A man wearing a blue shirt and glasses .
+beam_size_1	14	A man with black-rimmed glasses and a mustache is talking .
+beam_size_1	15	A man with glasses and a mustache is in the middle of a sentence .
+beam_size_1	16	An older man with glasses is looking off camera .
+beam_size_1	17	Three women standing on a city street .
+beam_size_1	18	Three women walk down the street .
+beam_size_1	19	Two girls and a woman walking on the sidewalk
+beam_size_1	20	Two girls in bright green boots and a woman are together .
+beam_size_1	21	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	22	A dog sled team seen from behind .
+beam_size_1	23	A group of dogs harnessed together to pull something in the snow .
+beam_size_1	24	A sled dog team running from the perspective of the rider .
+beam_size_1	25	A sled-dog team works hard on this snowy trail .
+beam_size_1	26	Several dogs in the snow , all harnessed in a line .
+beam_size_1	27	A man in a flower patterned shirt is bowling .
+beam_size_1	28	A person bending over to pick up a ball at a bowling alley
+beam_size_1	29	People at the bowling alley .
+beam_size_1	30	The person in the white flowered shirt is bending down at the ball return in the bowling alley .
+beam_size_1	31	Two people at the bowling alley .
+beam_size_1	32	A ban in a grey swaetshirt picks out greens in a supermarket .
+beam_size_1	33	A man is taking a look at the food products .
+beam_size_1	34	A man looking at produce .
+beam_size_1	35	A man shopping for fresh lettuce in a market
+beam_size_1	36	An older man examines produce .
+beam_size_1	37	A dog swims towards a waterfall .
+beam_size_1	38	a tan and white dog swimming towards a waterfall
+beam_size_1	39	A yellow dog swims towards a waterfall .
+beam_size_1	40	The dog swims through the water toward the waterfall .
+beam_size_1	41	The dog swims towards a waterfall .
+beam_size_1	42	A furry dog running on an open field of grass .
+beam_size_1	43	A gray fuzzy dog running through snow .
+beam_size_1	44	A gray terrier runs in a snow-covered field .
+beam_size_1	45	A grey shaggy dog running
+beam_size_1	46	Fluffy grey dog running in a field
+beam_size_1	47	A pack of black dogs running in grass .
+beam_size_1	48	Five black dogs run in a field .
+beam_size_1	49	Five black dogs running across the grass .
+beam_size_1	50	Many black dogs run in a grassy area .
+beam_size_1	51	The black dogs are running in a grassy field

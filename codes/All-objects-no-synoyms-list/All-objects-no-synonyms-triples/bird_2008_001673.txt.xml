@@ -1,0 +1,74 @@
+A woman has a bird on her shoulder , and another bird on her head . 
+a woman have a bird on she shoulder , and another bird on she head . 
+
+object-prep-object	bird on shoulder
+object-prep-object	bird on head
+object-verb-object	woman have bird
+object-verb-object	woman have bird
+object	bird
+object	shoulder
+object	head
+object	woman
+object	bird
+#####################################################
+A woman with a bird on her head and a bird on her shoulder . 
+a woman with a bird on she head and a bird on she shoulder . 
+
+object-prep-object	bird on head
+object-prep-object	bird on shoulder
+object-prep-object	woman with bird
+object-prep-object	woman with bird
+object	bird
+object	head
+object	shoulder
+object	woman
+object	bird
+#####################################################
+A woman sitting at a dining table with two small birds sitting on her . 
+a woman sit at a dining table with two small bird sit on she . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+verb-prep-object	sit with bird
+attribute-object	small bird
+attribute-object	dining table
+object-verb	woman sit
+object-verb	bird sit
+object	table
+object	woman
+object	bird
+object	bird
+#####################################################
+A young Asian woman sitting at a kitchen table with a bird on her head and another on her shoulder . 
+a young asian woman sit at a kitchen table with a bird on she head and another on she shoulder . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+verb-prep-object	sit with bird
+verb-prep-object	sit with bird
+object-prep-object	bird on head
+object-prep-object	bird on shoulder
+attribute-object	young woman
+attribute-object	asian woman
+attribute-object	kitchen table
+object-verb	woman sit
+object	table
+object	woman
+object	bird
+object	head
+object	shoulder
+object	bird
+#####################################################
+Two birds are perched on a woman sitting in a kitchen . 
+two bird be perch on a woman sit in a kitchen . 
+
+verb-prep-object	perch on woman
+verb-prep-object	sit in kitchen
+object-prep-object	woman in kitchen
+object-verb	bird perch
+object-verb	woman sit
+object	woman
+object	kitchen
+object	bird
+object	bird
+#####################################################

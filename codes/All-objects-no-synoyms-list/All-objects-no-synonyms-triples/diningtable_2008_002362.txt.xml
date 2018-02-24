@@ -1,0 +1,53 @@
+girls at a table . 
+girl at a table . 
+
+object-prep-object	girl at table
+object	girl
+object	table
+object	diningtable
+#####################################################
+Students enjoy breakfast at their apartment . 
+student enjoy breakfast at they apartment . 
+
+verb-prep-object	enjoy at apartment
+object-prep-object	student at apartment
+object-verb-object	student enjoy breakfast
+object	apartment
+object	student
+object	breakfast
+object	diningtable
+#####################################################
+Two girls sitting at the breakfast table . 
+two girl sit at the breakfast table . 
+
+verb-prep-object	sit at table
+object-prep-object	girl at table
+attribute-object	breakfast table
+object-verb	girl sit
+object	table
+object	girl
+object	diningtable
+#####################################################
+Two women sitting at a cluttered table . 
+two woman sit at a cluttered table . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+attribute-object	cluttered table
+object-verb	woman sit
+object	table
+object	woman
+object	diningtable
+#####################################################
+Women sitting at table full of dishes . 
+woman sit at table full of dish . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-verb	woman sit
+object-prep-object	table full_of dish
+object	table
+object	woman
+object	dish
+object	diningtable
+#####################################################

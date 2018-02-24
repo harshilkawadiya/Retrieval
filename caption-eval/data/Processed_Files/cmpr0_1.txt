@@ -1,0 +1,50 @@
+2	The dogs are in the snow in front of a fence .
+3	The dogs play on the snow .
+4	Two brown dogs playfully fight in the snow .
+5	Two brown dogs wrestle in the snow .
+6	Two dogs playing in the snow .
+7	The dogs are in the snow in front of a fence .
+8	The dogs play on the snow .
+9	Two brown dogs playfully fight in the snow .
+10	Two brown dogs wrestle in the snow .
+11	Two dogs playing in the snow .
+12	The dogs are in the snow in front of a fence .
+13	The dogs play on the snow .
+14	Two brown dogs playfully fight in the snow .
+15	Two brown dogs wrestle in the snow .
+16	Two dogs playing in the snow .
+17	The dogs are in the snow in front of a fence .
+18	The dogs play on the snow .
+19	Two brown dogs playfully fight in the snow .
+20	Two brown dogs wrestle in the snow .
+21	Two dogs playing in the snow .
+22	The dogs are in the snow in front of a fence .
+23	The dogs play on the snow .
+24	Two brown dogs playfully fight in the snow .
+25	Two brown dogs wrestle in the snow .
+26	Two dogs playing in the snow .
+27	The dogs are in the snow in front of a fence .
+28	The dogs play on the snow .
+29	Two brown dogs playfully fight in the snow .
+30	Two brown dogs wrestle in the snow .
+31	Two dogs playing in the snow .
+32	The dogs are in the snow in front of a fence .
+33	The dogs play on the snow .
+34	Two brown dogs playfully fight in the snow .
+35	Two brown dogs wrestle in the snow .
+36	Two dogs playing in the snow .
+37	The dogs are in the snow in front of a fence .
+38	The dogs play on the snow .
+39	Two brown dogs playfully fight in the snow .
+40	Two brown dogs wrestle in the snow .
+41	Two dogs playing in the snow .
+42	The dogs are in the snow in front of a fence .
+43	The dogs play on the snow .
+44	Two brown dogs playfully fight in the snow .
+45	Two brown dogs wrestle in the snow .
+46	Two dogs playing in the snow .
+47	The dogs are in the snow in front of a fence .
+48	The dogs play on the snow .
+49	Two brown dogs playfully fight in the snow .
+50	Two brown dogs wrestle in the snow .
+51	Two dogs playing in the snow .

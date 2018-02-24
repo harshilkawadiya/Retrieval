@@ -1,0 +1,55 @@
+A long American freight train near a station . 
+a long american freight train near a station . 
+
+object-prep-object	train near station
+attribute-object	long train
+attribute-object	american train
+attribute-object	freight train
+object	train
+object	station
+object	train
+#####################################################
+A train is on the railroad tracks . 
+a train be on the railroad track . 
+
+object-prep-object	train on track
+attribute-object	railroad track
+object	train
+object	track
+object	train
+#####################################################
+A train is running down the track in a rural area . 
+a train be run down the track in a rural area . 
+
+object-prep-object	train in area
+attribute-object	rural area
+object-verb-object	train run track
+verb-attribute	run down
+object	train
+object	area
+object	track
+object	train
+#####################################################
+A train is running on the tracks . 
+a train be run on the track . 
+
+verb-prep-object	run on track
+object-prep-object	train on track
+object-verb	train run
+object	track
+object	train
+object	train
+#####################################################
+A yellow and black train with tanker cars belching smoke . 
+a yellow and black train with tanker car belch smoke . 
+
+object-prep-object	train with car
+attribute-object	yellow train
+attribute-object	black train
+object-verb-object	train belch smoke
+attribute-object	tanker car
+object	train
+object	car
+object	smoke
+object	train
+#####################################################

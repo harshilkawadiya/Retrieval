@@ -1,0 +1,52 @@
+A man looks on at a bicycle race . 
+a man look on at a bicycle race . 
+
+attribute-object	bicycle race
+object-verb	man look
+verb-prep-object	look at race
+object	race
+object	man
+object	bicycle
+#####################################################
+Spectators watching a bicycle race . 
+spectator watch a bicycle race . 
+
+object-verb-object	spectator watch race
+attribute-object	bicycle race
+object	spectator
+object	race
+object	bicycle
+#####################################################
+Two bicycle racers and spectators . 
+two bicycle racer and spectator . 
+
+attribute-object	bicycle racer
+object	spectator
+object	racer
+object	spectator
+object	bicycle
+#####################################################
+Two bicyclists pass spectators on the road near a field . 
+two bicyclist pass spectator on the road near a field . 
+
+verb-prep-object	pass on road
+object-prep-object	bicyclist on road
+object-prep-object	bicyclist near field
+verb-prep-object	pass near field
+object-verb-object	bicyclist pass spectator
+object	road
+object	bicyclist
+object	field
+object	spectator
+object	bicycle
+#####################################################
+Two men on bicycles , with onlookers . 
+two man on bicycle , with onlooker . 
+
+object-prep-object	man on bicycle
+object-prep-object	man with onlooker
+object	man
+object	bicycle
+object	onlooker
+object	bicycle
+#####################################################

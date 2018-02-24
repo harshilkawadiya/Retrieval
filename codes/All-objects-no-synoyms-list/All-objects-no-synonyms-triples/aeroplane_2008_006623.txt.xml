@@ -1,0 +1,54 @@
+Another successful takeoff for CSA ! 
+another successful takeoff for CSA ! 
+
+verb-prep-object	takeoff for csa
+attribute-verb	successful takeoff
+object	csa
+object	aeroplane
+#####################################################
+A passenger aircraft with its landing gear down . 
+a passenger aircraft with its landing gear down . 
+
+object-prep-object	aircraft with gear
+object-attribute	gear down
+attribute-object	passenger aircraft
+attribute-object	landing gear
+object	aircraft
+object	gear
+object	aeroplane
+#####################################################
+A passenger jet flies through the air . 
+a passenger jet fly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	jet through air
+attribute-object	passenger jet
+object-verb	jet fly
+object	air
+object	jet
+object	aeroplane
+#####################################################
+A passenger plane fly through the sky . 
+a passenger plane fly through the sky . 
+
+verb-prep-object	fly through sky
+object-prep-object	plane through sky
+attribute-object	passenger plane
+object-verb	plane fly
+object	sky
+object	plane
+object	aeroplane
+#####################################################
+A small white plane heads up into the sky . 
+a small white plane head up into the sky . 
+
+verb-prep-object	head into sky
+object-prep-object	plane into sky
+attribute-object	small plane
+attribute-object	white plane
+object-verb	plane head
+verb-attribute	head up
+object	sky
+object	plane
+object	aeroplane
+#####################################################

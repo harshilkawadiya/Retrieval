@@ -1,0 +1,61 @@
+A group of people sitting around a table on a porch . 
+a group of people sit around a table on a porch . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-prep-object	diningtable on table
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	chair
+#####################################################
+A sidewalk view of two gentlemen hanging out on the porch . 
+a sidewalk view of two gentleman hang out on the porch . 
+
+verb-prep-object	hang on porch
+object-prep-object	person on gentleman
+object-verb	person hang
+verb-attribute	hang out
+object	porch
+object	person
+object	gentleman
+object	chair
+#####################################################
+People sitting on the porch . 
+people sit on the porch . 
+
+verb-prep-object	sit on porch
+object-prep-object	person on people
+object-verb	person sit
+object	porch
+object	person
+object	people
+object	chair
+#####################################################
+Several people sitting on back patio talking . 
+several people sit on back patio talk . 
+
+verb-prep-object	sit on patio
+object-prep-object	person on people
+attribute-object	several person
+attribute-object	back patio
+object-verb	person sit
+object-verb	person talk
+object	patio
+object	person
+object	people
+object	chair
+#####################################################
+Two people relax on a porch . 
+two people relax on a porch . 
+
+verb-prep-object	relax on porch
+object-prep-object	person on people
+object-verb	person relax
+object	porch
+object	person
+object	people
+object	chair
+#####################################################

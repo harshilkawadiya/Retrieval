@@ -1,0 +1,60 @@
+A busy restaurant with four people looking at the camera . 
+a busy restaurant with four people look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	restaurant with person
+attribute-object	busy restaurant
+object-verb	person look
+object	camera
+object	restaurant
+object	person
+object	people
+object	diningtable
+#####################################################
+A group of people eat at a table outside . 
+a group of people eat at a table outside . 
+
+verb-prep-object	eat at diningtable
+object-prep-object	person at diningtable
+object-verb	person eat
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+a group of people enjoying a meal in a restaurant on a sunny day . 
+a group of people enjoy a meal in a restaurant on a sunny day . 
+
+object-verb-object	person enjoy people
+object-prep-object	meal in restaurant
+object-prep-object	restaurant on day
+attribute-object	sunny day
+object	person
+object	people
+object	meal
+object	restaurant
+object	day
+object	diningtable
+#####################################################
+A group of people having a meal outside . 
+a group of people have a meal outside . 
+
+object-verb-object	person have people
+object	person
+object	people
+object	diningtable
+#####################################################
+A group of people look up from their food for a photo . 
+a group of people look up from they food for a photo . 
+
+verb-prep-object	look from food
+verb-prep-object	look for photo
+object-verb	person look
+verb-attribute	look up
+object	food
+object	photo
+object	person
+object	people
+object	diningtable
+#####################################################

@@ -1,0 +1,47 @@
+an airliner has taken off behind one which is on the ground . 
+a airliner have take off behind one which be on the ground . 
+
+object-verb	airliner take_off
+object	airliner
+object	aeroplane
+#####################################################
+A passenger jet at an airport . 
+a passenger jet at a airport . 
+
+object-prep-object	jet at airport
+attribute-object	passenger jet
+object	jet
+object	airport
+object	aeroplane
+#####################################################
+A passenger jet sits on a runway . 
+a passenger jet sit on a runway . 
+
+verb-prep-object	sit on runway
+object-prep-object	jet on runway
+attribute-object	passenger jet
+object-verb	jet sit
+object	runway
+object	jet
+object	aeroplane
+#####################################################
+A plane waiting on the tarmac with another jet taking off in the background . 
+a plane wait on the tarmac with another jet take off in the background . 
+
+verb-prep-object	wait on tarmac
+object-prep-object	plane on tarmac
+object-verb	plane wait
+object	tarmac
+object	plane
+object	aeroplane
+#####################################################
+Large mostly white plane parked and another plane in flight as though it just recently lifted off . 
+large mostly white plane park and another plane in flight as though it just recently lift off . 
+
+attribute-verb	mostly white
+attribute-object	large plane
+attribute-object	white plane
+object-verb	plane park
+object	plane
+object	aeroplane
+#####################################################

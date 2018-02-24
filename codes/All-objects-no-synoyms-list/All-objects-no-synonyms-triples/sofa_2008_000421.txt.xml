@@ -1,0 +1,74 @@
+A woman is lying across the laps of two men sitting on a couch . 
+a woman be lie across the lap of two man sit on a couch . 
+
+verb-prep-object	lie across lap
+object-prep-object	woman across lap
+verb-prep-object	sit on couch
+object-prep-object	man on couch
+object-prep-object	lap of man
+object-verb	woman lie
+object-verb	man sit
+object	lap
+object	woman
+object	couch
+object	man
+object	sofa
+#####################################################
+A woman laying across two men sitting on a sofa . 
+a woman lay across two man sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	man on sofa
+verb-prep-object	lay across man
+object-prep-object	woman across man
+object-verb	woman lay
+object-verb	man sit
+object	sofa
+object	man
+object	woman
+object	sofa
+#####################################################
+three teenagers are on a couch , the girl is laying on two guys , both guys have beer . 
+three teenager be on a couch , the girl be lay on two guy , both guy have beer . 
+
+object-prep-object	teenager on couch
+verb-prep-object	lay on guy
+object-prep-object	girl on guy
+object-verb-object	guy have beer
+object-verb	girl lay
+object	teenager
+object	couch
+object	guy
+object	girl
+object	beer
+object	sofa
+#####################################################
+Three young adults lounging on couch together . 
+three young adult lounge on couch together . 
+
+verb-prep-object	lounge on couch
+object-prep-object	adult on couch
+attribute-object	young adult
+object-verb	adult lounge
+object	couch
+object	adult
+object	sofa
+#####################################################
+Two guys sit on a couch holding beers with a girl lying on their laps . 
+two guy sit on a couch hold beer with a girl lie on they lap . 
+
+object-verb	guy sit
+verb-prep-object	sit on couch
+object-prep-object	guy on couch
+object-verb-object	guy hold beer
+verb-prep-object	sit with girl
+object-prep-object	guy with girl
+verb-prep-object	lie on lap
+object-verb	girl lie
+object	guy
+object	couch
+object	beer
+object	girl
+object	lap
+object	sofa
+#####################################################

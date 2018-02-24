@@ -1,0 +1,67 @@
+Black adult dog with black puppy lying down on the carpet . 
+Black adult dog with black puppy lie down on the carpet . 
+
+object-prep-object	dog with dog
+verb-prep-object	lie on carpet
+object-prep-object	dog on carpet
+attribute-object	black dog
+attribute-object	black dog
+attribute-object	adult dog
+object-verb	dog lie
+verb-attribute	lie down
+object	dog
+object	carpet
+object	puppy
+object	dog
+#####################################################
+The big black dog and the small black dog is laying on the floor . 
+the big black dog and the small black dog be lay on the floor . 
+
+verb-prep-object	lay on floor
+object-prep-object	dog on floor
+object-prep-object	dog on floor
+attribute-object	big dog
+attribute-object	black dog
+attribute-object	small dog
+attribute-object	black dog
+object-verb	dog lay
+object-verb	dog lay
+object	floor
+object	dog
+object	dog
+#####################################################
+Two black dogs laying on a rug . 
+two black dog lay on a rug . 
+
+verb-prep-object	lay on rug
+object-prep-object	dog on rug
+attribute-object	black dog
+object-verb	dog lay
+object	rug
+object	dog
+object	dog
+#####################################################
+Two black dogs resting . 
+two black dog rest . 
+
+attribute-object	black dog
+object-verb	dog rest
+object	dog
+object	dog
+#####################################################
+Two large black dogs lie on the floor with a yellow stuffed animal . 
+two large black dog lie on the floor with a yellow stuff animal . 
+
+object-prep-object	floor with animal
+verb-prep-object	lie on floor
+object-prep-object	dog on floor
+attribute-object	large dog
+attribute-object	black dog
+attribute-object	yellow animal
+attribute-object	stuff animal
+object-verb	dog lie
+object	floor
+object	animal
+object	dog
+object	dog
+#####################################################

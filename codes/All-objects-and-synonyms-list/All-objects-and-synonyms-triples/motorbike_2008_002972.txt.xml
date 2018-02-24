@@ -1,0 +1,73 @@
+A black jacket is lying on the ground in front of a yellow motorcycle . 
+a black jacket be lie on the ground in front of a yellow motorcycle . 
+
+verb-prep-object	lie on ground
+object-prep-object	jacket on ground
+verb-prep-object	lie in_front_of motorbike
+object-prep-object	jacket in_front_of motorbike
+attribute-object	black jacket
+attribute-object	yellow motorbike
+object-verb	jacket lie
+object	ground
+object	jacket
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A black jacket sits on the driveway next to a yellow motorcycle . 
+a black jacket sit on the driveway next to a yellow motorcycle . 
+
+verb-prep-object	sit on driveway
+object-prep-object	jacket on driveway
+verb-prep-object	sit next_to motorbike
+object-prep-object	jacket next_to motorbike
+attribute-object	black jacket
+attribute-object	yellow motorbike
+object-verb	jacket sit
+object	driveway
+object	jacket
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A motorcycle parked in a driveway next to a coat . 
+a motorcycle park in a driveway next to a coat . 
+
+verb-prep-object	park next_to coat
+object-prep-object	motorbike next_to motorcycle
+verb-prep-object	park in driveway
+object-prep-object	motorbike in motorcycle
+object-verb	motorbike park
+object	coat
+object	motorbike
+object	motorcycle
+object	driveway
+object	motorbike
+#####################################################
+a yellow classic motorcycle and riding gear on the ground in front of it . 
+a yellow classic motorcycle and ride gear on the ground in front of it . 
+
+object-prep-object	motorbike on motorcycle
+object-prep-object	gear on ground
+attribute-object	yellow motorbike
+attribute-object	classic motorbike
+attribute-object	ride gear
+object	motorbike
+object	motorcycle
+object	gear
+object	ground
+object	motorbike
+#####################################################
+Yellow and black motorcycle parked on driveway . 
+Yellow and black motorcycle park on driveway . 
+
+verb-prep-object	park on driveway
+object-prep-object	motorbike on motorcycle
+attribute-object	yellow motorbike
+attribute-object	black motorbike
+object-verb	motorbike park
+object	driveway
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################

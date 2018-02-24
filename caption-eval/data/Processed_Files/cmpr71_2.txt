@@ -1,0 +1,50 @@
+beam_size_1	2	A group of people on skis with two dogs .
+beam_size_1	3	A man dressed in a horned hat poses for a picture on skis with three other people and a dog .
+beam_size_1	4	Four people holding each others shoulders with a brown dog in front of them , standing on snow .
+beam_size_1	5	People dressed in costumes are on skis .
+beam_size_1	6	People , some dressed in costumes , and dogs on a snowy mountain .
+beam_size_1	7	a lone skier skiing down a snowy mountain on one ski .
+beam_size_1	8	A man skis downhill on a mountain .
+beam_size_1	9	A mountain skier heads down a mountain .
+beam_size_1	10	A skier in a blue outfit is skiing down the hill with a red pack on his back .
+beam_size_1	11	A snowboarder on a wide plain of snow
+beam_size_1	12	A man in a yellow jacket is riding a horse through the mountains .
+beam_size_1	13	A man rides a horse , while mountains and clouds are shown in the background .
+beam_size_1	14	A man riding a brown horse poses in front of a mountain scene .
+beam_size_1	15	A man sits on a horse with mountains in the background .
+beam_size_1	16	Man sitting on brown horse with mountains in background .
+beam_size_1	17	A girl in a white dress is playing with bubbles while a mother and daughter stand to the side .
+beam_size_1	18	A woman stands with two young girls in dresses looking at bubbles .
+beam_size_1	19	A young girl in a white dress watches bubbles while a woman and girl toddler observe .
+beam_size_1	20	Two girls looking at bubbles in the air .
+beam_size_1	21	Two little girls and an adult watch bubbles float through the air in front of them .
+beam_size_1	22	A man holds a flag next to a snowbound campsite .
+beam_size_1	23	A man with a Texas flag stands in the snow by tents .
+beam_size_1	24	A person setting up a tent beside a few other tents on the snowy ground .
+beam_size_1	25	Mountain climbers are setting up their tents .
+beam_size_1	26	With a pack and ski pole on the ground , a man wearing a winter coat is holding a tent while other tents are already set up .
+beam_size_1	27	A closeup of a young child wearing a pink bathing suit laying in shallow water at the beach .
+beam_size_1	28	A little girl smiles as she lays on her side in the water .
+beam_size_1	29	a smiling toddler in a pink swimsuit is laying in the water .
+beam_size_1	30	A young dark haired girl in a pink and white swimsuit smiles as she lies in three inch deep water .
+beam_size_1	31	Little girl in swimsuit lies on stomach in water , smiles at camera .
+beam_size_1	32	A man in a leather jacket and striped shirt points at something off camera .
+beam_size_1	33	A man in sunglasses , a red striped sweater , and a leather jacket smiles and points his finger .
+beam_size_1	34	A man with dark glasses , a black jacket , and a white and red horizontally-striped shirt pointing at something while standing on a sidewalk .
+beam_size_1	35	A man with shaggy hair and a moustache pointing down a street .
+beam_size_1	36	The man with the red and grey shirt and glasses is pointing .
+beam_size_1	37	A man in a Miami basketball uniform looking to the right
+beam_size_1	38	a man wears a orange jersey .
+beam_size_1	39	A Miami basketball player looks off in the distance .
+beam_size_1	40	The mans shirt is orange and has a United States flag patch on the shoulder .
+beam_size_1	41	The Miami basketball player is looking .
+beam_size_1	42	A boy jumping to hit a tennis ball with his racket
+beam_size_1	43	A boy wearing jeans leaps in the air and shows his shadow below .
+beam_size_1	44	A child jumping on a tennis court .
+beam_size_1	45	The boy is jumping in the air .
+beam_size_1	46	Where is the rest of his racket ?
+beam_size_1	47	A girl is reading while drinking Starbuck 's coffee .
+beam_size_1	48	A seated young woman in a hat is reading at a coffee shop .
+beam_size_1	49	a woman enjoying her reading at a coffee shop
+beam_size_1	50	A woman in a hat sits reading and drinking a coffee .
+beam_size_1	51	A young woman sips a coffee and reads a book .

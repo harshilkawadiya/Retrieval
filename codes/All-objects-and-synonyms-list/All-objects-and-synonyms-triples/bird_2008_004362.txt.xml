@@ -1,0 +1,62 @@
+A yellow and black bird eats from a bird feeder . 
+a yellow and black bird eat from a bird feeder . 
+
+verb-prep-object	eat from person
+object-prep-object	bird from person
+attribute-object	yellow bird
+attribute-object	black bird
+attribute-object	bird person
+object-verb	bird eat
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+A yellow bird eating fruit on a bird feeder . 
+a yellow bird eat fruit on a bird feeder . 
+
+verb-prep-object	eat on person
+object-prep-object	bird on person
+attribute-object	yellow bird
+object-verb-object	bird eat fruit
+attribute-object	bird person
+object	person
+object	feeder
+object	bird
+object	fruit
+object	bird
+#####################################################
+A yellow bird is eating fruit on a wire grate . 
+a yellow bird be eat fruit on a wire grate . 
+
+verb-prep-object	eat on grate
+object-prep-object	bird on grate
+attribute-object	yellow bird
+object-verb-object	bird eat fruit
+attribute-object	wire grate
+object	grate
+object	bird
+object	fruit
+object	bird
+#####################################################
+Yellow bird eating fruit . 
+yellow bird eat fruit . 
+
+attribute-object	yellow bird
+object-verb-object	bird eat fruit
+object	bird
+object	fruit
+object	bird
+#####################################################
+Yellow bird eating some food on a grate . 
+yellow bird eat some food on a grate . 
+
+object-prep-object	food on grate
+attribute-object	yellow bird
+attribute-object	some food
+object-verb-object	bird eat food
+object	food
+object	grate
+object	bird
+object	bird
+#####################################################

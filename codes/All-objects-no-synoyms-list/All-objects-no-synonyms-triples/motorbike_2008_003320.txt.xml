@@ -1,0 +1,63 @@
+A girl wearing shorts and a tank top on a red and gray moped . 
+a girl wear shorts and a tank top on a red and gray moped . 
+
+object-prep-object	girl on moped
+attribute-object	red moped
+attribute-object	gray moped
+object-verb-object	girl wear shorts
+object-verb-object	girl wear top
+attribute-object	tank top
+object	girl
+object	moped
+object	shorts
+object	top
+object	motorbike
+#####################################################
+A girl wearing shorts and sitting on a motor scooter . 
+a girl wear shorts and sit on a motor scooter . 
+
+object-verb-object	girl wear shorts
+object-verb	girl sit
+object-prep-object	girl on scooter
+verb-prep-object	sit on scooter
+attribute-object	motor scooter
+object	girl
+object	shorts
+object	scooter
+object	motorbike
+#####################################################
+A lady wearing a red helmet pauses on a scooter . 
+a lady wear a red helmet pause on a scooter . 
+
+verb-prep-object	pause on scooter
+object-prep-object	lady on scooter
+attribute-object	red helmet
+object-verb-object	lady wear helmet
+object-verb	lady pause
+object	scooter
+object	lady
+object	helmet
+object	motorbike
+#####################################################
+A woman posing on a red scooter . 
+a woman pose on a red scooter . 
+
+verb-prep-object	pose on scooter
+object-prep-object	woman on scooter
+attribute-object	red scooter
+object-verb	woman pose
+object	scooter
+object	woman
+object	motorbike
+#####################################################
+The woman is sitting on the red motorcycle . 
+the woman be sit on the red motorcycle . 
+
+verb-prep-object	sit on motorcycle
+object-prep-object	woman on motorcycle
+attribute-object	red motorcycle
+object-verb	woman sit
+object	motorcycle
+object	woman
+object	motorbike
+#####################################################

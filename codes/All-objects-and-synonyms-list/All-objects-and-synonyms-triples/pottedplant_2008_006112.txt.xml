@@ -1,0 +1,45 @@
+A small tree and a plant inside a pot . 
+a small tree and a plant inside a pot . 
+
+object-prep-object	tree inside pottedplant
+object-prep-object	pottedplant inside pottedplant
+attribute-object	small tree
+object	tree
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A small tree is blooming . 
+a small tree be bloom . 
+
+attribute-object	small tree
+object-verb	tree bloom
+object	tree
+object	pottedplant
+#####################################################
+There is a flowering bush . 
+there be a flowering bush . 
+
+attribute-object	flowering bush
+object	bush
+object	pottedplant
+#####################################################
+The shaded bush awaits the sunlight . 
+the shaded bush await the sunlight . 
+
+attribute-object	shaded bush
+object-verb-object	bush await sunlight
+object	bush
+object	sunlight
+object	pottedplant
+#####################################################
+The small tree has some flower blossoms . 
+the small tree have some flower blossom . 
+
+attribute-object	small tree
+object-verb-object	tree have blossom
+attribute-object	flower blossom
+object	tree
+object	blossom
+object	pottedplant
+#####################################################

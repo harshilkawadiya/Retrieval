@@ -1,0 +1,66 @@
+A gray and white cat laying down looking through a white fence . 
+a gray and white cat lay down look through a white fence . 
+
+verb-prep-object	look through fence
+attribute-object	gray cat
+attribute-object	white cat
+attribute-object	white fence
+object-verb	cat lay
+verb-attribute	lay down
+object-verb	cat look
+object	fence
+object	cat
+object	cat
+#####################################################
+A gray cat peering through the fence . 
+a gray cat peer through the fence . 
+
+verb-prep-object	peer through fence
+attribute-object	gray cat
+object-verb	cat peer
+object	fence
+object	cat
+object	cat
+#####################################################
+A gray cat with green eyes sits on a windowsill looking through the blinds . 
+a gray cat with green eye sit on a windowsill look through the blind . 
+
+verb-prep-object	look through blind
+object-prep-object	cat with eye
+verb-prep-object	sit on window
+object-prep-object	cat on window
+attribute-object	gray cat
+attribute-object	green eye
+object-verb	cat sit
+object-verb	cat look
+object	blind
+object	cat
+object	eye
+object	window
+object	windowsill
+object	cat
+#####################################################
+A striped cat looking lazily through vertical blinds . 
+a striped cat look lazily through vertical blind . 
+
+verb-prep-object	look through blind
+attribute-object	striped cat
+attribute-object	vertical blind
+object-verb	cat look
+object	blind
+object	cat
+object	cat
+#####################################################
+Gray cat sitting on a windowsill behind blinds . 
+Gray cat sit on a windowsill behind blind . 
+
+verb-prep-object	sit on window
+object-prep-object	cat on window
+object-prep-object	window behind windowsill
+attribute-object	gray cat
+object-verb	cat sit
+object	window
+object	windowsill
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,85 @@
+A man knees on the ground while talking on his cell phone next to a bike and car . 
+a man knee on the ground while talk on he cell phone next to a bike and car . 
+
+verb-prep-object	knee on ground
+object-prep-object	person on ground
+verb-prep-object	talk on phone
+object-prep-object	person next_to bicycle
+object-prep-object	person next_to car
+object-verb	person knee
+object-verb	person talk
+attribute-object	cell phone
+object	ground
+object	person
+object	phone
+object	bicycle
+object	car
+object	bicycle
+#####################################################
+A man on a cell phone kneels on the sidewalk next to a red bike to write something down . 
+a man on a cell phone kneel on the sidewalk next to a red bike to write something down . 
+
+object-verb	person kneel
+object-prep-object	person on phone
+attribute-object	cell phone
+verb-prep-object	kneel on sidewalk
+verb-prep-object	kneel next_to bicycle
+attribute-object	red bicycle
+object	person
+object	phone
+object	sidewalk
+object	bicycle
+object	bicycle
+#####################################################
+A man talking on his cellphone is crouched on the sidewalk near a bike and a car . 
+a man talk on he cellphone be crouch on the sidewalk near a bike and a car . 
+
+verb-prep-object	talk on cellphone
+verb-prep-object	crouch on sidewalk
+object-prep-object	person on cellphone
+object-prep-object	person on sidewalk
+object-prep-object	person near bicycle
+object-prep-object	person near car
+object-verb	person crouch
+object-verb	person talk
+object	cellphone
+object	sidewalk
+object	person
+object	bicycle
+object	car
+object	bicycle
+#####################################################
+Beside a pot of yellow flowers , a man is kneeling on a sidewalk using a cell phone and writing on a piece of paper . 
+beside a pot of yellow flower , a man be kneel on a sidewalk use a cell phone and write on a piece of paper . 
+
+verb-prep-object	kneel beside pottedplant
+object-prep-object	person beside pottedplant
+object-prep-object	pottedplant of pot
+verb-prep-object	kneel on sidewalk
+object-prep-object	person on sidewalk
+attribute-object	yellow flower
+object-verb	person kneel
+object	pottedplant
+object	pot
+object	person
+object	sidewalk
+object	flower
+object	bicycle
+#####################################################
+Man kneels on sidewalk and takes notes while talking on a cell phone . 
+man kneel on sidewalk and take note while talk on a cell phone . 
+
+verb-prep-object	kneel on sidewalk
+object-prep-object	perosn on sidewalk
+verb-prep-object	talk on phone
+object-verb	person talk
+object-verb-object	person take note
+attribute-object	cell phone
+object-verb	person kneel
+object	sidewalk
+object	perosn
+object	phone
+object	person
+object	note
+object	bicycle
+#####################################################

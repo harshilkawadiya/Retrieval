@@ -1,0 +1,57 @@
+A blue and yellow train crosses a river near a waterfall . 
+a blue and yellow train cross a river near a waterfall . 
+
+verb-prep-object	cross near waterfall
+attribute-object	blue train
+attribute-object	yellow train
+object-verb-object	train cross river
+object	waterfall
+object	train
+object	river
+object	train
+#####################################################
+A blue train crosses over a ditch in the mountains . 
+a blue train cross over a ditch in the mountain . 
+
+verb-prep-object	cross over ditch
+object-prep-object	train over ditch
+object-prep-object	ditch in mountain
+attribute-object	blue train
+object-verb	train cross
+object	ditch
+object	train
+object	mountain
+object	train
+#####################################################
+A blue train crossing over a pulley . 
+a blue train cross over a pulley . 
+
+verb-prep-object	cross over pulley
+attribute-object	blue train
+object-verb	train cross
+object	pulley
+object	train
+object	train
+#####################################################
+A blue train with silver top that is crossing a divide . 
+a blue train with silver top that be cross a divide . 
+
+object-prep-object	train with top
+attribute-object	blue train
+object-verb-object	train cross divide
+attribute-object	silver top
+object	train
+object	top
+object	divide
+object	train
+#####################################################
+Blue train over rocky crevasse . 
+Blue train over rocky crevasse . 
+
+object-prep-object	train over crevasse
+attribute-object	rocky crevasse
+attribute-object	blue train
+object	train
+object	crevasse
+object	train
+#####################################################

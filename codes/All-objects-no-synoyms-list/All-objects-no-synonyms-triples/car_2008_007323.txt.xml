@@ -1,0 +1,47 @@
+A large wooded expanse with a city in the background . 
+a large wooded expanse with a city in the background . 
+
+object-prep-object	expanse with city
+attribute-object	large expanse
+attribute-object	wooded expanse
+object	expanse
+object	city
+object	car
+#####################################################
+A view from a hillside , Showing buildings and trees . 
+a view from a hillside , show building and tree . 
+
+object	hillside
+object	building
+object	tree
+object	hillside
+object	building
+object	tree
+object	car
+#####################################################
+Buildings and trees are at the base of a mountain . 
+building and tree be at the base of a mountain . 
+
+object-prep-object	building at mountain
+object-prep-object	tree at mountain
+object	building
+object	mountain
+object	tree
+object	car
+#####################################################
+Skyview of city . 
+Skyview of city . 
+
+object	city
+object	city
+object	car
+#####################################################
+This a picture of the countryside with a large city in the background . 
+this a picture of the countryside with a large city in the background . 
+
+object-prep-object	countryside with city
+attribute-object	large city
+object	countryside
+object	city
+object	car
+#####################################################

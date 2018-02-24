@@ -1,0 +1,82 @@
+A Goldfinch is eating thistle seed from a bird feeder hanging in a tree . 
+a Goldfinch be eat thistle seed from a bird feeder hang in a tree . 
+
+verb-prep-object	eat from person
+object-prep-object	bird from person
+verb-prep-object	hang in tree
+object-verb-object	bird eat seed
+attribute-object	thistle seed
+attribute-object	bird person
+object-verb	person hang
+object	person
+object	feeder
+object	bird
+object	tree
+object	seed
+object	bird
+#####################################################
+A small bird eating from the feeder . 
+a small bird eat from the feeder . 
+
+verb-prep-object	eat from person
+object-prep-object	bird from person
+attribute-object	small bird
+object-verb	bird eat
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+A small bird perches on the bird feeder hanging from the tree . 
+a small bird perch on the bird feeder hang from the tree . 
+
+verb-prep-object	perch on person
+object-prep-object	bird on person
+verb-prep-object	hang from tree
+attribute-object	small bird
+attribute-object	bird person
+object-verb	bird perch
+object-verb	person hang
+object	person
+object	feeder
+object	bird
+object	tree
+object	bird
+#####################################################
+A small bird with yellow coloring and black stripes eats from a bird feeder . 
+a small bird with yellow coloring and black stripe eat from a bird feeder . 
+
+object-prep-object	bird with coloring
+object-prep-object	bird with striped
+verb-prep-object	eat from person
+object-prep-object	bird from person
+attribute-object	small bird
+attribute-object	yellow coloring
+attribute-object	black striped
+attribute-object	bird person
+object-verb	bird eat
+object	bird
+object	coloring
+object	striped
+object	person
+object	feeder
+object	stripe
+object	bird
+#####################################################
+A small brown bird is eating from a bird feeder hanging from a tree . 
+a small brown bird be eat from a bird feeder hang from a tree . 
+
+verb-prep-object	eat from person
+object-prep-object	bird from person
+verb-prep-object	hang from tree
+attribute-object	small bird
+attribute-object	brown bird
+attribute-object	bird person
+object-verb	bird eat
+object-verb	person hang
+object	person
+object	feeder
+object	bird
+object	tree
+object	bird
+#####################################################

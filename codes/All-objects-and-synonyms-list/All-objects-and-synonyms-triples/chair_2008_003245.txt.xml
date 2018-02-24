@@ -1,0 +1,87 @@
+An smiling asian child sits beside a young woman near a blue mosaic table . 
+a smile asian child sit beside a young woman near a blue mosaic table . 
+
+verb-prep-object	sit beside person
+object-prep-object	person beside person
+object-prep-object	person near diningtable
+attribute-object	smile person
+attribute-object	asian person
+attribute-object	young person
+attribute-object	blue diningtable
+attribute-object	mosaic diningtable
+object-verb	person sit
+object	person
+object	woman
+object	child
+object	diningtable
+object	table
+object	chair
+#####################################################
+Asian mother and daughter seated at a dinner table . 
+asian mother and daughter seat at a dinner table . 
+
+verb-prep-object	seat at diningtable
+object-prep-object	mother at diningtable
+object-prep-object	person at diningtable
+attribute-object	asian mother
+attribute-object	dinner diningtable
+object-verb	mother seat
+object-verb	person seat
+object	diningtable
+object	table
+object	mother
+object	person
+object	daughter
+object	chair
+#####################################################
+A small girl and a woman seated at a restaurant smile for the camera . 
+a small girl and a woman seat at a restaurant smile for the camera . 
+
+verb-prep-object	seat at restaurant
+object-prep-object	person at girl
+object-prep-object	person at woman
+verb-prep-object	smile for camera
+attribute-object	small person
+object-verb	person seat
+object-verb	person seat
+object-verb	person smile
+object-verb	person smile
+object	restaurant
+object	person
+object	girl
+object	woman
+object	camera
+object	chair
+#####################################################
+A woman and small child sitting at a dinner table smiling at the camera . 
+a woman and small child sit at a dinner table smile at the camera . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	smile at camera
+attribute-object	small person
+attribute-object	dinner diningtable
+object-verb	person sit
+object-verb	person sit
+object-verb	person smile
+object-verb	person smile
+object	diningtable
+object	table
+object	person
+object	woman
+object	child
+object	camera
+object	chair
+#####################################################
+The happy mom and daughter await their meal . 
+the happy mom and daughter await they meal . 
+
+attribute-object	happy person
+object-verb-object	person await mom
+object-verb-object	person await daughter
+object	person
+object	mom
+object	daughter
+object	chair
+#####################################################

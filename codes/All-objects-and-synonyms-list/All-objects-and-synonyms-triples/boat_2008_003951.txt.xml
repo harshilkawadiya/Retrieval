@@ -1,0 +1,71 @@
+Two men on a pebble beach , near the edge of the water , are posing on a cloudy day . 
+two man on a pebble beach , near the edge of the water , be pose on a cloudy day . 
+
+object-prep-object	person on man
+object-prep-object	person near man
+verb-prep-object	pose on day
+attribute-object	pebble beach
+attribute-object	cloudy day
+object-verb	person pose
+object	person
+object	man
+object	day
+object	beach
+object	boat
+#####################################################
+Two men standing on beach . 
+two man stand on beach . 
+
+verb-prep-object	stand on beach
+object-prep-object	person on man
+object-verb	person stand
+object	beach
+object	person
+object	man
+object	boat
+#####################################################
+Two men wearing coats and hats stand on the shore of a body of water . 
+two man wear coat and hat stand on the shore of a body of water . 
+
+verb-prep-object	stand on shore
+object-prep-object	person on man
+object-prep-object	shore of water
+object-verb-object	person wear man
+object-verb-object	person wear man
+object-verb	person stand
+object	shore
+object	person
+object	man
+object	water
+object	boat
+#####################################################
+Two people stand on a shore with a suspension bridge in the background . 
+two people stand on a shore with a suspension bridge in the background . 
+
+verb-prep-object	stand with bridge
+verb-prep-object	stand on shore
+object-prep-object	person on people
+attribute-object	suspension bridge
+object-verb	person stand
+object	bridge
+object	shore
+object	person
+object	people
+object	boat
+#####################################################
+Two people wearing jeans , jackets , and hats stand near a large river . 
+two people wear jeans , jacket , and hat stand near a large river . 
+
+verb-prep-object	stand near water
+object-prep-object	person near water
+attribute-object	large water
+object-verb-object	person wear people
+object-verb-object	person wear people
+object-verb-object	person wear people
+object-verb	person stand
+object	water
+object	river
+object	person
+object	people
+object	boat
+#####################################################

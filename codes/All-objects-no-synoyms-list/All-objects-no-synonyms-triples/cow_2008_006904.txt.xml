@@ -1,0 +1,64 @@
+Black and brown cows sit on a field . 
+Black and brown cow sit on a field . 
+
+verb-prep-object	sit on field
+object-prep-object	cow on field
+attribute-object	black cow
+attribute-object	brown cow
+object-verb	cow sit
+object	field
+object	cow
+object	cow
+#####################################################
+Black cow lying in front of two brown cows in a field in the winter . 
+Black cow lie in front of two brown cow in a field in the winter . 
+
+verb-prep-object	lie in field
+verb-prep-object	lie in winter
+object-prep-object	cow in field
+verb-prep-object	lie in_front_of cow
+object-prep-object	cow in_front_of cow
+attribute-object	brown cow
+attribute-object	black cow
+object-verb	cow lie
+object	field
+object	winter
+object	cow
+object	cow
+#####################################################
+Cows are lying in a hay-covered field near some leaf-less trees . 
+cow be lie in a hay-covered field near some leaf-less tree . 
+
+verb-prep-object	lie near tree
+verb-prep-object	lie in field
+object-prep-object	cow in field
+attribute-object	hay-covered field
+attribute-object	leaf-less tree
+object-verb	cow lie
+object	tree
+object	field
+object	cow
+object	cow
+#####################################################
+Cows are resting on a peaceful day . 
+cow be rest on a peaceful day . 
+
+verb-prep-object	rest on day
+attribute-object	peaceful day
+object-verb	cow rest
+object	day
+object	cow
+object	cow
+#####################################################
+cows lounge behind a barb wire fence . 
+cow lounge behind a barb wire fence . 
+
+object-verb	cow lounge
+verb-prep-object	lounge behind fence
+object-prep-object	cow behind fence
+attribute-object	barb fence
+attribute-object	wire fence
+object	cow
+object	fence
+object	cow
+#####################################################

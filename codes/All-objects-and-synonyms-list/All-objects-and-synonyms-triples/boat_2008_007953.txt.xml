@@ -1,0 +1,61 @@
+A fairy tour boat is docked near a city with some flowers in the foreground . 
+a fairy tour boat be dock near a city with some flower in the foreground . 
+
+verb-prep-object	dock near city
+object-prep-object	boat near city
+attribute-object	fairy boat
+attribute-object	tour boat
+object-verb	boat dock
+object	city
+object	boat
+object	boat
+#####################################################
+A foreign boat at the dock of a river across from a large city . 
+a foreign boat at the dock of a river across from a large city . 
+
+object-prep-object	boat across city
+object-prep-object	boat at water
+attribute-object	foreign boat
+attribute-object	large city
+object	boat
+object	city
+object	water
+object	boat
+#####################################################
+A small ferry boat with a green roof at a dock . 
+a small ferry boat with a green roof at a dock . 
+
+object-prep-object	boat at dock
+object-prep-object	boat with roof
+attribute-object	small boat
+attribute-object	green roof
+attribute-object	ferry boat
+object	boat
+object	dock
+object	roof
+object	boat
+#####################################################
+A small passenger boat tied up at a dock . 
+a small passenger boat tie up at a dock . 
+
+verb-prep-object	tie at dock
+object-prep-object	boat at dock
+attribute-object	small boat
+attribute-object	passenger boat
+object-verb	boat tie
+verb-attribute	tie up
+object	dock
+object	boat
+object	boat
+#####################################################
+A tour boat docked next to flowers . 
+a tour boat dock next to flower . 
+
+verb-prep-object	dock next_to flower
+object-prep-object	boat next_to flower
+attribute-object	tour boat
+object-verb	boat dock
+object	flower
+object	boat
+object	boat
+#####################################################

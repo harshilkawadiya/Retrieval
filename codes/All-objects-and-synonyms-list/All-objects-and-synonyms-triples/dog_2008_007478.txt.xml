@@ -1,0 +1,97 @@
+A man sitting on a bench looking at a dog on a leash sitting on sidewalk . 
+a man sit on a bench look at a dog on a leash sit on sidewalk . 
+
+object-verb	person sit
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-verb	person look
+verb-prep-object	look at dog
+object-prep-object	dog on leash
+verb-prep-object	sit on sidewalk
+object-prep-object	dog on sidewalk
+object-verb	dog sit
+object	person
+object	man
+object	chair
+object	bench
+object	dog
+object	leash
+object	sidewalk
+object	dog
+#####################################################
+A man wearing a red and black plaid shirt looks at a fluffy white dog . 
+a man wear a red and black plaid shirt look at a fluffy white dog . 
+
+object-verb-object	person wear man
+attribute-object	red shirt
+attribute-object	black shirt
+attribute-object	plaid shirt
+object-verb	person look
+verb-prep-object	look at dog
+attribute-object	fluffy dog
+attribute-object	white dog
+object	person
+object	man
+object	shirt
+object	dog
+object	dog
+#####################################################
+A small white dog looks down the street while a man on a bench watches the dog . 
+a small white dog look down the street while a man on a bench watch the dog . 
+
+object-prep-object	person on chair
+attribute-object	small dog
+attribute-object	white dog
+object-verb-object	dog look road
+object-verb-object	person watch man
+verb-attribute	look down
+object	person
+object	man
+object	chair
+object	dog
+object	road
+object	dog
+#####################################################
+A small white dog on a leash is sitting on the ground near a man wearing red and black plaid . 
+a small white dog on a leash be sit on the ground near a man wear red and black plaid . 
+
+object-prep-object	dog on leash
+verb-prep-object	sit on ground
+object-prep-object	dog on ground
+verb-prep-object	sit near person
+object-prep-object	dog near person
+attribute-object	small dog
+attribute-object	white dog
+attribute-object	red plaid
+attribute-object	black plaid
+object-verb-object	person wear man
+object-verb	dog sit
+object	dog
+object	leash
+object	ground
+object	person
+object	man
+object	plaid
+object	dog
+#####################################################
+A small white dog tied up in front of a man sitting on a bench in the street . 
+a small white dog tie up in front of a man sit on a bench in the street . 
+
+object-verb	person sit
+verb-prep-object	sit on chair
+object-prep-object	person on chair
+object-prep-object	chair in road
+verb-prep-object	tie in_front_of person
+object-prep-object	dog in_front_of person
+attribute-object	small dog
+attribute-object	white dog
+object-verb	dog tie
+verb-attribute	tie up
+object	person
+object	man
+object	chair
+object	bench
+object	road
+object	dog
+object	dog
+#####################################################

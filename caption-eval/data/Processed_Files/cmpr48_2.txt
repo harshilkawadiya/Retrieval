@@ -1,0 +1,50 @@
+beam_size_1	2	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	3	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	4	A little boy is leaping in the air onto a water slide .
+beam_size_1	5	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	6	The boy in the swimming trunks is playing in the yard .
+beam_size_1	7	A boy is upside down in midair near a lake at sunset .
+beam_size_1	8	A person does a flip by two sailboats and a lake .
+beam_size_1	9	A person flipping upside down
+beam_size_1	10	a person in midair doing a back flip .
+beam_size_1	11	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	12	A person hanging from a telephone pole near the mountains .
+beam_size_1	13	A person is hanging in the air from the power lines .
+beam_size_1	14	A person is hanging upside down from power lines .
+beam_size_1	15	Person hanging upside down from poles
+beam_size_1	16	Someone is suspended from electrical wires .
+beam_size_1	17	A group of girls sit back to back .
+beam_size_1	18	a group of girls sitting in a circle
+beam_size_1	19	Little girl in bare feet sitting in a circle .
+beam_size_1	20	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	21	The young girls sat in a circle on the wood floor .
+beam_size_1	22	A boy plays a game with wooden blocks .
+beam_size_1	23	A child playing with building blocks on a wooden table .
+beam_size_1	24	A small boy is building with some wooden blocks .
+beam_size_1	25	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	26	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	27	A man on horseback on a grassy field in front of mountains .
+beam_size_1	28	A person on a brown horse in a prairie in front of tall mountains .
+beam_size_1	29	A person riding a horse with a mountain range in the far background .
+beam_size_1	30	A rider on a horse in front of a mountain range
+beam_size_1	31	Distant horse rider on plain in the middle of brown mountains .
+beam_size_1	32	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	33	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	34	a little boy at the beach with a surfboard
+beam_size_1	35	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	36	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	37	A blonde haired man is doing a demonstration in front of a small crowd of people .
+beam_size_1	38	A man demonstrates his product to an audience .
+beam_size_1	39	A man in a striped shirt is demonstrating a product .
+beam_size_1	40	A man is standing behind and desk and there is part of a red car hanging above his head .
+beam_size_1	41	a man shows off his exibit to many people .
+beam_size_1	42	A person in black covering their face with their hands .
+beam_size_1	43	A woman covering her eyes in a park as the day comes to an end
+beam_size_1	44	A woman is covering her eyes with her hands .
+beam_size_1	45	Person in black jacket standing with hands over eyes with street lights on in the background .
+beam_size_1	46	The man with brown hair in the black sweater is covering his face with his hands .
+beam_size_1	47	A brown dog jumps through three hoops .
+beam_size_1	48	A dog is jumping through hoops held by people .
+beam_size_1	49	a dog jumps through a black hulahoop .
+beam_size_1	50	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	51	A trainer runs next to his dog as it jumps through multiple hoops .

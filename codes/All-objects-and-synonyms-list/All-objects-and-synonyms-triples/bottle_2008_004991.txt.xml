@@ -1,0 +1,81 @@
+A boy and a girl are sitting on a deck and fishing . 
+a boy and a girl be sit on a deck and fishing . 
+
+verb-prep-object	sit on deck
+object-prep-object	person on boy
+object-prep-object	person on girl
+object-verb	person sit
+object-verb	person sit
+object-verb	person fishing
+object-verb	person fishing
+object	deck
+object	person
+object	boy
+object	girl
+object	bottle
+#####################################################
+A man fishing with a stick and a woman lying on her back covering her face . 
+a man fishing with a stick and a woman lie on she back cover she face . 
+
+verb-prep-object	fishing with stick
+object-prep-object	person with man
+object-verb	person fishing
+object-verb	person lie
+object	stick
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################
+Man and woman relaxing on deck while fishing . 
+man and woman relax on deck while fishing . 
+
+verb-prep-object	relax on deck
+object-prep-object	person on man
+object-prep-object	person on woman
+object-verb	person fishing
+object-verb	person fishing
+object-verb	person relax
+object-verb	person relax
+object	deck
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################
+Man fishing with a cane pole next to a sleeping girl on a pier . 
+man fishing with a cane pole next to a sleep girl on a pier . 
+
+verb-prep-object	fishing with pole
+object-prep-object	person with man
+object-prep-object	person next_to person
+attribute-object	sleep person
+object-verb	person fishing
+attribute-object	cane pole
+object-prep-object	person on boat
+object	pole
+object	person
+object	man
+object	girl
+object	boat
+object	bottle
+#####################################################
+Woman lying on a pier while the guy fishes with an old-fashioned stick fishing rod . 
+Woman lie on a pier while the guy fish with a old-fashioned stick fishing rod . 
+
+verb-prep-object	lie on boat
+object-prep-object	person on boat
+verb-prep-object	fish with rod
+attribute-object	old-fashioned rod
+object-verb	person fish
+attribute-object	stick rod
+attribute-object	fishing rod
+object-verb	person lie
+object	boat
+object	pier
+object	person
+object	woman
+object	rod
+object	guy
+object	bottle
+#####################################################

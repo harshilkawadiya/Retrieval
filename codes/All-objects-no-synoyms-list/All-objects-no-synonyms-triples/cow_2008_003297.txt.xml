@@ -1,0 +1,67 @@
+A brown and white cow standing in a grassy area with trees behind . 
+a brown and white cow standing in a grassy area with tree behind . 
+
+verb-prep-object	stand in area
+object-prep-object	cow in area
+attribute-object	brown cow
+attribute-object	white cow
+attribute-object	grassy area
+object-verb	cow stand
+object-prep-object	area with tree
+object	area
+object	cow
+object	tree
+object	cow
+#####################################################
+A cow is standing in a field by a road . 
+a cow be stand in a field by a road . 
+
+verb-prep-object	stand by road
+object-prep-object	cow by road
+verb-prep-object	stand in field
+object-prep-object	cow in field
+object-verb	cow stand
+object	road
+object	cow
+object	field
+object	cow
+#####################################################
+A group of people on a petting zoo tour looking at a bull . 
+a group of people on a petting zoo tour look at a bull . 
+
+verb-prep-object	look at bull
+object-prep-object	people on tour
+attribute-object	petting tour
+attribute-object	zoo tour
+object-verb	people look
+object	bull
+object	people
+object	tour
+object	cow
+#####################################################
+Brown and white bull on the side of a gravel road . 
+Brown and white bull on the side of a gravel road . 
+
+object-prep-object	bull on road
+attribute-object	brown bull
+attribute-object	white bull
+attribute-object	gravel road
+object	bull
+object	road
+object	cow
+#####################################################
+Brown and white cow standing in grass at side of road . 
+Brown and white cow standing in grass at side of road . 
+
+object-verb	cow stand
+attribute-object	brown cow
+attribute-object	white cow
+verb-prep-object	stand in grass
+object-prep-object	cow in grass
+verb-prep-object	stand at road
+object-prep-object	cow at road
+object	cow
+object	grass
+object	road
+object	cow
+#####################################################

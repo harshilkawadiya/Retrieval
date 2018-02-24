@@ -1,0 +1,71 @@
+An Indian woman sits at a wooden table in front of a framed basketball poster . 
+a indian woman sit at a wooden table in front of a frame basketball poster . 
+
+object-verb	woman sit
+verb-prep-object	sit at table
+object-prep-object	woman at table
+attribute-object	indian woman
+verb-prep-object	sit in_front_of poster
+object-prep-object	table in_front_of poster
+attribute-object	wooden table
+attribute-object	frame poster
+attribute-object	basketball poster
+object	woman
+object	table
+object	poster
+object	diningtable
+#####################################################
+A woman in a sari drinks something while sitting at a table . 
+a woman in a sari drink something while sit at a table . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-prep-object	woman in sari
+object-verb-object	woman drink something
+object-verb	woman sit
+object	table
+object	woman
+object	sari
+object	something
+object	diningtable
+#####################################################
+A woman sitting drinking from a cup in front of a basketball photo . 
+a woman sit drinking from a cup in front of a basketball photo . 
+
+verb-prep-object	drink from cup
+object-prep-object	cup in_front_of photo
+object-verb	woman drink
+object-verb	woman sit
+attribute-object	basketball photo
+object	cup
+object	photo
+object	woman
+object	diningtable
+#####################################################
+A woman sitting at a table drinking with a basketball picture in the background . 
+a woman sit at a table drinking with a basketball picture in the background . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-verb	woman drink
+attribute-object	basketball picture
+object-verb	woman sit
+object	table
+object	woman
+object	picture
+object	diningtable
+#####################################################
+Woman sitting by herself at a table drinking from a white cup . 
+Woman sit by herself at a table drinking from a white cup . 
+
+verb-prep-object	sit at table
+object-prep-object	woman at table
+attribute-object	white cup
+object-verb	woman drink
+verb-prep-object	drink from cup
+object-verb	woman sit
+object	table
+object	woman
+object	cup
+object	diningtable
+#####################################################

@@ -1,0 +1,44 @@
+A girl wearing black . 
+a girl wear black . 
+
+object-verb-object	girl wear black
+object	girl
+object	black
+object	person
+#####################################################
+a stretched close-up of a girl in black . 
+a stretch close-up of a girl in black . 
+
+object-prep-object	girl in black
+object	girl
+object	black
+object	person
+#####################################################
+A woman taking her own photo from above . 
+a woman take she own photo from above . 
+
+object-verb-object	woman take photo
+object	woman
+object	photo
+object	person
+#####################################################
+A young woman dressed in black . 
+a young woman dress in black . 
+
+verb-prep-object	dress in black
+object-prep-object	woman in black
+attribute-object	young woman
+object-verb	woman dress
+object	black
+object	woman
+object	person
+#####################################################
+Close up photo of a brunette wearing a serious expression . 
+close up photo of a brunette wear a serious expression . 
+
+object-verb-object	brunette wear expression
+attribute-object	serious expression
+object	brunette
+object	expression
+object	person
+#####################################################

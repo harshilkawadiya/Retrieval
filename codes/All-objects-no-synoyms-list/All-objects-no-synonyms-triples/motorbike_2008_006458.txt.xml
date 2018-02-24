@@ -1,0 +1,68 @@
+A close-up of a woman with black boots next to a blue motorcycle . 
+a close-up of a woman with black boot next to a blue motorcycle . 
+
+object-prep-object	woman with boot
+object-prep-object	woman next_to motorcycle
+attribute-object	black boot
+attribute-object	blue motorcycle
+object	woman
+object	boot
+object	motorcycle
+object	motorbike
+#####################################################
+A girl posting beside a blue motorcycle . 
+a girl post beside a blue motorcycle . 
+
+verb-prep-object	post beside motorcycle
+object-prep-object	girl beside motorcycle
+attribute-object	blue motorcycle
+object-verb	girl post
+object	motorcycle
+object	girl
+object	motorbike
+#####################################################
+A girl standing beside a blue motor bike . 
+a girl standing beside a blue motor bike . 
+
+verb-prep-object	stand beside bike
+object-prep-object	girl beside bike
+attribute-object	blue bike
+object-verb	girl stand
+attribute-object	motor bike
+object	bike
+object	girl
+object	motorbike
+#####################################################
+A girl wearing black shorts and boots is standing next to a blue motorcycle . 
+a girl wear black shorts and boot be stand next to a blue motorcycle . 
+
+verb-prep-object	stand next_to motorcycle
+object-prep-object	girl next_to motorcycle
+attribute-object	black shorts
+attribute-object	blue motorcycle
+object-verb-object	girl wear shorts
+object-verb-object	girl wear boot
+object-verb	girl stand
+object	motorcycle
+object	girl
+object	shorts
+object	boot
+object	motorbike
+#####################################################
+A woman in black and white laughs while standing next to a parked blue motorbike . 
+a woman in black and white laugh while stand next to a park blue motorbike . 
+
+object-verb	woman laugh
+object-verb	woman stand
+verb-prep-object	stand next_to motorbike
+object-prep-object	woman next_to motorbike
+object-prep-object	woman in black
+object-prep-object	woman in white
+attribute-object	park motorbike
+attribute-object	blue motorbike
+object	woman
+object	motorbike
+object	black
+object	white
+object	motorbike
+#####################################################

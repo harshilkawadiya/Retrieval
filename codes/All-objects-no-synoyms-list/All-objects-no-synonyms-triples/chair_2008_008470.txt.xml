@@ -1,0 +1,71 @@
+A living room decorated with contemporary furnishings . 
+a living room decorate with contemporary furnishings . 
+
+verb-prep-object	decorate with furnishings
+object-prep-object	room with furnishings
+attribute-object	contemporary furnishings
+attribute-object	living room
+object-verb	room decorate
+object	furnishings
+object	room
+object	chair
+#####################################################
+A living room scene with couches and coffee table . 
+a living room scene with couch and coffee table . 
+
+object-prep-object	room with couch
+object-prep-object	room with table
+attribute-object	living room
+attribute-object	coffee table
+object	room
+object	couch
+object	table
+object	chair
+#####################################################
+A living room with large sofas and a dining table in the background . 
+a living room with large sofa and a dining table in the background . 
+
+object-prep-object	room with sofa
+object-prep-object	room with table
+attribute-object	large sofa
+attribute-object	living room
+attribute-object	dining table
+object	room
+object	sofa
+object	table
+object	chair
+#####################################################
+A living room with two leather sofas , a chair and a coffee table with the dining room in the background . 
+a living room with two leather sofa , a chair and a coffee table with the dining room in the background . 
+
+object-prep-object	room with sofa
+object-prep-object	room with chair
+object-prep-object	room with table
+object-prep-object	room with room
+attribute-object	living room
+attribute-object	leather sofa
+attribute-object	coffee table
+attribute-object	dining room
+object	room
+object	sofa
+object	chair
+object	table
+object	chair
+#####################################################
+Two tan leather sofas in a cream colored living room with a bookcase and table behind . 
+two tan leather sofa in a cream color living room with a bookcase and table behind . 
+
+object-prep-object	sofa in room
+attribute-object	tan sofa
+attribute-object	leather sofa
+attribute-object	cream room
+attribute-object	color room
+attribute-object	living room
+object-prep-object	room with bookcase
+object-prep-object	room with table
+object	sofa
+object	room
+object	bookcase
+object	table
+object	chair
+#####################################################

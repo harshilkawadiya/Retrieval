@@ -1,0 +1,50 @@
+A bottle of Conti Zecca Cantalupi . 
+a bottle of Conti Zecca Cantalupi . 
+
+object-prep-object	bottle of cantalupi
+attribute-object	conti cantalupi
+attribute-object	zecca cantalupi
+object	bottle
+object	cantalupi
+object	bottle
+#####################################################
+A close up of the label of an empty wine bottle . 
+a close up of the label of a empty wine bottle . 
+
+attribute-object	empty bottle
+attribute-object	wine bottle
+object	bottle
+object	bottle
+#####################################################
+A distorted image of a foreign bottle of wine . 
+a distorted image of a foreign bottle of wine . 
+
+object-prep-object	bottle of wine
+attribute-object	foreign bottle
+object	bottle
+object	wine
+object	bottle
+#####################################################
+A green bottle of Cantalupi with a black and white label . 
+a green bottle of Cantalupi with a black and white label . 
+
+object-prep-object	bottle of cantalupi
+object-prep-object	bottle with label
+attribute-object	green bottle
+attribute-object	black label
+attribute-object	white label
+object	bottle
+object	cantalupi
+object	label
+object	bottle
+#####################################################
+Red liquid in a green bottle . 
+Red liquid in a green bottle . 
+
+object-prep-object	liquid in bottle
+attribute-object	green bottle
+attribute-object	red liquid
+object	liquid
+object	bottle
+object	bottle
+#####################################################

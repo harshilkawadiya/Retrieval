@@ -1,0 +1,70 @@
+Two people are sitting in a small antique shop . 
+two people be sit in a small antique shop . 
+
+verb-prep-object	sit in shop
+object-prep-object	person in people
+attribute-object	small shop
+attribute-object	antique shop
+object-verb	person sit
+object	shop
+object	person
+object	people
+object	diningtable
+#####################################################
+Two women are sitting in a cafe . 
+two woman be sit in a cafe . 
+
+verb-prep-object	sit in restaurant
+object-prep-object	person in restaurant
+object-verb	person sit
+object	restaurant
+object	cafe
+object	person
+object	woman
+object	diningtable
+#####################################################
+Two women seated at a table in plastic chairs in a cluttered room . 
+two woman seat at a table in plastic chair in a cluttered room . 
+
+object-verb	person seat
+verb-prep-object	seat at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	seat in chair
+object-prep-object	person in woman
+attribute-object	plastic chair
+object-prep-object	chair in room
+attribute-object	cluttered room
+object	person
+object	woman
+object	diningtable
+object	table
+object	chair
+object	room
+object	diningtable
+#####################################################
+Two women sitting at a table smiling . 
+two woman sit at a table smile . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb	person sit
+object-verb	person smile
+object	diningtable
+object	table
+object	person
+object	woman
+object	diningtable
+#####################################################
+Two women sitting in chairs in a shop . 
+two woman sit in chair in a shop . 
+
+verb-prep-object	sit in chair
+object-prep-object	person in woman
+object-prep-object	chair in shop
+object-verb	person sit
+object	chair
+object	person
+object	woman
+object	shop
+object	diningtable
+#####################################################

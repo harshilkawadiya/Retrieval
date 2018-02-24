@@ -1,0 +1,67 @@
+A blonde girl sits on the side of a mountain next to a sheep . 
+a blonde girl sit on the side of a mountain next to a sheep . 
+
+attribute-object	blonde girl
+object-verb	girl sit
+verb-prep-object	sit on mountain
+object-prep-object	girl on mountain
+verb-prep-object	sit next_to sheep
+object-prep-object	girl next_to sheep
+object	girl
+object	mountain
+object	sheep
+object	sheep
+#####################################################
+A girl in a pink sweatshirt sits on a mountain near a sheep . 
+a girl in a pink sweatshirt sit on a mountain near a sheep . 
+
+verb-prep-object	sit on mountain
+object-prep-object	girl on mountain
+verb-prep-object	sit near sheep
+object-prep-object	girl near sheep
+object-prep-object	girl in sweatshirt
+attribute-object	pink sweatshirt
+object-verb	girl sit
+object	mountain
+object	girl
+object	sheep
+object	sweatshirt
+object	sheep
+#####################################################
+A woman in the mountains being approached by a sheep . 
+a woman in the mountain be approach by a sheep . 
+
+object-prep-object	woman in mountain
+verb-prep-object	approach by sheep
+object-verb	woman approach
+object	woman
+object	mountain
+object	sheep
+object	sheep
+#####################################################
+A woman looking at a sheep on top of a cliff . 
+a woman look at a sheep on top of a cliff . 
+
+verb-prep-object	look at sheep
+object-prep-object	sheep on_top_of cliff
+object-verb	woman look
+object	sheep
+object	cliff
+object	woman
+object	sheep
+#####################################################
+a woman sitting next to a white sheep on a green cliff . 
+a woman sit next to a white sheep on a green cliff . 
+
+verb-prep-object	sit on cliff
+object-prep-object	woman on cliff
+verb-prep-object	sit next_to sheep
+object-prep-object	woman next_to sheep
+attribute-object	white sheep
+attribute-object	green cliff
+object-verb	woman sit
+object	cliff
+object	woman
+object	sheep
+object	sheep
+#####################################################

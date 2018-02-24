@@ -1,0 +1,55 @@
+A close-up of two women posing with their thumbs up . 
+a close-up of two woman pose with they thumb up . 
+
+verb-prep-object	pose with thumb
+object-verb	woman pose
+object	thumb
+object	woman
+object	person
+#####################################################
+One Asian and one occasion woman in glasses smiling with their thumbs up . 
+one asian and one occasion woman in glass smile with they thumb up . 
+
+object-prep-object	woman in glass
+attribute-object	occasion woman
+object-verb	woman smile
+object-verb	asian smile
+verb-prep-object	smile with thumb
+object	woman
+object	glass
+object	asian
+object	thumb
+object	person
+#####################################################
+Two smiling young women giving a thumbs up . 
+two smile young woman give a thumb up . 
+
+attribute-object	smile woman
+attribute-object	young woman
+object-verb-object	woman give thumb
+verb-attribute	give up
+object	woman
+object	thumb
+object	person
+#####################################################
+Two smiling young women giving the thumbs up sign . 
+two smile young woman give the thumb up sign . 
+
+attribute-object	smile woman
+attribute-object	young woman
+object-verb-object	woman give thumb
+object	woman
+object	thumb
+object	person
+#####################################################
+Two women are posing for the camera and giving the thumbs up sign . 
+two woman be pose for the camera and give the thumb up sign . 
+
+object-verb	woman pose
+verb-prep-object	pose for camera
+object-verb-object	woman give thumb
+object	woman
+object	camera
+object	thumb
+object	person
+#####################################################

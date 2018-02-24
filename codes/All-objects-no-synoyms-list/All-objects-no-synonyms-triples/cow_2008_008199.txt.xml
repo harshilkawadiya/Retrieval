@@ -1,0 +1,44 @@
+A black and white photo of cattle at a trough . 
+a black and white photo of cattle at a trough . 
+
+object-prep-object	cattle at trough
+object	cattle
+object	trough
+object	cow
+#####################################################
+a black and white photo of cows in their stalls . 
+a black and white photo of cow in they stall . 
+
+object-prep-object	cow in stall
+object	cow
+object	stall
+object	cow
+#####################################################
+Cattle in building . 
+Cattle in building . 
+
+object-prep-object	cattle in building
+object	cattle
+object	building
+object	cow
+#####################################################
+Livestock feeding at a farm . 
+livestock feeding at a farm . 
+
+verb-prep-object	feed at farm
+object-prep-object	livestock at farm
+object-verb	livestock feed
+object	farm
+object	livestock
+object	cow
+#####################################################
+The cows feed in the trough . 
+the cow feed in the trough . 
+
+verb-prep-object	feed in trough
+object-prep-object	cow in trough
+object-verb	cow feed
+object	trough
+object	cow
+object	cow
+#####################################################

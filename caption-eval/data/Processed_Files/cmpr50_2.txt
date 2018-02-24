@@ -1,0 +1,50 @@
+beam_size_1	2	A dog is running with a yellow tennis ball and wearing a red harness .
+beam_size_1	3	a small black and white dog running through the grass with a tennis ball in his mouth
+beam_size_1	4	Small black and white dog wearing a red harness is running around with a ball in its mouth .
+beam_size_1	5	Small dog with red harness fetching a ball .
+beam_size_1	6	The dog wearing the red collar is running across the grass with a ball in its mouth .
+beam_size_1	7	A black and brown dog with a tan dog on a cement path in front of grass
+beam_size_1	8	A black dog and a yellow dog are walking on asphalt next to a field of grass .
+beam_size_1	9	A blurry photo of two dogs .
+beam_size_1	10	a white dog is running behind a black dog on a paved path by some grass .
+beam_size_1	11	Two dogs walk along a path beside the grass .
+beam_size_1	12	A black dog and a tan dog fighting .
+beam_size_1	13	A black dog and a white dog are wrestling on the ground .
+beam_size_1	14	A black dog bites a white dog while standing on the sand .
+beam_size_1	15	two dogs fight .
+beam_size_1	16	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	17	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	18	A black dog with a purple collar is running .
+beam_size_1	19	A black dog with a purple collar running .
+beam_size_1	20	a black dog with purple collar running
+beam_size_1	21	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	22	a black dog plays with a ball in the water .
+beam_size_1	23	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	24	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	25	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	26	The black dog is running though the water with a pink ball .
+beam_size_1	27	The two white dogs are playing in a field .
+beam_size_1	28	Two little dogs run in the field .
+beam_size_1	29	Two white dogs running
+beam_size_1	30	Two white dogs running in the grass together .
+beam_size_1	31	Two white dogs run through the grass .
+beam_size_1	32	a black dog jumping to catch a rope toy
+beam_size_1	33	A black dog playing fetch with a ball of rope .
+beam_size_1	34	A black dog pounces to get a rope toy .
+beam_size_1	35	A black dog running after his rope toy .
+beam_size_1	36	A large black dog is playing in a grassy yard .
+beam_size_1	37	A beagle walks through the grass .
+beam_size_1	38	A black and tan dog standing in a field near trees
+beam_size_1	39	A brown and tan dog walks through the green grass .
+beam_size_1	40	a smal hound dog walking through the grass outside .
+beam_size_1	41	The dog is walking through a grassy area .
+beam_size_1	42	A black and tan dog is running with a white and gray dog along dirt .
+beam_size_1	43	The two dogs are running into the woods .
+beam_size_1	44	Two dogs run down a dirt path in the forest .
+beam_size_1	45	Two dogs running away from the camera in the woods .
+beam_size_1	46	Two dogs run on a dirt area near a forest .
+beam_size_1	47	A brown and white dog stands outside while it snows .
+beam_size_1	48	A dog is looking at something near the water .
+beam_size_1	49	A furry dog attempts to dry itself by shaking the water off its coat .
+beam_size_1	50	A white and brown dog shaking its self dry .
+beam_size_1	51	The large brown and white dog shakes off water .

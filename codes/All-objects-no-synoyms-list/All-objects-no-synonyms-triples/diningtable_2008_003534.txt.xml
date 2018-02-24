@@ -1,0 +1,62 @@
+A group of four people in a dinner having cake . 
+a group of four people in a dinner have cake . 
+
+object-prep-object	people in dinner
+object-verb-object	people have cake
+object	people
+object	dinner
+object	cake
+object	diningtable
+#####################################################
+Four friends having cake in a restaurant with a blue table cloth . 
+four friend have cake in a restaurant with a blue table cloth . 
+
+object-verb-object	friend have cake
+object-prep-object	friend in restaurant
+object-prep-object	restaurant with cloth
+attribute-object	blue cloth
+attribute-object	table cloth
+object	friend
+object	cake
+object	restaurant
+object	cloth
+object	diningtable
+#####################################################
+Four people eating dessert around a table . 
+four people eat dessert around a table . 
+
+verb-prep-object	eat around table
+object-prep-object	people around table
+object-verb-object	people eat dessert
+object	table
+object	people
+object	dessert
+object	diningtable
+#####################################################
+Four smiling people eating cake . 
+four smile people eat cake . 
+
+object-verb-object	people eat cake
+attribute-object	smile people
+object	people
+object	cake
+object	diningtable
+#####################################################
+Three young women and a young man sitting at a table eating cake . 
+three young woman and a young man sit at a table eat cake . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	woman at table
+attribute-object	young woman
+attribute-object	young man
+object-verb-object	man eat cake
+object-verb-object	woman eat cake
+object-verb	man sit
+object-verb	woman sit
+object	table
+object	man
+object	woman
+object	cake
+object	diningtable
+#####################################################

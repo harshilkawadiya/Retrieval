@@ -1,0 +1,54 @@
+Motorcycles with jackets . 
+Motorcycles with jacket . 
+
+object-prep-object	motorcycles with jacket
+object	motorcycles
+object	jacket
+object	motorbike
+#####################################################
+Parked motorcycles resting between rides . 
+park motorcycle rest between ride . 
+
+verb-prep-object	rest between ride
+object-verb	motorbike rest
+attribute-object	park motorbike
+object	ride
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Two bikes parked next to each other alongside a road . 
+two bike park next to each other alongside a road . 
+
+verb-prep-object	park alongside road
+object-prep-object	bicycle alongside bike
+object-verb	bicycle park
+object	road
+object	bicycle
+object	bike
+object	motorbike
+#####################################################
+Two motorcycles covered with jackets are parked near a stop sign . 
+two motorcycle cover with jacket be park near a stop sign . 
+
+verb-prep-object	cover with jacket
+verb-prep-object	park near sign
+object-prep-object	motorbike with motorcycle
+object-prep-object	motorbike near motorcycle
+attribute-object	stop sign
+object-verb	motorbike park
+object-verb	motorbike cover
+object	jacket
+object	sign
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+two motorcycles with jackets on them . 
+two motorcycle with jacket on they . 
+
+object-prep-object	motorbike with motorcycle
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################

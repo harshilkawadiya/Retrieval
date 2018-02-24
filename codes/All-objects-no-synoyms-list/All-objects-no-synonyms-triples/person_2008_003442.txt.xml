@@ -1,0 +1,53 @@
+Two women in a clothing store . 
+two woman in a clothing store . 
+
+object-prep-object	woman in store
+attribute-object	clothing store
+object	woman
+object	store
+object	person
+#####################################################
+Two women in shorts shopping in a store . 
+two woman in shorts shop in a store . 
+
+object-prep-object	woman in shorts
+verb-prep-object	shop in store
+object-prep-object	woman in store
+object-verb	woman shop
+object	woman
+object	shorts
+object	store
+object	person
+#####################################################
+Two women shopping . 
+two woman shopping . 
+
+object-verb	woman shopping
+object	woman
+object	person
+#####################################################
+Two women shopping at a clothing store . 
+two woman shop at a clothing store . 
+
+verb-prep-object	shop at store
+object-prep-object	woman at store
+attribute-object	clothing store
+object-verb	woman shop
+object	store
+object	woman
+object	person
+#####################################################
+Two young women in a store with clothing hanging from the ceiling . 
+two young woman in a store with clothing hang from the ceiling . 
+
+object-prep-object	store with clothing
+verb-prep-object	hang from ceiling
+object-prep-object	woman in store
+attribute-object	young woman
+object-verb	clothing hang
+object	store
+object	clothing
+object	ceiling
+object	woman
+object	person
+#####################################################

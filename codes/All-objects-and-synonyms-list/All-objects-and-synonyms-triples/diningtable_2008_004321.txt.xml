@@ -1,0 +1,73 @@
+A group of people gets ready to enjoy a meal around the table . 
+a group of people get ready to enjoy a meal around the table . 
+
+verb-prep-verb	ready to enjoy
+verb-object	enjoy meal
+object-prep-object	person around diningtable
+object-verb	person ready
+object	meal
+object	person
+object	people
+object	diningtable
+object	diningtable
+#####################################################
+A group of people sitting around a table containing food . 
+a group of people sit around a table contain food . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-verb-object	diningtable contain table
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+A mixture of people sit in a living room around a table filled with snacks . 
+a mixture of people sit in a living room around a table fill with snack . 
+
+verb-prep-object	sit in room
+object-prep-object	person in people
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+verb-prep-object	fill with snack
+object-prep-object	diningtable with table
+attribute-object	living room
+object-verb	person sit
+object-verb	diningtable fill
+object	room
+object	person
+object	people
+object	diningtable
+object	table
+object	snack
+object	diningtable
+#####################################################
+Four people are sitting around a living room with snacks . 
+four people be sit around a living room with snack . 
+
+object-prep-object	room with snack
+verb-prep-object	sit around room
+object-prep-object	person around people
+attribute-object	living room
+object-verb	person sit
+object	room
+object	snack
+object	person
+object	people
+object	diningtable
+#####################################################
+the people are posed around a coffee table . 
+the people be pose around a coffee table . 
+
+verb-prep-object	pose around diningtable
+object-prep-object	person around diningtable
+attribute-object	coffee diningtable
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################

@@ -1,0 +1,65 @@
+Airplanes flying in formation over boats in a body of water . 
+Airplanes fly in formation over boat in a body of water . 
+
+verb-prep-object	fly over boat
+verb-prep-object	fly in formation
+object-prep-object	aeroplane over boat
+object-prep-object	aeroplane in formation
+object-prep-object	boat in water
+object-verb	aeroplane fly
+object	boat
+object	formation
+object	aeroplane
+object	water
+object	boat
+#####################################################
+Four blue air planes fly over water with five white boats in it . 
+four blue air plane fly over water with five white boat in it . 
+
+object-verb	aeroplane fly
+attribute-object	blue aeroplane
+attribute-object	air aeroplane
+verb-prep-object	fly over water
+object-prep-object	aeroplane over water
+object-prep-object	water with boat
+attribute-object	white boat
+object	aeroplane
+object	water
+object	boat
+object	boat
+#####################################################
+Four blue and yellow planes flying over four boats . 
+four blue and yellow plane fly over four boat . 
+
+verb-prep-object	fly over boat
+object-prep-object	aeroplane over boat
+attribute-object	blue aeroplane
+attribute-object	yellow aeroplane
+object-verb	aeroplane fly
+object	boat
+object	aeroplane
+object	boat
+#####################################################
+Four blue and yellow planes in flight . 
+four blue and yellow plane in flight . 
+
+object-prep-object	aeroplane in aeroplane
+attribute-object	blue aeroplane
+attribute-object	yellow aeroplane
+object	aeroplane
+object	boat
+#####################################################
+Four blue jets fly above a harbor trailing blue smoke . 
+four blue jet fly above a harbor trail blue smoke . 
+
+object-verb	aeroplane fly
+attribute-object	blue aeroplane
+verb-prep-object	fly above harbor
+object-prep-object	aeroplane above harbor
+attribute-object	blue smoke
+object-verb-object	aeroplane trail smoke
+object	aeroplane
+object	harbor
+object	smoke
+object	boat
+#####################################################

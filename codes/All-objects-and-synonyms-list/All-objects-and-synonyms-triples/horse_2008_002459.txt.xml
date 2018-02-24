@@ -1,0 +1,54 @@
+A woman equestrian riding a horse . 
+a woman equestrian ride a horse . 
+
+attribute-object	equestrian person
+object-verb-object	person ride woman
+object	person
+object	woman
+object	horse
+#####################################################
+A young female rider on a brown horse . 
+a young female rider on a brown horse . 
+
+object-prep-object	person on rider
+attribute-object	young person
+attribute-object	female person
+attribute-object	brown horse
+object	person
+object	rider
+object	horse
+object	horse
+#####################################################
+I young woman rides here horse in the English style . 
+I young woman ride here horse in the english style . 
+
+object-verb-object	person ride woman
+attribute-object	young person
+object	person
+object	woman
+object	horse
+#####################################################
+The woman is riding on the brown horse . 
+the woman be ride on the brown horse . 
+
+verb-prep-object	ride on horse
+object-prep-object	person on woman
+attribute-object	brown horse
+object-verb	person ride
+object	horse
+object	person
+object	woman
+object	horse
+#####################################################
+Young woman in riding gear on top of horse . 
+Young woman in ride gear on top of horse . 
+
+object-prep-object	person in woman
+attribute-object	ride gear
+object-prep-object	person on_top_of woman
+attribute-object	young person
+object	person
+object	woman
+object	gear
+object	horse
+#####################################################

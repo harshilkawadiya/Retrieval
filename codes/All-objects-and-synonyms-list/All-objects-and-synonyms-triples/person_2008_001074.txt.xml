@@ -1,0 +1,57 @@
+A woman in a t-shirt chops mushrooms . 
+a woman in a t-shirt chop mushroom . 
+
+object-prep-object	person in woman
+object-verb-object	person chop woman
+object	person
+object	woman
+object	person
+#####################################################
+A woman wearing an over-sized gray Celtic T-shirt and no pants is cutting something in the kitchen . 
+a woman wear a over-sized gray celtic t-shirt and no pants be cut something in the kitchen . 
+
+object-verb-object	person wear woman
+attribute-object	over-sized t-shirt
+attribute-object	gray t-shirt
+attribute-object	celtic t-shirt
+object-verb-object	person cut woman
+verb-prep-object	cut in kitchen
+object	person
+object	woman
+object	t-shirt
+object	kitchen
+object	person
+#####################################################
+A woman in a gray t-shirt cutting potatoes in a kitchen . 
+a woman in a gray t-shirt cut potato in a kitchen . 
+
+object-prep-object	person in woman
+attribute-object	gray t-shirt
+object-verb-object	person cut woman
+verb-prep-object	cut in kitchen
+object	person
+object	woman
+object	t-shirt
+object	kitchen
+object	person
+#####################################################
+Woman in t-shirt dicing food with large knife . 
+Woman in t-shirt dice food with large knife . 
+
+verb-prep-object	dice with knife
+object-prep-object	person in woman
+attribute-object	large knife
+object-verb-object	person dice woman
+object	knife
+object	person
+object	woman
+object	person
+#####################################################
+Woman with no pants and a knife . 
+Woman with no pants and a knife . 
+
+object-prep-object	person with woman
+object	person
+object	woman
+object	person
+#####################################################

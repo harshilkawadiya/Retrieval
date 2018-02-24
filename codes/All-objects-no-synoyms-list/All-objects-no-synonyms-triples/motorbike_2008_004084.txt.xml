@@ -1,0 +1,57 @@
+A crowded street with people on motorcycles . 
+a crowded street with people on motorcycle . 
+
+object-prep-object	people on motorcycle
+object-prep-object	street with people
+attribute-object	crowded street
+object	people
+object	motorcycle
+object	street
+object	motorbike
+#####################################################
+People on motorbikes in a city street . 
+people on motorbike in a city street . 
+
+object-prep-object	people on motorbike
+object-prep-object	people in street
+attribute-object	city street
+object	people
+object	motorbike
+object	street
+object	motorbike
+#####################################################
+People ride mopeds in an urban setting . 
+people ride moped in a urban setting . 
+
+object-prep-object	people in setting
+attribute-object	urban setting
+object-verb-object	people ride moped
+object	people
+object	setting
+object	moped
+object	motorbike
+#####################################################
+People ride scooters on a busy side street . 
+people ride scooter on a busy side street . 
+
+object-prep-object	people on street
+attribute-object	busy street
+object-verb-object	people ride scooter
+attribute-object	side street
+object	people
+object	street
+object	scooter
+object	motorbike
+#####################################################
+Several people on motorcycles in a market square . 
+several people on motorcycle in a market square . 
+
+object-prep-object	people on motorcycle
+object-prep-object	people in square
+attribute-object	several people
+attribute-object	market square
+object	people
+object	motorcycle
+object	square
+object	motorbike
+#####################################################

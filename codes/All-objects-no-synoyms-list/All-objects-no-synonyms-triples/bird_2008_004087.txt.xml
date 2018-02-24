@@ -1,0 +1,57 @@
+A bunch of parakeets in a cage . 
+a bunch of parakeet in a cage . 
+
+object-prep-object	bunch of parakeet
+object-prep-object	parakeet in cage
+object	bunch
+object	parakeet
+object	cage
+object	bird
+#####################################################
+Several colorful birds perched on wood stick inside of cage . 
+several colorful bird perch on wood stick inside of cage . 
+
+verb-prep-object	perch on stick
+object-prep-object	bird on stick
+verb-prep-object	perch inside_of cage
+object-prep-object	bird inside_of cage
+attribute-object	several bird
+attribute-object	colorful bird
+attribute-object	wood stick
+object-verb	bird perch
+object	stick
+object	bird
+object	cage
+object	bird
+#####################################################
+The colorful birds get along the birdcage . 
+the colorful bird get along the birdcage . 
+
+verb-prep-object	get along birdcage
+object-prep-object	bird along birdcage
+attribute-object	colorful bird
+object-verb	bird get
+object	birdcage
+object	bird
+object	bird
+#####################################################
+There are two yellow birds and three green birds in a cage . 
+there be two yellow bird and three green bird in a cage . 
+
+object-prep-object	bird in cage
+attribute-object	yellow bird
+attribute-object	green bird
+object	bird
+object	cage
+object	bird
+#####################################################
+Yellow and green birds are in a cage . 
+Yellow and green bird be in a cage . 
+
+object-prep-object	bird in cage
+attribute-object	green bird
+attribute-object	yellow bird
+object	bird
+object	cage
+object	bird
+#####################################################

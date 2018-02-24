@@ -1,0 +1,84 @@
+A couple wearing black sits in a restaurant with a log cabin decor . 
+a couple wear black sit in a restaurant with a log cabin decor . 
+
+verb-prep-object	sit in restaurant
+object-prep-object	person in couple
+object-verb-object	person wear couple
+object-prep-object	restaurant with decor
+attribute-object	log decor
+attribute-object	cabin decor
+object-verb	person sit
+object	restaurant
+object	person
+object	couple
+object	decor
+object	chair
+#####################################################
+A man and woman pose at a restaurant table with a maroon table cloth . 
+a man and woman pose at a restaurant table with a maroon table cloth . 
+
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+attribute-object	maroon cloth
+attribute-object	restaurant diningtable
+attribute-object	table cloth
+object-verb	person pose
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	man
+object	woman
+object	cloth
+object	chair
+#####################################################
+A man and woman sit at a table in a restaurant . 
+a man and woman sit at a table in a restaurant . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable in table
+object-prep-object	person in man
+object-prep-object	person in woman
+object-verb	person sit
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	woman
+object	chair
+#####################################################
+Two people sitting at a table at a restaurant . 
+two people sit at a table at a restaurant . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable at table
+object-prep-object	person at people
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	chair
+#####################################################
+Wine and roses adorn the table while a happy couple poses for the photo . 
+wine and rose adorn the table while a happy couple pose for the photo . 
+
+verb-prep-object	pose for photo
+attribute-object	happy person
+object-verb-object	wine adorn diningtable
+object-verb-object	rose adorn diningtable
+object-verb	person pose
+object	photo
+object	person
+object	couple
+object	wine
+object	diningtable
+object	rose
+object	chair
+#####################################################

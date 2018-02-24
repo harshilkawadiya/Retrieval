@@ -1,0 +1,58 @@
+A green bus drives down a road . 
+a green bus drive down a road . 
+
+attribute-object	green bus
+object-verb-object	bus drive road
+verb-attribute	drive down
+object	bus
+object	road
+object	bus
+#####################################################
+A green bus has the word Adish and travels on a road . 
+a green bus have the word adish and travel on a road . 
+
+verb-prep-object	travel on road
+object-prep-object	bus on road
+attribute-object	green bus
+attribute-object	adish word
+object-verb-object	bus have word
+object-verb	bus travel
+object	road
+object	bus
+object	word
+object	bus
+#####################################################
+A green bus travel down a fenced road . 
+a green bus travel down a fenced road . 
+
+attribute-object	green bus
+attribute-object	fenced road
+object-verb-object	bus travel road
+verb-attribute	travel down
+object	bus
+object	road
+object	bus
+#####################################################
+Photo of a green bus on a bridge with a lovely blue sky above . 
+Photo of a green bus on a bridge with a lovely blue sky above . 
+
+object-prep-object	bus on bridge
+attribute-object	green bus
+attribute-object	lovely sky
+attribute-object	blue sky
+object	bus
+object	bridge
+object	sky
+object	bus
+#####################################################
+The bus travels it route on a clear day . 
+the bus travel it route on a clear day . 
+
+verb-prep-object	travel on day
+attribute-object	clear day
+object-verb-object	bus travel route
+object	day
+object	bus
+object	route
+object	bus
+#####################################################

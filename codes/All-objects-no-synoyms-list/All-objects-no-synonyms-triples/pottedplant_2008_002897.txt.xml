@@ -1,0 +1,64 @@
+A man in a black hat is sitting on a chair on a patio playing guitar . 
+a man in a black hat be sit on a chair on a patio play guitar . 
+
+verb-prep-object	sit on chair
+object-prep-object	man on chair
+object-prep-object	man on patio
+object-prep-object	man in hat
+attribute-object	black hat
+object-verb	man sit
+object-verb-object	man play guitar
+object	chair
+object	man
+object	patio
+object	hat
+object	guitar
+object	pottedplant
+#####################################################
+A man playing the guitar is seated in the patio . 
+a man play the guitar be seat in the patio . 
+
+verb-prep-object	seat in patio
+object-prep-object	man in patio
+object-verb-object	man play guitar
+object-verb	man seat
+object	patio
+object	man
+object	guitar
+object	pottedplant
+#####################################################
+A man sitting in a back yard playing the guitar . 
+a man sit in a back yard play the guitar . 
+
+verb-prep-object	sit in yard
+attribute-object	back yard
+object-prep-object	man in yard
+object-verb-object	man play guitar
+object-verb	man sit
+object	yard
+object	man
+object	guitar
+object	pottedplant
+#####################################################
+A musician sits on his patio playing his guitar . 
+a musician sit on he patio play he guitar . 
+
+verb-prep-object	sit on patio
+object-prep-object	musician on patio
+object-verb-object	musician play guitar
+object-verb	musician sit
+object	patio
+object	musician
+object	guitar
+object	pottedplant
+#####################################################
+Man playing guitar while sitting down . 
+man playing guitar while sit down . 
+
+object-verb-object	man play guitar
+object-verb	man sit
+verb-attribute	sit down
+object	man
+object	guitar
+object	pottedplant
+#####################################################

@@ -1,0 +1,54 @@
+A black and white photo of two rams in a pen . 
+a black and white photo of two ram in a pen . 
+
+object-prep-object	sheep in car
+object	sheep
+object	car
+object	sheep
+#####################################################
+Sheep gather in the pen . 
+Sheep gather in the pen . 
+
+verb-prep-object	gather in pen
+object-prep-object	sheep in pen
+object-verb	sheep gather
+object	pen
+object	sheep
+object	sheep
+#####################################################
+Two rams stand on snowy ground . 
+two ram stand on snowy ground . 
+
+verb-prep-object	stand on ground
+object-prep-object	sheep on car
+attribute-object	snowy ground
+object-verb	sheep stand
+object	ground
+object	sheep
+object	car
+object	sheep
+#####################################################
+Two sheep on a snowy day standing at the barn door . 
+two sheep on a snowy day standing at the barn door . 
+
+object-verb	sheep stand
+object-prep-object	sheep on day
+attribute-object	snowy day
+verb-prep-object	stand at door
+object-prep-object	sheep at door
+attribute-object	barn door
+object	sheep
+object	day
+object	door
+object	sheep
+#####################################################
+Two sheep stand in a doorway . 
+two sheep stand in a doorway . 
+
+verb-prep-object	stand in doorway
+object-prep-object	sheep in doorway
+object-verb	sheep stand
+object	doorway
+object	sheep
+object	sheep
+#####################################################

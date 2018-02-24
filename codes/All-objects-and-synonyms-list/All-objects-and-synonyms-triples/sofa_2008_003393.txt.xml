@@ -1,0 +1,74 @@
+A girl on a couch looking to the woman sitting next to her . 
+a girl on a couch look to the woman sit next to she . 
+
+object-prep-object	person on bed
+verb-prep-object	look to person
+object-verb	person look
+object-verb	person sit
+object	person
+object	girl
+object	sofa
+object	bed
+object	woman
+object	sofa
+#####################################################
+A mother and daughter sit on a brown couch with a baby pillow . 
+a mother and daughter sit on a brown couch with a baby pillow . 
+
+verb-prep-object	sit with pillow
+verb-prep-object	sit on sofa
+object-prep-object	mother on bed
+object-prep-object	person on bed
+attribute-object	brown sofa
+attribute-object	baby pillow
+object-verb	mother sit
+object-verb	person sit
+object	pillow
+object	sofa
+object	bed
+object	mother
+object	person
+object	daughter
+object	sofa
+#####################################################
+A woman with a white pillow sits on a sofa near a girl in a pink sweater . 
+a woman with a white pillow sit on a sofa near a girl in a pink sweater . 
+
+object-prep-object	person with woman
+verb-prep-object	sit on sofa
+object-prep-object	person on woman
+verb-prep-object	sit near person
+object-prep-object	person in girl
+attribute-object	white pillow
+attribute-object	pink sweater
+object-verb	person sit
+object	person
+object	woman
+object	sofa
+object	girl
+object	pillow
+object	sweater
+object	sofa
+#####################################################
+A woman sitting with her daughter . 
+a woman sit with she daughter . 
+
+verb-prep-object	sit with person
+object-prep-object	person with person
+object-verb	person sit
+object	person
+object	daughter
+object	woman
+object	sofa
+#####################################################
+The young girl looks admirably at her grandmother . 
+the young girl look admirably at she grandmother . 
+
+verb-prep-object	look at grandmother
+object-verb-object	person look girl
+attribute-object	young person
+object	grandmother
+object	person
+object	girl
+object	sofa
+#####################################################

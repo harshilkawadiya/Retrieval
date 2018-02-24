@@ -1,0 +1,55 @@
+A chandelier over a dining room table . 
+a chandelier over a dining room table . 
+
+object-prep-object	chandelier over table
+attribute-object	dining table
+attribute-object	room table
+object	chandelier
+object	table
+object	chair
+#####################################################
+A dining room filled with dark-wood furniture . 
+a dining room fill with dark-wood furniture . 
+
+verb-prep-object	fill with furniture
+object-prep-object	room with furniture
+attribute-object	dark-wood furniture
+attribute-object	dining room
+object-verb	room fill
+object	furniture
+object	room
+object	chair
+#####################################################
+A dining room with a long wooden table and seven chairs around it . 
+a dining room with a long wooden table and seven chair around it . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+attribute-object	long table
+attribute-object	wooden table
+attribute-object	dining room
+object	room
+object	table
+object	chair
+object	chair
+#####################################################
+A furnished dining room . 
+a furnished dining room . 
+
+attribute-object	furnished room
+attribute-object	dining room
+object	room
+object	chair
+#####################################################
+A shiny dining table with ornate padded chairs . 
+a shiny dining table with ornate padded chair . 
+
+object-prep-object	table with chair
+attribute-object	shiny table
+attribute-object	ornate chair
+attribute-object	padded chair
+attribute-object	dining table
+object	table
+object	chair
+object	chair
+#####################################################

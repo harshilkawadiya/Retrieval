@@ -1,0 +1,61 @@
+A white horse is looking at the camera from inside it 's pen . 
+a white horse be look at the camera from inside it be pen . 
+
+verb-prep-object	look at camera
+verb-prep-object	look from pen
+attribute-object	white horse
+object-verb	horse look
+object	camera
+object	pen
+object	horse
+object	horse
+#####################################################
+A white horse standing on the grass in front of a brown fence . 
+a white horse standing on the grass in front of a brown fence . 
+
+verb-prep-object	stand on grass
+object-prep-object	horse on grass
+attribute-object	white horse
+object-verb	horse stand
+verb-prep-object	stand in_front_of fence
+object-prep-object	horse in_front_of fence
+attribute-object	brown fence
+object	grass
+object	horse
+object	fence
+object	horse
+#####################################################
+The tan horse standing in a field in front of a fence . 
+the tan horse standing in a field in front of a fence . 
+
+verb-prep-object	stand in_front_of fence
+verb-prep-object	stand in field
+object-prep-object	horse in field
+object-prep-object	horse in_front_of fence
+attribute-object	tan horse
+object-verb	horse stand
+object	fence
+object	field
+object	horse
+object	horse
+#####################################################
+The tan horse is in the pasture . 
+the tan horse be in the pasture . 
+
+object-prep-object	horse in pasture
+attribute-object	tan horse
+object	horse
+object	pasture
+object	horse
+#####################################################
+White horse standing in fenced in field . 
+White horse standing in fence in field . 
+
+verb-prep-object	stand in field
+object-prep-object	horse in field
+attribute-object	white horse
+object-verb	horse stand
+object	field
+object	horse
+object	horse
+#####################################################

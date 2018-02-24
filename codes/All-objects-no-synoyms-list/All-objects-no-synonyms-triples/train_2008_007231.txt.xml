@@ -1,0 +1,47 @@
+A large yellow locomotive showing the number 8300 with a bright blue sky above . 
+a large yellow locomotive show the number 8300 with a bright blue sky above . 
+
+attribute-object	large locomotive
+attribute-object	yellow locomotive
+attribute-object	bright sky
+attribute-object	blue sky
+object-verb-object	locomotive show number
+object	locomotive
+object	sky
+object	number
+object	train
+#####################################################
+an old yellow diesel engine . 
+a old yellow diesel engine . 
+
+attribute-object	old engine
+attribute-object	yellow engine
+attribute-object	diesel engine
+object	engine
+object	train
+#####################################################
+A train emblazoned with `` 8300 '' beneath a lovely blue sky . 
+a train emblazon with `` 8300 '' beneath a lovely blue sky . 
+
+object-prep-object	train beneath sky
+attribute-object	lovely sky
+attribute-object	blue sky
+object	train
+object	sky
+object	train
+#####################################################
+A yellow train stopped . 
+a yellow train stop . 
+
+attribute-object	yellow train
+object-verb	train stop
+object	train
+object	train
+#####################################################
+a yellow train with 8300 on it . 
+a yellow train with 8300 on it . 
+
+attribute-object	yellow train
+object	train
+object	train
+#####################################################

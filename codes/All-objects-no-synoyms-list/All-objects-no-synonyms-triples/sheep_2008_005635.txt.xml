@@ -1,0 +1,55 @@
+A person covered from head to toe tending six sheep in the pasture . 
+a person cover from head to toe tend six sheep in the pasture . 
+
+object-prep-object	sheep in pasture
+verb-prep-object	tend in pasture
+object-verb-object	person tend sheep
+object	sheep
+object	pasture
+object	person
+object	sheep
+#####################################################
+A woman is walking among sheep . 
+a woman be walk among sheep . 
+
+verb-prep-object	walk among sheep
+object-prep-object	woman among sheep
+object-verb	woman walk
+object	sheep
+object	woman
+object	sheep
+#####################################################
+A woman is walking through the grass tending to her animals . 
+a woman be walk through the grass tend to she animal . 
+
+verb-prep-object	walk through grass
+object-prep-object	woman through grass
+verb-prep-object	tend to animal
+object-verb	woman walk
+object-verb	woman tend
+object	grass
+object	woman
+object	animal
+object	sheep
+#####################################################
+Person in grassy field tending to sheep . 
+person in grassy field tend to sheep . 
+
+verb-prep-object	tend to sheep
+object-prep-object	person in field
+attribute-object	grassy field
+object-verb	person tend
+object	sheep
+object	person
+object	field
+object	sheep
+#####################################################
+The shaped looks over her flock . 
+the shaped look over she flock . 
+
+verb-prep-object	look over flock
+object-verb	shaped look
+object	flock
+object	shaped
+object	sheep
+#####################################################

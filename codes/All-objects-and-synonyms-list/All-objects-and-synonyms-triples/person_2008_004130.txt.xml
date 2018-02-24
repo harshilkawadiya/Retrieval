@@ -1,0 +1,60 @@
+A man standing under a road bridge . 
+a man standing under a road bridge . 
+
+verb-prep-object	stand under bridge
+object-prep-object	person under man
+object-verb	person stand
+attribute-object	road bridge
+object	bridge
+object	person
+object	man
+object	person
+#####################################################
+A person is standing under a bypass in an empty parking lot . 
+a person be stand under a bypass in a empty parking lot . 
+
+object-verb	person stand
+verb-prep-object	stand under bypass
+object-prep-object	person under bypass
+verb-prep-object	stand in lot
+object-prep-object	person in boy
+attribute-object	empty lot
+attribute-object	parking lot
+object	person
+object	bypass
+object	lot
+object	boy
+object	person
+#####################################################
+A person is standing underneath an overpass near a highway . 
+a person be stand underneath a overpass near a highway . 
+
+verb-prep-object	stand near highway
+object-prep-object	person near highway
+verb-prep-object	stand underneath overpass
+object-prep-object	person underneath overpass
+object-verb	person stand
+object	highway
+object	person
+object	overpass
+object	person
+#####################################################
+A person walking beneath an underpass . 
+a person walk beneath a underpass . 
+
+verb-prep-object	walk beneath underpass
+object-prep-object	person beneath underpass
+object-verb	person walk
+object	underpass
+object	person
+object	person
+#####################################################
+Underpass and road . 
+Underpass and road . 
+
+object	underpass
+object	road
+object	underpass
+object	road
+object	person
+#####################################################

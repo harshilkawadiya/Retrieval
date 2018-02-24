@@ -1,0 +1,53 @@
+A small house with a broken door and windows . 
+a small house with a broken door and window . 
+
+object-prep-object	building with house
+object-prep-object	building with house
+attribute-object	small building
+attribute-object	broken door
+object	building
+object	house
+object	door
+object	pottedplant
+#####################################################
+Rundown house with door falling down . 
+rundown house with door fall down . 
+
+object-prep-object	building with house
+attribute-object	rundown building
+object-verb	door fall
+verb-attribute	fall down
+object	building
+object	house
+object	door
+object	pottedplant
+#####################################################
+The dilapidated house seems to have things growing out of it . 
+the dilapidated house seem to have thing grow out of it . 
+
+attribute-object	dilapidated building
+object	building
+object	house
+object	pottedplant
+#####################################################
+the front of a small abandoned house . 
+the front of a small abandon house . 
+
+attribute-object	small building
+attribute-object	abandon building
+object	building
+object	house
+object	pottedplant
+#####################################################
+White abandoned house with overgrown vines . 
+White abandon house with overgrown vine . 
+
+object-prep-object	building with house
+attribute-object	overgrown vine
+attribute-object	white building
+attribute-object	abandon building
+object	building
+object	house
+object	vine
+object	pottedplant
+#####################################################

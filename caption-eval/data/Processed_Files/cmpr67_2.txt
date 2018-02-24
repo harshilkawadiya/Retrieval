@@ -1,0 +1,50 @@
+beam_size_1	2	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	3	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	4	A little boy is leaping in the air onto a water slide .
+beam_size_1	5	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	6	The boy in the swimming trunks is playing in the yard .
+beam_size_1	7	A girl jumping over a jump rope .
+beam_size_1	8	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	9	A girl wearing shorts plays jump rope .
+beam_size_1	10	A little girl is jumping over a yellow rope .
+beam_size_1	11	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	12	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	13	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	14	a little boy at the beach with a surfboard
+beam_size_1	15	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	16	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	17	A brown dog jumps through three hoops .
+beam_size_1	18	A dog is jumping through hoops held by people .
+beam_size_1	19	a dog jumps through a black hulahoop .
+beam_size_1	20	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	21	A trainer runs next to his dog as it jumps through multiple hoops .
+beam_size_1	22	A baby sits on a tire and holds a toy .
+beam_size_1	23	A little kid , with a red toy , is sitting on a tire .
+beam_size_1	24	Boy in pajamas , with red and yellow toy , seated on tire near plants .
+beam_size_1	25	Child holding plastic car sits on a tire .
+beam_size_1	26	The child is sitting on the street playing with a red toy .
+beam_size_1	27	A man in colorful shorts is surfing under a wave .
+beam_size_1	28	A man in colorful trunks surfing a wave on a white surfboard .
+beam_size_1	29	A surfer rides a wave in a clear blue ocean .
+beam_size_1	30	a surfer surfs a wave .
+beam_size_1	31	Man in multicolor trunks riding a surfboard on a wave .
+beam_size_1	32	A man in a red jacket stands near a yellow kayak .
+beam_size_1	33	a man in a red jacket stands next to a yellow kayak on rocks by the ocean .
+beam_size_1	34	A man pulls on his sweater as a kayak lays at his feet .
+beam_size_1	35	A man wearing a red jacket standing beside a yellow canoe on some rocks with water in the background
+beam_size_1	36	A man wearing a red jacket stands on the shore of a lake with a yellow kayak .
+beam_size_1	37	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	38	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	39	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	40	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	41	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	42	A girl in a red shirt takes a picture on a phone .
+beam_size_1	43	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	44	A woman in a red shirt holding a cellphone .
+beam_size_1	45	A woman taking pictures with her phone .
+beam_size_1	46	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	47	A man playing cricket , his bat pointed to the sky .
+beam_size_1	48	Man dressed in white playing sports .
+beam_size_1	49	The cricketer is swinging a bat in the air .
+beam_size_1	50	The man wearing knee protectors swings a cricket club .
+beam_size_1	51	The man wearing white clothes and white leg padding is practicing a sport .

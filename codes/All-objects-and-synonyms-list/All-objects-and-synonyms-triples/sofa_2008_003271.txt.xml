@@ -1,0 +1,61 @@
+A baby is being played with . 
+a baby be be play with . 
+
+object-verb	baby play
+object	baby
+object	sofa
+#####################################################
+A close-up of a little girl wait ribbons in her hair . 
+a close-up of a little girl wait ribbon in she hair . 
+
+object-verb-object	person wait girl
+verb-prep-object	wait in hair
+object-prep-object	ribbon in hair
+attribute-object	little person
+object	person
+object	girl
+object	hair
+object	ribbon
+object	sofa
+#####################################################
+A small child being held by a woman looking into the camera . 
+a small child be hold by a woman look into the camera . 
+
+verb-prep-object	look into camera
+verb-prep-object	hold by person
+attribute-object	small person
+object-verb	person hold
+object-verb	person look
+object	camera
+object	person
+object	woman
+object	child
+object	sofa
+#####################################################
+A woman holds up a wide-eyed African-American baby . 
+a woman hold up a wide-eyed african-american baby . 
+
+attribute-object	wide-eyed baby
+attribute-object	african-american baby
+object-verb-object	person hold woman
+verb-attribute	hold up
+object	baby
+object	person
+object	woman
+object	sofa
+#####################################################
+Baby girl dressed in yellow and white . 
+Baby girl dress in yellow and white . 
+
+verb-prep-object	dress in yellow
+object-prep-object	person in girl
+verb-prep-object	dress in white
+object-prep-object	person in girl
+attribute-object	baby person
+object-verb	person dress
+object	yellow
+object	person
+object	girl
+object	white
+object	sofa
+#####################################################

@@ -1,0 +1,46 @@
+An old man with sheep in the background . 
+a old man with sheep in the background . 
+
+object-prep-object	person with man
+attribute-object	old person
+object	person
+object	man
+object	sheep
+#####################################################
+an old shepherd in the mountains . 
+a old shepherd in the mountain . 
+
+object-prep-object	shepherd in mountain
+attribute-object	old shepherd
+object	shepherd
+object	mountain
+object	sheep
+#####################################################
+A picture of a man with some sheep in the background . 
+a picture of a man with some sheep in the background . 
+
+object-prep-object	person with man
+object	person
+object	man
+object	sheep
+#####################################################
+Older man wearing beret with mountains in background . 
+older man wear beret with mountain in background . 
+
+attribute-object	older person
+object-verb-object	person wear man
+object	mountain
+object	person
+object	man
+object	mountain
+object	sheep
+#####################################################
+Old man with sheep . 
+Old man with sheep . 
+
+object-prep-object	person with man
+attribute-object	old person
+object	person
+object	man
+object	sheep
+#####################################################

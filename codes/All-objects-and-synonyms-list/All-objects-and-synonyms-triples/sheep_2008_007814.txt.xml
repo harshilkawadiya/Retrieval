@@ -1,0 +1,59 @@
+A close-up of a lamb with its ear tagged , standing on grass . 
+a close-up of a lamb with its ear tag , stand on grass . 
+
+object-prep-object	sheep with lamb
+verb-prep-object	stand on grass
+object-prep-object	sheep on lamb
+object-verb	sheep stand
+object	sheep
+object	lamb
+object	grass
+object	sheep
+#####################################################
+A close-up of a sheep in the grass . 
+a close-up of a sheep in the grass . 
+
+object-prep-object	sheep in grass
+object	sheep
+object	grass
+object	sheep
+#####################################################
+A lamb with a yellow tag in his ear looking at the camera . 
+a lamb with a yellow tag in he ear look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	sheep with lamb
+object-prep-object	tag in ear
+attribute-object	yellow tag
+object-verb	sheep look
+object	camera
+object	sheep
+object	lamb
+object	tag
+object	ear
+object	sheep
+#####################################################
+A white sheep in a field of grass . 
+a white sheep in a field of grass . 
+
+object-prep-object	field of grass
+object-prep-object	sheep in field
+attribute-object	white sheep
+object	field
+object	grass
+object	sheep
+object	sheep
+#####################################################
+White lamb standing in grassy field . 
+White lamb standing in grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	sheep in lamb
+attribute-object	grassy field
+attribute-object	white sheep
+object-verb	sheep stand
+object	field
+object	sheep
+object	lamb
+object	sheep
+#####################################################

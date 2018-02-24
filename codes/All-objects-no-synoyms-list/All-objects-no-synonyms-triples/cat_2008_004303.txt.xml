@@ -1,0 +1,57 @@
+A cat lying down attacking a straw broom with its mouth and front paw . 
+a cat lie down attack a straw broom with its mouth and front paw . 
+
+object-verb	cat lie
+verb-attribute	lie down
+object-verb-object	cat attack broom
+attribute-object	straw broom
+verb-prep-object	attack with mouth
+verb-prep-object	attack with paw
+attribute-object	front paw
+object	cat
+object	broom
+object	mouth
+object	paw
+object	cat
+#####################################################
+A striped cat is chewing on a broom . 
+a striped cat be chew on a broom . 
+
+verb-prep-object	chew on broom
+attribute-object	striped cat
+object-verb	cat chew
+object	broom
+object	cat
+object	cat
+#####################################################
+Domestic cat scratching broom stick . 
+domestic cat scratch broom stick . 
+
+attribute-object	domestic cat
+object-verb-object	cat scratch stick
+attribute-object	broom stick
+object	cat
+object	stick
+object	cat
+#####################################################
+The cat is attacking a corn husk broom . 
+the cat be attack a corn husk broom . 
+
+object-verb-object	cat attack broom
+attribute-object	corn broom
+attribute-object	husk broom
+object	cat
+object	broom
+object	cat
+#####################################################
+The curious cat plays with the broom . 
+the curious cat play with the broom . 
+
+verb-prep-object	play with broom
+object-prep-object	cat with broom
+attribute-object	curious cat
+object-verb	cat play
+object	broom
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,65 @@
+A sheep beside a road and a lake . 
+a sheep beside a road and a lake . 
+
+object-prep-object	sheep beside road
+object-prep-object	sheep beside water
+object	sheep
+object	road
+object	water
+object	sheep
+#####################################################
+A sheep is on the edge of a road with a lake and a mountain in the background . 
+a sheep be on the edge of a road with a lake and a mountain in the background . 
+
+object-prep-object	sheep on road
+object-prep-object	sheep with water
+object-prep-object	sheep with mountain
+object	sheep
+object	road
+object	water
+object	mountain
+object	sheep
+#####################################################
+A sheep stands on a roadside wall overlooking a large lake . 
+a sheep stand on a roadside wall overlook a large lake . 
+
+object-verb	sheep stand
+verb-prep-object	stand on wall
+object-prep-object	sheep on wall
+attribute-object	roadside wall
+attribute-object	large water
+object-verb-object	wall overlook water
+object	sheep
+object	wall
+object	water
+object	lake
+object	sheep
+#####################################################
+Sheep standing on side of road in grass . 
+Sheep standing on side of road in grass . 
+
+object-verb	sheep stand
+verb-prep-object	stand on road
+verb-prep-object	stand in grass
+object-prep-object	sheep on road
+object-prep-object	sheep in grass
+object	sheep
+object	road
+object	grass
+object	sheep
+#####################################################
+Two long-haired goats on the road in front of a river and green hills . 
+two long-haired goat on the road in front of a river and green hill . 
+
+object-prep-object	sheep on cow
+attribute-object	long-haired sheep
+object-prep-object	sheep in_front_of water
+object-prep-object	sheep in_front_of mountain
+attribute-object	green mountain
+object	sheep
+object	cow
+object	water
+object	mountain
+object	hill
+object	sheep
+#####################################################

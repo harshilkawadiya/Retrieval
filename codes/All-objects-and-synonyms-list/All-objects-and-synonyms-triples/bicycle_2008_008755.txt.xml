@@ -1,0 +1,65 @@
+A couple posing for a photo under a large sign . 
+a couple pose for a photo under a large sign . 
+
+verb-prep-object	pose for photo
+verb-prep-object	pose under sign
+object-prep-object	person under sign
+attribute-object	large sign
+object-verb	person pose
+object	photo
+object	sign
+object	person
+object	bicycle
+#####################################################
+Two bikers posing beneath a Guiness sign . 
+two biker pose beneath a Guiness sign . 
+
+verb-prep-object	pose beneath sign
+object-prep-object	person beneath sign
+attribute-object	guiness sign
+object-verb	person pose
+object	sign
+object	person
+object	bicycle
+#####################################################
+Two people are posing with a bike under a sign . 
+two people be pose with a bike under a sign . 
+
+verb-prep-object	pose under sign
+verb-prep-object	pose with bicycle
+object-prep-object	person with bicycle
+object-prep-object	person under sign
+object-verb	person pose
+object	sign
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+Two people in bicycle clothes posing with a bicycle under a sign . 
+two people in bicycle clothes pose with a bicycle under a sign . 
+
+verb-prep-object	pose under sign
+object-prep-object	person in clothes
+verb-prep-object	pose with bicycle
+object-prep-object	person with bicycle
+object-prep-object	person under sign
+attribute-object	bicycle clothes
+object-verb	person pose
+object	sign
+object	person
+object	clothes
+object	bicycle
+object	bicycle
+#####################################################
+Two people with a bike standing under a sign . 
+two people with a bike standing under a sign . 
+
+object-prep-object	person under sign
+verb-prep-object	stand under sign
+object-prep-object	person with bicycle
+object-verb	person stand
+object	person
+object	sign
+object	bicycle
+object	bicycle
+#####################################################

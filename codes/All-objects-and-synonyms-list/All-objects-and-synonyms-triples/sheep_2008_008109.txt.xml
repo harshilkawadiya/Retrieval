@@ -1,0 +1,56 @@
+A large sheep standing between large trees in a rural area . 
+a large sheep standing between large tree in a rural area . 
+
+verb-prep-object	stand between tree
+object-prep-object	sheep between tree
+verb-prep-object	stand in area
+attribute-object	large sheep
+attribute-object	large tree
+attribute-object	rural area
+object-verb	sheep stand
+object	tree
+object	sheep
+object	area
+object	sheep
+#####################################################
+A ram stands in the middle of a group of trees . 
+a ram stand in the middle of a group of tree . 
+
+verb-prep-object	stand in middle
+object-prep-object	middle of tree
+object-verb	sheep stand
+object	middle
+object	tree
+object	sheep
+object	car
+object	sheep
+#####################################################
+A sheep standing in a forest . 
+a sheep standing in a forest . 
+
+verb-prep-object	stand in forest
+object-prep-object	sheep in forest
+object-verb	sheep stand
+object	forest
+object	sheep
+object	sheep
+#####################################################
+a sheep under pine trees . 
+a sheep under pine tree . 
+
+object-prep-object	sheep under tree
+attribute-object	pine tree
+object	sheep
+object	tree
+object	sheep
+#####################################################
+The sheep is standing under the trees . 
+the sheep be stand under the tree . 
+
+verb-prep-object	stand under tree
+object-prep-object	sheep under tree
+object-verb	sheep stand
+object	tree
+object	sheep
+object	sheep
+#####################################################

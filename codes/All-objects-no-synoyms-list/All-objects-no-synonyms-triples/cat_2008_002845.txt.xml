@@ -1,0 +1,51 @@
+A black and white cat standing in front of a window . 
+a black and white cat standing in front of a window . 
+
+verb-prep-object	stand in_front_of window
+object-prep-object	cat in_front_of window
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat stand
+object	window
+object	cat
+object	cat
+#####################################################
+A curious kitten sits on a window sill . 
+a curious kitten sit on a window sill . 
+
+verb-prep-object	sit on sill
+object-prep-object	kitten on sill
+attribute-object	curious kitten
+attribute-object	window sill
+object-verb	kitten sit
+object	sill
+object	kitten
+object	cat
+#####################################################
+A kitten in a window . 
+a kitten in a window . 
+
+object-prep-object	kitten in window
+object	kitten
+object	window
+object	cat
+#####################################################
+A kitten in a window . 
+a kitten in a window . 
+
+object-prep-object	kitten in window
+object	kitten
+object	window
+object	cat
+#####################################################
+Two tone cat sitting in windowsill . 
+two tone cat sit in windowsill . 
+
+verb-prep-object	sit in windowsill
+object-prep-object	cat in windowsill
+attribute-object	tone cat
+object-verb	cat sit
+object	windowsill
+object	cat
+object	cat
+#####################################################

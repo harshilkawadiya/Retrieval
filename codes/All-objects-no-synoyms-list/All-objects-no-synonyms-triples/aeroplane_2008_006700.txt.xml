@@ -1,0 +1,53 @@
+An airplane facing the camera . 
+a airplane face the camera . 
+
+object-verb-object	airplane face camera
+object	airplane
+object	camera
+object	aeroplane
+#####################################################
+A plane is sitting on the cement at a small airport . 
+a plane be sit on the cement at a small airport . 
+
+verb-prep-object	sit at airport
+verb-prep-object	sit on cement
+object-prep-object	plane on cement
+object-prep-object	plane at airport
+attribute-object	small airport
+object-verb	plane sit
+object	airport
+object	cement
+object	plane
+object	aeroplane
+#####################################################
+Front of a twin engine propeller airplane . 
+front of a twin engine propeller airplane . 
+
+attribute-object	twin airplane
+attribute-object	engine airplane
+attribute-object	propeller airplane
+object	airplane
+object	aeroplane
+#####################################################
+Front view of a propeller airplane parked on a runway . 
+front view of a propeller airplane park on a runway . 
+
+object-verb	airplane park
+attribute-object	propeller airplane
+verb-prep-object	park on runway
+object-prep-object	airplane on runway
+object	airplane
+object	runway
+object	aeroplane
+#####################################################
+The historic planes sits in its place . 
+the historic plane sit in its place . 
+
+verb-prep-object	sit in place
+object-prep-object	plane in place
+attribute-object	historic plane
+object-verb	plane sit
+object	place
+object	plane
+object	aeroplane
+#####################################################

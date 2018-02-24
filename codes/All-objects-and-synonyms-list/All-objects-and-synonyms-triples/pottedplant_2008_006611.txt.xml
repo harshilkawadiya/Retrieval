@@ -1,0 +1,70 @@
+A boy pointing at another boy at the table . 
+a boy point at another boy at the table . 
+
+verb-prep-object	point at person
+object-prep-object	person at diningtable
+object-verb	person point
+object	person
+object	boy
+object	diningtable
+object	pottedplant
+#####################################################
+A boy points at the other boy sitting across the table from him . 
+a boy point at the other boy sit across the table from he . 
+
+verb-prep-object	point at person
+verb-prep-object	sit across diningtable
+object-prep-object	person across diningtable
+object-verb	person point
+object-verb	person sit
+object	person
+object	boy
+object	diningtable
+object	table
+object	pottedplant
+#####################################################
+Two boys sit facing one another at a table and one points at the other . 
+two boy sit face one another at a table and one point at the other . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb	person sit
+object-verb	person point
+object	diningtable
+object	table
+object	person
+object	boy
+object	pottedplant
+#####################################################
+Two people sit facing each other at a table as one points at the other . 
+two people sit face each other at a table as one point at the other . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb	person sit
+object-verb	person point
+object	diningtable
+object	table
+object	person
+object	people
+object	pottedplant
+#####################################################
+Two young people are sitting at a table next to a sliding glass door , with one person pointing at the other . 
+two young people be sit at a table next to a slide glass door , with one person point at the other . 
+
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+attribute-object	young person
+verb-prep-object	sit next_to door
+object-prep-object	person next_to people
+attribute-object	slide door
+attribute-object	glass door
+object-verb	person point
+object	person
+object	people
+object	diningtable
+object	table
+object	door
+object	pottedplant
+#####################################################

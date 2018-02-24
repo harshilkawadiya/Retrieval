@@ -1,0 +1,50 @@
+beam_size_1	2	A girl 's hands , another person 's feet , and a boy playing bongo drums sit on a picnic table .
+beam_size_1	3	A picture of a group of peoples ' feet .
+beam_size_1	4	The legs and feet of people sitting on a wooden table , two cameras and cigarettes on it .
+beam_size_1	5	Three people are sitting on a picnic table along with two cameras and a drum .
+beam_size_1	6	Three people sit on a bench .
+beam_size_1	7	A group of girls sit back to back .
+beam_size_1	8	a group of girls sitting in a circle
+beam_size_1	9	Little girl in bare feet sitting in a circle .
+beam_size_1	10	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	11	The young girls sat in a circle on the wood floor .
+beam_size_1	12	A man and a woman wearing a head covering turn the video camera on themselves .
+beam_size_1	13	A man and woman pose for the video camera that they are holding .
+beam_size_1	14	A man in a brown sweater and a woman smile for their video camera .
+beam_size_1	15	A smiling couple with a camcorder .
+beam_size_1	16	Woman standing with man holding a camcorder and smiling into lens .
+beam_size_1	17	A black and white dog is playing in a pond or creek .
+beam_size_1	18	A black and white dog is splashing around in the water .
+beam_size_1	19	A black and white dog is splashing in a stream .
+beam_size_1	20	A dog playing in some water .
+beam_size_1	21	A white dog is splashing in an outdoor stream next to a grassy bank .
+beam_size_1	22	A race cars muffler catches on fire .
+beam_size_1	23	A race car sparks .
+beam_size_1	24	A sports car with flames coming out the exhaust .
+beam_size_1	25	The blue and white race car has flames coming out of its tail pipe .
+beam_size_1	26	The white racing car has fire bursting from its exhaust pipe .
+beam_size_1	27	A couple are walking along a street while the man carries a toddler over one shoulder .
+beam_size_1	28	A couple is walking away while an infant sleeps on the father 's shoulders .
+beam_size_1	29	A man carries a child while he walks with a woman .
+beam_size_1	30	A man holding a sleeping child walks with a woman .
+beam_size_1	31	The man walking next to the woman up the steps has a sleeping child on his shoulder .
+beam_size_1	32	A man in a black cap and shirt smiling while holding a white grey and black rectangular object .
+beam_size_1	33	A man smiles and poses with a product he appears to be trying to sell .
+beam_size_1	34	A man wearing a black shirt and baseball cap smiling .
+beam_size_1	35	The man is wearing a black shirt and hat and smiling .
+beam_size_1	36	There is a man with a black shirt and a black hat smiling .
+beam_size_1	37	One young girl pushing a toy while her twin sister looks on .
+beam_size_1	38	Two children wearing bright pink clothes are playing with a toy lawnmower .
+beam_size_1	39	Two girls are dressed the same and one of them is playing with a toy lawnmower .
+beam_size_1	40	Two little girls stand against a wall , one girl has a happy face and the other girl has a sad face .
+beam_size_1	41	Two twin girls playing with a toy in the driveway
+beam_size_1	42	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	43	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	44	a little boy at the beach with a surfboard
+beam_size_1	45	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	46	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	47	A boy with his hands above his head stands on a cement pillar above the cobblestones .
+beam_size_1	48	A child in colorful shorts is standing on a post in the street .
+beam_size_1	49	A small boy stands on a cement stump in a park with his hands on his head .
+beam_size_1	50	a young man wearing a white t-shirt and green and black shorts standing on a stump .
+beam_size_1	51	Small child in white shirt and print shorts with hands over their head standing on object .

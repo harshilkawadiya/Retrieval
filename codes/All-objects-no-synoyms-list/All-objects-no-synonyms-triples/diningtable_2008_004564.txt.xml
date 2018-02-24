@@ -1,0 +1,64 @@
+A girl has a meal and sips a drink by the water . 
+a girl have a meal and sip a drink by the water . 
+
+verb-prep-object	sip by water
+object-prep-object	girl by water
+object-verb-object	girl have meal
+object-verb-object	girl sip drink
+object	water
+object	girl
+object	meal
+object	drink
+object	diningtable
+#####################################################
+A lady having a meal on plastic furniture overlooking the water . 
+a lady have a meal on plastic furniture overlook the water . 
+
+object-prep-object	meal on furniture
+object-verb-object	lady have meal
+attribute-object	plastic furniture
+object	meal
+object	furniture
+object	lady
+object	diningtable
+#####################################################
+A women drinking while sitting at a plastic table by the sea . 
+a woman drink while sit at a plastic table by the sea . 
+
+object-verb	woman sit
+verb-prep-object	sit by sea
+object-prep-object	woman by sea
+verb-prep-object	sit at table
+object-prep-object	woman at table
+attribute-object	plastic table
+object-verb	woman drink
+object	woman
+object	sea
+object	table
+object	diningtable
+#####################################################
+The woman is drinking from a straw at a restaurant on the beach . 
+the woman be drink from a straw at a restaurant on the beach . 
+
+verb-prep-object	drink at restaurant
+object-prep-object	woman at restaurant
+object-prep-object	restaurant on beach
+object-prep-object	woman on beach
+verb-prep-object	drink from straw
+object-verb	woman drink
+object	restaurant
+object	woman
+object	beach
+object	straw
+object	diningtable
+#####################################################
+Woman eating and drinking while overlooking the ocean . 
+Woman eating and drinking while overlook the ocean . 
+
+object-verb-object	woman overlook ocean
+object-verb	woman eat
+object-verb	woman drink
+object	woman
+object	ocean
+object	diningtable
+#####################################################

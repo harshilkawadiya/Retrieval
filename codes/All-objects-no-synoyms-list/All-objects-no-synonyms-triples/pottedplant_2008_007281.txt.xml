@@ -1,0 +1,72 @@
+A man sits on the couch and uses his laptop in a living room . 
+a man sit on the couch and use he laptop in a living room . 
+
+object-verb	man sit
+verb-prep-object	sit on couch
+object-prep-object	man on couch
+object-verb-object	man use laptop
+object-prep-object	laptop in room
+attribute-object	living room
+object	man
+object	couch
+object	laptop
+object	room
+object	pottedplant
+#####################################################
+A man sitting in a cluttered room . 
+a man sit in a cluttered room . 
+
+verb-prep-object	sit in room
+object-prep-object	man in room
+attribute-object	cluttered room
+object-verb	man sit
+object	room
+object	man
+object	pottedplant
+#####################################################
+An elderly man works on his laptop at home . 
+a elderly man work on he laptop at home . 
+
+verb-prep-object	work at home
+object-prep-object	man at home
+verb-prep-object	work on laptop
+object-prep-object	man on laptop
+attribute-object	elderly man
+object-verb	man work
+object	home
+object	man
+object	laptop
+object	pottedplant
+#####################################################
+Man with laptop computer sitting on a couch in a small room . 
+man with laptop computer sit on a couch in a small room . 
+
+object-prep-object	man with computer
+verb-prep-object	sit on couch
+verb-prep-object	sit in room
+object-prep-object	man on couch
+object-prep-object	man in room
+attribute-object	laptop computer
+attribute-object	small room
+object-verb	man sit
+object	man
+object	computer
+object	couch
+object	room
+object	pottedplant
+#####################################################
+Older gentleman sitting on couch with laptop . 
+older gentleman sit on couch with laptop . 
+
+verb-prep-object	sit on couch
+verb-prep-object	sit with laptop
+object-prep-object	man on couch
+object-prep-object	man with laptop
+attribute-object	older gentleman
+object-verb	gentleman sit
+object	couch
+object	laptop
+object	man
+object	gentleman
+object	pottedplant
+#####################################################

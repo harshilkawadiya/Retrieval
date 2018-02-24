@@ -1,0 +1,64 @@
+A cat sits by a window with a curtain pulled most of the way across . 
+a cat sit by a window with a curtain pull most of the way across . 
+
+verb-prep-object	sit by window
+object-prep-object	cat by window
+object-prep-object	window with curtain
+object-verb	cat sit
+object	window
+object	cat
+object	curtain
+object	cat
+#####################################################
+A cat is on the sill of a window with yellow curtains . 
+a cat be on the sill of a window with yellow curtain . 
+
+object-prep-object	window with curtain
+object-prep-object	cat on sill
+object-prep-object	sill of window
+attribute-object	yellow curtain
+object	window
+object	curtain
+object	cat
+object	sill
+object	cat
+#####################################################
+A cat with a striped tail crouches on the windowsill . 
+a cat with a striped tail crouch on the windowsill . 
+
+verb-prep-object	crouch on window
+object-prep-object	cat on window
+object-prep-object	cat with tail
+attribute-object	striped tail
+object-verb	cat crouch
+object	window
+object	windowsill
+object	cat
+object	tail
+object	cat
+#####################################################
+Cat sitting on windowsill . 
+cat sit on windowsill . 
+
+verb-prep-object	sit on window
+object-prep-object	cat on window
+object-verb	cat sit
+object	window
+object	windowsill
+object	cat
+object	cat
+#####################################################
+The cat is standing on the window sill looking at the camera . 
+the cat be stand on the window sill look at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	stand on sill
+object-prep-object	cat on sill
+attribute-object	window sill
+object-verb	cat stand
+object-verb	cat look
+object	camera
+object	sill
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,73 @@
+A man is watching TV on the foot of his bed . 
+a man be watch tv on the foot of he bed . 
+
+verb-prep-object	watch on foot
+object-prep-object	foot of bed
+object-verb-object	person watch tvmonitor
+object	foot
+object	bed
+object	person
+object	man
+object	tvmonitor
+object	person
+#####################################################
+A man sits crossed legged on a bed watching a small TV . 
+a man sit cross leg on a bed watch a small tv . 
+
+verb-prep-object	sit on bed
+object-prep-object	person on man
+attribute-object	small tvmonitor
+object-verb-object	person watch tvmonitor
+object-verb	person sit
+object	bed
+object	person
+object	man
+object	tvmonitor
+object	tv
+object	person
+#####################################################
+A man sits on a bed very close to a small television . 
+a man sit on a bed very close to a small television . 
+
+verb-prep-object	sit close_to tvmonitor
+object-prep-object	person close_to tvmonitor
+verb-prep-object	sit on bed
+object-prep-object	person on man
+attribute-object	small tvmonitor
+object-verb	person sit
+object	tvmonitor
+object	television
+object	person
+object	man
+object	bed
+object	person
+#####################################################
+a man sitting in bed in a yellow room watching a small TV . 
+a man sit in bed in a yellow room watch a small tv . 
+
+verb-prep-object	sit in bed
+object-prep-object	person in man
+verb-prep-object	sit in room
+object-prep-object	person in man
+attribute-object	yellow room
+attribute-object	small tvmonitor
+object-verb	person sit
+object-verb-object	person watch tvmonitor
+object	bed
+object	person
+object	man
+object	room
+object	tvmonitor
+object	tv
+object	person
+#####################################################
+Lonely man watching TV alone . 
+lonely man watch tv alone . 
+
+attribute-object	lonely person
+object-verb-object	person watch tvmonitor
+object	person
+object	man
+object	tvmonitor
+object	person
+#####################################################

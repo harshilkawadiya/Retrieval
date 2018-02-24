@@ -1,0 +1,56 @@
+The caged dogs are spread from the others . 
+the caged dog be spread from the other . 
+
+attribute-object	caged dog
+object-verb	dog spread
+object	dog
+object	dog
+#####################################################
+Two black and white dogs behind chain link fence . 
+two black and white dog behind chain link fence . 
+
+object-prep-object	dog behind fence
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	chain fence
+attribute-object	link fence
+object	dog
+object	fence
+object	dog
+#####################################################
+Two dogs in a fenced kennel look ahead . 
+two dog in a fenced kennel look ahead . 
+
+object-prep-object	dog in kennel
+attribute-object	fenced kennel
+object-verb	dog look
+verb-attribute	look ahead
+object	dog
+object	kennel
+object	dog
+#####################################################
+Two dogs locked into a gated area with a doghouse inside . 
+two dog lock into a gated area with a doghouse inside . 
+
+object-prep-object	area with doghouse
+verb-prep-object	lock into area
+object-prep-object	dog into area
+attribute-object	gated area
+object-verb	dog lock
+object	area
+object	doghouse
+object	dog
+object	dog
+#####################################################
+Two dogs sitting in a large dog pen . 
+two dog sit in a large dog pen . 
+
+verb-prep-object	sit in pen
+object-prep-object	dog in pen
+attribute-object	large pen
+attribute-object	dog pen
+object-verb	dog sit
+object	pen
+object	dog
+object	dog
+#####################################################

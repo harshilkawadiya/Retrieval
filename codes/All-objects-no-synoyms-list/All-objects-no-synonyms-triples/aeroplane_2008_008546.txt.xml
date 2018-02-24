@@ -1,0 +1,62 @@
+A red and white plane flying on a sunny day . 
+a red and white plane fly on a sunny day . 
+
+verb-prep-object	fly on day
+attribute-object	red plane
+attribute-object	white plane
+attribute-object	sunny day
+object-verb	plane fly
+object	day
+object	plane
+object	aeroplane
+#####################################################
+A small red and white plane is flying over a grassy hill . 
+a small red and white plane be fly over a grassy hill . 
+
+attribute-object	small plane
+attribute-object	red plane
+attribute-object	white plane
+attribute-object	grassy hill
+object-verb	plane fly
+object-prep-object	plane over hill
+verb-prep-object	fly over hill
+object	plane
+object	hill
+object	aeroplane
+#####################################################
+A white and red plane flying past a mountain . 
+a white and red plane fly past a mountain . 
+
+verb-prep-object	fly past mountain
+object-prep-object	plane past mountain
+attribute-object	white plane
+attribute-object	red plane
+object-verb	plane fly
+object	mountain
+object	plane
+object	aeroplane
+#####################################################
+Red and white plane flying through the air . 
+Red and white plane fly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	plane through air
+attribute-object	white plane
+attribute-object	red plane
+object-verb	plane fly
+object	air
+object	plane
+object	aeroplane
+#####################################################
+The red and white airplane is flying in front of the mountain . 
+the red and white airplane be fly in front of the mountain . 
+
+verb-prep-object	fly in_front_of mountain
+object-prep-object	airplane in_front_of mountain
+attribute-object	red airplane
+attribute-object	white airplane
+object-verb	airplane fly
+object	mountain
+object	airplane
+object	aeroplane
+#####################################################

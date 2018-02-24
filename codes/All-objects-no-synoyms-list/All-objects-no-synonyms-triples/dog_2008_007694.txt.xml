@@ -1,0 +1,71 @@
+a dog in the kitchen drinking water from a bowl . 
+a dog in the kitchen drinking water from a bowl . 
+
+object-verb-object	dog drink water
+object-prep-object	dog in kitchen
+verb-prep-object	drink from bowl
+object	dog
+object	water
+object	kitchen
+object	bowl
+object	dog
+#####################################################
+A huge brown and white greyhound dog eats from a bowl on the floor of the tiny kitchen . 
+a huge brown and white greyhound dog eat from a bowl on the floor of the tiny kitchen . 
+
+object-prep-object	bowl on floor
+verb-prep-object	eat from bowl
+object-prep-object	floor of kitchen
+attribute-object	huge dog
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	tiny kitchen
+attribute-object	greyhound dog
+object-verb	dog eat
+object	bowl
+object	floor
+object	kitchen
+object	dog
+object	dog
+#####################################################
+A large brown and white dog licking a bowl in a kitchen . 
+a large brown and white dog lick a bowl in a kitchen . 
+
+verb-prep-object	lick in kitchen
+object-prep-object	bowl in kitchen
+attribute-object	large dog
+attribute-object	brown dog
+attribute-object	white dog
+object-verb-object	dog lick bowl
+object	kitchen
+object	bowl
+object	dog
+object	dog
+#####################################################
+A large sight hound licks a bowl in the kitchen . 
+a large sight hound lick a bowl in the kitchen . 
+
+verb-prep-object	lick in kitchen
+object-prep-object	bowl in kitchen
+attribute-object	large hound
+object-verb-object	hound lick bowl
+attribute-object	sight hound
+object	kitchen
+object	bowl
+object	hound
+object	dog
+#####################################################
+The large brown and white dogs inspects a bowl on the wooden floor . 
+the large brown and white dog inspect a bowl on the wooden floor . 
+
+object-prep-object	bowl on floor
+attribute-object	large dog
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	wooden floor
+object-verb-object	dog inspect bowl
+object	bowl
+object	floor
+object	dog
+object	dog
+#####################################################

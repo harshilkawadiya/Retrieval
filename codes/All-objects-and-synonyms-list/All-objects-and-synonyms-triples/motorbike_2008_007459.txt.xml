@@ -1,0 +1,78 @@
+A couple posing on a red and yellow motorcycle . 
+a couple pose on a red and yellow motorcycle . 
+
+verb-prep-object	pose on motorbike
+object-prep-object	person on motorbike
+attribute-object	red motorbike
+attribute-object	yellow motorbike
+object-verb	person pose
+object	motorbike
+object	motorcycle
+object	person
+object	couple
+object	motorbike
+#####################################################
+Two brunette girls sit atop a red and yellow motorcycle with a side car . 
+two brunette girl sit atop a red and yellow motorcycle with a side car . 
+
+object-prep-object	motorbike with motorcycle
+verb-prep-object	sit atop motorbike
+object-prep-object	person atop motorbike
+attribute-object	red motorbike
+attribute-object	yellow motorbike
+attribute-object	brunette person
+attribute-object	side car
+object-verb	person sit
+object	motorbike
+object	motorcycle
+object	person
+object	girl
+object	car
+object	motorbike
+#####################################################
+Two people sitting on a large motorcycle . 
+two people sit on a large motorcycle . 
+
+verb-prep-object	sit on motorbike
+object-prep-object	person on motorbike
+attribute-object	large motorbike
+object-verb	person sit
+object	motorbike
+object	motorcycle
+object	person
+object	people
+object	motorbike
+#####################################################
+Two women are seated on a red and yellow motorbike with a side car . 
+two woman be seat on a red and yellow motorbike with a side car . 
+
+object-prep-object	motorbike with car
+verb-prep-object	seat on motorbike
+object-prep-object	person on woman
+attribute-object	red motorbike
+attribute-object	yellow motorbike
+attribute-object	side car
+object-verb	person seat
+object	motorbike
+object	car
+object	person
+object	woman
+object	motorbike
+#####################################################
+two women posing on a yellow and red motorcycle and a sidecar . 
+two woman pose on a yellow and red motorcycle and a sidecar . 
+
+verb-prep-object	pose on motorbike
+verb-prep-object	pose on sidecar
+object-prep-object	person on motorbike
+object-prep-object	person on woman
+attribute-object	yellow motorbike
+attribute-object	red motorbike
+object-verb	person pose
+object	motorbike
+object	motorcycle
+object	sidecar
+object	person
+object	woman
+object	motorbike
+#####################################################

@@ -1,0 +1,60 @@
+People riding horses in a fenced area . 
+people ride horse in a fenced area . 
+
+object-prep-object	horse in area
+verb-prep-object	ride in area
+attribute-object	fenced area
+object-verb-object	person ride people
+object	horse
+object	area
+object	person
+object	people
+object	horse
+#####################################################
+Two horses with riders under trees . 
+two horse with rider under tree . 
+
+object-prep-object	horse under tree
+object-prep-object	horse with person
+object	horse
+object	tree
+object	person
+object	horse
+#####################################################
+Two people on horseback ride through a park . 
+two people on horseback ride through a park . 
+
+object-prep-object	person on people
+verb-prep-object	ride through park
+object-prep-object	person through people
+object-verb	person ride
+object	person
+object	people
+object	park
+object	horse
+#####################################################
+Two people ride horses down a park trail . 
+two people ride horse down a park trail . 
+
+verb-prep-object	ride down trail
+object-prep-object	person down people
+object-verb-object	person ride people
+attribute-object	park trail
+object	trail
+object	person
+object	people
+object	horse
+#####################################################
+two riders in a wooded park behind a wooden fence . 
+two rider in a wooded park behind a wooden fence . 
+
+object-prep-object	person behind rider
+object-prep-object	person in rider
+attribute-object	wooden park
+attribute-object	wooden fence
+object	person
+object	rider
+object	park
+object	fence
+object	horse
+#####################################################

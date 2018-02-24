@@ -1,0 +1,51 @@
+A little white lamb resting . 
+a little white lamb resting . 
+
+attribute-object	little lamb
+attribute-object	white lamb
+object-verb	lamb rest
+object	lamb
+object	sheep
+#####################################################
+A small lamb lying down . 
+a small lamb lie down . 
+
+attribute-object	small lamb
+object-verb	lamb lie
+verb-attribute	lie down
+object	lamb
+object	sheep
+#####################################################
+A white kid lying on the ground . 
+a white kid lie on the ground . 
+
+verb-prep-object	lie on ground
+object-prep-object	kid on ground
+attribute-object	white kid
+object-verb	kid lie
+object	ground
+object	kid
+object	sheep
+#####################################################
+The baby lamb sits alone . 
+the baby lamb sit alone . 
+
+verb-attribute	sit alone
+attribute-object	baby lamb
+object-verb	lamb sit
+object	lamb
+object	sheep
+#####################################################
+This baby lamb 's white coat contrasts well with the bare earth floor . 
+this baby lamb 's white coat contrast well with the bare earth floor . 
+
+object-verb	coat contrast
+attribute-object	lamb coat
+attribute-object	white coat
+verb-prep-object	contrast with floor
+attribute-object	bare floor
+attribute-object	earth floor
+object	coat
+object	floor
+object	sheep
+#####################################################

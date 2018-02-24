@@ -1,0 +1,66 @@
+A black car is parked on gravel near a fence . 
+a black car be park on gravel near a fence . 
+
+verb-prep-object	park on gravel
+object-prep-object	car on gravel
+object-prep-object	gravel near fence
+attribute-object	black car
+object-verb	car park
+object	gravel
+object	car
+object	fence
+object	car
+#####################################################
+A black car parked in the dirt out in the country . 
+a black car park in the dirt out in the country . 
+
+verb-prep-object	park in dirt
+object-prep-object	car in dirt
+verb-prep-object	park in country
+object-prep-object	car in country
+attribute-object	black car
+object-verb	car park
+object	dirt
+object	car
+object	country
+object	car
+#####################################################
+A black vehicle parked with a vies of low-lying mountains . 
+a black vehicle park with a vie of low-lying mountain . 
+
+object-prep-object	vie of mountain
+verb-prep-object	park with vie
+attribute-object	black vehicle
+attribute-object	low-lying mountain
+object-verb	vehicle park
+object	vie
+object	mountain
+object	vehicle
+object	car
+#####################################################
+A greenish black car parked in the country with mountains in the distance . 
+a greenish black car park in the country with mountain in the distance . 
+
+object-prep-object	country with mountain
+verb-prep-object	park in country
+object-prep-object	car in country
+attribute-object	greenish car
+attribute-object	black car
+object-verb	car park
+object	country
+object	mountain
+object	car
+object	car
+#####################################################
+Black PT Cruiser parked in gravel . 
+Black PT Cruiser park in gravel . 
+
+verb-prep-object	park in gravel
+object-prep-object	cruiser in gravel
+attribute-object	black cruiser
+attribute-object	pt cruiser
+object-verb	cruiser park
+object	gravel
+object	cruiser
+object	car
+#####################################################

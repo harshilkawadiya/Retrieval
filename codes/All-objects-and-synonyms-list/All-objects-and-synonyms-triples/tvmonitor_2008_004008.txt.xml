@@ -1,0 +1,69 @@
+A green lamp sits beside a television on a dresser in a bedroom with white furniture . 
+a green lamp sit beside a television on a dresser in a bedroom with white furniture . 
+
+object-prep-object	bedroom with furniture
+verb-prep-object	sit beside tvmonitor
+object-prep-object	lamp beside tvmonitor
+verb-prep-object	sit on dresser
+object-prep-object	lamp on dresser
+verb-prep-object	sit in bedroom
+object-prep-object	lamp in bedroom
+attribute-object	green lamp
+attribute-object	white furniture
+object-verb	lamp sit
+object	bedroom
+object	furniture
+object	tvmonitor
+object	television
+object	lamp
+object	dresser
+object	tvmonitor
+#####################################################
+A white colored room containing a table , chairs and TV . 
+a white color room contain a table , chair and tv . 
+
+attribute-object	white room
+attribute-object	color room
+object-verb-object	room contain diningtable
+object-verb-object	room contain chair
+object-verb-object	room contain tvmonitor
+object	room
+object	diningtable
+object	chair
+object	tvmonitor
+object	tvmonitor
+#####################################################
+A white room with a tv and fridge , looks like a hotel room . 
+a white room with a tv and fridge , look like a hotel room . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with fridge
+attribute-object	white room
+attribute-object	hotel room
+object	room
+object	tvmonitor
+object	fridge
+object	tvmonitor
+#####################################################
+Bedroom with white furniture and white walls . 
+bedroom with white furniture and white wall . 
+
+object-prep-object	bedroom with furniture
+object-prep-object	bedroom with wall
+attribute-object	white furniture
+attribute-object	white wall
+object	bedroom
+object	furniture
+object	wall
+object	tvmonitor
+#####################################################
+The bedroom set is clean and basic . 
+the bedroom set be clean and basic . 
+
+object-object	bedroom clean
+object-object	bedroom basic
+object	bedroom
+object	clean
+object	basic
+object	tvmonitor
+#####################################################

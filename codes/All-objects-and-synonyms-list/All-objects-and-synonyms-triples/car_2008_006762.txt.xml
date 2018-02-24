@@ -1,0 +1,56 @@
+A silver car parked in a suburban neighborhood . 
+a silver car park in a suburban neighborhood . 
+
+verb-prep-object	park in neighborhood
+object-prep-object	car in neighborhood
+attribute-object	suburban neighborhood
+attribute-object	silver car
+object-verb	car park
+object	neighborhood
+object	car
+object	car
+#####################################################
+A silver saloon car parked in a residential street . 
+a silver saloon car park in a residential street . 
+
+verb-prep-object	park in road
+object-prep-object	car in road
+attribute-object	residential road
+attribute-object	silver car
+attribute-object	saloon car
+object-verb	car park
+object	road
+object	street
+object	car
+object	car
+#####################################################
+Silver car parked on side of road . 
+silver car park on side of road . 
+
+verb-prep-object	park on road
+object-prep-object	car on road
+attribute-object	silver car
+object-verb	car park
+object	road
+object	car
+object	car
+#####################################################
+The front and right side of a silver Grand Am . 
+the front and right side of a silver Grand Am . 
+
+attribute-object	silver car
+attribute-object	grand car
+object	car
+object	am
+object	car
+#####################################################
+This is a silver four-door car on a road . 
+this be a silver four-door car on a road . 
+
+attribute-object	silver car
+attribute-object	four-door car
+object-prep-object	car on road
+object	car
+object	road
+object	car
+#####################################################

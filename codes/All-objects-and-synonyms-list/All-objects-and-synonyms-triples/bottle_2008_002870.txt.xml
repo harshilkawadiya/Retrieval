@@ -1,0 +1,70 @@
+A dark-skinned man in a green jacket holds up a bottle of beer toward me . 
+a dark-skinned man in a green jacket hold up a bottle of beer toward I . 
+
+object-prep-object	person in man
+object-prep-object	bottle of beer
+attribute-object	dark-skinned person
+attribute-object	green jacket
+object-verb-object	person hold man
+verb-attribute	hold up
+object	person
+object	man
+object	bottle
+object	beer
+object	jacket
+object	bottle
+#####################################################
+A man raises a lager beer bottle . 
+a man raise a lager beer bottle . 
+
+object-verb-object	person raise man
+attribute-object	lager bottle
+attribute-object	beer bottle
+object	person
+object	man
+object	bottle
+object	bottle
+#####################################################
+A young man holds up a bottle of lager while two other men stand in the background . 
+a young man hold up a bottle of lager while two other man stand in the background . 
+
+object-verb-object	person hold man
+object-prep-object	bottle of lager
+attribute-object	young person
+object-verb	person stand
+verb-attribute	hold up
+object	person
+object	man
+object	bottle
+object	lager
+object	bottle
+#####################################################
+A young man holds up a bottle of light beer . 
+a young man hold up a bottle of light beer . 
+
+object-prep-object	bottle of beer
+attribute-object	young person
+attribute-object	light beer
+object-verb-object	person hold man
+verb-attribute	hold up
+object	bottle
+object	beer
+object	person
+object	man
+object	bottle
+#####################################################
+The guy in the green shirt is holding a beer up in the air . 
+the guy in the green shirt be hold a beer up in the air . 
+
+object-prep-object	person in guy
+verb-prep-object	hold in sky
+attribute-object	green shirt
+object-verb-object	person hold guy
+verb-attribute	hold up
+object	person
+object	guy
+object	sky
+object	air
+object	shirt
+object	bottle
+#####################################################

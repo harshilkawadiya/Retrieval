@@ -1,0 +1,75 @@
+A large white living room with a fireplace and large TV . 
+a large white living room with a fireplace and large tv . 
+
+object-prep-object	room with fireplace
+object-prep-object	room with tvmonitor
+attribute-object	large room
+attribute-object	white room
+attribute-object	large tvmonitor
+attribute-object	living room
+object	room
+object	fireplace
+object	tvmonitor
+object	tv
+object	sofa
+#####################################################
+A living room with a TV , two chairs , a love seat , and a coffee table . 
+a living room with a tv , two chair , a love seat , and a coffee table . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with chair
+object-prep-object	room with seat
+object-prep-object	room with diningtable
+attribute-object	living room
+attribute-object	love seat
+attribute-object	coffee diningtable
+object	room
+object	tvmonitor
+object	chair
+object	seat
+object	diningtable
+object	table
+object	sofa
+#####################################################
+A living room with a wooden floor , a fireplace , and mismatched furniture . 
+a living room with a wooden floor , a fireplace , and mismatched furniture . 
+
+object-prep-object	room with floor
+object-prep-object	room with fireplace
+object-prep-object	room with furniture
+attribute-object	wooden floor
+attribute-object	mismatched furniture
+attribute-object	living room
+object	room
+object	floor
+object	fireplace
+object	furniture
+object	sofa
+#####################################################
+Red chair in living room with wooden floor . 
+Red chair in live room with wooden floor . 
+
+object-prep-object	room with floor
+object-prep-object	chair in room
+attribute-object	live room
+attribute-object	wooden floor
+attribute-object	red chair
+object	room
+object	floor
+object	chair
+object	sofa
+#####################################################
+View of a living room containing couches , TV and fireplace . 
+View of a living room contain couch , tv and fireplace . 
+
+object-verb-object	room contain bed
+object-verb-object	room contain tvmonitor
+object-verb-object	room contain fireplace
+attribute-object	living room
+object	room
+object	sofa
+object	bed
+object	tvmonitor
+object	fireplace
+object	sofa
+#####################################################

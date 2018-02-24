@@ -1,0 +1,65 @@
+A kitchen diner with papers laying on the blue clothed dining table . 
+a kitchen diner with papers lay on the blue clothed dining table . 
+
+object-prep-object	diner with papers
+verb-prep-object	lay on diningtable
+object-prep-object	diner on diningtable
+attribute-object	blue diningtable
+attribute-object	clothed diningtable
+attribute-object	kitchen diner
+attribute-object	dining diningtable
+object-verb	diner lay
+object	diner
+object	papers
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+A small kitchen and a cluttered table with a blue table cloth . 
+a small kitchen and a cluttered table with a blue table cloth . 
+
+object-prep-object	kitchen with cloth
+object-prep-object	diningtable with table
+attribute-object	small kitchen
+attribute-object	cluttered diningtable
+attribute-object	blue cloth
+attribute-object	table cloth
+object	kitchen
+object	cloth
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+Table with blue table cloth in kitchen . 
+Table with blue table cloth in kitchen . 
+
+object-prep-object	diningtable in table
+object-prep-object	diningtable with table
+attribute-object	blue cloth
+attribute-object	table cloth
+object	diningtable
+object	table
+object	cloth
+object	diningtable
+#####################################################
+The dining room and kitchen of a small apartment . 
+the dining room and kitchen of a small apartment . 
+
+object-prep-object	room of room
+object-prep-object	kitchen of room
+attribute-object	small room
+attribute-object	dining room
+object	room
+object	kitchen
+object	apartment
+object	diningtable
+#####################################################
+The small kitchen area is cluttered . 
+the small kitchen area be clutter . 
+
+attribute-object	small area
+attribute-object	kitchen area
+object-verb	area clutter
+object	area
+object	diningtable
+#####################################################

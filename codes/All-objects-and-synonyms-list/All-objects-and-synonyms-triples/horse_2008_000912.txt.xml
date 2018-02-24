@@ -1,0 +1,50 @@
+A close-up of a brown horse . 
+a close-up of a brown horse . 
+
+attribute-object	brown horse
+object	horse
+object	horse
+#####################################################
+A horse facing the camera with a horse in the background . 
+a horse face the camera with a horse in the background . 
+
+object-verb-object	horse face camera
+object-prep-object	horse with horse
+object	horse
+object	camera
+object	horse
+#####################################################
+A horse standing near a gate with another horse in the background . 
+a horse standing near a gate with another horse in the background . 
+
+verb-prep-object	stand near gate
+object-prep-object	horse near gate
+object-prep-object	horse with horse
+object-verb	horse stand
+object	gate
+object	horse
+object	horse
+#####################################################
+A reddish brown horse looking over a fence . 
+a reddish brown horse look over a fence . 
+
+verb-prep-object	look over fence
+attribute-object	red horse
+attribute-object	brown horse
+object-verb	horse look
+object	fence
+object	horse
+object	horse
+#####################################################
+A young horse looks into the camera from behind a fence . 
+a young horse look into the camera from behind a fence . 
+
+verb-prep-object	look into camera
+verb-prep-object	look from fence
+attribute-object	young horse
+object-verb	horse look
+object	camera
+object	fence
+object	horse
+object	horse
+#####################################################

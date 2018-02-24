@@ -1,0 +1,61 @@
+A blue and yellow plane flies against a blue sky . 
+a blue and yellow plane fly against a blue sky . 
+
+verb-prep-object	fly against sky
+object-prep-object	plane against sky
+attribute-object	blue plane
+attribute-object	yellow plane
+attribute-object	blue sky
+object-verb	plane fly
+object	sky
+object	plane
+object	aeroplane
+#####################################################
+A blue and yellow US Navy plane speeds through the sky . 
+a blue and yellow US Navy plane speed through the sky . 
+
+object-verb	plane speed
+verb-prep-object	speed through sky
+attribute-object	blue plane
+attribute-object	yellow plane
+attribute-object	us plane
+attribute-object	navy plane
+object	plane
+object	sky
+object	aeroplane
+#####################################################
+A small blue and yellow airplane glides through the air . 
+a small blue and yellow airplane glide through the air . 
+
+object-verb	airplane glide
+verb-prep-object	glide through air
+attribute-object	small airplane
+attribute-object	blue airplane
+attribute-object	yellow airplane
+object	airplane
+object	air
+object	aeroplane
+#####################################################
+Navy fighter jet flying in a blue sky . 
+Navy fighter jet fly in a blue sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	jet in sky
+attribute-object	blue sky
+attribute-object	navy jet
+attribute-object	fighter jet
+object-verb	jet fly
+object	sky
+object	jet
+object	aeroplane
+#####################################################
+Sky view of a blue angels navy fighter jet . 
+sky view of a blue angel navy fighter jet . 
+
+attribute-object	blue jet
+attribute-object	angel jet
+attribute-object	navy jet
+attribute-object	fighter jet
+object	jet
+object	aeroplane
+#####################################################

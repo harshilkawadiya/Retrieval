@@ -1,0 +1,74 @@
+A close-up of a woman with black boots next to a blue motorcycle . 
+a close-up of a woman with black boot next to a blue motorcycle . 
+
+object-prep-object	person with woman
+object-prep-object	person next_to motorbike
+attribute-object	black boot
+attribute-object	blue motorbike
+object	person
+object	woman
+object	motorbike
+object	boot
+object	motorcycle
+object	motorbike
+#####################################################
+A girl posting beside a blue motorcycle . 
+a girl post beside a blue motorcycle . 
+
+verb-prep-object	post beside motorbike
+object-prep-object	person beside motorbike
+attribute-object	blue motorbike
+object-verb	person post
+object	motorbike
+object	motorcycle
+object	person
+object	girl
+object	motorbike
+#####################################################
+A girl standing beside a blue motor bike . 
+a girl standing beside a blue motor bike . 
+
+verb-prep-object	stand beside bicycle
+object-prep-object	person beside bicycle
+attribute-object	blue bicycle
+object-verb	person stand
+attribute-object	motor bicycle
+object	bicycle
+object	bike
+object	person
+object	girl
+object	motorbike
+#####################################################
+A girl wearing black shorts and boots is standing next to a blue motorcycle . 
+a girl wear black shorts and boot be stand next to a blue motorcycle . 
+
+verb-prep-object	stand next_to motorbike
+object-prep-object	person next_to motorbike
+attribute-object	black shorts
+attribute-object	blue motorbike
+object-verb-object	person wear girl
+object-verb-object	person wear girl
+object-verb	person stand
+object	motorbike
+object	motorcycle
+object	person
+object	girl
+object	shorts
+object	motorbike
+#####################################################
+A woman in black and white laughs while standing next to a parked blue motorbike . 
+a woman in black and white laugh while stand next to a park blue motorbike . 
+
+object-verb	person laugh
+object-verb	person stand
+verb-prep-object	stand next_to motorbike
+object-prep-object	person next_to woman
+object-prep-object	person in woman
+object-prep-object	person in woman
+attribute-object	park motorbike
+attribute-object	blue motorbike
+object	person
+object	woman
+object	motorbike
+object	motorbike
+#####################################################

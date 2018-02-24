@@ -1,0 +1,53 @@
+A white car driving past two domed buildings . 
+a white car drive past two domed building . 
+
+attribute-object	white car
+attribute-object	domed building
+object-verb-object	car drive building
+verb-attribute	drive past
+object	car
+object	building
+object	car
+#####################################################
+a white car passing in front of three pointy towers . 
+a white car pass in front of three pointy tower . 
+
+verb-prep-object	pass in_front_of building
+object-prep-object	car in_front_of building
+attribute-object	white car
+attribute-object	pointy building
+object-verb	car pass
+object	building
+object	tower
+object	car
+object	car
+#####################################################
+Several unusual monuments . 
+several unusual monument . 
+
+attribute-object	several monument
+attribute-object	unusual monument
+object	monument
+object	car
+#####################################################
+Some futuristic pointy buildings , with a car on the road in front . 
+some futuristic pointy building , with a car on the road in front . 
+
+object-prep-object	car on road
+attribute-object	some building
+attribute-object	futuristic building
+attribute-object	pointy building
+object	car
+object	road
+object	building
+object	car
+#####################################################
+Some odd pointy buildings . 
+some odd pointy building . 
+
+attribute-object	some building
+attribute-object	odd building
+attribute-object	pointy building
+object	building
+object	car
+#####################################################

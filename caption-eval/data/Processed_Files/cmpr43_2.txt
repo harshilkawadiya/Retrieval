@@ -1,0 +1,50 @@
+beam_size_1	2	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	3	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	4	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	5	Two people riding a bike are riding towards a stop sign .
+beam_size_1	6	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	7	A boy is diving through the air into a swimming pool .
+beam_size_1	8	A boy jumps into a pool on a bright sunny day .
+beam_size_1	9	a boy jumps into the blue pool water .
+beam_size_1	10	A smiling child dives into a pool .
+beam_size_1	11	The young boy is jumping into the pool on his belly .
+beam_size_1	12	A boy kicks through a pile of leaves .
+beam_size_1	13	A boy with blue shirt kicking off dead leaves from a pile of leaves .
+beam_size_1	14	A kid in a blue top leaps into a raked pile of leaves in front of trees .
+beam_size_1	15	A little boy in blue is running through a pile of brown leaves .
+beam_size_1	16	A young boy standing with a raised leg in a large pile of leaves .
+beam_size_1	17	A little girl slides down a green slide with her arms up at a playground .
+beam_size_1	18	A little girl sliding down a slide at a playground .
+beam_size_1	19	A young girl is sliding down a slide at a playground .
+beam_size_1	20	A young girl slides down a green plastic slide on a playground .
+beam_size_1	21	The girl is sliding down a green slide .
+beam_size_1	22	A girl jumping over a jump rope .
+beam_size_1	23	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	24	A girl wearing shorts plays jump rope .
+beam_size_1	25	A little girl is jumping over a yellow rope .
+beam_size_1	26	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	27	A girl wets her head in a white bucket .
+beam_size_1	28	A little girl dips her hair into a bucket filled with water .
+beam_size_1	29	A little girl has dunked her head in a bowl of water .
+beam_size_1	30	A little girl in a dress lifts her soaked head from a bucket .
+beam_size_1	31	a young girl lifting her wet hair out of a white bucket
+beam_size_1	32	A dog jumping up to touch a woman 's hand .
+beam_size_1	33	a dog jumps to an elderly woman .
+beam_size_1	34	An airborne dog on a leash with a woman .
+beam_size_1	35	The small dog is leaping in the air toward the woman 's hand .
+beam_size_1	36	The woman in the blue sweater encourages the dog to jump in the air .
+beam_size_1	37	A baby is dressed up in pink gear and staring while an adult holds her steady .
+beam_size_1	38	A small baby wearing sunglasses sits on an adult 's lap .
+beam_size_1	39	A woman holds a fat baby with sunglasses and a denim hat .
+beam_size_1	40	A woman is holding onto a baby wearing who is wearing sunglasses .
+beam_size_1	41	The baby in a blue jean hat and sunglasses looks at the camera while being held .
+beam_size_1	42	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	43	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	44	A little boy is leaping in the air onto a water slide .
+beam_size_1	45	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	46	The boy in the swimming trunks is playing in the yard .
+beam_size_1	47	A ban in a grey swaetshirt picks out greens in a supermarket .
+beam_size_1	48	A man is taking a look at the food products .
+beam_size_1	49	A man looking at produce .
+beam_size_1	50	A man shopping for fresh lettuce in a market
+beam_size_1	51	An older man examines produce .

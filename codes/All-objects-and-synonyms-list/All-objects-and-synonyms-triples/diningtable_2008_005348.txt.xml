@@ -1,0 +1,67 @@
+A dinner table set for three people . 
+a dinner table set for three people . 
+
+object-prep-object	diningtable for person
+attribute-object	dinner diningtable
+object	diningtable
+object	table
+object	person
+object	diningtable
+#####################################################
+A Thanksgiving meal with white daisies on a small table . 
+a Thanksgiving meal with white daisy on a small table . 
+
+object-prep-object	meal on diningtable
+object-prep-object	meal with daisy
+attribute-object	white daisy
+attribute-object	small diningtable
+attribute-object	thanksgiving meal
+object	meal
+object	diningtable
+object	daisy
+object	table
+object	diningtable
+#####################################################
+Dinner sitting on a table and ready to be served . 
+dinner sit on a table and ready to be serve . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	dinner on diningtable
+object-verb	dinner sit
+object-verb	dinner ready
+verb-prep-verb	ready to serve
+object	diningtable
+object	table
+object	dinner
+object	diningtable
+#####################################################
+There is a turkey on the table along with other foods on plates . 
+there be a turkey on the table along with other food on plate . 
+
+object-prep-object	turkey on diningtable
+object-prep-object	turkey along_with food
+object-prep-object	food on plate
+attribute-object	other food
+object	turkey
+object	diningtable
+object	food
+object	plate
+object	diningtable
+#####################################################
+The table is set for a turkey dinner and decorated with white daisies . 
+the table be set for a turkey dinner and decorate with white daisy . 
+
+verb-prep-object	decorate with daisy
+object-prep-object	diningtable with table
+verb-prep-object	set for dinner
+object-prep-object	diningtable for table
+attribute-object	white daisy
+attribute-object	turkey dinner
+object-verb	diningtable set
+object-verb	diningtable decorate
+object	daisy
+object	diningtable
+object	table
+object	dinner
+object	diningtable
+#####################################################

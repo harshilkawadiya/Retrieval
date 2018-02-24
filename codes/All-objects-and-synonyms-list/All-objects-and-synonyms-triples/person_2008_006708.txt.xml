@@ -1,0 +1,58 @@
+a man on a dirt bike jumping very high . 
+a man on a dirt bike jump very high . 
+
+object-prep-object	person on bicycle
+object-verb-object	person jump man
+attribute-object	dirt bicycle
+object	person
+object	man
+object	bicycle
+object	bike
+object	person
+#####################################################
+A man on a motorbike jumping with the sky behind him . 
+a man on a motorbike jump with the sky behind he . 
+
+object-prep-object	person on man
+object-verb	person jump
+object	person
+object	man
+object	person
+#####################################################
+A motocross bike with rider flying through the air . 
+a motocross bike with rider fly through the air . 
+
+verb-prep-object	fly through sky
+object-prep-object	bicycle through sky
+object-prep-object	bicycle with person
+attribute-object	motocross bicycle
+object-verb	bicycle fly
+object	sky
+object	air
+object	bicycle
+object	bike
+object	person
+object	person
+#####################################################
+Motocross rider in mid-air . 
+Motocross rider in mid-air . 
+
+object-prep-object	person in sky
+attribute-object	motocross person
+object	person
+object	rider
+object	sky
+object	person
+#####################################################
+Person on motorbike in midair at sunset . 
+person on motorbike in midair at sunset . 
+
+object-prep-object	person on motorbike
+object-prep-object	person at sunset
+object-prep-object	person in midair
+object	person
+object	motorbike
+object	sunset
+object	midair
+object	person
+#####################################################

@@ -1,0 +1,58 @@
+A comical preying mantis sits with other plants on the table . 
+a comical prey mantis sit with other plant on the table . 
+
+verb-prep-object	sit with plant
+object-prep-object	comical with plant
+object-prep-object	plant on table
+object-verb-object	comical prey mantis
+object-verb	comical sit
+object	plant
+object	comical
+object	table
+object	mantis
+object	pottedplant
+#####################################################
+A costume of a venue fly trap is near flowers . 
+a costume of a venue fly trap be near flower . 
+
+object-prep-object	trap near flower
+attribute-object	venue trap
+attribute-object	fly trap
+object	trap
+object	flower
+object	pottedplant
+#####################################################
+A scene of a plant store containing a monster piranha plant . 
+a scene of a plant store contain a monster piranha plant . 
+
+attribute-object	monster plant
+attribute-object	piranha plant
+object-verb-object	store contain plant
+attribute-object	plant store
+object	plant
+object	store
+object	pottedplant
+#####################################################
+Some plants , with a stuffed dinosaur head in the background . 
+some plant , with a stuff dinosaur head in the background . 
+
+object	plant
+attribute-object	stuff head
+attribute-object	dinosaur head
+object	plant
+object	head
+object	pottedplant
+#####################################################
+The plant from Little Shop of Horrors threatens an actor playing Seymour . 
+the plant from little Shop of Horrors threaten a actor play Seymour . 
+
+object-prep-object	plant from shop
+attribute-object	little shop
+object-verb-object	plant threaten actor
+object-verb-object	actor play seymour
+object	plant
+object	shop
+object	actor
+object	seymour
+object	pottedplant
+#####################################################

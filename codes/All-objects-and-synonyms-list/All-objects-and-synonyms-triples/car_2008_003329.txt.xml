@@ -1,0 +1,64 @@
+A bicyclist explaining arm pain to a fellow rider wearing yellow . 
+a bicyclist explain arm pain to a fellow rider wear yellow . 
+
+verb-prep-object	explain to person
+object-verb-object	person wear rider
+attribute-object	fellow person
+object-verb-object	person explain bicyclist
+attribute-object	arm pain
+object	person
+object	rider
+object	bicyclist
+object	pain
+object	car
+#####################################################
+Bicyclers talking and riding together on a paved trail . 
+bicycler talk and ride together on a paved trail . 
+
+object-verb	person talk
+object-verb	person ride
+verb-prep-object	ride on trail
+verb-prep-object	talk on trail
+object-prep-object	person on bicycler
+attribute-object	paved trail
+object	person
+object	bicycler
+object	trail
+object	car
+#####################################################
+Four bikers coming out of a mountain bike trail . 
+four biker come out of a mountain bike trail . 
+
+verb-prep-object	come out_of trail
+attribute-object	mountain trail
+attribute-object	bike trail
+object-verb	person come
+object	trail
+object	person
+object	biker
+object	car
+#####################################################
+People in bright colored outfits are riding bicycles . 
+people in bright color outfit be ride bicycle . 
+
+object-prep-object	person in suit
+attribute-object	bright suit
+attribute-object	color suit
+object-verb-object	person ride people
+object	person
+object	people
+object	suit
+object	outfit
+object	car
+#####################################################
+Two people are riding their bikes and talking , while two people are biking behind them . 
+two people be ride they bike and talk , while two people be biking behind they . 
+
+object-verb-object	person ride bicycle
+object-verb	person talk
+object-verb	person biking
+object	person
+object	people
+object	bicycle
+object	car
+#####################################################

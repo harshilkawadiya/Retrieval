@@ -1,0 +1,61 @@
+A double-decker bus passes a row of flags . 
+a double-decker bus pass a row of flag . 
+
+attribute-object	double-decker bus
+object-verb-object	bus pass flag
+object	bus
+object	flag
+object	bus
+#####################################################
+A double decker bus traveling around a roundabout . 
+a double decker bus travel around a roundabout . 
+
+verb-prep-object	travel around roundabout
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus travel
+object	roundabout
+object	bus
+object	bus
+#####################################################
+A double decker bus viewed through a cluster of flag poles . 
+a double decker bus view through a cluster of flag pole . 
+
+verb-prep-object	view through cluster
+object-prep-object	cluster of pole
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	flag pole
+object-verb	bus view
+object	cluster
+object	pole
+object	bus
+object	bus
+#####################################################
+A two-level tourist bus driving by a landmark with many flags . 
+a two-level tourist bus drive by a landmark with many flag . 
+
+object-prep-object	landmark with flag
+verb-prep-object	drive by landmark
+attribute-object	many flag
+attribute-object	two-level bus
+attribute-object	tourist bus
+object-verb	bus drive
+object	landmark
+object	flag
+object	bus
+object	bus
+#####################################################
+Several country flags outside of building and near busy road . 
+several country flag outside of building and near busy road . 
+
+object-prep-object	flag outside_of building
+object-prep-object	flag near road
+attribute-object	several flag
+attribute-object	country flag
+attribute-object	busy road
+object	flag
+object	building
+object	road
+object	bus
+#####################################################

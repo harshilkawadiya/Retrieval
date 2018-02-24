@@ -1,0 +1,66 @@
+A gray house with a red door . 
+a gray house with a red door . 
+
+object-prep-object	building with house
+attribute-object	gray building
+attribute-object	red door
+object	building
+object	house
+object	door
+object	chair
+#####################################################
+A small gray house with patio furniture outside . 
+a small gray house with patio furniture outside . 
+
+object-prep-object	building with house
+attribute-object	small building
+attribute-object	gray building
+attribute-object	patio furniture
+object	building
+object	house
+object	furniture
+object	chair
+#####################################################
+A white patio table and chairs sit in front of a gray house with a red door and brick front stoop . 
+a white patio table and chair sit in front of a gray house with a red door and brick front stoop . 
+
+object-verb	diningtable sit
+object-verb	chair sit
+verb-prep-object	sit in_front_of building
+object-prep-object	diningtable in_front_of building
+object-prep-object	chair in_front_of building
+object-prep-object	building with house
+object-prep-object	building with house
+attribute-object	white diningtable
+attribute-object	gray building
+attribute-object	red door
+attribute-object	patio diningtable
+attribute-object	brick stoop
+attribute-object	front stoop
+object	diningtable
+object	table
+object	chair
+object	building
+object	house
+object	door
+object	stoop
+object	chair
+#####################################################
+House with a red door . 
+House with a red door . 
+
+object-prep-object	building with house
+attribute-object	red door
+object	building
+object	house
+object	door
+object	chair
+#####################################################
+The entrance to a gray house . 
+the entrance to a gray house . 
+
+attribute-object	gray building
+object	building
+object	house
+object	chair
+#####################################################

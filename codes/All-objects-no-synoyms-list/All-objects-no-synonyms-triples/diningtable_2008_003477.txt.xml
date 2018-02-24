@@ -1,0 +1,69 @@
+A close up of the center of a dining room table with a wine glass and silver kettle . 
+a close up of the center of a dining room table with a wine glass and silver kettle . 
+
+object-prep-object	table with glass
+object-prep-object	table with kettle
+attribute-object	dining table
+attribute-object	room table
+attribute-object	wine glass
+attribute-object	silver kettle
+object	table
+object	glass
+object	kettle
+object	diningtable
+#####################################################
+A dining table with candles , wine , and a teapot . 
+a dining table with candle , wine , and a teapot . 
+
+object-prep-object	table with candle
+object-prep-object	table with wine
+object-prep-object	table with teapot
+attribute-object	dining table
+object	table
+object	candle
+object	wine
+object	teapot
+object	diningtable
+#####################################################
+An empty wine glass and silver teapot sitting on a dining table . 
+a empty wine glass and silver teapot sit on a dining table . 
+
+verb-prep-object	sit on table
+object-prep-object	glass on table
+object-prep-object	teapot on table
+attribute-object	empty glass
+attribute-object	wine glass
+attribute-object	silver teapot
+attribute-object	dining table
+object-verb	glass sit
+object-verb	teapot sit
+object	table
+object	glass
+object	teapot
+object	diningtable
+#####################################################
+A wine glass , coffee pot and candles on top of a tan table . 
+a wine glass , coffee pot and candle on top of a tan table . 
+
+object-prep-object	glass on_top_of table
+object-prep-object	pot on_top_of table
+object-prep-object	candle on_top_of table
+attribute-object	wine glass
+attribute-object	coffee pot
+attribute-object	tan table
+object	glass
+object	table
+object	pot
+object	candle
+object	diningtable
+#####################################################
+Small turntable in center of kitchen table . 
+small turntable in center of kitchen table . 
+
+object-prep-object	turntable in_center_of table
+attribute-object	small turntable
+attribute-object	kitchen table
+object	turntable
+object	table
+object	diningtable
+#####################################################

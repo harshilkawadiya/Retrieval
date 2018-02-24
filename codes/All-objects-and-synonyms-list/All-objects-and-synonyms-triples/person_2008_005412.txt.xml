@@ -1,0 +1,66 @@
+A man is pushing his bike up a snowy incline . 
+a man be push he bike up a snowy incline . 
+
+verb-prep-object	push up incline
+attribute-object	snowy incline
+object-verb-object	person push bicycle
+object	incline
+object	person
+object	man
+object	bicycle
+object	person
+#####################################################
+A man posing with a mountain bike in the snow . 
+a man pose with a mountain bike in the snow . 
+
+verb-prep-object	pose in snow
+object-prep-object	person in man
+verb-prep-object	pose with bicycle
+object-prep-object	person with bicycle
+attribute-object	mountain bicycle
+object-verb	person pose
+object	snow
+object	person
+object	man
+object	bicycle
+object	bike
+object	person
+#####################################################
+A man with his bike in the snow . 
+a man with he bike in the snow . 
+
+object-prep-object	person in man
+object-prep-object	person with bicycle
+object	person
+object	man
+object	bicycle
+object	person
+#####################################################
+Man holding bicycle on snowy incline . 
+man holding bicycle on snowy incline . 
+
+object-verb-object	person hold man
+object-prep-object	bicycle on incline
+attribute-object	snowy incline
+object	person
+object	man
+object	bicycle
+object	incline
+object	person
+#####################################################
+Man with a bike standing in a tree covered wood . 
+man with a bike standing in a tree cover wood . 
+
+object-prep-object	person with bicycle
+verb-prep-object	stand in wooden
+object-prep-object	person in wooden
+object-verb	person stand
+attribute-object	tree wooden
+attribute-object	cover wooden
+object	person
+object	man
+object	bicycle
+object	wooden
+object	wood
+object	person
+#####################################################

@@ -1,0 +1,55 @@
+A black and white photo of a living room with a large window , sofa , and chair . 
+a black and white photo of a living room with a large window , sofa , and chair . 
+
+object-prep-object	room with window
+object-prep-object	room with sofa
+object-prep-object	room with chair
+attribute-object	large window
+attribute-object	living room
+object	room
+object	window
+object	sofa
+object	chair
+object	sofa
+#####################################################
+a black and white photo of a modern living room facing a snowy view . 
+a black and white photo of a modern living room face a snowy view . 
+
+attribute-object	modern room
+attribute-object	snowy view
+object-verb-object	room face view
+attribute-object	living room
+object	room
+object	view
+object	sofa
+#####################################################
+A black and white scene of a well furnished room with a view outlooking a forest . 
+a black and white scene of a well furnished room with a view outlook a forest . 
+
+object-prep-object	room with view
+attribute-object	furnished room
+object-verb-object	view outlook forest
+object	room
+object	view
+object	forest
+object	sofa
+#####################################################
+A living room with large windows overlooking the forest . 
+a living room with large window overlook the forest . 
+
+object-prep-object	room with window
+attribute-object	large window
+object-verb-object	window overlook forest
+attribute-object	living room
+object	room
+object	window
+object	forest
+object	sofa
+#####################################################
+Black and white picture of a living room looking out over trees . 
+Black and white picture of a living room look out over tree . 
+
+attribute-object	living room
+object	room
+object	sofa
+#####################################################

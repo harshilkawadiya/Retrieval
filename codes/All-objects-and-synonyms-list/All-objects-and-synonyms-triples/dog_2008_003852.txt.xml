@@ -1,0 +1,60 @@
+A black dog in a grass field . 
+a black dog in a grass field . 
+
+object-prep-object	dog in field
+attribute-object	black dog
+attribute-object	grass field
+object	dog
+object	field
+object	dog
+#####################################################
+A black dog standing in a field . 
+a black dog standing in a field . 
+
+verb-prep-object	stand in field
+object-prep-object	dog in field
+attribute-object	black dog
+object-verb	dog stand
+object	field
+object	dog
+object	dog
+#####################################################
+A gray wolf with a collar stands in the wild grass . 
+a gray wolf with a collar stand in the wild grass . 
+
+object-prep-object	wolf with collar
+verb-prep-object	stand in grass
+object-prep-object	wolf in grass
+attribute-object	gray wolf
+attribute-object	wild grass
+object-verb	wolf stand
+object	wolf
+object	collar
+object	grass
+object	dog
+#####################################################
+A gray dog standing in a grassy field . 
+a gray dog standing in a grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	dog in field
+attribute-object	gray dog
+attribute-object	grassy field
+object-verb	dog stand
+object	field
+object	dog
+object	dog
+#####################################################
+Dark colored dog standing in grassy field . 
+dark color dog standing in grassy field . 
+
+verb-prep-object	stand in field
+object-prep-object	dog in field
+attribute-object	dark dog
+attribute-object	color dog
+attribute-object	grassy field
+object-verb	dog stand
+object	field
+object	dog
+object	dog
+#####################################################

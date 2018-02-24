@@ -1,0 +1,57 @@
+Brown and white cows are looking ahead . 
+Brown and white cow be look ahead . 
+
+object-verb	cow look
+verb-attribute	look ahead
+attribute-object	brown cow
+attribute-object	white cow
+object	cow
+object	cow
+#####################################################
+Several cows looking at a camera . 
+several cow look at a camera . 
+
+verb-prep-object	look at camera
+attribute-object	several cow
+object-verb	cow look
+object	camera
+object	cow
+object	cow
+#####################################################
+Three cows in a stable are lined up and looking at the camera . 
+three cow in a stable be line up and look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	cow in stable
+object-verb	cow line
+object-verb	cow look
+verb-attribute	line up
+object	camera
+object	cow
+object	stable
+object	cow
+#####################################################
+Three cows standing in a row in a barn . 
+three cow stand in a row in a barn . 
+
+verb-prep-object	stand in row
+verb-prep-object	stand in barn
+object-prep-object	cow in row
+object-prep-object	cow in barn
+object-verb	cow stand
+object	row
+object	barn
+object	cow
+object	cow
+#####################################################
+Three cows with white faces in a barn . 
+three cow with white face in a barn . 
+
+object-prep-object	cow with face
+object-prep-object	cow in barn
+attribute-object	white face
+object	cow
+object	face
+object	barn
+object	cow
+#####################################################

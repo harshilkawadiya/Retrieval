@@ -1,0 +1,56 @@
+A black steam train traveling on the railroad tracks . 
+a black steam train travel on the railroad track . 
+
+verb-prep-object	travel on track
+object-prep-object	train on track
+attribute-object	black train
+attribute-object	steam train
+attribute-object	railroad track
+object-verb	train travel
+object	track
+object	train
+object	train
+#####################################################
+A large steam locomotive pulling a passenger train through the countryside . 
+a large steam locomotive pull a passenger train through the countryside . 
+
+verb-prep-object	pull through country
+attribute-object	large train
+object-verb-object	train pull locomotive
+attribute-object	steam train
+attribute-object	passenger train
+object	country
+object	countryside
+object	train
+object	locomotive
+object	train
+#####################################################
+A steam engine and train moving toward the camera . 
+a steam engine and train move toward the camera . 
+
+verb-prep-object	move toward camera
+attribute-object	steam engine
+object-verb	engine move
+object-verb	train move
+object	camera
+object	engine
+object	train
+object	train
+#####################################################
+A steam-powered locomotive . 
+a steam-powered locomotive . 
+
+attribute-object	steam-powered train
+object	train
+object	locomotive
+object	train
+#####################################################
+Train going down the tracks . 
+train go down the track . 
+
+object-verb-object	train go track
+verb-attribute	go down
+object	train
+object	track
+object	train
+#####################################################

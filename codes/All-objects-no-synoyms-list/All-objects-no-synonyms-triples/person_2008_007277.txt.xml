@@ -1,0 +1,62 @@
+A person on horseback rides in sand near a canyon . 
+a person on horseback ride in sand near a canyon . 
+
+object-prep-object	person on horseback
+object-verb	person ride
+verb-prep-object	ride in sand
+object-prep-object	person in sand
+verb-prep-object	ride near canyon
+object	person
+object	horseback
+object	sand
+object	canyon
+object	person
+#####################################################
+A woman rides a horse in the desert . 
+a woman ride a horse in the desert . 
+
+verb-prep-object	ride in desert
+object-prep-object	woman in desert
+object-prep-object	horse in desert
+object-verb-object	woman ride horse
+object	desert
+object	woman
+object	horse
+object	person
+#####################################################
+A woman riding a horse in the desert . 
+a woman ride a horse in the desert . 
+
+verb-prep-object	ride in desert
+object-prep-object	woman in desert
+object-prep-object	horse in desert
+object-verb-object	woman ride horse
+object	desert
+object	woman
+object	horse
+object	person
+#####################################################
+Lady riding a brown horse in a single desolated desert on a bright , sunny day . 
+Lady ride a brown horse in a single desolated desert on a bright , sunny day . 
+
+object-verb-object	lady ride horse
+attribute-object	brown horse
+verb-prep-object	ride in desert
+attribute-object	single desert
+attribute-object	desolated desert
+verb-prep-object	ride on day
+attribute-object	bright day
+attribute-object	sunny day
+object	lady
+object	horse
+object	desert
+object	day
+object	person
+#####################################################
+Take a solitude horse ride in the beautiful country . 
+take a solitude horse ride in the beautiful country . 
+
+attribute-object	horse ride
+object	ride
+object	person
+#####################################################

@@ -1,0 +1,59 @@
+A black and white bus is parked with the door open . 
+a black and white bus be park with the door open . 
+
+verb-prep-object	park with door
+attribute-object	black bus
+attribute-object	white bus
+object-attribute	door open
+object-verb	bus park
+object	door
+object	bus
+object	bus
+#####################################################
+A white and blue bus is parked next to some pipe bollards . 
+a white and blue bus be park next to some pipe bollard . 
+
+verb-prep-object	park next_to bollard
+object-prep-object	bus next_to bollard
+attribute-object	white bus
+attribute-object	blue bus
+attribute-object	pipe bollard
+object-verb	bus park
+object	bollard
+object	bus
+object	bus
+#####################################################
+People can be seen through the windows of the parked white and blue bus . 
+people can be see through the window of the park white and blue bus . 
+
+object-prep-object	window of bus
+attribute-object	park bus
+attribute-object	white bus
+attribute-object	blue bus
+object	person
+object	window
+object	bus
+object	person
+object	people
+object	bus
+#####################################################
+The bus awaits its passengers to load . 
+the bus await its passenger to load . 
+
+object-verb-object	bus await person
+verb-prep-verb	await to load
+object	bus
+object	person
+object	bus
+#####################################################
+The white bus is parked on the ground . 
+the white bus be park on the ground . 
+
+verb-prep-object	park on ground
+object-prep-object	bus on ground
+attribute-object	white bus
+object-verb	bus park
+object	ground
+object	bus
+object	bus
+#####################################################

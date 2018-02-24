@@ -1,0 +1,57 @@
+A large ram at the top of a hill . 
+a large ram at the top of a hill . 
+
+object-prep-object	sheep at mountain
+attribute-object	large sheep
+object	sheep
+object	car
+object	mountain
+object	sheep
+#####################################################
+Animal standing at the top of a rocky mountain . 
+Animal standing at the top of a rocky mountain . 
+
+verb-prep-object	stand at mountain
+object-prep-object	animal at mountain
+attribute-object	rocky mountain
+object-verb	animal stand
+object	mountain
+object	animal
+object	sheep
+#####################################################
+A sheep looks down from a grassy slope . 
+a sheep look down from a grassy slope . 
+
+verb-prep-object	look from slope
+attribute-object	grassy slope
+object-verb	sheep look
+verb-attribute	look down
+object	slope
+object	sheep
+object	sheep
+#####################################################
+The white sheep is standing on the green hill . 
+the white sheep be stand on the green hill . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+attribute-object	white sheep
+attribute-object	green mountain
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	sheep
+#####################################################
+This sheep stands alone high on a rocky crag . 
+this sheep stand alone high on a rocky crag . 
+
+object-verb	sheep stand
+verb-attribute	stand alone
+verb-prep-object	stand on crag
+object-prep-object	sheep on crag
+attribute-object	rocky crag
+object	sheep
+object	crag
+object	sheep
+#####################################################

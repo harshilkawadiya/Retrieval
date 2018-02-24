@@ -1,0 +1,58 @@
+A black and white cat lying on a blanket . 
+a black and white cat lie on a blanket . 
+
+verb-prep-object	lie on blanket
+object-prep-object	cat on blanket
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat lie
+object	blanket
+object	cat
+object	cat
+#####################################################
+A black and white cat sleeping on its side on a purple blanket . 
+a black and white cat sleep on its side on a purple blanket . 
+
+verb-prep-object	sleep on blanket
+object-prep-object	cat on blanket
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	purple blanket
+object-verb	cat sleep
+object	blanket
+object	cat
+object	cat
+#####################################################
+A black and white cat sleeps on a purple blanket . 
+a black and white cat sleep on a purple blanket . 
+
+verb-prep-object	sleep on blanket
+object-prep-object	cat on blanket
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	purple blanket
+object-verb	cat sleep
+object	blanket
+object	cat
+object	cat
+#####################################################
+A cat sleeps on purple sheet . 
+a cat sleep on purple sheet . 
+
+verb-prep-object	sleep on sheet
+object-prep-object	cat on sheet
+attribute-object	purple sheet
+object-verb	cat sleep
+object	sheet
+object	cat
+object	cat
+#####################################################
+The cat finds a comfortable pillow to sleep on . 
+the cat find a comfortable pillow to sleep on . 
+
+attribute-object	comfortable pillow
+object-verb-object	cat find pillow
+object	pillow
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,69 @@
+A person in a red cap standing next to a brick support beam . 
+a person in a red cap stand next to a brick support beam . 
+
+verb-prep-object	stand next_to beam
+object-prep-object	person next_to beam
+object-prep-object	person in hat
+attribute-object	red hat
+attribute-object	brick beam
+attribute-object	support beam
+object-verb	person stand
+object	beam
+object	person
+object	hat
+object	cap
+object	person
+#####################################################
+a woman is standing by a pillar where `` u2 '' is written . 
+a woman be stand by a pillar where `` u2 '' be write . 
+
+verb-prep-object	stand by pillar
+object-prep-object	person by woman
+object-verb	person stand
+object	pillar
+object	person
+object	woman
+object	person
+#####################################################
+A woman posing by a pillar with a U2 sign . 
+a woman pose by a pillar with a U2 sign . 
+
+object-prep-object	pillar with sign
+verb-prep-object	pose by pillar
+object-prep-object	person by woman
+object-verb	person pose
+object	pillar
+object	sign
+object	person
+object	woman
+object	person
+#####################################################
+A woman wearing winter clothing stands beside a blue post marked `` U2 '' . 
+a woman wear winter clothing stand beside a blue post mark `` U2 '' . 
+
+object-verb-object	person wear woman
+attribute-object	winter clothing
+object-verb	person stand
+verb-prep-object	stand beside post
+object-prep-object	person beside woman
+attribute-object	blue post
+object	person
+object	woman
+object	clothing
+object	post
+object	person
+#####################################################
+Person in winter clothing standing beside a cracked wall . 
+person in winter clothing stand beside a crack wall . 
+
+verb-prep-object	stand beside wall
+object-prep-object	person beside wall
+object-prep-object	person in clothing
+attribute-object	crack wall
+attribute-object	winter clothing
+object-verb	person stand
+object	wall
+object	person
+object	clothing
+object	person
+#####################################################

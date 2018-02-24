@@ -1,0 +1,61 @@
+A man in a striped shirt standing in front of a train in a large station . 
+a man in a striped shirt standing in front of a train in a large station . 
+
+object-prep-object	person in man
+attribute-object	striped shirt
+object-verb	person stand
+verb-prep-object	stand in_front_of train
+object-prep-object	person in_front_of man
+object-prep-object	train in station
+attribute-object	large station
+object	person
+object	man
+object	shirt
+object	train
+object	station
+object	pottedplant
+#####################################################
+A man stands in front of a train . 
+a man stand in front of a train . 
+
+verb-prep-object	stand in_front_of train
+object-prep-object	person in_front_of man
+object-verb	person stand
+object	train
+object	person
+object	man
+object	pottedplant
+#####################################################
+A man walking away from a shuttle . 
+a man walk away from a shuttle . 
+
+verb-prep-object	walk away_from shuttle
+object-prep-object	person away_from man
+object-verb	person walk
+object	shuttle
+object	person
+object	man
+object	pottedplant
+#####################################################
+An old man with a train . 
+a old man with a train . 
+
+object-prep-object	person with man
+attribute-object	old person
+object	person
+object	man
+object	pottedplant
+#####################################################
+The man is posing in front of a modern locomotive . 
+the man be pose in front of a modern locomotive . 
+
+verb-prep-object	pose in_front_of train
+object-prep-object	person in_front_of train
+attribute-object	modern train
+object-verb	person pose
+object	train
+object	locomotive
+object	person
+object	man
+object	pottedplant
+#####################################################

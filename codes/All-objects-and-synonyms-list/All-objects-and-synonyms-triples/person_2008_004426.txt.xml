@@ -1,0 +1,61 @@
+A girl wears a dark sweater and a statement necklace . 
+a girl wear a dark sweater and a statement necklace . 
+
+attribute-object	dark sweater
+object-verb-object	person wear girl
+object-verb-object	person wear girl
+attribute-object	statement necklace
+object	sweater
+object	person
+object	girl
+object	necklace
+object	person
+#####################################################
+a woman with a big necklace . 
+a woman with a big necklace . 
+
+object-prep-object	person with woman
+attribute-object	big necklace
+object	person
+object	woman
+object	necklace
+object	person
+#####################################################
+A young woman with a black top and a necklace . 
+a young woman with a black top and a necklace . 
+
+object-prep-object	person with woman
+object-prep-object	person with woman
+attribute-object	young person
+attribute-object	black top
+object	person
+object	woman
+object	top
+object	person
+#####################################################
+Close up of a woman in a black blouse . 
+close up of a woman in a black blouse . 
+
+object-prep-object	person in woman
+attribute-object	black blouse
+object	person
+object	woman
+object	blouse
+object	person
+#####################################################
+Portrait of an asian girl in black outfit with a large diamond necklace . 
+portrait of a asian girl in black outfit with a large diamond necklace . 
+
+object-prep-object	person with girl
+object-prep-object	person in suit
+attribute-object	asian person
+attribute-object	black suit
+attribute-object	large necklace
+attribute-object	diamond necklace
+object	person
+object	girl
+object	suit
+object	outfit
+object	necklace
+object	person
+#####################################################

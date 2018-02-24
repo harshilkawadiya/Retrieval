@@ -1,0 +1,52 @@
+A girl on a chopper bicycle . 
+a girl on a chopper bicycle . 
+
+object-prep-object	girl on bicycle
+attribute-object	chopper bicycle
+object	girl
+object	bicycle
+object	bicycle
+#####################################################
+A girl with a helmet on a bicycle near a river . 
+a girl with a helmet on a bicycle near a river . 
+
+object-prep-object	girl on bicycle
+object-prep-object	girl near river
+object-prep-object	girl with helmet
+object	girl
+object	bicycle
+object	river
+object	helmet
+object	bicycle
+#####################################################
+A girl with a helmet riding a bicycle . 
+a girl with a helmet ride a bicycle . 
+
+object-prep-object	girl with helmet
+object-verb-object	girl ride bicycle
+object	girl
+object	helmet
+object	bicycle
+object	bicycle
+#####################################################
+The girl is riding her bicycle down the road . 
+the girl be ride she bicycle down the road . 
+
+attribute-verb	down ride
+object-verb-object	girl ride bicycle
+object	girl
+object	bicycle
+object	bicycle
+#####################################################
+Young girl riding bicycle on bike path . 
+Young girl ride bicycle on bike path . 
+
+verb-prep-object	ride on path
+object-verb-object	girl ride bicycle
+attribute-object	young girl
+attribute-object	bike path
+object	path
+object	girl
+object	bicycle
+object	bicycle
+#####################################################

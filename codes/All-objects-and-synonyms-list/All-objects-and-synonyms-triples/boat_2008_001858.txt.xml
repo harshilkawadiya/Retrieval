@@ -1,0 +1,58 @@
+a boat moving in a river . 
+a boat move in a river . 
+
+verb-prep-object	move in water
+object-prep-object	boat in water
+object-verb	boat move
+object	water
+object	boat
+object	boat
+#####################################################
+A canal boat moving along a canal with trees and hills in the background . 
+a canal boat move along a canal with tree and hill in the background . 
+
+attribute-object	canal boat
+object-verb	boat move
+verb-prep-object	move in background
+verb-prep-object	move with tree
+verb-prep-object	move with mountain
+verb-attribute	move along
+object	boat
+object	background
+object	tree
+object	mountain
+object	boat
+#####################################################
+A red boat travels down a narrow river surrounded by grassland . 
+a red boat travel down a narrow river surround by grassland . 
+
+object-verb-object	boat travel water
+verb-prep-object	surround by grass
+attribute-object	red boat
+attribute-object	narrow water
+object-verb	water surround
+verb-attribute	travel down
+object	boat
+object	water
+object	grass
+object	boat
+#####################################################
+Red boat on a river . 
+Red boat on a river . 
+
+object-prep-object	boat on water
+attribute-object	red boat
+object	boat
+object	water
+object	boat
+#####################################################
+Small boat going down a creek . 
+small boat go down a creek . 
+
+attribute-object	small boat
+object-verb-object	boat go creek
+verb-attribute	go down
+object	boat
+object	creek
+object	boat
+#####################################################

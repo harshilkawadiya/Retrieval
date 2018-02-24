@@ -1,0 +1,57 @@
+A modern train in the snow . 
+a modern train in the snow . 
+
+object-prep-object	train in snow
+attribute-object	modern train
+object	train
+object	snow
+object	train
+#####################################################
+A train going down the track in a snow covered landscape . 
+a train go down the track in a snow cover landscape . 
+
+verb-prep-object	go in landscape
+object-prep-object	train in landscape
+object-verb-object	train go track
+attribute-object	snow landscape
+verb-attribute	go down
+object	landscape
+object	train
+object	track
+object	train
+#####################################################
+A yellow passenger train running along snow covered tracks . 
+a yellow passenger train run along snow cover track . 
+
+verb-prep-object	run along track
+object-prep-object	train along track
+attribute-object	yellow train
+attribute-object	passenger train
+attribute-object	snow track
+object-verb	train run
+object	track
+object	train
+object	train
+#####################################################
+A yellow train on a racetrack with snow on it . 
+a yellow train on a racetrack with snow on it . 
+
+object-prep-object	train on racetrack
+object-prep-object	racetrack with snow
+attribute-object	yellow train
+object	train
+object	racetrack
+object	snow
+object	train
+#####################################################
+Yellow train riding down snow covered tracks . 
+yellow train ride down snow cover track . 
+
+attribute-object	yellow train
+object-verb-object	train ride track
+attribute-object	snow track
+verb-attribute	ride down
+object	train
+object	track
+object	train
+#####################################################

@@ -1,0 +1,61 @@
+A dilapidated pier and a boat in the water with several people on it . 
+a dilapidated pier and a boat in the water with several people on it . 
+
+object-prep-object	boat with people
+object-prep-object	boat in water
+object-prep-object	pier in water
+attribute-object	dilapidated pier
+attribute-object	several people
+object	boat
+object	people
+object	water
+object	pier
+object	boat
+#####################################################
+A raft with 3 adults and two children in a river . 
+a raft with 3 adult and two child in a river . 
+
+object-prep-object	raft with adult
+object-prep-object	raft with child
+object-prep-object	raft in river
+object	raft
+object	adult
+object	child
+object	river
+object	boat
+#####################################################
+Four people in a canoe paddling in a river lined with cliffs . 
+four people in a canoe paddling in a river line with cliff . 
+
+object-verb	people paddle
+object-prep-object	people in canoe
+verb-prep-object	paddle in river
+object-prep-object	canoe in river
+object	people
+object	canoe
+object	river
+object	boat
+#####################################################
+Several people in a canoe in the river . 
+several people in a canoe in the river . 
+
+object-prep-object	people in canoe
+object-prep-object	canoe in river
+attribute-object	several people
+object	people
+object	canoe
+object	river
+object	boat
+#####################################################
+Vietnamese people on a small boat in front of a cliff . 
+vietnamese people on a small boat in front of a cliff . 
+
+object-prep-object	people on boat
+object-prep-object	boat in_front_of cliff
+attribute-object	vietnamese people
+attribute-object	small boat
+object	people
+object	boat
+object	cliff
+object	boat
+#####################################################

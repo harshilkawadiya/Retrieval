@@ -1,0 +1,68 @@
+A flat screen with all sorts of wires and electronics in front of it . 
+a flat screen with all sort of wire and electronics in front of it . 
+
+object-prep-object	screen with electronics
+object-prep-object	screen with wire
+attribute-object	flat screen
+object	screen
+object	electronics
+object	wire
+object	tvmonitor
+#####################################################
+A jumbo of technology paraphernalia . 
+a jumbo of technology paraphernalia . 
+
+object-prep-object	jumbo of paraphernalia
+attribute-object	technology paraphernalia
+object	jumbo
+object	paraphernalia
+object	tvmonitor
+#####################################################
+A lot of electronics is stacked on the floor near a mounted flat screen television . 
+a lot of electronics be stack on the floor near a mount flat screen television . 
+
+verb-prep-object	stack on floor
+verb-prep-object	stack near tvmonitor
+object-prep-object	lot of electronics
+attribute-object	mount tvmonitor
+attribute-object	flat tvmonitor
+attribute-object	screen tvmonitor
+object-verb	lot stack
+object	floor
+object	tvmonitor
+object	television
+object	lot
+object	electronics
+object	tvmonitor
+#####################################################
+A room cluttered with boxes and wires has a flat-screen television on the wall . 
+a room clutter with box and wire have a flat-screen television on the wall . 
+
+verb-prep-object	clutter with box
+verb-prep-object	clutter with wire
+object-prep-object	room with box
+object-prep-object	room with wire
+object-prep-object	tvmonitor on television
+attribute-object	flat-screen tvmonitor
+object-verb-object	room have tvmonitor
+object-verb	room clutter
+object	box
+object	wire
+object	room
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+A storage room with electronics and a TV on the wall . 
+a storage room with electronics and a tv on the wall . 
+
+object-prep-object	tvmonitor on tv
+object-prep-object	room with electronics
+object-prep-object	room with tvmonitor
+attribute-object	storage room
+object	tvmonitor
+object	tv
+object	room
+object	electronics
+object	tvmonitor
+#####################################################

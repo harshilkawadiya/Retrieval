@@ -1,0 +1,53 @@
+A white Jeep at a dealership . 
+a white jeep at a dealership . 
+
+object-prep-object	jeep at dealership
+attribute-object	white jeep
+object	jeep
+object	dealership
+object	car
+#####################################################
+A white Jeep is parked in front of a brick building . 
+a white jeep be park in front of a brick building . 
+
+verb-prep-object	park in_front_of building
+object-prep-object	jeep in_front_of building
+attribute-object	white jeep
+attribute-object	brick building
+object-verb	jeep park
+object	building
+object	jeep
+object	car
+#####################################################
+A white jeep parked in front of a store . 
+a white jeep park in front of a store . 
+
+verb-prep-object	park in_front_of store
+object-prep-object	jeep in_front_of store
+attribute-object	white jeep
+object-verb	jeep park
+object	store
+object	jeep
+object	car
+#####################################################
+A white Jeep parked on a street . 
+a white jeep park on a street . 
+
+verb-prep-object	park on street
+object-prep-object	jeep on street
+attribute-object	white jeep
+object-verb	jeep park
+object	street
+object	jeep
+object	car
+#####################################################
+A white jeep with a brown top . 
+a white jeep with a brown top . 
+
+object-prep-object	jeep with top
+attribute-object	white jeep
+attribute-object	brown top
+object	jeep
+object	top
+object	car
+#####################################################

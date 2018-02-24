@@ -1,0 +1,50 @@
+beam_size_1	2	A lady and a man with no shirt sit on a dock .
+beam_size_1	3	A man and a woman are sitting on a dock together .
+beam_size_1	4	A man and a woman sitting on a dock .
+beam_size_1	5	A man and woman sitting on a deck next to a lake .
+beam_size_1	6	A shirtless man and a woman sitting on a dock .
+beam_size_1	7	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	8	A firetruck with ladder extended on the side of the road .
+beam_size_1	9	A jogger with a dog approaches a ladder truck .
+beam_size_1	10	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	11	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	12	A black dog and a golden dog approaching one another
+beam_size_1	13	A black dog and tan dog run towards each other on a beach .
+beam_size_1	14	a black dog is approaching a golden dog on pebbly beach .
+beam_size_1	15	Two dogs playing on a rocky beach .
+beam_size_1	16	Two dogs running on the sand .
+beam_size_1	17	A girl 's hands , another person 's feet , and a boy playing bongo drums sit on a picnic table .
+beam_size_1	18	A picture of a group of peoples ' feet .
+beam_size_1	19	The legs and feet of people sitting on a wooden table , two cameras and cigarettes on it .
+beam_size_1	20	Three people are sitting on a picnic table along with two cameras and a drum .
+beam_size_1	21	Three people sit on a bench .
+beam_size_1	22	A man playing cricket , his bat pointed to the sky .
+beam_size_1	23	Man dressed in white playing sports .
+beam_size_1	24	The cricketer is swinging a bat in the air .
+beam_size_1	25	The man wearing knee protectors swings a cricket club .
+beam_size_1	26	The man wearing white clothes and white leg padding is practicing a sport .
+beam_size_1	27	A boy is diving through the air into a swimming pool .
+beam_size_1	28	A boy jumps into a pool on a bright sunny day .
+beam_size_1	29	a boy jumps into the blue pool water .
+beam_size_1	30	A smiling child dives into a pool .
+beam_size_1	31	The young boy is jumping into the pool on his belly .
+beam_size_1	32	A brown dog is sitting on a cobbled pavement .
+beam_size_1	33	A brown god relaxes on a brick sidewalk .
+beam_size_1	34	A dog lies down on a cobblestone street .
+beam_size_1	35	A yellow dog is lying near where people are walking .
+beam_size_1	36	The dog is lying on the cobblestone street .
+beam_size_1	37	Two bicycle riders in twilight on the shore .
+beam_size_1	38	Two children on bikes riding on a desolate street near water and a streetlamp .
+beam_size_1	39	Two kids ride their bikes by the ocean , in the evening .
+beam_size_1	40	Two people are on bikes are next to a white building .
+beam_size_1	41	Two people are riding bikes on a vacant street near the ocean .
+beam_size_1	42	A boy in a green uniform is kicking a soccer ball in a game while two others stand behind him .
+beam_size_1	43	Boys play soccer near a goal post .
+beam_size_1	44	Some children are playing soccer on a sports-field by the goal .
+beam_size_1	45	The little boy gets ready to kick the soccer ball .
+beam_size_1	46	three boys play soccer .
+beam_size_1	47	A group of girls and guys hang out , one is making a sad face .
+beam_size_1	48	A group of women ; one serious , one frowning , and another smiling .
+beam_size_1	49	A woman in a pink sweater looks pensive next to a crowd of laughing women .
+beam_size_1	50	A young girl gazes at something in the distance as those around her talk .
+beam_size_1	51	There are oriental people standing together .

@@ -1,0 +1,63 @@
+A distorted photo of a man cutting up a large cut of meat in a garage . 
+a distorted photo of a man cut up a large cut of meat in a garage . 
+
+verb-prep-object	cut in garage
+object-prep-object	photo of man
+object-prep-object	cut of meat
+attribute-object	distorted photo
+attribute-object	large cut
+object-verb-object	photo cut cut
+verb-attribute	cut up
+object	garage
+object	photo
+object	man
+object	cut
+object	meat
+object	bicycle
+#####################################################
+A man smiling at the camera while carving up meat . 
+a man smile at the camera while carve up meat . 
+
+verb-prep-object	smile at camera
+object-verb	man smile
+object-verb-object	man carve meat
+verb-attribute	carve up
+object	camera
+object	man
+object	meat
+object	bicycle
+#####################################################
+A man smiling while he cuts up a piece of meat . 
+a man smile while he cut up a piece of meat . 
+
+object-verb	man smile
+object-verb-object	man cut meat
+verb-attribute	cut up
+object	man
+object	meat
+object	bicycle
+#####################################################
+A smiling man is standing next to a table dressing a piece of venison . 
+a smile man be stand next to a table dress a piece of venison . 
+
+verb-prep-object	stand next_to table
+object-prep-object	man next_to table
+attribute-object	smile man
+object-verb-object	man dress venison
+object-verb	man stand
+object	table
+object	man
+object	venison
+object	bicycle
+#####################################################
+The man is smiling into the camera as he cuts meat . 
+the man be smile into the camera as he cut meat . 
+
+verb-prep-object	smile into camera
+object-verb-object	man cut meat
+object-verb	man smile
+object	camera
+object	man
+object	meat
+object	bicycle
+#####################################################

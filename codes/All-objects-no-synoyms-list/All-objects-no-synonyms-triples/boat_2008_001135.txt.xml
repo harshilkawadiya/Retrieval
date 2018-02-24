@@ -1,0 +1,66 @@
+A big ship sails in front of a mountain village . 
+a big ship sail in front of a mountain village . 
+
+verb-prep-object	sail in_front_of village
+object-prep-object	ship in_front_of village
+attribute-object	big ship
+object-verb	ship sail
+attribute-object	mountain village
+object	village
+object	ship
+object	boat
+#####################################################
+A Disney cruise ship docked in front of hills at port . 
+a Disney cruise ship dock in front of hill at port . 
+
+verb-prep-object	dock at port
+object-prep-object	ship at port
+verb-prep-object	dock in_front_of hill
+object-prep-object	ship in_front_of hill
+attribute-object	disney ship
+attribute-object	cruise ship
+object-verb	ship dock
+object	port
+object	ship
+object	hill
+object	boat
+#####################################################
+A large cruise ship is traveling in the water with hills behind it . 
+a large cruise ship be travel in the water with hill behind it . 
+
+object-prep-object	ship with hill
+verb-prep-object	travel in water
+object-prep-object	ship in water
+attribute-object	large ship
+attribute-object	cruise ship
+object-verb	ship travel
+object	ship
+object	hill
+object	water
+object	boat
+#####################################################
+Large cruise ship floating on the water . 
+large cruise ship float on the water . 
+
+verb-prep-object	float on water
+object-prep-object	ship on water
+attribute-object	large ship
+attribute-object	cruise ship
+object-verb	ship float
+object	water
+object	ship
+object	boat
+#####################################################
+Ocean liner close to coast with houses in the background . 
+Ocean liner close to coast with house in the background . 
+
+object-prep-object	house in background
+object-prep-object	liner with house
+attribute-object	ocean liner
+object-prep-object	liner close_to coast
+object	house
+object	background
+object	liner
+object	coast
+object	boat
+#####################################################

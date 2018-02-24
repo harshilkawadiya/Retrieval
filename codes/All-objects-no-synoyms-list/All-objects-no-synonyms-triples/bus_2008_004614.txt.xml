@@ -1,0 +1,50 @@
+A beautiful day to visit the cathedral . 
+a beautiful day to visit the cathedral . 
+
+attribute-object	beautiful day
+object	cathedral
+object	day
+object	cathedral
+object	bus
+#####################################################
+Cars driving near a model building . 
+car drive near a model building . 
+
+verb-prep-object	drive near building
+object-prep-object	car near building
+attribute-object	model building
+object-verb	car drive
+object	building
+object	car
+object	bus
+#####################################################
+City square with buses and cars . 
+City square with bus and car . 
+
+object-prep-object	square with bus
+object-prep-object	square with car
+attribute-object	city square
+object	square
+object	bus
+object	car
+object	bus
+#####################################################
+Traffic in front of a stately building . 
+traffic in front of a stately building . 
+
+object-prep-object	traffic in_front_of building
+attribute-object	stately building
+object	traffic
+object	building
+object	bus
+#####################################################
+Vehicles driving infant of an ornate building . 
+Vehicles drive infant of a ornate building . 
+
+attribute-object	ornate building
+object-verb-object	vehicles drive infant
+object	building
+object	vehicles
+object	infant
+object	bus
+#####################################################

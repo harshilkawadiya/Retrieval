@@ -1,0 +1,62 @@
+A banner that says , `` Borkop Rocker '' hangs over the sidewalk entry to the parking lot of a many-windowed building . 
+a banner that say , `` Borkop Rocker '' hang over the sidewalk entry to the parking lot of a many-windowed building . 
+
+object-verb	banner hang
+verb-prep-object	hang over entry
+object-prep-object	banner over entry
+attribute-object	sidewalk entry
+object-prep-object	entry to lot
+attribute-object	parking lot
+object-prep-object	lot of building
+attribute-object	many-windowed building
+object	banner
+object	entry
+object	lot
+object	building
+object	motorbike
+#####################################################
+A banner tied to a lamp and a tree . 
+a banner tie to a lamp and a tree . 
+
+verb-prep-object	tie to lamp
+verb-prep-object	tie to tree
+object-verb	banner tie
+object	lamp
+object	tree
+object	banner
+object	motorbike
+#####################################################
+A building with a temporary sign over the entrance to its parking lot . 
+a building with a temporary sign over the entrance to its parking lot . 
+
+object-prep-object	sign over entrance
+object-prep-object	building with sign
+object-prep-object	entrance to lot
+attribute-object	temporary sign
+attribute-object	parking lot
+object	sign
+object	entrance
+object	building
+object	lot
+object	motorbike
+#####################################################
+Outdoors at some ruffian building . 
+outdoors at some ruffian building . 
+
+object-prep-object	outdoors at building
+attribute-object	ruffian building
+object	outdoors
+object	building
+object	motorbike
+#####################################################
+White banner hanging over driveway . 
+White banner hang over driveway . 
+
+verb-prep-object	hang over driveway
+object-prep-object	banner over driveway
+attribute-object	white banner
+object-verb	banner hang
+object	driveway
+object	banner
+object	motorbike
+#####################################################

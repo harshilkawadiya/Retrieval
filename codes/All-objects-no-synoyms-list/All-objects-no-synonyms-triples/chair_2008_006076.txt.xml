@@ -1,0 +1,56 @@
+A woman poses while wearing a helmet with horns . 
+a woman pose while wear a helmet with horn . 
+
+object-prep-object	helmet with horn
+object-verb	woman pose
+object-verb-object	woman wear helmet
+object	helmet
+object	horn
+object	woman
+object	chair
+#####################################################
+A woman wearing a viking hat gesturing towards the camera . 
+a woman wear a vike hat gesture towards the camera . 
+
+verb-prep-object	gesture towards camera
+attribute-object	vike hat
+object-verb-object	woman wear hat
+object-verb	woman gesture
+object	camera
+object	hat
+object	woman
+object	chair
+#####################################################
+a woman with a viking hat on . 
+a woman with a vike hat on . 
+
+attribute-object	vike hat
+object-prep-object	woman with hat
+object	hat
+object	woman
+object	chair
+#####################################################
+a woman with a viking helmet in a chair in front of a store . 
+a woman with a vike helmet in a chair in front of a store . 
+
+attribute-object	vike helmet
+object-prep-object	woman in chair
+object-prep-object	woman in_front_of store
+object-prep-object	woman with helmet
+object	helmet
+object	woman
+object	chair
+object	store
+object	chair
+#####################################################
+Smiling woman sitting wearing a viking hat . 
+smile woman sit wear a vike hat . 
+
+attribute-object	vike hat
+attribute-object	smile woman
+object-verb	woman sit
+object-verb-object	woman wear hat
+object	hat
+object	woman
+object	chair
+#####################################################

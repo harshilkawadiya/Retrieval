@@ -1,0 +1,60 @@
+A pet hopes for a new owner . 
+a pet hope for a new owner . 
+
+verb-prep-object	hope for owner
+attribute-object	new owner
+object-verb	pet hope
+object	owner
+object	pet
+object	dog
+#####################################################
+A woman in a gray coat pets a black and white dog . 
+a woman in a gray coat pet a black and white dog . 
+
+object-prep-object	woman in coat
+object-verb-object	woman pet dog
+attribute-object	gray coat
+attribute-object	black dog
+attribute-object	white dog
+object	woman
+object	coat
+object	dog
+object	dog
+#####################################################
+A woman pets a dog in a fenced area . 
+a woman pet a dog in a fenced area . 
+
+object-prep-object	dog in area
+attribute-object	fenced area
+object-verb-object	woman pet dog
+object	dog
+object	area
+object	woman
+object	dog
+#####################################################
+A woman pets a dog in a gated yard . 
+a woman pet a dog in a gated yard . 
+
+object-prep-object	dog in yard
+attribute-object	gated yard
+object-verb-object	woman pet dog
+object	dog
+object	yard
+object	woman
+object	dog
+#####################################################
+Young lady bent down petting a black and white dog inside a fence . 
+Young lady bent down pet a black and white dog inside a fence . 
+
+object-prep-object	dog inside fence
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	young lady
+object-verb	lady bent
+verb-attribute	bent down
+object-verb-object	lady pet dog
+object	dog
+object	fence
+object	lady
+object	dog
+#####################################################

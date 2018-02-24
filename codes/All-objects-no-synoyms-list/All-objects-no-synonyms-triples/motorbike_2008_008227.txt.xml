@@ -1,0 +1,55 @@
+A motorcycle and passenger car on a dirt trail . 
+a motorcycle and passenger car on a dirt trail . 
+
+object-prep-object	car on trail
+attribute-object	motorcycle car
+attribute-object	passenger car
+attribute-object	dirt trail
+object	car
+object	trail
+object	motorbike
+#####################################################
+Black motorcycle on bike path in forest . 
+Black motorcycle on bike path in forest . 
+
+object-prep-object	motorcycle on path
+object-prep-object	motorcycle in forest
+attribute-object	black motorcycle
+attribute-object	bike path
+object	motorcycle
+object	path
+object	forest
+object	motorbike
+#####################################################
+Motorcycle in the woods . 
+Motorcycle in the wood . 
+
+object-prep-object	motorcycle in wood
+object	motorcycle
+object	wood
+object	motorbike
+#####################################################
+Motorcycle with a sidecar parked on a dirt road . 
+Motorcycle with a sidecar park on a dirt road . 
+
+verb-prep-object	park on road
+object-prep-object	motorcycle on road
+object-prep-object	motorcycle with sidecar
+attribute-object	dirt road
+object-verb	motorcycle park
+object	road
+object	motorcycle
+object	sidecar
+object	motorbike
+#####################################################
+The antique side car travels through the country . 
+the antique side car travels through the country . 
+
+verb-prep-object	travels through country
+attribute-object	antique car
+attribute-object	side car
+object-verb	car travels
+object	country
+object	car
+object	motorbike
+#####################################################

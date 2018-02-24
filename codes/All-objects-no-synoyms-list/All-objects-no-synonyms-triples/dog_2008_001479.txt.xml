@@ -1,0 +1,62 @@
+A brown dachshund beside the door . 
+a brown dachshund beside the door . 
+
+object-prep-object	dachshund beside door
+attribute-object	brown dachshund
+object	dachshund
+object	door
+object	dog
+#####################################################
+A brown dog sits in the sun . 
+a brown dog sit in the sun . 
+
+verb-prep-object	sit in sun
+object-prep-object	dog in sun
+attribute-object	brown dog
+object-verb	dog sit
+object	sun
+object	dog
+object	dog
+#####################################################
+An adorable brown dog with long ears standing by a white wall . 
+a adorable brown dog with long ear stand by a white wall . 
+
+object-prep-object	dog with ear
+verb-prep-object	stand by wall
+object-prep-object	dog by wall
+attribute-object	adorable dog
+attribute-object	brown dog
+attribute-object	long ear
+attribute-object	white wall
+object-verb	dog stand
+object	dog
+object	ear
+object	wall
+object	dog
+#####################################################
+a small brown dog sitting on a hard wood floor . 
+a small brown dog sit on a hard wood floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	dog on floor
+attribute-object	small dog
+attribute-object	brown dog
+attribute-object	hard floor
+attribute-object	wood floor
+object-verb	dog sit
+object	floor
+object	dog
+object	dog
+#####################################################
+Small dog sitting next to white wall . 
+small dog sit next to white wall . 
+
+verb-prep-object	sit next_to wall
+object-prep-object	dog next_to wall
+attribute-object	small dog
+attribute-object	white wall
+object-verb	dog sit
+object	wall
+object	dog
+object	dog
+#####################################################

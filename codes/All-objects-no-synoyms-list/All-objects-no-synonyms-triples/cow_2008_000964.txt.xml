@@ -1,0 +1,52 @@
+Animals find things to eat and drink on the river bed . 
+animal find thing to eat and drink on the river bed . 
+
+verb-prep-object	find on bed
+object-prep-object	thing on bed
+attribute-object	river bed
+object-verb-object	animal find thing
+object	bed
+object	thing
+object	animal
+object	cow
+#####################################################
+cows grazing on plant life near a river . 
+cow grazing on plant life near a river . 
+
+object-verb	cow graze
+verb-prep-object	graze on life
+verb-prep-object	graze near river
+object-prep-object	cow near river
+attribute-object	plant life
+object	cow
+object	life
+object	river
+object	cow
+#####################################################
+The bank of a river with two animals in the center . 
+the bank of a river with two animal in the center . 
+
+object-prep-object	river with animal
+object	river
+object	animal
+object	cow
+#####################################################
+Two cows eat some bushes beside a body of water . 
+two cow eat some bush beside a body of water . 
+
+verb-prep-object	eat beside water
+object-prep-object	cow beside water
+object-verb-object	cow eat bush
+object	water
+object	cow
+object	bush
+object	cow
+#####################################################
+Two goats near a pond . 
+two goat near a pond . 
+
+object-prep-object	goat near pond
+object	goat
+object	pond
+object	cow
+#####################################################

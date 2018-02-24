@@ -1,0 +1,53 @@
+A cute green jeep . 
+a cute green jeep . 
+
+attribute-object	cute jeep
+attribute-object	green jeep
+object	jeep
+object	car
+#####################################################
+A green dune buggy parked outside in the sun . 
+a green dune buggy park outside in the sun . 
+
+attribute-object	green buggy
+attribute-object	dune buggy
+object-verb	buggy park
+verb-prep-object	park in sun
+object	buggy
+object	sun
+object	car
+#####################################################
+A parked yellow convertible with large tires . 
+a park yellow convertible with large tire . 
+
+object-prep-object	convertible with tire
+attribute-object	park convertible
+attribute-object	yellow convertible
+attribute-object	large tire
+object	convertible
+object	tire
+object	car
+#####################################################
+A small green off-road vehicle parked near a brick building . 
+a small green off-road vehicle park near a brick building . 
+
+object-verb	vehicle park
+verb-prep-object	park near building
+object-prep-object	vehicle near building
+attribute-object	small vehicle
+attribute-object	green vehicle
+attribute-object	off-road vehicle
+attribute-object	brick building
+object	vehicle
+object	building
+object	car
+#####################################################
+Small green colored vehicle . 
+small green color vehicle . 
+
+attribute-object	small vehicle
+attribute-object	green vehicle
+attribute-object	color vehicle
+object	vehicle
+object	car
+#####################################################

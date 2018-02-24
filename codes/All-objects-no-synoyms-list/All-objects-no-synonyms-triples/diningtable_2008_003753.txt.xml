@@ -1,0 +1,57 @@
+A kitchen dining room with a computer workstation . 
+a kitchen dining room with a computer workstation . 
+
+object-prep-object	room with workstation
+attribute-object	kitchen room
+attribute-object	dining room
+attribute-object	computer workstation
+object	room
+object	workstation
+object	diningtable
+#####################################################
+A kitchen table with chairs and a computer workstation nearby . 
+a kitchen table with chair and a computer workstation nearby . 
+
+object-prep-object	table with chair
+object-prep-object	table with workstation
+attribute-object	kitchen table
+attribute-object	computer workstation
+object	table
+object	chair
+object	workstation
+object	diningtable
+#####################################################
+A kitchen with a computer in it . 
+a kitchen with a computer in it . 
+
+object-prep-object	kitchen with computer
+object	kitchen
+object	computer
+object	diningtable
+#####################################################
+An orange light fixtures hangs in a kitchen . 
+a orange light fixture hang in a kitchen . 
+
+object-verb	fixture hang
+attribute-object	orange fixture
+attribute-object	light fixture
+verb-prep-object	hang in kitchen
+object-prep-object	fixture in kitchen
+object	fixture
+object	kitchen
+object	diningtable
+#####################################################
+The interior of someone 's home including kitchen , hall , and bathroom . 
+the interior of someone 's home include kitchen , hall , and bathroom . 
+
+object-prep-object	interior of home
+object-prep-object	home including kitchen
+object-prep-object	home including hall
+object-prep-object	home including bathroom
+object	interior
+object	home
+object	kitchen
+object	hall
+object	bathroom
+object	diningtable
+#####################################################

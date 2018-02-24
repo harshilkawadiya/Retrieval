@@ -1,0 +1,51 @@
+A fighter jet on display . 
+a fighter jet on display . 
+
+object-prep-object	aeroplane on display
+attribute-object	fighter aeroplane
+object	aeroplane
+object	display
+object	aeroplane
+#####################################################
+Airplane in a museum setting . 
+airplane in a museum setting . 
+
+object-prep-object	aeroplane in setting
+attribute-object	museum setting
+object	aeroplane
+object	setting
+object	aeroplane
+#####################################################
+A museum exhibit of an old fighter jet . 
+a museum exhibit of a old fighter jet . 
+
+object-prep-object	exhibit of aeroplane
+attribute-object	old aeroplane
+attribute-object	fighter aeroplane
+attribute-object	museum exhibit
+object	exhibit
+object	aeroplane
+object	aeroplane
+#####################################################
+An old fighter jet is on display at a museum . 
+a old fighter jet be on display at a museum . 
+
+verb-prep-object	display at museum
+object-prep-object	aeroplane at museum
+object-prep-object	aeroplane on display
+attribute-object	old aeroplane
+attribute-object	fighter aeroplane
+object	museum
+object	aeroplane
+object	display
+object	aeroplane
+#####################################################
+The fighter jet is inside the museum . 
+the fighter jet be inside the museum . 
+
+object-prep-object	aeroplane inside museum
+attribute-object	fighter aeroplane
+object	aeroplane
+object	museum
+object	aeroplane
+#####################################################

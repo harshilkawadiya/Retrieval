@@ -1,0 +1,77 @@
+A black bird with white chest resting on a tree limb with a bright blue sky in the background . 
+a black bird with white chest rest on a tree limb with a bright blue sky in the background . 
+
+object-prep-object	bird with chest
+verb-prep-object	rest on tree
+verb-prep-object	rest with sky
+object-prep-object	sky in background
+attribute-object	black bird
+attribute-object	white chest
+attribute-object	bright sky
+attribute-object	blue sky
+attribute-object	tree tree
+object-verb	bird rest
+object	bird
+object	chest
+object	tree
+object	limb
+object	sky
+object	background
+object	bird
+#####################################################
+A green and gray bird is sitting in a tree . 
+a green and gray bird be sit in a tree . 
+
+verb-prep-object	sit in tree
+object-prep-object	bird in tree
+attribute-object	green bird
+attribute-object	gray bird
+object-verb	bird sit
+object	tree
+object	bird
+object	bird
+#####################################################
+A green and white pigeon perched in a tree . 
+a green and white pigeon perch in a tree . 
+
+verb-prep-object	perch in tree
+object-prep-object	bird in tree
+attribute-object	green bird
+attribute-object	white bird
+object-verb	bird perch
+object	tree
+object	bird
+object	bird
+#####################################################
+Bird with a green head and white chest perched on a tree branch . 
+bird with a green head and white chest perch on a tree branch . 
+
+object-prep-object	bird with head
+object-prep-object	bird with chest
+verb-prep-object	perch on tree
+object-prep-object	bird on tree
+attribute-object	green head
+attribute-object	white chest
+attribute-object	tree tree
+object-verb	bird perch
+object	bird
+object	head
+object	chest
+object	tree
+object	branch
+object	bird
+#####################################################
+Green and white bird perched on tree branch . 
+Green and white bird perch on tree branch . 
+
+verb-prep-object	perch on tree
+object-prep-object	bird on tree
+attribute-object	white bird
+attribute-object	tree tree
+attribute-object	green bird
+object-verb	bird perch
+object	tree
+object	branch
+object	bird
+object	bird
+#####################################################

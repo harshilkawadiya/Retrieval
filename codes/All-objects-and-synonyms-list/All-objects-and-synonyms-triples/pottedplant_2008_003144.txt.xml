@@ -1,0 +1,71 @@
+A group of people stand by a body of water looking at a building . 
+a group of people stand by a body of water look at a building . 
+
+object-verb	person stand
+verb-prep-object	stand by water
+object-prep-object	person by people
+verb-prep-object	look at building
+object-verb	person look
+object	person
+object	people
+object	water
+object	building
+object	pottedplant
+#####################################################
+A man with a small child and two other people looking at the water . 
+a man with a small child and two other people look at the water . 
+
+object-prep-object	person with person
+attribute-object	small person
+object-prep-object	person with person
+verb-prep-object	look at water
+object-verb	person look
+object-verb	person look
+object	person
+object	man
+object	child
+object	water
+object	people
+object	pottedplant
+#####################################################
+Feet standing on a pretty day with large building in background . 
+Feet standing on a pretty day with large building in background . 
+
+verb-prep-object	stand on day
+attribute-object	pretty day
+attribute-object	large building
+object-verb	feet stand
+object	day
+object	building
+object	feet
+object	pottedplant
+#####################################################
+People await the next boat ride on the lake . 
+people await the next boat ride on the lake . 
+
+verb-prep-object	await on water
+object-prep-object	person on water
+attribute-object	next ride
+object-verb-object	person await people
+attribute-object	boat ride
+object	water
+object	lake
+object	person
+object	people
+object	ride
+object	pottedplant
+#####################################################
+Several people standing at handling of small lake . 
+several people stand at handling of small lake . 
+
+verb-prep-object	stand at water
+object-prep-object	person at water
+attribute-object	several person
+attribute-object	small water
+object-verb	person stand
+object	water
+object	lake
+object	person
+object	people
+object	pottedplant
+#####################################################

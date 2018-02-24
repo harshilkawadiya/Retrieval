@@ -1,0 +1,60 @@
+A small white dog standing , wearing some dog-clothing . 
+a small white dog standing , wear some dog-clothing . 
+
+attribute-object	small dog
+attribute-object	white dog
+object-verb	dog stand
+object-verb-object	dog wear dog-clothing
+object	dog
+object	dog-clothing
+object	dog
+#####################################################
+A small white dog wearing a flannel warmer . 
+a small white dog wear a flannel warmer . 
+
+attribute-object	small dog
+attribute-object	white dog
+object-verb-object	dog wear warmer
+attribute-object	flannel warmer
+object	dog
+object	warmer
+object	dog
+#####################################################
+A small white dog wearing a jacket looks up at the camera . 
+a small white dog wear a jacket look up at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	small dog
+attribute-object	white dog
+object-verb-object	dog wear jacket
+object-verb	dog look
+verb-attribute	look up
+object	camera
+object	dog
+object	jacket
+object	dog
+#####################################################
+Small terrier wearing a patterned sweater . 
+small terrier wear a pattern sweater . 
+
+attribute-object	small dog
+attribute-object	pattern sweater
+object-verb-object	dog wear terrier
+object	dog
+object	terrier
+object	sweater
+object	dog
+#####################################################
+The small dog is wearing a sweater and looking up at the camera . 
+the small dog be wear a sweater and look up at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	small dog
+object-verb-object	dog wear sweater
+object-verb	dog look
+verb-attribute	look up
+object	camera
+object	dog
+object	sweater
+object	dog
+#####################################################

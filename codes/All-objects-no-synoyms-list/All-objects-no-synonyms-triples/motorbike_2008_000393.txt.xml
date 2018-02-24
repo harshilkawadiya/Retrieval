@@ -1,0 +1,49 @@
+A group of African men , women and children around three scooters . 
+a group of african man , woman and child around three scooter . 
+
+object-prep-object	man around scooter
+object-prep-object	woman around scooter
+object-prep-object	child around scooter
+attribute-object	african man
+object	man
+object	scooter
+object	woman
+object	child
+object	motorbike
+#####################################################
+A group of black people in front of a building with a moped . 
+a group of black people in front of a building with a mope . 
+
+object-prep-object	people in_front_of building
+attribute-object	black people
+object-prep-object	people with moped
+object	people
+object	building
+object	moped
+object	motorbike
+#####################################################
+A group of people are gathered outside . 
+a group of people be gather outside . 
+
+object-verb	people gather
+object	people
+object	motorbike
+#####################################################
+A group of people are outside a decrepit building . 
+a group of people be outside a decrepit building . 
+
+object-prep-object	people outside building
+attribute-object	decrepit building
+object	people
+object	building
+object	motorbike
+#####################################################
+Group of african people in front of building . 
+Group of african people in front of building . 
+
+object-prep-object	people in_front_of building
+attribute-object	african people
+object	people
+object	building
+object	motorbike
+#####################################################

@@ -1,0 +1,46 @@
+A guy is having a drink and smiling , and another guy is looking at him while laughing . 
+a guy be have a drink and smile , and another guy be look at he while laugh . 
+
+object-verb-object	guy have drink
+object-verb	guy smile
+object	guy
+object	drink
+object	person
+#####################################################
+A man drinking beer while another man looks at him . 
+a man drinking beer while another man look at he . 
+
+object-verb-object	man drink beer
+object	man
+object	beer
+object	person
+#####################################################
+The taller boy is red-faced and laughing , while his friend is about to drink something in a clear cup . 
+the taller boy be red-faced and laughing , while he friend be about to drink something in a clear cup . 
+
+attribute-object	taller boy
+object-object	boy red-faced
+object-verb	boy laugh
+object	boy
+object	red-faced
+object	person
+#####################################################
+Two men smiling with one of them drinking a beer . 
+two man smile with one of they drink a beer . 
+
+object-verb-object	man drink beer
+object-verb	man smile
+object	man
+object	beer
+object	person
+#####################################################
+Two young men drinking alcohol and laughing . 
+two young man drink alcohol and laugh . 
+
+attribute-object	young man
+object-verb-object	man drink alcohol
+object-verb	man laugh
+object	man
+object	alcohol
+object	person
+#####################################################

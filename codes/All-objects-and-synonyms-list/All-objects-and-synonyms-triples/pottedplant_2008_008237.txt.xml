@@ -1,0 +1,48 @@
+A courtyard with a small pagoda in the center . 
+a courtyard with a small pagoda in the center . 
+
+object-prep-object	courtyard with pagoda
+attribute-object	small pagoda
+object	courtyard
+object	pagoda
+object	pottedplant
+#####################################################
+A gazebo in front and other building with arched roofs behind . 
+a gazebo in front and other building with arched roof behind . 
+
+object-prep-object	building with roof
+attribute-object	arched roof
+object	building
+object	building
+object	roof
+object	gazebo
+object	pottedplant
+#####################################################
+An artfully designed building . 
+a artfully design building . 
+
+attribute-object	artfully building
+attribute-object	design building
+object	building
+object	pottedplant
+#####################################################
+A pavilion with a man walking across it . 
+a pavilion with a man walk across it . 
+
+object-prep-object	pavilion with person
+object-verb	person walk
+object	pavilion
+object	person
+object	man
+object	pottedplant
+#####################################################
+The outside of a building with a small black gazebo in front . 
+the outside of a building with a small black gazebo in front . 
+
+object-prep-object	building with building
+attribute-object	small building
+attribute-object	black building
+object	building
+object	gazebo
+object	pottedplant
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	Four girls in evening attire pose for a picture .
+beam_size_1	3	four girls in evening wear are posing for a photograph .
+beam_size_1	4	Four woman wearing formal gowns pose together and smile .
+beam_size_1	5	Four women are standing together , posing for a picture .
+beam_size_1	6	Four women in dresses pose together .
+beam_size_1	7	A boxy building , A group of trees , a church at sunset .
+beam_size_1	8	A crowd of people are gathered with a sky scene in the background .
+beam_size_1	9	A crowd of people at an outdoor event
+beam_size_1	10	A very large group of people stand outdoors under the beautiful clouds .
+beam_size_1	11	Large crowd of people gathered together .
+beam_size_1	12	A man dressed in brown holding a light saber .
+beam_size_1	13	a man wearing a black outfit holding on to a glowing sword .
+beam_size_1	14	Man dressed up in black and brown and holding a white light saber .
+beam_size_1	15	The man holds a light Sabre .
+beam_size_1	16	The man is playing with his Star Wars light sword .
+beam_size_1	17	A child wearing black and purple playing baseball .
+beam_size_1	18	A girl closes her eyes as she swings the bat and misses the softball .
+beam_size_1	19	A girl playing softball takes a strike .
+beam_size_1	20	A girl playing softball , taking a swing .
+beam_size_1	21	A softball player swinging at a softball and missing it .
+beam_size_1	22	A group of women walk down a street at night .
+beam_size_1	23	Three women out for the evening in a big city .
+beam_size_1	24	Two girls pass two boys by a tree in a neon lit street .
+beam_size_1	25	Two women walk down a city street at night .
+beam_size_1	26	Women are walking at night under neon lights .
+beam_size_1	27	A man doing a wheelie on a motorcycle .
+beam_size_1	28	A motorcyclist is pulling a wheelie on a motocross bike as he rides it up a dirt track .
+beam_size_1	29	a motorcyclist wearing a red and white jacket popping a wheelie on his motorcycle .
+beam_size_1	30	Person popping a wheelie on a dirt road .
+beam_size_1	31	The man is walking towards a group of people on a long dirt road .
+beam_size_1	32	A large man sits in the back of a canoe with another man in front on a river .
+beam_size_1	33	two man are paddling a kayak along a river with green trees on either side .
+beam_size_1	34	Two men in a small boat rowing down a river .
+beam_size_1	35	Two men paddling a canoe down a narrow stream .
+beam_size_1	36	Two paddlers propel a canoe down a tree-lined stream .
+beam_size_1	37	A man does a trick on his skateboard in front of a crowd .
+beam_size_1	38	A skateboarder without a shirt grabs his board in the air .
+beam_size_1	39	A young man shocks the audience with his skateboard tricks .
+beam_size_1	40	Man with no shirt and tatoos on back airborne with skateboard in hand .
+beam_size_1	41	The skateboarder performs a jump in front of a crowd of spectators .
+beam_size_1	42	A group of people sing and dance at a concert .
+beam_size_1	43	A group of people singing in front of a DJ at his station .
+beam_size_1	44	A group of performers dancing in front of two DJs .
+beam_size_1	45	A group of performers sing and work to entertain the audience .
+beam_size_1	46	Group of kids singing on a stage .
+beam_size_1	47	A girl with pink streaked hair and fur uggs looks back while the girl walking next to her looks at her .
+beam_size_1	48	Two girls facing each other one has a skull face bag wearing a red and black shirt , the other is wearing a beaded belt .
+beam_size_1	49	Two girls walking down the street .
+beam_size_1	50	Two girls wearing goth trendy clothing while one looks back at the camera .
+beam_size_1	51	Two young girls wearing goth clothes .

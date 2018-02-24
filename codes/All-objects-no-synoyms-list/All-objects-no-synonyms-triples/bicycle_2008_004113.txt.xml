@@ -1,0 +1,56 @@
+Cyclists crossing a metal bridge . 
+cyclist cross a metal bridge . 
+
+object-verb-object	cyclist cross bridge
+attribute-object	metal bridge
+object	cyclist
+object	bridge
+object	bicycle
+#####################################################
+Several people on bicycles riding over bridge . 
+several people on bicycle ride over bridge . 
+
+object-prep-object	people on bicycle
+verb-prep-object	ride over bridge
+attribute-object	several people
+object-verb	people ride
+object	people
+object	bicycle
+object	bridge
+object	bicycle
+#####################################################
+The bicyclists are crossing a bridge in the rain . 
+the bicyclist be cross a bridge in the rain . 
+
+verb-prep-object	cross in rain
+object-prep-object	bicyclist in rain
+object-verb-object	bicyclist cross bridge
+object	rain
+object	bicyclist
+object	bridge
+object	bicycle
+#####################################################
+Three bicyclists crossing a bridge in a city . 
+three bicyclist cross a bridge in a city . 
+
+verb-prep-object	cross in city
+object-prep-object	bicyclist in city
+object-verb-object	bicyclist cross bridge
+object	city
+object	bicyclist
+object	bridge
+object	bicycle
+#####################################################
+Two bicycle riders about to cross a bridge alongside a rail track . 
+two bicycle rider about to cross a bridge alongside a rail track . 
+
+object-verb-object	rider cross bridge
+verb-prep-object	cross alongside track
+object-prep-object	rider alongside track
+attribute-object	bicycle rider
+attribute-object	rail track
+object	rider
+object	bridge
+object	track
+object	bicycle
+#####################################################

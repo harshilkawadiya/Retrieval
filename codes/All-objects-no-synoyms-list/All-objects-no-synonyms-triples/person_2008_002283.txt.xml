@@ -1,0 +1,61 @@
+An indian family of four stands on the shoreline . 
+a indian family of four stand on the shoreline . 
+
+object-verb	family stand
+verb-prep-object	stand on shoreline
+object-prep-object	family on shoreline
+attribute-object	indian family
+object	family
+object	shoreline
+object	person
+#####################################################
+The woman and children stand near the sandy beach . 
+the woman and child stand near the sandy beach . 
+
+verb-prep-object	stand near beach
+object-prep-object	woman near beach
+object-prep-object	child near beach
+attribute-object	sandy beach
+object-verb	woman stand
+object-verb	child stand
+object	beach
+object	woman
+object	child
+object	person
+#####################################################
+Two Indian women stand with two Indian girls on a beach . 
+two indian woman stand with two indian girl on a beach . 
+
+verb-prep-object	stand with girl
+object-prep-object	woman with girl
+object-prep-object	girl on beach
+attribute-object	indian woman
+attribute-object	indian girl
+object-verb	woman stand
+object	girl
+object	woman
+object	beach
+object	person
+#####################################################
+Two Indian women with two Indian girls near the water . 
+two indian woman with two indian girl near the water . 
+
+object-prep-object	girl near water
+object-prep-object	woman with girl
+attribute-object	indian woman
+attribute-object	indian girl
+object	girl
+object	water
+object	woman
+object	person
+#####################################################
+Two women and their children at the beach . 
+two woman and they child at the beach . 
+
+object-prep-object	child at beach
+object-prep-object	woman at beach
+object	child
+object	beach
+object	woman
+object	person
+#####################################################

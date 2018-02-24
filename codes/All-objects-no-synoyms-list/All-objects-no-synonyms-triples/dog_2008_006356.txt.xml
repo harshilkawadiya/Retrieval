@@ -1,0 +1,64 @@
+A brown and white dog standing on hind legs looking out a window . 
+a brown and white dog standing on hind leg look out a window . 
+
+verb-prep-object	stand on leg
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	hind leg
+object-verb	dog stand
+object-verb-object	dog look window
+verb-attribute	look out
+object	leg
+object	dog
+object	window
+object	dog
+#####################################################
+A brown and white dog standing on his hind legs looking out of a window . 
+a brown and white dog standing on he hind leg look out of a window . 
+
+verb-prep-object	look out_of window
+verb-prep-object	stand on leg
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	hind leg
+object-verb	dog stand
+object-verb	dog look
+object	window
+object	leg
+object	dog
+object	dog
+#####################################################
+A dog looking out of a window while standing on its hind legs . 
+a dog look out of a window while stand on its hind leg . 
+
+verb-prep-object	look out_of window
+object-verb	dog stand
+verb-prep-object	stand on leg
+attribute-object	hind leg
+object-verb	dog look
+object	window
+object	dog
+object	leg
+object	dog
+#####################################################
+Dog looking out window . 
+Dog look out window . 
+
+object-verb-object	dog look window
+verb-attribute	look out
+object	dog
+object	window
+object	dog
+#####################################################
+Young brown and white dog looking out window . 
+Young brown and white dog look out window . 
+
+attribute-object	young dog
+attribute-object	brown dog
+attribute-object	white dog
+object-verb-object	dog look window
+verb-attribute	look out
+object	dog
+object	window
+object	dog
+#####################################################

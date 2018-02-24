@@ -1,0 +1,65 @@
+A gray car has fire painted on it . 
+a gray car have fire paint on it . 
+
+attribute-object	gray car
+object-verb-object	car have paint
+attribute-object	fire paint
+object	car
+object	paint
+object	car
+#####################################################
+A green european car with a roof rack and flames on the hood . 
+a green european car with a roof rack and flame on the hood . 
+
+object-prep-object	car with rack
+object-prep-object	car with flame
+object-prep-object	flame on hood
+attribute-object	green car
+attribute-object	european car
+attribute-object	roof rack
+object	car
+object	rack
+object	flame
+object	hood
+object	car
+#####################################################
+A teal green car with yellow and red flames painted on the front . 
+a teal green car with yellow and red flame paint on the front . 
+
+object-prep-object	car with flame
+attribute-object	teal car
+attribute-object	green car
+attribute-object	yellow flame
+attribute-object	red flame
+object-verb	car paint
+object	car
+object	flame
+object	car
+#####################################################
+Older model greenish car has yellow and red flames painted on top of hood , with the license plate clearly displayed on the bumper . 
+older model greenish car have yellow and red flame paint on top of hood , with the license plate clearly display on the bumper . 
+
+object-verb-object	car have flame
+attribute-object	older car
+attribute-object	model car
+attribute-object	green car
+attribute-object	yellow flame
+attribute-object	red flame
+object-prep-object	flame on hood
+object-prep-object	car with plate
+attribute-object	license plate
+object-prep-object	plate on bumper
+object	car
+object	flame
+object	hood
+object	plate
+object	bumper
+object	car
+#####################################################
+This old car shows a fancy paint job can make it attractive . 
+this old car show a fancy paint job can make it attractive . 
+
+attribute-object	old car
+object	car
+object	car
+#####################################################

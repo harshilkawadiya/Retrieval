@@ -1,0 +1,55 @@
+Several people riding dirt bikes with number plates on the bikes . 
+several people ride dirt bike with number plate on the bike . 
+
+attribute-object	several people
+object-verb-object	people ride bike
+attribute-object	dirt bike
+object-prep-object	bike with plate
+attribute-object	number plate
+object	people
+object	bike
+object	plate
+object	motorbike
+#####################################################
+The elder rider looks to make his move on the leader . 
+the elder rider look to make he move on the leader . 
+
+attribute-object	elder rider
+object-verb	rider look
+object	rider
+object	motorbike
+#####################################################
+Three men in helmets race motorcycles on a dirt track . 
+three man in helmet race motorcycle on a dirt track . 
+
+object-verb-object	man race motorcycle
+object-prep-object	man in helmet
+object-prep-object	motorcycle on track
+verb-prep-object	race on track
+attribute-object	dirt track
+object	man
+object	motorcycle
+object	helmet
+object	track
+object	motorbike
+#####################################################
+Two men ride motocross bikes . 
+two man ride motocross bike . 
+
+object-verb-object	man ride bike
+attribute-object	motocross bike
+object	man
+object	bike
+object	motorbike
+#####################################################
+Two people wearing helmets ride dirt bikes . 
+two people wear helmet ride dirt bike . 
+
+object-verb-object	people wear helmet
+object-verb-object	people ride bike
+attribute-object	dirt bike
+object	people
+object	helmet
+object	bike
+object	motorbike
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	A child is happily playing on the slide .
+beam_size_1	3	A child is holding on to the top of a playground slide .
+beam_size_1	4	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	5	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	6	Child getting ready to go down a slide .
+beam_size_1	7	A boy in a green shirt above something blue .
+beam_size_1	8	a small boy getting tossed into the air
+beam_size_1	9	A young boy jumps around on a blue mat with a half-smile on his face .
+beam_size_1	10	A young boy plays in front of a blue object .
+beam_size_1	11	The boy wearing the green shirt is climbing on a blue inflatable .
+beam_size_1	12	A man with red shirt and black hat stares at another man .
+beam_size_1	13	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	14	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	15	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	16	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	17	A girl in a red shirt takes a picture on a phone .
+beam_size_1	18	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	19	A woman in a red shirt holding a cellphone .
+beam_size_1	20	A woman taking pictures with her phone .
+beam_size_1	21	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	22	A Japanese woman in a colorful outfit is walking with a man dressed in black past a wooden building .
+beam_size_1	23	A lady dressed in a kimono is looking at the camera .
+beam_size_1	24	Two people stop on an empty city street .
+beam_size_1	25	Two women dressed in traditional Japanese clothing
+beam_size_1	26	Two women in Japanese dress walk down the street .
+beam_size_1	27	These men are smoking outside a grey building .
+beam_size_1	28	Two men are standing by a railing , while posing for a picture .
+beam_size_1	29	Two men in black jackets behind a white handrail .
+beam_size_1	30	Two men smoking behind a railing .
+beam_size_1	31	Two men smoking while standing by a rail in front of a building
+beam_size_1	32	Children dancing on hardwood flooring .
+beam_size_1	33	Two children are playing or dancing inside .
+beam_size_1	34	Two little girls dance on a hardwood floor in the house .
+beam_size_1	35	two little girls dancing on the floor
+beam_size_1	36	Two young girls playing in a house .
+beam_size_1	37	A group of men playing hockey .
+beam_size_1	38	A team of hockey players , with one player taking a shot .
+beam_size_1	39	Hockey players with one taking a shot .
+beam_size_1	40	Six hockey players of the same team are skating around waiting for the puck .
+beam_size_1	41	There is an ice hockey game in progress .
+beam_size_1	42	A laughing woman leans on the legs of a sitting man while lying on a bed of pebbles .
+beam_size_1	43	A woman and a barefoot man lay down on rocky terrain .
+beam_size_1	44	Laying on stones , a girl with messy hair has her head on the boy laying next to her .
+beam_size_1	45	The two people are lying in gray rocks .
+beam_size_1	46	Young man and woman stretch out on stones , packages in foreground .
+beam_size_1	47	A large dog sniffing a smaller dog outside .
+beam_size_1	48	Two blond dogs are standing together on a patio .
+beam_size_1	49	Two dogs are standing together on a patio .
+beam_size_1	50	Two golden dogs are standing on a wooden patio .
+beam_size_1	51	Two golden dogs on a wood deck .

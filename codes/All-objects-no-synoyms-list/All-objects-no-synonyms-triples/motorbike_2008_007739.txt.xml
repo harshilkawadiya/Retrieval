@@ -1,0 +1,56 @@
+A BMW motorcycle parked between two cars . 
+a BMW motorcycle park between two car . 
+
+verb-prep-object	park between car
+object-prep-object	motorcycle between car
+attribute-object	bmw motorcycle
+object-verb	motorcycle park
+object	car
+object	motorcycle
+object	motorbike
+#####################################################
+A red and black motorbike with a hind basket parked between two cars . 
+a red and black motorbike with a hind basket park between two car . 
+
+object-prep-object	motorbike with basket
+verb-prep-object	park between car
+object-prep-object	motorbike between car
+attribute-object	red motorbike
+attribute-object	black motorbike
+attribute-object	hind basket
+object-verb	motorbike park
+object	motorbike
+object	basket
+object	car
+object	motorbike
+#####################################################
+A red motorbike with basket attached parked between cars . 
+a red motorbike with basket attach park between car . 
+
+object-prep-object	motorbike with basket
+verb-prep-object	park between car
+object-prep-object	motorbike between car
+attribute-object	red motorbike
+object-verb	motorbike park
+object	motorbike
+object	basket
+object	car
+object	motorbike
+#####################################################
+Motorcycle with basket on back end . 
+Motorcycle with basket on back end . 
+
+object-prep-object	motorcycle with basket
+object	motorcycle
+object	basket
+object	motorbike
+#####################################################
+Red BWM bike parked . 
+Red BWM bike park . 
+
+attribute-object	red bike
+attribute-object	bwm bike
+object-verb	bike park
+object	bike
+object	motorbike
+#####################################################

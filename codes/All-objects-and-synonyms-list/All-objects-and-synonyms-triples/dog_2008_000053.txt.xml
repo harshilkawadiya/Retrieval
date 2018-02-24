@@ -1,0 +1,54 @@
+A black and white dog looking at the camera . 
+a black and white dog look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	black dog
+attribute-object	white dog
+object-verb	dog look
+object	camera
+object	dog
+object	dog
+#####################################################
+A black boxer dog with a white underbelly and brown collar looks at the camera . 
+a black boxer dog with a white underbelly and brown collar look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	dog with underbelly
+object-prep-object	dog with collar
+attribute-object	black dog
+attribute-object	white underbelly
+attribute-object	brown collar
+attribute-object	boxer dog
+object-verb	dog look
+object	camera
+object	dog
+object	underbelly
+object	collar
+object	dog
+#####################################################
+a close up of a black pug . 
+a close up of a black pug . 
+
+attribute-object	black dog
+object	dog
+object	pug
+object	dog
+#####################################################
+A dog 's face . 
+a dog 's face . 
+
+attribute-object	dog face
+object	face
+object	dog
+#####################################################
+Close up of black and white bulldog 's face . 
+close up of black and white bulldog 's face . 
+
+attribute-object	black dog
+attribute-object	white dog
+object	face
+object	dog
+object	bulldog
+object	face
+object	dog
+#####################################################

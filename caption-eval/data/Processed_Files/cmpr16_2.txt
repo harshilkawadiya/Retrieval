@@ -1,0 +1,50 @@
+beam_size_1	2	A group of girls sit back to back .
+beam_size_1	3	a group of girls sitting in a circle
+beam_size_1	4	Little girl in bare feet sitting in a circle .
+beam_size_1	5	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	6	The young girls sat in a circle on the wood floor .
+beam_size_1	7	A boy is upside down in midair near a lake at sunset .
+beam_size_1	8	A person does a flip by two sailboats and a lake .
+beam_size_1	9	A person flipping upside down
+beam_size_1	10	a person in midair doing a back flip .
+beam_size_1	11	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	12	The brown dogs are playing with a blue toy together .
+beam_size_1	13	The two light colored dogs are pulling on a blue object that is in their mouths .
+beam_size_1	14	Two beige dogs are playing in the grass near a doghouse .
+beam_size_1	15	Two dogs are playing tug of war with a blue object in front of a building .
+beam_size_1	16	Two light brown dogs are tugging at a blue toy in front of a blue shed .
+beam_size_1	17	A little girl hugs another little girl .
+beam_size_1	18	A young child is being held by another child looking straight at us .
+beam_size_1	19	Two toddlers posing for the camera .
+beam_size_1	20	Two young children holding each other and posing .
+beam_size_1	21	Two young girls hug .
+beam_size_1	22	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	23	A man in red trunks flies through the air with a boogie board .
+beam_size_1	24	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	25	A shirtless man bodysurfs .
+beam_size_1	26	Man is diving onto his wakeboard .
+beam_size_1	27	A man doing a karate kick on a block of ice .
+beam_size_1	28	A man karate kicks a stack of ice bricks .
+beam_size_1	29	A martial artist breaks a brick .
+beam_size_1	30	A martial artist breaks ice with a kick .
+beam_size_1	31	The man breaking the ice with his foot stands on a blue mat .
+beam_size_1	32	A donkey pulling a cart with a boy in it takes a brake .
+beam_size_1	33	A donkey pulling a car with a man on it
+beam_size_1	34	A mule is carring a man in a cart next to some palm trees .
+beam_size_1	35	A mule pulling a carriage with a man inside along a dirt path .
+beam_size_1	36	A person is pulled in a cart by a donkey .
+beam_size_1	37	A bunch of dogs and kids playing in a swimming pool .
+beam_size_1	38	Dogs and people play in a pool .
+beam_size_1	39	Five dogs are swimming and four people are wading , together inside a dog park pool .
+beam_size_1	40	People and several dogs in a swimming pool in a park like setting .
+beam_size_1	41	Several people and dogs are in or near a large outdoor swimming pool .
+beam_size_1	42	A couple are looking at an area map .
+beam_size_1	43	A man and woman are standing in front of an art gallery , looking at a map .
+beam_size_1	44	Tourists examine a sign .
+beam_size_1	45	Two people are reading a sign in front of a museum .
+beam_size_1	46	Two people read a sign in front of a museum .
+beam_size_1	47	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	48	A firetruck with ladder extended on the side of the road .
+beam_size_1	49	A jogger with a dog approaches a ladder truck .
+beam_size_1	50	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	51	A man walks on a sidewalk and a firetruck is nearby .

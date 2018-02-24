@@ -1,0 +1,74 @@
+A boat is in the water and a small airplane is on the dock . 
+a boat be in the water and a small airplane be on the dock . 
+
+object-prep-object	airplane on dock
+object-prep-object	boat in water
+attribute-object	small airplane
+object	airplane
+object	dock
+object	boat
+object	water
+object	aeroplane
+#####################################################
+A boat is on the water near a small plane . 
+a boat be on the water near a small plane . 
+
+object-prep-object	boat on water
+attribute-object	small plane
+object-prep-object	boat near plane
+object	boat
+object	water
+object	plane
+object	aeroplane
+#####################################################
+A small boat passes near a sea plane parked at the dock house . 
+a small boat pass near a sea plane park at the dock house . 
+
+attribute-object	small boat
+object-verb	boat pass
+verb-prep-object	park at house
+object-prep-object	plane at house
+verb-prep-object	pass near plane
+object-prep-object	boat near plane
+attribute-object	sea plane
+attribute-object	dock house
+object-verb	plane park
+object	boat
+object	house
+object	plane
+object	aeroplane
+#####################################################
+Boat in water with a seaplane landed on a platform by an orange roofed building . 
+Boat in water with a seaplane land on a platform by a orange roof building . 
+
+verb-prep-object	land by building
+verb-prep-object	land on platform
+object-prep-object	boat with seaplane
+object-prep-object	boat on platform
+object-prep-object	boat in water
+attribute-object	orange building
+attribute-object	roof building
+object-verb	boat land
+object	building
+object	platform
+object	boat
+object	seaplane
+object	water
+object	aeroplane
+#####################################################
+Plane parked on deck with boat gliding through the water . 
+plane park on deck with boat glide through the water . 
+
+object-verb	plane park
+verb-prep-object	glide through water
+verb-prep-object	park with boat
+object-prep-object	plane with boat
+verb-prep-object	park on deck
+object-prep-object	plane on deck
+object-verb	boat glide
+object	plane
+object	water
+object	boat
+object	deck
+object	aeroplane
+#####################################################

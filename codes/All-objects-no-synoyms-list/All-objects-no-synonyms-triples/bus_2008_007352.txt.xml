@@ -1,0 +1,64 @@
+A double decker bus drives on a city street . 
+a double decker bus drive on a city street . 
+
+verb-prep-object	drive on street
+object-prep-object	bus on street
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus drive
+attribute-object	city street
+object	street
+object	bus
+object	bus
+#####################################################
+A red double decker bus driving down a street . 
+a red double decker bus drive down a street . 
+
+attribute-object	red bus
+attribute-object	double bus
+object-verb-object	bus drive street
+attribute-object	decker bus
+verb-attribute	drive down
+object	bus
+object	street
+object	bus
+#####################################################
+A red double decker bus in a busy street in England . 
+a red double decker bus in a busy street in England . 
+
+object-prep-object	bus in street
+object-prep-object	street in england
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	busy street
+attribute-object	decker bus
+object	bus
+object	street
+object	england
+object	bus
+#####################################################
+Red double decker bus with the number 24 in the window . 
+Red double decker bus with the number 24 in the window . 
+
+object-prep-object	bus with number
+object-prep-object	number in window
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	number
+object	window
+object	bus
+#####################################################
+The red bus is on the street with two other cars . 
+the red bus be on the street with two other car . 
+
+object-prep-object	street with car
+object-prep-object	bus with car
+object-prep-object	bus on street
+attribute-object	red bus
+object	street
+object	car
+object	bus
+object	bus
+#####################################################

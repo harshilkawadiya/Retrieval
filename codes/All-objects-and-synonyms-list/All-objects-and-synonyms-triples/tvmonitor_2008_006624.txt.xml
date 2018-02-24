@@ -1,0 +1,80 @@
+A large T.V. rests in the center of the room against a brick wall . 
+a large T.V. rest in the center of the room against a brick wall . 
+
+verb-prep-object	rest against wall
+object-prep-object	tvmonitor against t.v.
+verb-prep-object	rest in room
+object-prep-object	tvmonitor in t.v.
+attribute-object	large tvmonitor
+attribute-object	brick wall
+object-verb	tvmonitor rest
+object	wall
+object	tvmonitor
+object	t.v.
+object	room
+object	tvmonitor
+#####################################################
+A living room with a large television , blue chair , and other personal items . 
+a living room with a large television , blue chair , and other personal item . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with chair
+object-prep-object	room with item
+attribute-object	large tvmonitor
+attribute-object	blue chair
+attribute-object	other item
+attribute-object	personal item
+attribute-object	living room
+object	room
+object	tvmonitor
+object	chair
+object	item
+object	television
+object	tvmonitor
+#####################################################
+A living room with a large TV , blue patterned chair and brick walls . 
+a living room with a large tv , blue pattern chair and brick wall . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with chair
+object-prep-object	room with wall
+attribute-object	large tvmonitor
+attribute-object	blue chair
+attribute-object	pattern chair
+attribute-object	living room
+attribute-object	brick wall
+object	room
+object	tvmonitor
+object	chair
+object	wall
+object	tv
+object	tvmonitor
+#####################################################
+A television , upholstered chair , and coffee table in a bright room . 
+a television , upholstered chair , and coffee table in a bright room . 
+
+object-prep-object	tvmonitor in television
+object-prep-object	chair in room
+object-prep-object	diningtable in table
+attribute-object	upholstered chair
+attribute-object	bright room
+attribute-object	coffee diningtable
+object	tvmonitor
+object	television
+object	chair
+object	room
+object	diningtable
+object	table
+object	tvmonitor
+#####################################################
+Living room with TV and recliner . 
+live room with tv and recliner . 
+
+object-prep-object	room with tvmonitor
+object-prep-object	room with recliner
+attribute-object	live room
+object	room
+object	tvmonitor
+object	recliner
+object	tvmonitor
+#####################################################

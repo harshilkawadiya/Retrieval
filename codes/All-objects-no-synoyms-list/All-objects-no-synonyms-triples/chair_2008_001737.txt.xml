@@ -1,0 +1,49 @@
+A smiling woman with a beer sitting outside with another smiling woman . 
+a smile woman with a beer sit outside with another smile woman . 
+
+object-prep-object	woman with beer
+object-prep-object	woman with woman
+attribute-object	smile woman
+attribute-object	smile woman
+object-verb	woman sit
+object	woman
+object	beer
+object	chair
+#####################################################
+Two seated women laughing with one holding a bottle . 
+two seat woman laugh with one hold a bottle . 
+
+attribute-object	seat woman
+object-verb	woman laugh
+object-verb-object	woman hold bottle
+object	woman
+object	bottle
+object	chair
+#####################################################
+two women laugh together one is driving beer . 
+two woman laugh together one be drive beer . 
+
+object-verb	woman laugh
+object-verb-object	woman drive beer
+object	woman
+object	beer
+object	chair
+#####################################################
+Two women sitting down laughing . 
+two woman sit down laugh . 
+
+object-verb	woman sit
+verb-attribute	sit down
+object-verb	woman laugh
+object	woman
+object	chair
+#####################################################
+Two women sitting outside laughing . 
+two woman sit outside laugh . 
+
+verb-attribute	sit outside
+object-verb	woman sit
+object-verb	woman laugh
+object	woman
+object	chair
+#####################################################

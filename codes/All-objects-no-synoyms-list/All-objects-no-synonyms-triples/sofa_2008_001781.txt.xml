@@ -1,0 +1,73 @@
+A cramped and cluttered living room contains a plaid couch , many houseplants , and assorted knickknacks . 
+a cramped and cluttered living room contain a plaid couch , many houseplant , and assorted knickknack . 
+
+attribute-object	cramped room
+attribute-object	cluttered room
+attribute-object	many houseplant
+attribute-object	assorted knickknack
+object-verb-object	room contain couch
+object-verb-object	room contain houseplant
+object-verb-object	room contain knickknack
+attribute-object	living room
+attribute-object	plaid couch
+object	room
+object	houseplant
+object	knickknack
+object	couch
+object	sofa
+#####################################################
+A living room adorned with plated on the right wall . 
+a living room adorn with plate on the right wall . 
+
+object-prep-object	plate on wall
+verb-prep-object	adorn with plate
+attribute-object	right wall
+attribute-object	living room
+object-verb	room adorn
+object	plate
+object	wall
+object	room
+object	sofa
+#####################################################
+A room with a couch , television , bookcases , and various wall decorations . 
+a room with a couch , television , bookcase , and various wall decoration . 
+
+object-prep-object	room with couch
+object-prep-object	room with television
+object-prep-object	room with bookcase
+object-prep-object	room with decoration
+attribute-object	various decoration
+attribute-object	wall decoration
+object	room
+object	couch
+object	television
+object	bookcase
+object	decoration
+object	sofa
+#####################################################
+a small living room with many plants and hanging plates . 
+a small living room with many plant and hang plate . 
+
+object-prep-object	room with plant
+object-prep-object	room with plate
+attribute-object	small room
+attribute-object	many plant
+attribute-object	living room
+attribute-object	hang plate
+object	room
+object	plant
+object	plate
+object	sofa
+#####################################################
+living room with dog bed in front of television . 
+live room with dog bed in front of television . 
+
+object-prep-object	bed in_front_of television
+object-prep-object	room with bed
+attribute-object	live room
+attribute-object	dog bed
+object	bed
+object	television
+object	room
+object	sofa
+#####################################################

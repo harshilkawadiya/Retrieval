@@ -1,0 +1,70 @@
+A man is posing in front of his computer . 
+a man be pose in front of he computer . 
+
+verb-prep-object	pose in_front_of laptop
+object-prep-object	person in_front_of laptop
+object-verb	person pose
+object	laptop
+object	computer
+object	person
+object	man
+object	chair
+#####################################################
+A man is smiling , while sitting at a computer on a desk . 
+a man be smile , while sit at a computer on a desk . 
+
+verb-prep-object	sit at laptop
+object-prep-object	person at laptop
+object-prep-object	laptop on diningtable
+object-verb	person smile
+object-verb	person sit
+object	laptop
+object	computer
+object	person
+object	man
+object	table
+object	diningtable
+object	chair
+#####################################################
+A man seated in front of a computer . 
+a man seat in front of a computer . 
+
+verb-prep-object	seat in_front_of laptop
+object-prep-object	person in_front_of laptop
+object-verb	person seat
+object	laptop
+object	computer
+object	person
+object	man
+object	chair
+#####################################################
+A man wearing a sports jersey poses at a computer in front of curtains . 
+a man wear a sport jersey pose at a computer in front of curtain . 
+
+verb-prep-object	pose at laptop
+object-prep-object	laptop in_front_of computer
+object-verb-object	person wear man
+attribute-object	sport jersey
+object-verb	person pose
+object	laptop
+object	computer
+object	person
+object	man
+object	jersey
+object	chair
+#####################################################
+An Asian man sits at a computer and looks at the camera . 
+a asian man sit at a computer and look at the camera . 
+
+verb-prep-object	sit at laptop
+verb-prep-object	look at camera
+attribute-object	asian person
+object-verb	person sit
+object-verb	person look
+object	laptop
+object	computer
+object	camera
+object	person
+object	man
+object	chair
+#####################################################

@@ -1,0 +1,62 @@
+a boat with two people on blue water in front of a fort . 
+a boat with two people on blue water in front of a fort . 
+
+object-prep-object	boat with people
+object-prep-object	boat on water
+object-prep-object	boat in_front_of fort
+attribute-object	blue water
+object	boat
+object	people
+object	water
+object	fort
+object	boat
+#####################################################
+A lone boat wades in the peaceful sea . 
+a lone boat wade in the peaceful sea . 
+
+verb-prep-object	wade in sea
+object-prep-object	boat in sea
+attribute-object	lone boat
+attribute-object	peaceful sea
+object-verb	boat wade
+object	sea
+object	boat
+object	boat
+#####################################################
+Two men in a small wooden canoe on the water . 
+two man in a small wooden canoe on the water . 
+
+object-prep-object	canoe on water
+object-prep-object	man in canoe
+attribute-object	small canoe
+attribute-object	wooden canoe
+object	canoe
+object	water
+object	man
+object	boat
+#####################################################
+Two men in the ocean in a small canoe paddle in front of a cement structure . 
+two man in the ocean in a small canoe paddle in front of a cement structure . 
+
+object-verb	man paddle
+verb-prep-object	paddle in_front_of structure
+object-prep-object	man in ocean
+object-prep-object	man in canoe
+attribute-object	small canoe
+attribute-object	cement structure
+object	man
+object	structure
+object	ocean
+object	canoe
+object	boat
+#####################################################
+Two people rowing a canoe with a stone fort in the background . 
+two people rowing a canoe with a stone fort in the background . 
+
+object-verb-object	people rowing canoe
+attribute-object	stone fort
+object	people
+object	canoe
+object	fort
+object	boat
+#####################################################

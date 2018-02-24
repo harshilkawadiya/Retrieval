@@ -1,0 +1,62 @@
+A brown horse and a tan calf in a pasture . 
+a brown horse and a tan calf in a pasture . 
+
+object-prep-object	horse in pasture
+object-prep-object	calf in pasture
+attribute-object	brown horse
+attribute-object	tan calf
+object	horse
+object	pasture
+object	calf
+object	horse
+#####################################################
+A brown horse standing near a fowl in a grassy paddock . 
+a brown horse standing near a fowl in a grassy paddock . 
+
+verb-prep-object	stand near fowl
+object-prep-object	horse near fowl
+verb-prep-object	stand in paddock
+object-prep-object	horse in paddock
+attribute-object	brown horse
+attribute-object	grassy paddock
+object-verb	horse stand
+object	fowl
+object	horse
+object	paddock
+object	horse
+#####################################################
+Adult horse and foal standing in middle of grass arena . 
+adult horse and foal standing in middle of grass arena . 
+
+verb-prep-object	stand in arena
+object-prep-object	horse in arena
+object-prep-object	foal in arena
+attribute-object	adult horse
+object-verb	horse stand
+object-verb	foal stand
+attribute-object	grass arena
+object	arena
+object	horse
+object	foal
+object	horse
+#####################################################
+Two horses are grazing in a field . 
+two horse be grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	horse in field
+object-verb	horse graze
+object	field
+object	horse
+object	horse
+#####################################################
+Two horses in fenced in field . 
+two horse in fence in field . 
+
+verb-prep-object	fence in field
+object-prep-object	horse in field
+object-verb	horse fence
+object	field
+object	horse
+object	horse
+#####################################################

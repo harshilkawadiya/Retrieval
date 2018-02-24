@@ -1,0 +1,72 @@
+A white cat looking out of a kitchen window . 
+a white cat look out of a kitchen window . 
+
+verb-prep-object	look out_of window
+attribute-object	white cat
+attribute-object	kitchen window
+object-verb	cat look
+object	window
+object	cat
+object	bottle
+#####################################################
+A white cat sitting in the window pane beside a blue vase of flowers . 
+a white cat sit in the window pane beside a blue vase of flower . 
+
+verb-prep-object	sit beside vase
+verb-prep-object	sit in pane
+object-prep-object	cat in pane
+object-prep-object	cat beside vase
+object-prep-object	vase of flower
+attribute-object	white cat
+attribute-object	blue vase
+attribute-object	window pane
+object-verb	cat sit
+object	vase
+object	pane
+object	cat
+object	flower
+object	bottle
+#####################################################
+A white cat sitting on a window sill with a small blue vase of purple flowers . 
+a white cat sit on a window sill with a small blue vase of purple flower . 
+
+verb-prep-object	sit with vase
+verb-prep-object	sit on sill
+object-prep-object	vase of flower
+attribute-object	white cat
+attribute-object	small vase
+attribute-object	blue vase
+attribute-object	purple flower
+attribute-object	window sill
+object-verb	cat sit
+object	vase
+object	sill
+object	flower
+object	cat
+object	bottle
+#####################################################
+A white cat staring out a window . 
+a white cat stare out a window . 
+
+attribute-object	white cat
+object-verb-object	cat stare window
+verb-attribute	stare out
+object	cat
+object	window
+object	bottle
+#####################################################
+White domestic cat sitting on window ledge looking outside . 
+White domestic cat sit on window ledge look outside . 
+
+verb-prep-object	sit on ledge
+object-prep-object	cat on ledge
+attribute-object	white cat
+attribute-object	domestic cat
+attribute-object	window ledge
+object-verb	cat sit
+object-verb-object	cat look outside
+object	ledge
+object	cat
+object	outside
+object	bottle
+#####################################################

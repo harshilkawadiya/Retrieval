@@ -1,0 +1,53 @@
+girls and one guy playing twister . 
+girl and one guy play twister . 
+
+object-verb-object	girl play twister
+object-verb-object	guy play twister
+object	girl
+object	twister
+object	guy
+object	tvmonitor
+#####################################################
+Three people playing Twister . 
+three people play Twister . 
+
+object-verb-object	people play twister
+object	people
+object	twister
+object	tvmonitor
+#####################################################
+Two girls and guy play Twister in a living room . 
+two girl and guy play Twister in a living room . 
+
+verb-prep-object	play in room
+attribute-object	living room
+object-verb-object	girl play twister
+object-verb-object	guy play twister
+object-prep-object	guy in room
+object-prep-object	girl in room
+object	room
+object	girl
+object	twister
+object	guy
+object	tvmonitor
+#####################################################
+Two girls playing twister while guy watches . 
+two girl play twister while guy watch . 
+
+object-verb-object	girl play twister
+object-verb	guy watch
+object	girl
+object	twister
+object	guy
+object	tvmonitor
+#####################################################
+Two women play twister while a man looks on . 
+two woman play twister while a man look on . 
+
+object-verb-object	woman play twister
+object-verb	man look
+object	woman
+object	twister
+object	man
+object	tvmonitor
+#####################################################

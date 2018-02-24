@@ -1,0 +1,62 @@
+A beautiful striped bird on a barren limb . 
+a beautiful striped bird on a barren limb . 
+
+object-prep-object	bird on limb
+attribute-object	beautiful bird
+attribute-object	striped bird
+attribute-object	barren limb
+object	bird
+object	limb
+object	bird
+#####################################################
+A small bird perched on an icy branch . 
+a small bird perch on a icy branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	bird on branch
+attribute-object	small bird
+attribute-object	icy branch
+object-verb	bird perch
+object	branch
+object	bird
+object	bird
+#####################################################
+a small bird sitting on a branch in winter . 
+a small bird sit on a branch in winter . 
+
+verb-prep-object	sit on branch
+verb-prep-object	sit in winter
+object-prep-object	bird on branch
+object-prep-object	bird in winter
+attribute-object	small bird
+object-verb	bird sit
+object	branch
+object	winter
+object	bird
+object	bird
+#####################################################
+A yellow bird perched on a branch . 
+a yellow bird perch on a branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	bird on branch
+attribute-object	yellow bird
+object-verb	bird perch
+object	branch
+object	bird
+object	bird
+#####################################################
+Small yellow and brown bird sitting on frozen branch . 
+small yellow and brown bird sit on frozen branch . 
+
+verb-prep-object	sit on branch
+object-prep-object	bird on branch
+attribute-object	small bird
+attribute-object	yellow bird
+attribute-object	brown bird
+attribute-object	frozen branch
+object-verb	bird sit
+object	branch
+object	bird
+object	bird
+#####################################################

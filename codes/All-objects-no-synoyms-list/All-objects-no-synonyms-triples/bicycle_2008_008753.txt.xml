@@ -1,0 +1,55 @@
+A bicycle is scaling the stone wall . 
+a bicycle be scale the stone wall . 
+
+object-verb-object	bicycle scale wall
+attribute-object	stone wall
+object	bicycle
+object	wall
+object	bicycle
+#####################################################
+A BMX bike being ridden over a stone ledge . 
+a BMX bike be ride over a stone ledge . 
+
+verb-prep-object	ride over ledge
+attribute-object	bmx bike
+attribute-object	stone ledge
+object-verb	bike ride
+object	ledge
+object	bike
+object	bicycle
+#####################################################
+A BMX bike doing a trick on a landmark . 
+a BMX bike do a trick on a landmark . 
+
+object-prep-object	trick on landmark
+object-verb-object	bike do trick
+attribute-object	bmx bike
+object	trick
+object	landmark
+object	bike
+object	bicycle
+#####################################################
+A kid jumping a ledge with a bike . 
+a kid jump a ledge with a bike . 
+
+verb-prep-object	jump with bike
+object-prep-object	kid with bike
+object-verb-object	kid jump ledge
+object	bike
+object	kid
+object	ledge
+object	bicycle
+#####################################################
+Someone using a bike to go up a small embankment . 
+someone use a bike to go up a small embankment . 
+
+attribute-object	small embankment
+object-verb-object	someone use bike
+verb-attribute	go up
+verb-prep-verb	use to go
+verb-object	go embankment
+object	embankment
+object	someone
+object	bike
+object	bicycle
+#####################################################

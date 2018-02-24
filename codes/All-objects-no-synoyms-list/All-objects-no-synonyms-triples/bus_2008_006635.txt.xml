@@ -1,0 +1,61 @@
+A local bus makes a stop on a quiet afternoon . 
+a local bus make a stop on a quiet afternoon . 
+
+verb-prep-object	stop on afternoon
+attribute-object	local bus
+attribute-object	quiet afternoon
+object-verb-object	bus make stop
+object	afternoon
+object	bus
+object	stop
+object	bus
+#####################################################
+A yellow bus is traveling down a city street just past an intersection . 
+a yellow bus be travel down a city street just past a intersection . 
+
+attribute-object	yellow bus
+object-verb-object	bus travel street
+attribute-object	city street
+verb-attribute	travel down
+object	bus
+object	street
+object	bus
+#####################################################
+A yellow bus passes through an intersection . 
+a yellow bus pass through a intersection . 
+
+verb-prep-object	pass through intersection
+object-prep-object	bus through intersection
+attribute-object	yellow bus
+object-verb	bus pass
+object	intersection
+object	bus
+object	bus
+#####################################################
+A yellow city bus approaches in a metropolitan area . 
+a yellow city bus approach in a metropolitan area . 
+
+verb-prep-object	approach in area
+object-prep-object	bus in area
+attribute-object	yellow bus
+attribute-object	city bus
+attribute-object	metropolitan area
+object-verb	bus approach
+object	area
+object	bus
+object	bus
+#####################################################
+Yellow passenger bus sitting at an empty bus stop . 
+yellow passenger bus sit at a empty bus stop . 
+
+verb-prep-object	sit at stop
+object-prep-object	bus at stop
+attribute-object	yellow bus
+attribute-object	empty stop
+attribute-object	passenger bus
+attribute-object	bus stop
+object-verb	bus sit
+object	stop
+object	bus
+object	bus
+#####################################################

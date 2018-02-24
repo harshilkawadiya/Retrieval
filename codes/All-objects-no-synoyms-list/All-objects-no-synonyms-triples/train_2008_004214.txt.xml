@@ -1,0 +1,60 @@
+A BNSF railroad train on a track by water . 
+a BNSF railroad train on a track by water . 
+
+object-prep-object	train on track
+object-prep-object	train by water
+attribute-object	bnsf train
+attribute-object	railroad train
+object	train
+object	track
+object	water
+object	train
+#####################################################
+A brightly colored train is on tracks near grass . 
+a brightly color train be on track near grass . 
+
+object-prep-object	train on track
+object-prep-object	train near grass
+attribute-object	brightly train
+attribute-object	color train
+object	train
+object	track
+object	grass
+object	train
+#####################################################
+A large orange and black locomotive . 
+a large orange and black locomotive . 
+
+attribute-object	large locomotive
+attribute-object	orange locomotive
+attribute-object	black locomotive
+object	locomotive
+object	train
+#####################################################
+A train is traveling on the railroad track in a rural area . 
+a train be travel on the railroad track in a rural area . 
+
+verb-prep-object	travel on track
+object-prep-object	train on track
+verb-prep-object	travel in area
+object-prep-object	train in area
+attribute-object	rural area
+attribute-object	railroad track
+object-verb	train travel
+object	track
+object	train
+object	area
+object	train
+#####################################################
+Yellow , blue and orange train on train tracks . 
+Yellow , blue and orange train on train track . 
+
+object-prep-object	train on track
+attribute-object	yellow train
+attribute-object	blue train
+attribute-object	orange train
+attribute-object	train track
+object	train
+object	track
+object	train
+#####################################################

@@ -1,0 +1,73 @@
+A group of teenagers dancing near a bus . 
+a group of teenager dance near a bus . 
+
+object-prep-object	group of person
+verb-prep-object	dance near bus
+object-prep-object	person near teenager
+object-verb	person dance
+object	group
+object	person
+object	bus
+object	teenager
+object	bus
+#####################################################
+Eleven people in tie-dye playing a game . 
+eleven people in tie-dye play a game . 
+
+object-prep-object	person in people
+object-verb-object	person play people
+object	person
+object	people
+object	bus
+#####################################################
+Group of people dressed in pink shirts and white pants . 
+Group of people dress in pink shirt and white pants . 
+
+verb-prep-object	dress in shirt
+verb-prep-object	dress in pants
+attribute-object	pink shirt
+attribute-object	white pants
+object-verb	person dress
+object	shirt
+object	pants
+object	person
+object	people
+object	bus
+#####################################################
+Men in red tie dyed t-shirts and white pants in front of a red fence with the Olympic symbol on it . 
+man in red tie dye t-shirt and white pants in front of a red fence with the Olympic symbol on it . 
+
+object-prep-object	person in man
+object-prep-object	person in man
+object-prep-object	person in_front_of man
+attribute-object	red t-shirt
+attribute-object	tie t-shirt
+attribute-object	dyed t-shirt
+attribute-object	white pants
+attribute-object	red fence
+object-prep-object	fence with symbol
+attribute-object	olympic symbol
+object	person
+object	man
+object	t-shirt
+object	pants
+object	fence
+object	symbol
+object	bus
+#####################################################
+Youths in costume practice their steps before performing at the Turin Winter Olympic Games . 
+Youths in costume practice they step before perform at the Turin Winter Olympic Games . 
+
+object-verb-object	youths practice step
+object-prep-object	youths in costume
+verb-prep-verb	practice before perform
+verb-prep-object	perfom at games
+attribute-object	turin games
+attribute-object	winter games
+attribute-object	olympic games
+object	youths
+object	step
+object	costume
+object	games
+object	bus
+#####################################################

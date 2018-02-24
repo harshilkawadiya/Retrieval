@@ -1,0 +1,50 @@
+A black and white photo of a glass bottle of Coca Cola . 
+a black and white photo of a glass bottle of Coca Cola . 
+
+attribute-object	glass bottle
+object-prep-object	bottle of coca_cola
+object	bottle
+object	coca_cola
+object	bottle
+#####################################################
+A close-up , distorted photo of an empty glass Coke bottle . 
+a close-up , distorted photo of a empty glass Coke bottle . 
+
+attribute-object	empty bottle
+attribute-object	glass bottle
+attribute-object	coke bottle
+object	bottle
+object	bottle
+#####################################################
+A close up of an empty glass Coca-Cola bottle . 
+a close up of a empty glass Coca-Cola bottle . 
+
+attribute-object	empty bottle
+attribute-object	glass bottle
+attribute-object	coca-cola bottle
+object	bottle
+object	bottle
+#####################################################
+This is a black and white photograph of an empty 8 oz . 
+this be a black and white photograph of a empty 8 oz . 
+
+attribute-object	empty oz
+object	oz
+object	bottle
+#####################################################
+Coca Cola bottle . 
+Coca Cola bottle . 
+
+attribute-object	coca_cola bottle
+object	bottle
+object	bottle
+#####################################################
+This is a black and white picture of a short squat Coca-cola bottle . 
+this be a black and white picture of a short squat coca-cola bottle . 
+
+attribute-object	short bottle
+attribute-object	squat bottle
+attribute-object	coca-cola bottle
+object	bottle
+object	bottle
+#####################################################

@@ -1,0 +1,49 @@
+A black and white photo of a woman showing a horse . 
+a black and white photo of a woman show a horse . 
+
+object-verb-object	person show woman
+object	person
+object	woman
+object	horse
+#####################################################
+A lady working with a horse in an arena . 
+a lady work with a horse in a arena . 
+
+object-prep-object	horse in arena
+verb-prep-object	work with horse
+object-prep-object	person with lady
+object-verb	person work
+object	horse
+object	arena
+object	person
+object	lady
+object	horse
+#####################################################
+A woman displays her horse using a halter . 
+a woman display she horse use a halter . 
+
+object-verb-object	person display woman
+object	person
+object	woman
+object	horse
+#####################################################
+A woman leading a white horse . 
+a woman lead a white horse . 
+
+attribute-object	white horse
+object-verb-object	person lead woman
+object	horse
+object	person
+object	woman
+object	horse
+#####################################################
+A woman with a white horse . 
+a woman with a white horse . 
+
+object-prep-object	person with woman
+attribute-object	white horse
+object	person
+object	woman
+object	horse
+object	horse
+#####################################################

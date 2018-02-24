@@ -1,0 +1,65 @@
+A holds closed the trunk of an orange car . 
+a hold close the trunk of a orange car . 
+
+object-verb-object	hold close trunk
+object-prep-object	trunk of car
+attribute-object	orange car
+object	hold
+object	trunk
+object	car
+object	person
+#####################################################
+A man hanging on to the back of a car with an open trunk . 
+a man hang on to the back of a car with a open trunk . 
+
+object-prep-object	car with trunk
+attribute-object	open trunk
+object-verb	person hang
+verb-prep-object	hang to car
+object	car
+object	trunk
+object	person
+object	man
+object	person
+#####################################################
+A man hangs off of the back of a car as it drives , standing on the bumper . 
+a man hang off of the back of a car as it drive , stand on the bumper . 
+
+verb-prep-object	hang off_of car
+verb-prep-object	stand on bumper
+object-prep-object	person on man
+object-verb	person hang
+object-verb	person stand
+object	car
+object	bumper
+object	person
+object	man
+object	person
+#####################################################
+A man riding on the back of an orange SUV . 
+a man ride on the back of a orange SUV . 
+
+verb-prep-object	ride on car
+object-prep-object	person on car
+attribute-object	orange car
+object-verb	person ride
+object	car
+object	suv
+object	person
+object	man
+object	person
+#####################################################
+an African man hanging onto the back of a very full yellow van . 
+a african man hang onto the back of a very full yellow van . 
+
+verb-prep-object	hang onto bus
+attribute-object	full bus
+attribute-object	yellow bus
+attribute-object	african person
+object-verb	person hang
+object	bus
+object	car
+object	person
+object	man
+object	person
+#####################################################

@@ -1,0 +1,58 @@
+Field of sheep and lambs under fluffy clouds . 
+field of sheep and lamb under fluffy cloud . 
+
+object-prep-object	field of sheep
+object-prep-object	field of sheep
+attribute-object	fluffy cloudy
+object	field
+object	sheep
+object	cloudy
+object	cloud
+object	sheep
+#####################################################
+many sheep grazing on green hills . 
+many sheep grazing on green hill . 
+
+verb-prep-object	graze on mountain
+object-prep-object	sheep on mountain
+attribute-object	green mountain
+object-verb	sheep graze
+object	mountain
+object	hill
+object	sheep
+object	sheep
+#####################################################
+Sheep in a large field . 
+Sheep in a large field . 
+
+object-prep-object	sheep in field
+attribute-object	large field
+object	sheep
+object	field
+object	sheep
+#####################################################
+The flock of sheep are spread out in the field . 
+the flock of sheep be spread out in the field . 
+
+object-prep-object	spread in field
+object-prep-object	sheep in field
+object-prep-object	flock of sheep
+object-verb	sheep spread
+verb-attribute	spread out
+object	spread
+object	field
+object	sheep
+object	flock
+object	sheep
+#####################################################
+The sheep graze in the countryside . 
+the sheep graze in the countryside . 
+
+verb-prep-object	graze in country
+object-prep-object	sheep in country
+object-verb	sheep graze
+object	country
+object	countryside
+object	sheep
+object	sheep
+#####################################################

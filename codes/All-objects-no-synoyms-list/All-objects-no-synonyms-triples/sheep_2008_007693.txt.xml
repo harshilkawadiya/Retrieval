@@ -1,0 +1,57 @@
+Lambs stand behind a barbed wire fence . 
+lamb stand behind a barbed wire fence . 
+
+verb-prep-object	stand behind fence
+object-prep-object	lamb behind fence
+attribute-object	barbed fence
+attribute-object	wire fence
+object-verb	lamb stand
+object	fence
+object	lamb
+object	sheep
+#####################################################
+The fenced in sheep look out at the world beyond . 
+the fence in sheep look out at the world beyond . 
+
+object-verb	sheep look
+verb-prep-object	look at world
+object-prep-object	fence in sheep
+verb-attribute	look out
+object	sheep
+object	world
+object	fence
+object	sheep
+#####################################################
+The flock of sheep are behind a barbed wire fence . 
+the flock of sheep be behind a barbed wire fence . 
+
+object-prep-object	sheep behind fence
+attribute-object	barbed fence
+attribute-object	wire fence
+object	sheep
+object	fence
+object	sheep
+#####################################################
+There are some sheep staring out from inside a barbed wire fence . 
+there be some sheep stare out from inside a barbed wire fence . 
+
+verb-prep-object	stare from fence
+attribute-object	barbed fence
+attribute-object	wire fence
+object-verb	sheep stare
+verb-attribute	stare out
+object	fence
+object	sheep
+object	sheep
+#####################################################
+The white sheep stand behind the fence . 
+the white sheep stand behind the fence . 
+
+verb-prep-object	stand behind fence
+object-prep-object	sheep behind fence
+attribute-object	white sheep
+object-verb	sheep stand
+object	fence
+object	sheep
+object	sheep
+#####################################################

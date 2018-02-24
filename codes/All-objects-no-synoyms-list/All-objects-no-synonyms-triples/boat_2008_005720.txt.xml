@@ -1,0 +1,56 @@
+A cruise ship in harbor with rain clouds overhead . 
+a cruise ship in harbor with rain cloud overhead . 
+
+object-prep-object	ship in harbor
+object-prep-object	ship with cloud
+attribute-object	cruise ship
+attribute-object	rain cloud
+object	ship
+object	harbor
+object	cloud
+object	boat
+#####################################################
+A large ship is docked on a cloudy day . 
+a large ship be dock on a cloudy day . 
+
+verb-prep-object	dock on day
+attribute-object	large ship
+attribute-object	cloudy day
+object-verb	ship dock
+object	day
+object	ship
+object	boat
+#####################################################
+A large yacht boat called `` Cunard '' is docked . 
+a large yacht boat call `` Cunard '' be dock . 
+
+attribute-object	large boat
+attribute-object	yacht boat
+object-verb	boat dock
+object	boat
+object	boat
+#####################################################
+The liner prepares to set out in stormy weather . 
+the liner prepare to set out in stormy weather . 
+
+verb-prep-object	set in weather
+attribute-object	stormy weather
+verb-prep-verb	prepare to set
+object-verb	liner prepare
+verb-attribute	set out
+object	weather
+object	liner
+object	boat
+#####################################################
+White Cunard cruise ship on a cloudy day . 
+White Cunard cruise ship on a cloudy day . 
+
+object-prep-object	ship on day
+attribute-object	cloudy day
+attribute-object	white ship
+attribute-object	cunard ship
+attribute-object	cruise ship
+object	ship
+object	day
+object	boat
+#####################################################

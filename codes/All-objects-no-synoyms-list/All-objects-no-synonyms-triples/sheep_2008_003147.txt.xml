@@ -1,0 +1,59 @@
+A adult and two young sheep in a field . 
+a adult and two young sheep in a field . 
+
+object-prep-object	sheep in field
+attribute-object	adult sheep
+attribute-object	young sheep
+object	sheep
+object	field
+object	sheep
+#####################################################
+Adult sheep with 2 lambs are walking through the grass field . 
+adult sheep with 2 lamb be walk through the grass field . 
+
+verb-prep-object	walk through field
+object-prep-object	sheep through field
+object-prep-object	sheep with lamb
+attribute-object	adult sheep
+attribute-object	grass field
+object-verb	sheep walk
+object	field
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+A sheep with two lambs in a green pasture . 
+a sheep with two lamb in a green pasture . 
+
+object-prep-object	sheep with lamb
+object-prep-object	sheep in pasture
+attribute-object	green pasture
+object	sheep
+object	lamb
+object	pasture
+object	sheep
+#####################################################
+sheep standing in a field . 
+sheep standing in a field . 
+
+verb-prep-object	stand in field
+object-verb	sheep stand
+object-prep-object	sheep in field
+object	field
+object	sheep
+object	sheep
+#####################################################
+Three sheep standing in a line in the green grass . 
+three sheep standing in a line in the green grass . 
+
+verb-prep-object	stand in line
+verb-prep-object	stand in grass
+object-prep-object	sheep in line
+object-prep-object	sheep in grass
+attribute-object	green grass
+object-verb	sheep stand
+object	line
+object	grass
+object	sheep
+object	sheep
+#####################################################

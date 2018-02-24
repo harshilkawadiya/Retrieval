@@ -1,0 +1,59 @@
+Cattle grazing on a snowy field . 
+Cattle grazing on a snowy field . 
+
+verb-prep-object	graze on field
+object-prep-object	cow on cattle
+attribute-object	snowy field
+object-verb	cow graze
+object	field
+object	cow
+object	cattle
+object	cow
+#####################################################
+Cattle in a snow-covered field . 
+Cattle in a snow-covered field . 
+
+object-prep-object	cow in cattle
+attribute-object	snow-covered field
+object	cow
+object	cattle
+object	field
+object	cow
+#####################################################
+Cows grazing in a snow covered field . 
+cow grazing in a snow cover field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+attribute-object	snow field
+attribute-object	cover field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################
+Five cows grazing in a snow covered field . 
+five cow grazing in a snow cover field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+attribute-object	snow field
+attribute-object	cover field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################
+Three black cows and one brown cow stand in a snowy field . 
+three black cow and one brown cow stand in a snowy field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	snowy field
+object-verb	cow stand
+object	field
+object	cow
+object	cow
+#####################################################

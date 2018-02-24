@@ -1,0 +1,58 @@
+A black table with white fuzzy chair . 
+a black table with white fuzzy chair . 
+
+object-prep-object	table with chair
+attribute-object	black table
+attribute-object	white chair
+attribute-object	fuzzy chair
+object	table
+object	chair
+object	diningtable
+#####################################################
+A dining room set with a black table and eight tan suede chairs . 
+a dining room set with a black table and eight tan suede chair . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+attribute-object	black table
+attribute-object	dining room
+attribute-object	tan chair
+attribute-object	suede chair
+object	room
+object	table
+object	chair
+object	diningtable
+#####################################################
+A dining room set with a black table and eight white chairs . 
+a dining room set with a black table and eight white chair . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+attribute-object	black table
+attribute-object	white chair
+attribute-object	dining room
+object	room
+object	table
+object	chair
+object	diningtable
+#####################################################
+A dining room table with six chairs and a centerpiece . 
+a dining room table with six chair and a centerpiece . 
+
+object-prep-object	table with chair
+object-prep-object	table with centerpiece
+attribute-object	dining table
+attribute-object	room table
+object	table
+object	chair
+object	centerpiece
+object	diningtable
+#####################################################
+A minimalist dinning room . 
+a minimalist dinning room . 
+
+attribute-object	minimalist room
+attribute-object	dinning room
+object	room
+object	diningtable
+#####################################################

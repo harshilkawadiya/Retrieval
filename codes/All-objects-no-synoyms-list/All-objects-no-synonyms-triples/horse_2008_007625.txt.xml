@@ -1,0 +1,66 @@
+A man in a black uniform on a white horse . 
+a man in a black uniform on a white horse . 
+
+object-prep-object	man on horse
+object-prep-object	man in uniform
+attribute-object	black uniform
+attribute-object	white horse
+object	man
+object	horse
+object	uniform
+object	horse
+#####################################################
+A man in a top hat rides a white horse . 
+a man in a top hat ride a white horse . 
+
+object-prep-object	man in hat
+attribute-object	top hat
+object-verb-object	man ride horse
+attribute-object	white horse
+object	man
+object	hat
+object	horse
+object	horse
+#####################################################
+A man wearing black formal wear & a black top hat is riding a white snow horse . 
+a man wear black formal wear & a black top hat be ride a white snow horse . 
+
+object-verb-object	man wear wear
+object-verb-object	man wear hat
+attribute-object	black wear
+attribute-object	formal wear
+attribute-object	black hat
+attribute-object	top hat
+attribute-object	white horse
+object-verb-object	man ride horse
+attribute-object	snow horse
+object	man
+object	wear
+object	hat
+object	horse
+object	horse
+#####################################################
+A man with a top hat riding a white horse . 
+a man with a top hat ride a white horse . 
+
+object-prep-object	man with hat
+attribute-object	top hat
+attribute-object	white horse
+object-verb-object	man ride horse
+object	man
+object	hat
+object	horse
+object	horse
+#####################################################
+A person in riding attire on a white horse . 
+a person in ride attire on a white horse . 
+
+object-prep-object	person on horse
+object-prep-object	person in attire
+attribute-object	white horse
+attribute-object	ride attire
+object	person
+object	horse
+object	attire
+object	horse
+#####################################################

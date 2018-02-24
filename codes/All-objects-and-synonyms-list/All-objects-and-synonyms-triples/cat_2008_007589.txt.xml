@@ -1,0 +1,61 @@
+A small white cat with glowing eyes standing underneath a chair . 
+a small white cat with glowing eye stand underneath a chair . 
+
+verb-prep-object	stand underneath chair
+object-prep-object	cat underneath chair
+object-prep-object	cat with eye
+attribute-object	small cat
+attribute-object	white cat
+attribute-object	glowing eye
+object-verb	cat stand
+object	chair
+object	cat
+object	eye
+object	cat
+#####################################################
+A white cat standing on a carpet . 
+a white cat standing on a carpet . 
+
+verb-prep-object	stand on carpet
+object-prep-object	cat on carpet
+attribute-object	white cat
+object-verb	cat stand
+object	carpet
+object	cat
+object	cat
+#####################################################
+A white cat stands on the floor . 
+a white cat stand on the floor . 
+
+verb-prep-object	stand on floor
+object-prep-object	cat on floor
+attribute-object	white cat
+object-verb	cat stand
+object	floor
+object	cat
+object	cat
+#####################################################
+A white cat standing on gray carpet . 
+a white cat standing on gray carpet . 
+
+verb-prep-object	stand on carpet
+object-prep-object	cat on carpet
+attribute-object	white cat
+attribute-object	gray carpet
+object-verb	cat stand
+object	carpet
+object	cat
+object	cat
+#####################################################
+The little white cat looks for someone to play with . 
+the little white cat look for someone to play with . 
+
+verb-prep-object	look for person
+attribute-object	little cat
+attribute-object	white cat
+object-verb	cat look
+object	person
+object	someone
+object	cat
+object	cat
+#####################################################

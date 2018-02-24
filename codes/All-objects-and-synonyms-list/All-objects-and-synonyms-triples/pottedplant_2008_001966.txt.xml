@@ -1,0 +1,67 @@
+A bird perched on a flowerpot . 
+a bird perch on a flowerpot . 
+
+verb-prep-object	perch on pottedplant
+object-prep-object	bird on pottedplant
+object-verb	bird perch
+object	pottedplant
+object	flowerpot
+object	bird
+object	pottedplant
+#####################################################
+A brown bird sits upon a clay pot amongst some flowers . 
+a brown bird sit upon a clay pot amongst some flower . 
+
+verb-prep-object	sit amongst flower
+object-prep-object	bird amongst flower
+verb-prep-object	sit upon pottedplant
+object-prep-object	bird upon pottedplant
+attribute-object	brown bird
+attribute-object	clay pottedplant
+object-verb	bird sit
+object	flower
+object	bird
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################
+A close-up of a bird perched on a terra cotta flower pot . 
+a close-up of a bird perch on a terra cotta flower pot . 
+
+object-verb	bird perch
+verb-prep-object	perch on pottedplant
+object-prep-object	bird on pottedplant
+attribute-object	terra pottedplant
+attribute-object	cotta pottedplant
+attribute-object	flower pottedplant
+object	bird
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################
+Bird perched on a flowerpot beside a stucco wall . 
+bird perch on a flowerpot beside a stucco wall . 
+
+verb-prep-object	perch on pottedplant
+object-prep-object	bird on pottedplant
+verb-prep-object	perch beside wall
+object-prep-object	bird beside wall
+attribute-object	stucco wall
+object-verb	bird perch
+object	pottedplant
+object	flowerpot
+object	bird
+object	wall
+object	pottedplant
+#####################################################
+The bird protects its new nest in the pot . 
+the bird protect its new nest in the pot . 
+
+object-prep-object	nest in pottedplant
+attribute-object	new nest
+object-verb-object	bird protect nest
+object	nest
+object	pottedplant
+object	bird
+object	pottedplant
+#####################################################

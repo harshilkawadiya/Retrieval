@@ -1,0 +1,69 @@
+A baby secured in a chair . 
+a baby secure in a chair . 
+
+verb-prep-object	secure in chair
+object-prep-object	baby in chair
+object-verb	baby secure
+object	chair
+object	baby
+object	chair
+#####################################################
+A baby with blue eyes and a green shirt is sitting in a chair . 
+a baby with blue eye and a green shirt be sit in a chair . 
+
+object-prep-object	baby with eye
+object-prep-object	baby with shirt
+verb-prep-object	sit in chair
+object-prep-object	baby in chair
+attribute-object	blue eye
+attribute-object	green shirt
+object-verb	baby sit
+object	baby
+object	eye
+object	shirt
+object	chair
+object	chair
+#####################################################
+A baby with his fingers in his mouth being held in a highchair by a red scarf . 
+a baby with he finger in he mouth be hold in a highchair by a red scarf . 
+
+object-prep-object	baby with finger
+object-prep-object	finger in mouth
+verb-prep-object	hold in highchair
+object-prep-object	baby in highchair
+verb-prep-object	hold by scarf
+attribute-object	red scarf
+object-verb	baby hold
+object	baby
+object	finger
+object	mouth
+object	highchair
+object	scarf
+object	chair
+#####################################################
+A small child holds its fingers in its mouth . 
+a small child hold its finger in its mouth . 
+
+object-prep-object	finger in mouth
+attribute-object	small child
+object-verb-object	child hold finger
+object	finger
+object	mouth
+object	child
+object	chair
+#####################################################
+Baby wearing green shirt tied into chair by a red shirt . 
+Baby wear green shirt tie into chair by a red shirt . 
+
+object-verb-object	baby wear shirt
+attribute-object	green shirt
+object-verb	baby tie
+verb-prep-object	tie into chair
+object-prep-object	baby into chair
+verb-prep-object	tie by shirt
+attribute-object	red shirt
+object	baby
+object	shirt
+object	chair
+object	chair
+#####################################################

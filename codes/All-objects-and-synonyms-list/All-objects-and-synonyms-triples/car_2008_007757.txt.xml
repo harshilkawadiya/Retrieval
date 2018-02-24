@@ -1,0 +1,74 @@
+A blonde in a polka-dot bikini poses in front of an orange convertible car . 
+a blonde in a polka-dot bikini pose in front of a orange convertible car . 
+
+object-verb	blonde pose
+verb-prep-object	pose in_front_of car
+object-prep-object	blonde in_front_of car
+object-prep-object	blonde in bikini
+attribute-object	polka-dot bikini
+attribute-object	orange car
+attribute-object	convertible car
+object	blonde
+object	car
+object	bikini
+object	car
+#####################################################
+A half-dressed woman standing next to an orange vehicle . 
+a half-dressed woman stand next to a orange vehicle . 
+
+verb-prep-object	stand next_to car
+object-prep-object	person next_to car
+attribute-object	half-dressed person
+attribute-object	orange car
+object-verb	person stand
+object	car
+object	vehicle
+object	person
+object	woman
+object	car
+#####################################################
+A scantily clad woman is standing next to a car . 
+a scantily clad woman be stand next to a car . 
+
+verb-prep-object	stand next_to car
+object-prep-object	person next_to woman
+attribute-object	scantily person
+attribute-object	clad person
+object-verb	person stand
+object	car
+object	person
+object	woman
+object	car
+#####################################################
+A scantily clad woman standing next to a small red vehicle . 
+a scantily clad woman stand next to a small red vehicle . 
+
+verb-prep-object	stand next_to car
+object-prep-object	person next_to car
+attribute-object	scantily person
+attribute-object	clad person
+attribute-object	small car
+attribute-object	red car
+object-verb	person stand
+object	car
+object	vehicle
+object	person
+object	woman
+object	car
+#####################################################
+Woman in two-piece bikini posing in front of a dune buggy . 
+Woman in two-piece bikini pose in front of a dune buggy . 
+
+object-prep-object	person in woman
+verb-prep-object	pose in_front_of car
+object-prep-object	person in_front_of car
+attribute-object	two-piece bikini
+attribute-object	dune car
+object-verb	person pose
+object	person
+object	woman
+object	car
+object	buggy
+object	bikini
+object	car
+#####################################################

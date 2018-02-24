@@ -1,0 +1,57 @@
+A sheep with a tree in the foreground . 
+a sheep with a tree in the foreground . 
+
+object-prep-object	sheep with tree
+object	sheep
+object	tree
+object	sheep
+#####################################################
+Sheep resting peacefully on grass . 
+Sheep rest peacefully on grass . 
+
+verb-prep-object	rest on grass
+object-prep-object	sheep on grass
+verb-attribute	rest peacefully
+object-verb	sheep rest
+object	grass
+object	sheep
+object	sheep
+#####################################################
+Two sheep sit in a green field by a tree . 
+two sheep sit in a green field by a tree . 
+
+verb-prep-object	sit by tree
+object-prep-object	sheep by tree
+verb-prep-object	sit in field
+object-prep-object	sheep in field
+attribute-object	green field
+object-verb	sheep sit
+object	tree
+object	sheep
+object	field
+object	sheep
+#####################################################
+White sheep lying down on grass . 
+White sheep lie down on grass . 
+
+verb-prep-object	lie on grass
+object-prep-object	sheep on grass
+attribute-object	white sheep
+object-verb	sheep lie
+verb-attribute	lie down
+object	grass
+object	sheep
+object	sheep
+#####################################################
+Wooly sheep lying down in a pasture . 
+wooly sheep lie down in a pasture . 
+
+verb-prep-object	lie in pasture
+object-prep-object	sheep in pasture
+attribute-object	wooly sheep
+object-verb	sheep lie
+verb-attribute	lie down
+object	pasture
+object	sheep
+object	sheep
+#####################################################

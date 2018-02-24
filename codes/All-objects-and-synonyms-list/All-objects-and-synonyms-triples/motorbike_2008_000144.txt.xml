@@ -1,0 +1,59 @@
+A man on a motorcycle performing a wheelie . 
+a man on a motorcycle perform a wheelie . 
+
+object-prep-object	person on motorbike
+object-verb-object	person perform man
+object	person
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+A man riding a motorbike on its backwheel while standing up . 
+a man ride a motorbike on its backwheel while stand up . 
+
+object-verb	person stand
+object-prep-object	motorbike on backwheel
+verb-prep-object	ride on backwheel
+object-verb-object	person ride man
+verb-attribute	stand up
+object	person
+object	man
+object	motorbike
+object	backwheel
+object	motorbike
+#####################################################
+A shot from a car of a person doing a wheelie on a motorcycle . 
+a shot from a car of a person do a wheelie on a motorcycle . 
+
+object-prep-object	wheelie on motorbike
+object-prep-object	shot from car
+object-prep-object	shot of person
+object-verb-object	person do wheelie
+object	wheelie
+object	motorbike
+object	shot
+object	car
+object	person
+object	motorbike
+#####################################################
+Motorcyclist performing a wheelie next to a car . 
+Motorcyclist perform a wheelie next to a car . 
+
+verb-prep-object	perform next_to car
+object-prep-object	motorcyclist next_to car
+object-verb-object	motorcyclist perform wheelie
+object	car
+object	motorcyclist
+object	wheelie
+object	motorbike
+#####################################################
+Someone on a motorcycle doing a wheelie , as seen from a car window . 
+someone on a motorcycle do a wheelie , as see from a car window . 
+
+object-prep-object	person on motorbike
+object-verb-object	person do someone
+object	person
+object	someone
+object	motorbike
+object	motorbike
+#####################################################

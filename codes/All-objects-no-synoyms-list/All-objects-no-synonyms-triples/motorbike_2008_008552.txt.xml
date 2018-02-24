@@ -1,0 +1,55 @@
+A dirt bike rider riding around a track . 
+a dirt bike rider ride around a track . 
+
+verb-prep-object	ride around track
+attribute-object	dirt rider
+attribute-object	bike rider
+object-verb	rider ride
+object	track
+object	rider
+object	motorbike
+#####################################################
+A motocross racer wearing blue and red protective gear . 
+a motocross racer wear blue and red protective gear . 
+
+attribute-object	blue gear
+attribute-object	red gear
+attribute-object	protective gear
+object-verb-object	racer wear gear
+attribute-object	motocross racer
+object	gear
+object	racer
+object	motorbike
+#####################################################
+An action snapshot of a dirt bike in motion . 
+a action snapshot of a dirt bike in motion . 
+
+object-prep-object	bike in motion
+attribute-object	dirt bike
+object	bike
+object	motion
+object	motorbike
+#####################################################
+A person is riding a motorcycle professionally in a race . 
+a person be ride a motorcycle professionally in a race . 
+
+verb-prep-object	ride in race
+object-prep-object	person in race
+verb-attribute	ride professionally
+object-verb-object	person ride motorcycle
+object	race
+object	person
+object	motorcycle
+object	motorbike
+#####################################################
+BMX rider racing down dirt track . 
+BMX rider race down dirt track . 
+
+object-verb-object	rider race track
+attribute-object	bmx rider
+attribute-object	dirt track
+verb-attribute	race down
+object	rider
+object	track
+object	motorbike
+#####################################################

@@ -1,0 +1,51 @@
+A girl riding a brown horse . 
+a girl ride a brown horse . 
+
+attribute-object	brown horse
+object-verb-object	girl ride horse
+object	horse
+object	girl
+object	horse
+#####################################################
+A girl wearing a red blouse riding a brown horse . 
+a girl wear a red blouse ride a brown horse . 
+
+attribute-object	red blouse
+attribute-object	brown horse
+object-verb-object	girl wear blouse
+object-verb-object	girl ride horse
+object	blouse
+object	horse
+object	girl
+object	horse
+#####################################################
+A woman riding a brown horse . 
+a woman ride a brown horse . 
+
+attribute-object	brown horse
+object-verb-object	woman ride horse
+object	horse
+object	woman
+object	horse
+#####################################################
+A young girl riding a brown horse . 
+a young girl ride a brown horse . 
+
+attribute-object	young girl
+attribute-object	brown horse
+object-verb-object	girl ride horse
+object	girl
+object	horse
+object	horse
+#####################################################
+A young girl wearing a helmet riding a pony . 
+a young girl wear a helmet ride a pony . 
+
+attribute-object	young girl
+object-verb-object	girl wear helmet
+object-verb-object	girl ride pony
+object	girl
+object	helmet
+object	pony
+object	horse
+#####################################################

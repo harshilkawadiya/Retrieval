@@ -1,0 +1,50 @@
+beam_size_1	2	Two girls in karate uniforms struggle in a dojo .
+beam_size_1	3	Two little girls are dressed in white karate uniforms .
+beam_size_1	4	Two little girls practice martial arts .
+beam_size_1	5	Two little girls spar in a Karate bout .
+beam_size_1	6	Two young girls sparring in white martial arts outfits while a third person watches from the side .
+beam_size_1	7	Three women standing on a city street .
+beam_size_1	8	Three women walk down the street .
+beam_size_1	9	Two girls and a woman walking on the sidewalk
+beam_size_1	10	Two girls in bright green boots and a woman are together .
+beam_size_1	11	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	12	A woman in red shorts is writing on a tablet .
+beam_size_1	13	A woman wearing a white shirt and red pants is writing something down at a museum .
+beam_size_1	14	A woman writing while standing by men .
+beam_size_1	15	The lady is taking notes .
+beam_size_1	16	The lady is wearing a white shirt with red pants and writing on a note pad .
+beam_size_1	17	A black dog and a golden dog approaching one another
+beam_size_1	18	A black dog and tan dog run towards each other on a beach .
+beam_size_1	19	a black dog is approaching a golden dog on pebbly beach .
+beam_size_1	20	Two dogs playing on a rocky beach .
+beam_size_1	21	Two dogs running on the sand .
+beam_size_1	22	A man is standing on an animal in the water .
+beam_size_1	23	A man is standing on an elephant lying in some water .
+beam_size_1	24	A man standing on a rock in a river with a spash next to him .
+beam_size_1	25	A man stands on top of an elephant in the water .
+beam_size_1	26	A man stands on top of a submerged elephant .
+beam_size_1	27	A boy is diving through the air into a swimming pool .
+beam_size_1	28	A boy jumps into a pool on a bright sunny day .
+beam_size_1	29	a boy jumps into the blue pool water .
+beam_size_1	30	A smiling child dives into a pool .
+beam_size_1	31	The young boy is jumping into the pool on his belly .
+beam_size_1	32	A black and white dog catches flying discs thrown by a man .
+beam_size_1	33	a black a white dog catching Frisbees thrown by a man in a white shirt
+beam_size_1	34	A dog jumps for a Frisbee at the Purina Incredible Dog Challenge .
+beam_size_1	35	A man is throwing freesbies into the air and the border collie is catching them in the air .
+beam_size_1	36	Man in white shirt tossing Frisbee for black and white dog who has a white Frisbee in its mouth .
+beam_size_1	37	A girl 's hands , another person 's feet , and a boy playing bongo drums sit on a picnic table .
+beam_size_1	38	A picture of a group of peoples ' feet .
+beam_size_1	39	The legs and feet of people sitting on a wooden table , two cameras and cigarettes on it .
+beam_size_1	40	Three people are sitting on a picnic table along with two cameras and a drum .
+beam_size_1	41	Three people sit on a bench .
+beam_size_1	42	A little girl slides down a green slide with her arms up at a playground .
+beam_size_1	43	A little girl sliding down a slide at a playground .
+beam_size_1	44	A young girl is sliding down a slide at a playground .
+beam_size_1	45	A young girl slides down a green plastic slide on a playground .
+beam_size_1	46	The girl is sliding down a green slide .
+beam_size_1	47	A man is posing in front of a brick wall that has framed pictures on it .
+beam_size_1	48	A man is standing in front of an interior brick wall with pictures along the top .
+beam_size_1	49	a middle aged man is standing next to a white wall underneath some catholic theme pictures .
+beam_size_1	50	A smiling man in a check shirt stands below a row of religious pictures .
+beam_size_1	51	Pictures on a white brick wall with a smiling man standing in front of the wall .

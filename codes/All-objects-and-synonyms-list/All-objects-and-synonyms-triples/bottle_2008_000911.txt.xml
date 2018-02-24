@@ -1,0 +1,70 @@
+an empty glass vase and a colorful vase with paper flowers behind it made from a bottle . 
+a empty glass vase and a colorful vase with paper flower behind it make from a bottle . 
+
+object-verb	vase make
+object-verb	vase make
+object-prep-object	vase with flower
+verb-prep-object	make from bottle
+attribute-object	empty vase
+attribute-object	glass vase
+attribute-object	colorful vase
+attribute-object	paper flower
+object	vase
+object	flower
+object	bottle
+object	bottle
+#####################################################
+An empty glass vase and a painted Coke bottle with paper flowers . 
+a empty glass vase and a paint Coke bottle with paper flower . 
+
+object-prep-object	vase with flower
+object-prep-object	bottle with flower
+attribute-object	empty vase
+attribute-object	glass vase
+attribute-object	paint bottle
+attribute-object	coke bottle
+attribute-object	paper flower
+object	vase
+object	flower
+object	bottle
+object	bottle
+#####################################################
+A vase and homemade flowers . 
+a vase and homemade flower . 
+
+object	vase
+attribute-object	homemade flower
+object	vase
+object	flower
+object	bottle
+#####################################################
+Two clear vases and a bright multi-colored vase full of artificial flowers sit on top of a piano underneath a painting . 
+two clear vase and a bright multi-colored vase full of artificial flower sit on top of a piano underneath a painting . 
+
+object-verb	vase sit
+object-verb	vase sit
+attribute-object	clear vase
+attribute-object	bright vase
+attribute-object	colorful vase
+verb-prep-object	sit on_top_of piano
+verb-prep-object	sit underneath painting
+object-prep-object	vase on_top_of piano
+object-prep-object	vase full_of flower
+attribute-object	artificial flower
+object	vase
+object	piano
+object	painting
+object	flower
+object	bottle
+#####################################################
+Two clear vases and homemade looking vase with homemade flowers . 
+two clear vase and homemade look vase with homemade flower . 
+
+object-prep-object	vase with flower
+attribute-object	clear vase
+attribute-object	homemade flower
+attribute-object	homemade vase
+object	vase
+object	flower
+object	bottle
+#####################################################

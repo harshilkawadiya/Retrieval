@@ -1,0 +1,53 @@
+A trail car on the tracks at a station . 
+a trail car on the track at a station . 
+
+object-prep-object	car on track
+object-prep-object	car at station
+attribute-object	trail car
+object	car
+object	track
+object	station
+object	train
+#####################################################
+A train heading for Trenton stops at a station . 
+a train head for Trenton stop at a station . 
+
+verb-prep-object	head for trenton
+verb-prep-object	stop at station
+object-prep-object	train at station
+object-verb	train stop
+object-verb	train head
+object	trenton
+object	station
+object	train
+object	train
+#####################################################
+a train in a station . 
+a train in a station . 
+
+object-prep-object	train in station
+object	train
+object	station
+object	train
+#####################################################
+A white train pulling into a station . 
+a white train pull into a station . 
+
+verb-prep-object	pull into station
+attribute-object	white train
+object-verb	train pull
+object	station
+object	train
+object	train
+#####################################################
+The white train is sitting on the tracks . 
+the white train be sit on the track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	white train
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################

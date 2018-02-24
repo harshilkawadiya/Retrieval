@@ -1,0 +1,62 @@
+A foal frolicking in a grassy field . 
+a foal frolic in a grassy field . 
+
+verb-prep-object	frolic in field
+object-prep-object	horse in foal
+attribute-object	grassy field
+object-verb	horse frolic
+object	field
+object	horse
+object	foal
+object	horse
+#####################################################
+A pony running through a field . 
+a pony run through a field . 
+
+verb-prep-object	run through field
+object-prep-object	horse through pony
+object-verb	horse run
+object	field
+object	horse
+object	pony
+object	horse
+#####################################################
+A small brown foal in a field . 
+a small brown foal in a field . 
+
+object-prep-object	horse in foal
+attribute-object	small horse
+attribute-object	brown horse
+object	horse
+object	foal
+object	horse
+#####################################################
+A young brown colt runs in the field near a white fence . 
+a young brown colt run in the field near a white fence . 
+
+verb-prep-object	run near fence
+verb-prep-object	run in field
+object-prep-object	horse near colt
+object-prep-object	horse in colt
+attribute-object	young horse
+attribute-object	brown horse
+attribute-object	white fence
+object-verb	horse run
+object	fence
+object	field
+object	horse
+object	colt
+object	horse
+#####################################################
+A young colt running in on grass outside . 
+a young colt run in on grass outside . 
+
+attribute-object	young horse
+object-verb	horse run
+verb-prep-object	run in grass
+object-prep-object	horse in colt
+object	horse
+object	colt
+object	grass
+object	horse
+#####################################################

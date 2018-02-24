@@ -1,0 +1,66 @@
+A cat rests on a crumpled brown tarp . 
+a cat rest on a crumpled brown tarp . 
+
+verb-prep-object	rest on tarp
+object-prep-object	cat on tarp
+attribute-object	crumpled tarp
+attribute-object	brown tarp
+object-verb	cat rest
+object	tarp
+object	cat
+object	cat
+#####################################################
+A cat sitting on a tarp in a room with steel poles . 
+a cat sit on a tarp in a room with steel pole . 
+
+object-prep-object	room with pole
+verb-prep-object	sit on tarp
+object-prep-object	cat on tarp
+object-prep-object	tarp in room
+attribute-object	steel pole
+object-verb	cat sit
+object	room
+object	pole
+object	tarp
+object	cat
+object	cat
+#####################################################
+A sleeping cat lying in the midst of dirty drop cloths . 
+a sleep cat lie in the midst of dirty drop cloth . 
+
+verb-prep-object	lie in cloth
+object-prep-object	cat in cloth
+attribute-object	sleep cat
+attribute-object	dirty cloth
+attribute-object	drop cloth
+object-verb	cat lie
+object	cloth
+object	cat
+object	cat
+#####################################################
+Black and white cat sleeping on a brown tarp . 
+Black and white cat sleep on a brown tarp . 
+
+verb-prep-object	sleep on tarp
+object-prep-object	cat on tarp
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	brown tarp
+object-verb	cat sleep
+object	tarp
+object	cat
+object	cat
+#####################################################
+Small kitten lying on a brown tarp . 
+small kitten lie on a brown tarp . 
+
+verb-prep-object	lie on tarp
+object-prep-object	cat on kitten
+attribute-object	small cat
+attribute-object	brown tarp
+object-verb	cat lie
+object	tarp
+object	cat
+object	kitten
+object	cat
+#####################################################

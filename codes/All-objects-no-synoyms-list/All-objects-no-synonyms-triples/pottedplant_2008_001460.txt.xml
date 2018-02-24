@@ -1,0 +1,62 @@
+An indoor plant in a yellow pot by a window . 
+a indoor plant in a yellow pot by a window . 
+
+object-prep-object	plant by window
+object-prep-object	plant in pot
+attribute-object	indoor plant
+attribute-object	yellow pot
+object	plant
+object	window
+object	pot
+object	pottedplant
+#####################################################
+A potted plant getting light from a window . 
+a potted plant get light from a window . 
+
+object-prep-object	light from window
+attribute-object	potted plant
+object-verb-object	plant get light
+object	light
+object	window
+object	plant
+object	pottedplant
+#####################################################
+A potted plant in sunlight from a window . 
+a potted plant in sunlight from a window . 
+
+object-prep-object	sunlight from window
+object-prep-object	plant in sunlight
+attribute-object	potted plant
+object	sunlight
+object	window
+object	plant
+object	pottedplant
+#####################################################
+A yellow plant pot with a green and white leafed plant . 
+a yellow plant pot with a green and white leaf plant . 
+
+object-prep-object	pot with plant
+attribute-object	yellow pot
+attribute-object	plant pot
+attribute-object	green plant
+attribute-object	white plant
+attribute-object	leaf plant
+object	pot
+object	plant
+object	pottedplant
+#####################################################
+There is a green plant in a white pot sitting on a brown table . 
+there be a green plant in a white pot sit on a brown table . 
+
+verb-prep-object	sit on table
+object-prep-object	pot on table
+object-prep-object	plant in pot
+attribute-object	green plant
+attribute-object	white pot
+attribute-object	brown table
+object-verb	pot sit
+object	table
+object	pot
+object	plant
+object	pottedplant
+#####################################################

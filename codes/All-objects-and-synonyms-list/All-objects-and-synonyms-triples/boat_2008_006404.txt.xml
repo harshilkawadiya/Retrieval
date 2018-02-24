@@ -1,0 +1,72 @@
+A male and female in a moving sail boat on a lake . 
+a male and female in a move sail boat on a lake . 
+
+object-prep-object	boat on water
+object-prep-object	male in boat
+object-prep-object	female in boat
+attribute-object	move boat
+attribute-object	sail boat
+object	boat
+object	water
+object	male
+object	female
+object	boat
+#####################################################
+A small sailboat passes in front of the lakeside forest and houses near a yellow buoy . 
+a small sailboat pass in front of the lakeside forest and house near a yellow buoy . 
+
+verb-prep-object	pass in_front_of forest
+object-prep-object	boat in_front_of sailboat
+verb-prep-object	pass in_front_of building
+object-prep-object	boat in_front_of building
+verb-prep-object	pass near buoy
+object-prep-object	boat near sailboat
+attribute-object	small boat
+attribute-object	lakeside forest
+attribute-object	yellow buoy
+object-verb	boat pass
+object	forest
+object	boat
+object	sailboat
+object	building
+object	house
+object	buoy
+object	boat
+#####################################################
+A yellow and white sail boat glides between the shore and a yellow buoy . 
+a yellow and white sail boat glide between the shore and a yellow buoy . 
+
+verb-prep-object	glide between shore_and_buoy
+attribute-object	yellow buoy
+attribute-object	yellow boat
+attribute-object	white boat
+attribute-object	sail boat
+object-verb	boat glide
+object	shore_and_buoy
+object	buoy
+object	boat
+object	boat
+#####################################################
+Sail boat on water with two people riding inside . 
+Sail boat on water with two people ride inside . 
+
+object-prep-object	boat with person
+object-prep-object	boat on water
+verb-attribute	ride inside
+attribute-object	sail boat
+object-verb	boat ride
+object	boat
+object	person
+object	water
+object	boat
+#####################################################
+Small sailboat with spinnaker passing a buoy . 
+small sailboat with spinnaker pass a buoy . 
+
+object-prep-object	boat with sailboat
+attribute-object	small boat
+object-verb-object	boat pass sailboat
+object	boat
+object	sailboat
+object	boat
+#####################################################

@@ -1,0 +1,59 @@
+A bottle of beer and its cap . 
+a bottle of beer and its cap . 
+
+object-prep-object	bottle of beer
+object	cap
+object	bottle
+object	beer
+object	cap
+object	bottle
+#####################################################
+A bottle of beer with the cap taken off . 
+a bottle of beer with the cap take off . 
+
+object-prep-object	bottle of beer
+object-prep-object	bottle with cap
+object-verb	cap take
+verb-attribute	take off
+object	bottle
+object	beer
+object	cap
+object	bottle
+#####################################################
+A bottle of Fort Garry Dark Ale sits open on a brown table , the cap resting next to it . 
+a bottle of Fort Garry dark Ale sit open on a brown table , the cap rest next to it . 
+
+object-verb	bottle sit
+verb-prep-object	sit on table
+attribute-object	brown table
+object-verb	cap rest
+object-prep-object	bottle of ale
+attribute-object	fort ale
+attribute-object	garry ale
+attribute-object	dark ale
+object	bottle
+object	table
+object	cap
+object	ale
+object	bottle
+#####################################################
+An open bottle of dark ale beer . 
+a open bottle of dark ale beer . 
+
+object-prep-object	bottle of beer
+attribute-object	open bottle
+attribute-object	dark beer
+attribute-object	ale beer
+object	bottle
+object	beer
+object	bottle
+#####################################################
+Opened bottle of beer . 
+open bottle of beer . 
+
+object-prep-object	bottle of beer
+attribute-object	open bottle
+object	bottle
+object	beer
+object	bottle
+#####################################################

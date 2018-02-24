@@ -1,0 +1,50 @@
+beam_size_1	2	A group of girls sit back to back .
+beam_size_1	3	a group of girls sitting in a circle
+beam_size_1	4	Little girl in bare feet sitting in a circle .
+beam_size_1	5	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	6	The young girls sat in a circle on the wood floor .
+beam_size_1	7	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	8	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	9	a little boy at the beach with a surfboard
+beam_size_1	10	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	11	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	12	An older child watching a toddler play with a long spring inside a house .
+beam_size_1	13	A young child plays with a slinky in the family room while an older sibling watches .
+beam_size_1	14	Two little children and one is playing with a slinky .
+beam_size_1	15	Two young children are playing in the living room with some toys .
+beam_size_1	16	two young children playing in front of a couch
+beam_size_1	17	A black dog jumping from a dock into water .
+beam_size_1	18	A black dog jumping into a lake .
+beam_size_1	19	A black dog jumping off of a dock .
+beam_size_1	20	A black lab jumps off a dock into a pond .
+beam_size_1	21	A large black dog is jumping off a pier into a pond .
+beam_size_1	22	Children participate in a sport on a green field while in uniforms .
+beam_size_1	23	The young soccer player enjoys the game .
+beam_size_1	24	Two girls in soccer strips are playing on a sports field .
+beam_size_1	25	Two girls play on a fenced in field .
+beam_size_1	26	Two girls wearing black and white uniforms run down a grassy field .
+beam_size_1	27	A teacher is instructing two boys how to use the computer in a class .
+beam_size_1	28	A woman helps boys on a computer .
+beam_size_1	29	Children sit in front of a computer while their teacher instructs them .
+beam_size_1	30	Kids work at computers with a teacher 's help .
+beam_size_1	31	Two boys are getting help on a computer from a teacher .
+beam_size_1	32	A couple are walking along a street while the man carries a toddler over one shoulder .
+beam_size_1	33	A couple is walking away while an infant sleeps on the father 's shoulders .
+beam_size_1	34	A man carries a child while he walks with a woman .
+beam_size_1	35	A man holding a sleeping child walks with a woman .
+beam_size_1	36	The man walking next to the woman up the steps has a sleeping child on his shoulder .
+beam_size_1	37	A little girl hugs another little girl .
+beam_size_1	38	A young child is being held by another child looking straight at us .
+beam_size_1	39	Two toddlers posing for the camera .
+beam_size_1	40	Two young children holding each other and posing .
+beam_size_1	41	Two young girls hug .
+beam_size_1	42	A girl in a hooded jacket presents a cake with candles .
+beam_size_1	43	A girl in a hood jacket holds a birthday cake with many candles .
+beam_size_1	44	A girl in a winter coat with a birthday cake .
+beam_size_1	45	A girl is holding a birthday cake .
+beam_size_1	46	A young girl holding a cake with candles dressed in a heavy coat .
+beam_size_1	47	A man in a Miami basketball uniform looking to the right
+beam_size_1	48	a man wears a orange jersey .
+beam_size_1	49	A Miami basketball player looks off in the distance .
+beam_size_1	50	The mans shirt is orange and has a United States flag patch on the shoulder .
+beam_size_1	51	The Miami basketball player is looking .

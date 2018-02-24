@@ -1,0 +1,50 @@
+A close-up of bright colored houses . 
+a close-up of bright color house . 
+
+attribute-object	bright house
+attribute-object	color house
+object	house
+object	motorbike
+#####################################################
+A line of closely packed buildings . 
+a line of closely packed building . 
+
+attribute-object	closely building
+attribute-object	packed building
+object	building
+object	motorbike
+#####################################################
+Alleyway with blue doors into building . 
+Alleyway with blue door into building . 
+
+object-prep-object	alleyway with door
+attribute-object	blue door
+object-prep-object	door into building
+object	alleyway
+object	door
+object	building
+object	motorbike
+#####################################################
+A view of buildings with various different colors alongside each other . 
+a view of building with various different color alongside each other . 
+
+object-prep-object	building with color
+attribute-object	various color
+attribute-object	different color
+object	building
+object	color
+object	motorbike
+#####################################################
+Brick , turquoise , and blue exteriors of buildings on a street . 
+Brick , turquoise , and blue exterior of building on a street . 
+
+object-prep-object	exterior of building
+object-prep-object	building on street
+attribute-object	brick exterior
+attribute-object	turquoise exterior
+attribute-object	blue exterior
+object	exterior
+object	building
+object	street
+object	motorbike
+#####################################################

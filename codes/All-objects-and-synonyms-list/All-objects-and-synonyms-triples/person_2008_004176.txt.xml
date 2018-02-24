@@ -1,0 +1,59 @@
+A group of girls are posing with two . 
+a group of girl be pose with two . 
+
+object-verb	person pose
+object	person
+object	girl
+object	person
+#####################################################
+A group of people standing with two other people dressed as Elvis . 
+a group of people stand with two other people dress as Elvis . 
+
+verb-prep-object	dress as elvis
+verb-prep-object	stand with person
+object-prep-object	person with person
+object-verb	person stand
+object-verb	person dress
+object	elvis
+object	person
+object	people
+object	person
+#####################################################
+Five women posing with two Elvis impersonators . 
+five woman pose with two Elvis impersonator . 
+
+verb-prep-object	pose with impersonator
+object-prep-object	person with woman
+attribute-object	elvis impersonator
+object-verb	person pose
+object	impersonator
+object	person
+object	woman
+object	person
+#####################################################
+Group of people posing with two men dressed as Elvis . 
+Group of people pose with two man dress as Elvis . 
+
+verb-prep-object	dress as elvis
+verb-prep-object	pose with person
+object-prep-object	person with person
+object-verb	person dress
+object-verb	person pose
+object	elvis
+object	person
+object	man
+object	people
+object	person
+#####################################################
+The group of ladies take a photo with a couple of Elvis impersonators . 
+the group of lady take a photo with a couple of Elvis impersonator . 
+
+object-prep-object	photo with impersonator
+object-verb-object	person take lady
+attribute-object	elvis impersonator
+object	photo
+object	impersonator
+object	person
+object	lady
+object	person
+#####################################################

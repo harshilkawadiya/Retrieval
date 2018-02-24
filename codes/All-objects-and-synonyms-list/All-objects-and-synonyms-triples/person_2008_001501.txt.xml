@@ -1,0 +1,64 @@
+A group of children jump on the beach . 
+a group of child jump on the beach . 
+
+verb-prep-object	jump on beach
+object-prep-object	person on child
+object-verb	person jump
+object	beach
+object	person
+object	child
+object	person
+#####################################################
+A row of children on a beach jumping in the air . 
+a row of child on a beach jump in the air . 
+
+object-prep-object	person on child
+verb-prep-object	jump in sky
+object-prep-object	person in sky
+object-verb	person jump
+object	person
+object	child
+object	sky
+object	air
+object	person
+#####################################################
+Children at the seashore are jumping into the air . 
+child at the seashore be jump into the air . 
+
+object-prep-object	person at child
+verb-prep-object	jump into sky
+object-prep-object	person into sky
+object-verb	person jump
+object	person
+object	child
+object	sky
+object	air
+object	person
+#####################################################
+Six people jump in the air above a sandy beach . 
+six people jump in the air above a sandy beach . 
+
+verb-prep-object	jump in sky
+object-prep-object	person in sky
+object-verb	person jump
+verb-prep-object	jump above beach
+attribute-object	sandy beach
+object	sky
+object	air
+object	person
+object	people
+object	beach
+object	person
+#####################################################
+These teenagers jumped into the air simultaneously for this fun beach photo . 
+these teenager jump into the air simultaneously for this fun beach photo . 
+
+object-verb	person jump
+verb-prep-object	jump into sky
+object-prep-object	person into sky
+object	person
+object	teenager
+object	sky
+object	air
+object	person
+#####################################################

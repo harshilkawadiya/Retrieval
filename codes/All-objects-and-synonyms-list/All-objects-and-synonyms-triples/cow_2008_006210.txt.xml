@@ -1,0 +1,48 @@
+A brown and white cow in a field looking into the camera . 
+a brown and white cow in a field look into the camera . 
+
+verb-prep-object	look into camera
+object-prep-object	cow in field
+attribute-object	brown cow
+attribute-object	white cow
+object-verb	cow look
+object	camera
+object	cow
+object	field
+object	cow
+#####################################################
+A young cow in the field . 
+a young cow in the field . 
+
+object-prep-object	cow in field
+attribute-object	young cow
+object	cow
+object	field
+object	cow
+#####################################################
+Brown cow with both ears tagged with yellow tags . 
+Brown cow with both ear tag with yellow tag . 
+
+object-prep-object	cow with ear
+object-verb	ear tag
+verb-prep-object	tag with tag
+attribute-object	yellow tag
+attribute-object	brown cow
+object	cow
+object	ear
+object	tag
+object	cow
+#####################################################
+Tan cow with ear tags on a grassy field . 
+Tan cow with ear tag on a grassy field . 
+
+object-prep-object	cow on field
+object-prep-object	cow with tag
+attribute-object	grassy field
+attribute-object	tan cow
+attribute-object	ear tag
+object	cow
+object	field
+object	tag
+object	cow
+#####################################################

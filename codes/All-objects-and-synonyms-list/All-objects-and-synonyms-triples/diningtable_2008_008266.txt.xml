@@ -1,0 +1,83 @@
+A middle-aged woman poses for the camera at a steakhouse . 
+a middle-aged woman pose for the camera at a steakhouse . 
+
+verb-prep-object	pose for camera
+verb-prep-object	pose at steakhouse
+object-prep-object	person at woman
+attribute-object	middle-aged person
+object-verb	person pose
+object	camera
+object	steakhouse
+object	person
+object	woman
+object	diningtable
+#####################################################
+A woman in a white blouse and black necklace sits at a table . 
+a woman in a white blouse and black necklace sit at a table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person in woman
+object-prep-object	person in woman
+attribute-object	white blouse
+attribute-object	black necklace
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	woman
+object	blouse
+object	necklace
+object	diningtable
+#####################################################
+A woman wearing black and white sits at a table with an empty plate , a cellphone , a bag and a glasses . 
+a woman wear black and white sit at a table with a empty plate , a cellphone , a bag and a glass . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+object-verb-object	person wear woman
+object-verb-object	person wear woman
+attribute-object	empty plate
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	woman
+object	plate
+object	diningtable
+#####################################################
+A woman sitting in a restaurant wearing a black and white outfit . 
+a woman sit in a restaurant wear a black and white outfit . 
+
+verb-prep-object	sit in restaurant
+object-prep-object	person in woman
+attribute-object	black suit
+attribute-object	white suit
+object-verb-object	person wear suit
+object-verb	person sit
+object	restaurant
+object	person
+object	woman
+object	suit
+object	outfit
+object	diningtable
+#####################################################
+Woman sitting at a table with an empty plate . 
+Woman sit at a table with a empty plate . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+attribute-object	empty plate
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	woman
+object	plate
+object	diningtable
+#####################################################

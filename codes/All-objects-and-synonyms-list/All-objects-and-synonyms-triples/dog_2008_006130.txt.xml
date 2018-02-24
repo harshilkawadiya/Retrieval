@@ -1,0 +1,59 @@
+a dog napping under a small table . 
+a dog nap under a small table . 
+
+verb-prep-object	nap under diningtable
+object-prep-object	dog under diningtable
+attribute-object	small diningtable
+object-verb	dog nap
+object	diningtable
+object	table
+object	dog
+object	dog
+#####################################################
+A dog sleeping under a table . 
+a dog sleep under a table . 
+
+verb-prep-object	sleep under diningtable
+object-prep-object	dog under diningtable
+object-verb	dog sleep
+object	diningtable
+object	table
+object	dog
+object	dog
+#####################################################
+Brown and white sleeping dog . 
+Brown and white sleeping dog . 
+
+attribute-object	brown dog
+attribute-object	white dog
+attribute-object	sleeping dog
+object	dog
+object	dog
+#####################################################
+The spotted dog naps under the chair . 
+the spotted dog nap under the chair . 
+
+verb-prep-object	nap under chair
+object-prep-object	dog under chair
+attribute-object	spotted dog
+attribute-object	dog nap
+object	chair
+object	dog
+object	nap
+object	dog
+#####################################################
+The white , brown , and black spotted dog is asleep under the bench . 
+the white , brown , and black spotted dog be asleep under the bench . 
+
+verb-prep-object	asleep under chair
+object-prep-object	dog under chair
+attribute-object	white dog
+attribute-object	brown dog
+attribute-object	black dog
+attribute-object	spotted dog
+object-verb	dog asleep
+object	chair
+object	bench
+object	dog
+object	dog
+#####################################################

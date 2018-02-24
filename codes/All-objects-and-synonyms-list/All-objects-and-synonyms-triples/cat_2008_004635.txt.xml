@@ -1,0 +1,63 @@
+A close-up of a cat on a cream sofa . 
+a close-up of a cat on a cream sofa . 
+
+object-prep-object	cat on sofa
+attribute-object	cream sofa
+object	cat
+object	sofa
+object	cat
+#####################################################
+A lazy looking blue eyed Siamese resting on white furniture . 
+a lazy look blue eye siamese rest on white furniture . 
+
+object-verb	cat rest
+verb-prep-object	rest on furniture
+object-prep-object	cat on siamese
+attribute-object	white furniture
+attribute-object	lazy cat
+attribute-object	looking cat
+attribute-object	blue cat
+attribute-object	eye cat
+object	cat
+object	siamese
+object	furniture
+object	cat
+#####################################################
+A siamese cat lying on a white sofa . 
+a siamese cat lie on a white sofa . 
+
+verb-prep-object	lie on sofa
+object-prep-object	cat on sofa
+attribute-object	siamese cat
+attribute-object	white sofa
+object-verb	cat lie
+object	sofa
+object	cat
+object	cat
+#####################################################
+A siamese cat resting on a white sofa . 
+a siamese cat rest on a white sofa . 
+
+verb-prep-object	rest on sofa
+object-prep-object	cat on sofa
+attribute-object	siamese cat
+attribute-object	white sofa
+object-verb	cat rest
+object	sofa
+object	cat
+object	cat
+#####################################################
+A white & tan cat is laying down on a white sofa . 
+a white & tan cat be lay down on a white sofa . 
+
+verb-prep-object	lay on sofa
+object-prep-object	cat on sofa
+attribute-object	white sofa
+attribute-object	white cat
+attribute-object	tan cat
+object-verb	cat lay
+verb-attribute	lay down
+object	sofa
+object	cat
+object	cat
+#####################################################

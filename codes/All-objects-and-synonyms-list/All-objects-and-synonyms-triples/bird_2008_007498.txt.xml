@@ -1,0 +1,55 @@
+A bird eating from a bird feeder . 
+a bird eating from a bird feeder . 
+
+verb-prep-object	eat from person
+object-verb	bird eat
+attribute-object	bird person
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+A bird lands on a bird feeder . 
+a bird land on a bird feeder . 
+
+verb-prep-object	land on person
+object-verb	bird land
+attribute-object	bird person
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+A hummingbird eats out of a bird feeder . 
+a hummingbird eat out of a bird feeder . 
+
+verb-prep-object	eat out_of person
+attribute-object	bird person
+object-verb	bird eat
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################
+Bird eating from a bird feeder . 
+bird eating from a bird feeder .
+
+object-verb	bird eat
+verb-prep-object	eat from person
+attribute-object	bird person
+object	bird
+object	person
+object	feeder
+object	bird
+#####################################################
+Bird eating from a bird feeder .
+Bird eat from a bird feeder . 
+
+object-verb	bird eat
+verb-prep-object	eat from person
+attribute-object	bird person
+object	bird
+object	person
+object	feeder
+object	bird
+#####################################################

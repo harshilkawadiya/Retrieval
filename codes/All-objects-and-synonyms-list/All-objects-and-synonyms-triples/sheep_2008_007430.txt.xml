@@ -1,0 +1,50 @@
+A close-up of a large white sheep . 
+a close-up of a large white sheep . 
+
+attribute-object	large sheep
+attribute-object	white sheep
+object	sheep
+object	sheep
+#####################################################
+A close-up of a sheep with its tongue hanging out . 
+a close-up of a sheep with its tongue hang out . 
+
+object-prep-object	sheep with tongue
+object-verb	tongue hang
+verb-attribute	hang out
+object	sheep
+object	tongue
+object	sheep
+#####################################################
+Close up image of a sheep with it 's tongue hanging out . 
+close up image of a sheep with it be tongue hang out . 
+
+object-prep-object	sheep with tongue
+object-verb	tongue hang
+verb-attribute	hang out
+object	sheep
+object	tongue
+object	sheep
+#####################################################
+Close up of a sheep 's face with it 's mouth open . 
+close up of a sheep 's face with it be mouth open . 
+
+object-prep-object	face with mouth
+attribute-object	sheep face
+object	face
+object	mouth
+object	sheep
+#####################################################
+Up close image of sheep with grass stuck in fur . 
+up close image of sheep with grass stick in fur . 
+
+object-prep-object	sheep with grass
+verb-prep-object	stick in furry
+object-prep-object	sheep in furry
+object-verb	sheep stick
+object	sheep
+object	grass
+object	furry
+object	fur
+object	sheep
+#####################################################

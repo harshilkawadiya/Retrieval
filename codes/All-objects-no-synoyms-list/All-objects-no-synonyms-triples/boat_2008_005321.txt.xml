@@ -1,0 +1,55 @@
+A boat is docked in water . 
+a boat be dock in water . 
+
+verb-prep-object	dock in water
+object-prep-object	boat in water
+object-verb	boat dock
+object	water
+object	boat
+object	boat
+#####################################################
+An open-topped boat is moored in a calm bay . 
+a open-topped boat be moor in a calm bay . 
+
+verb-prep-object	moor in bay
+object-prep-object	boat in bay
+attribute-object	open-topped boat
+attribute-object	calm bay
+object-verb	boat moor
+object	bay
+object	boat
+object	boat
+#####################################################
+A small motorboat is in the shallow water . 
+a small motorboat be in the shallow water . 
+
+object-prep-object	motorboat in water
+attribute-object	small motorboat
+attribute-object	shallow water
+object	motorboat
+object	water
+object	boat
+#####################################################
+Small wooden boat anchored near shore . 
+small wooden boat anchor near shore . 
+
+verb-prep-object	anchor near shore
+object-prep-object	boat near shore
+attribute-object	small boat
+attribute-object	wooden boat
+object-verb	boat anchor
+object	shore
+object	boat
+object	boat
+#####################################################
+The old boat sits on the dock . 
+the old boat sit on the dock . 
+
+verb-prep-object	sit on dock
+object-prep-object	boat on dock
+attribute-object	old boat
+object-verb	boat sit
+object	dock
+object	boat
+object	boat
+#####################################################

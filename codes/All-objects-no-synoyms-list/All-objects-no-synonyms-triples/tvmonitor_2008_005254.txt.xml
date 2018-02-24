@@ -1,0 +1,60 @@
+A blank screen with two remotes on the table . 
+a blank screen with two remote on the table . 
+
+object-prep-object	remote on table
+object-prep-object	screen with remote
+attribute-object	blank screen
+object	remote
+object	table
+object	screen
+object	tvmonitor
+#####################################################
+A flat screen television on a table with two remote controls . 
+a flat screen television on a table with two remote control . 
+
+object-prep-object	table with control
+object-prep-object	television on table
+attribute-object	flat television
+attribute-object	remote control
+attribute-object	screen television
+object	table
+object	control
+object	television
+object	tvmonitor
+#####################################################
+A Philips flat-screen TV is shown with its two remote controls . 
+a Philips flat-screen tv be show with its two remote control . 
+
+verb-prep-object	show with control
+object-prep-object	tv with control
+attribute-object	philips tv
+attribute-object	flat-screen tv
+attribute-object	remote control
+object-verb	tv show
+object	control
+object	tv
+object	tvmonitor
+#####################################################
+A Philips flat screen TV with two remote controls . 
+a Philips flat screen tv with two remote control . 
+
+object-prep-object	tv with control
+attribute-object	philips tv
+attribute-object	flat tv
+attribute-object	remote control
+attribute-object	screen tv
+object	tv
+object	control
+object	tvmonitor
+#####################################################
+Flat screen television with two remote controls sitting in front . 
+flat screen television with two remote control sit in front . 
+
+object-prep-object	television with control
+attribute-object	flat television
+attribute-object	remote control
+attribute-object	screen television
+object	television
+object	control
+object	tvmonitor
+#####################################################

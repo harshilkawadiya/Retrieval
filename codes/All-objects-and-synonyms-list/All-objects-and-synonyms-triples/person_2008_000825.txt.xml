@@ -1,0 +1,65 @@
+A man is smiling in a garden . 
+a man be smile in a garden . 
+
+verb-prep-object	smile in garden
+object-prep-object	person in man
+object-verb	person smile
+object	garden
+object	person
+object	man
+object	person
+#####################################################
+A man kneeling down in front of a yellow flower and a fence . 
+a man kneel down in front of a yellow flower and a fence . 
+
+verb-prep-object	kneel in_front_of flower
+verb-prep-object	kneel in_front_of fence
+object-prep-object	person in_front_of man
+object-prep-object	person in_front_of man
+attribute-object	yellow flower
+object-verb	person kneel
+verb-attribute	kneel down
+object	flower
+object	fence
+object	person
+object	man
+object	person
+#####################################################
+A man sitting in a garden . 
+a man sit in a garden . 
+
+verb-prep-object	sit in garden
+object-prep-object	person in man
+object-verb	person sit
+object	garden
+object	person
+object	man
+object	person
+#####################################################
+Man posing in backyard in front of sunflower . 
+man pose in backyard in front of sunflower . 
+
+verb-prep-object	pose in backyard
+object-prep-object	person in man
+verb-prep-object	pose in_front_of flower
+object-prep-object	person in_front_of flower
+object-verb	person pose
+object	backyard
+object	person
+object	man
+object	flower
+object	sunflower
+object	person
+#####################################################
+The man is posing with a sunflower . 
+the man be pose with a sunflower . 
+
+verb-prep-object	pose with flower
+object-prep-object	person with flower
+object-verb	person pose
+object	flower
+object	sunflower
+object	person
+object	man
+object	person
+#####################################################

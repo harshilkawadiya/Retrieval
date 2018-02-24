@@ -1,0 +1,58 @@
+a close up of a man on a passenger plane . 
+a close up of a man on a passenger plane . 
+
+object-prep-object	man on plane
+attribute-object	passenger plane
+object	man
+object	plane
+object	person
+#####################################################
+A man on a plane is smiling and looks surprised . 
+a man on a plane be smile and look surprised . 
+
+object-prep-object	man on plane
+object-verb-object	man look surprised
+object-verb	man smile
+object	man
+object	plane
+object	surprised
+object	person
+#####################################################
+A wide-eyed blonde man sits in an airplane next to an Asian man . 
+a wide-eyed blonde man sit in a airplane next to a asian man . 
+
+verb-prep-verb	sit next_to man
+object-prep-object	man next_to man
+verb-prep-object	sit in airplane
+object-prep-object	man in airplane
+attribute-object	wide-eyed man
+attribute-object	blonde man
+attribute-object	asian man
+object-verb	man sit
+object	man
+object	airplane
+object	person
+#####################################################
+Two men on a plane , the closer one with a suspicious look on his face . 
+two man on a plane , the closer one with a suspicious look on he face . 
+
+object-prep-object	man on plane
+object-prep-object	man with look
+attribute-object	suspicious look
+object	man
+object	plane
+object	look
+object	person
+#####################################################
+Up close photo of man with short blonde hair on airplane . 
+up close photo of man with short blonde hair on airplane . 
+
+object-prep-object	man with hair
+attribute-object	short hair
+attribute-object	blonde hair
+object-prep-object	man on airplane
+object	man
+object	hair
+object	airplane
+object	person
+#####################################################

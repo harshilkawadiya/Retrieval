@@ -1,0 +1,45 @@
+A red and white double decker bus is parked . 
+a red and white double decker bus be park . 
+
+attribute-object	red bus
+attribute-object	white bus
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus park
+object	bus
+object	bus
+#####################################################
+Double decker white bus parked in parking lot . 
+double decker white bus park in parking lot . 
+
+verb-prep-object	park in lot
+object-prep-object	bus in lot
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	white bus
+attribute-object	parking lot
+object-verb	bus park
+object	lot
+object	bus
+object	bus
+#####################################################
+Parked white double decker bus . 
+park white double decker bus . 
+
+attribute-object	park bus
+attribute-object	white bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	bus
+#####################################################
+The front and right side of a red and white double decker bus . 
+the front and right side of a red and white double decker bus . 
+
+attribute-object	red bus
+attribute-object	white bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	bus
+#####################################################

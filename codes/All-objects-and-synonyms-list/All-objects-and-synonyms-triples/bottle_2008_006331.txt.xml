@@ -1,0 +1,64 @@
+A man and woman are posing for the camera . 
+a man and woman be pose for the camera . 
+
+verb-prep-object	pose for camera
+object-verb	person pose
+object-verb	person pose
+object	camera
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################
+A man and woman stand , smiling for camera . 
+a man and woman stand , smile for camera . 
+
+verb-prep-object	smile for camera
+object-verb	person stand
+object-verb	person stand
+object-verb	person smile
+object-verb	person smile
+object	camera
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################
+A man and women smiling for the camera in a kitchen . 
+a man and woman smile for the camera in a kitchen . 
+
+verb-prep-object	smile for camera
+object-prep-object	person in man
+object-prep-object	person in woman
+object-verb	person smile
+object-verb	person smile
+object	camera
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################
+A young couple take a moment out of their shopping to take a photo . 
+a young couple take a moment out of they shopping to take a photo . 
+
+attribute-object	young person
+object	person
+object	couple
+object	bottle
+#####################################################
+Young man with woman standing together in store . 
+young man with woman standing together in store . 
+
+verb-prep-object	stand in store
+object-prep-object	person in man
+object-prep-object	person in woman
+attribute-object	young person
+object-prep-object	person with person
+object-verb	person stand
+object-verb	person stand
+object	store
+object	person
+object	man
+object	woman
+object	bottle
+#####################################################

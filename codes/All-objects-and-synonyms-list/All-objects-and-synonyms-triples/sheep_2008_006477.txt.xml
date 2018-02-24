@@ -1,0 +1,59 @@
+A black and white baby goat looks off to the side . 
+a black and white baby goat look off to the side . 
+
+attribute-object	black sheep
+attribute-object	white sheep
+attribute-object	baby sheep
+object-verb	sheep look
+verb-attribute	look off
+object	sheep
+object	cow
+object	sheep
+#####################################################
+A sheep sits near a metal fence . 
+a sheep sit near a metal fence . 
+
+verb-prep-object	sit near fence
+object-prep-object	sheep near fence
+attribute-object	metal fence
+object-verb	sheep sit
+object	fence
+object	sheep
+object	sheep
+#####################################################
+A small black and white goat in a pen looking up at the camera . 
+a small black and white goat in a pen look up at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	sheep in cow
+attribute-object	small sheep
+attribute-object	black sheep
+attribute-object	white sheep
+object-verb	sheep look
+verb-attribute	look up
+object	camera
+object	sheep
+object	cow
+object	sheep
+#####################################################
+Black baby goat in fenced area . 
+Black baby goat in fenced area . 
+
+object-prep-object	sheep in cow
+attribute-object	fenced area
+attribute-object	black sheep
+attribute-object	baby sheep
+object	sheep
+object	cow
+object	area
+object	sheep
+#####################################################
+Small goat is seated looking upward . 
+small goat be seat look upward . 
+
+attribute-object	small sheep
+object-verb	sheep seat
+object	sheep
+object	cow
+object	sheep
+#####################################################

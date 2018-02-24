@@ -1,0 +1,50 @@
+beam_size_1	2	A girl making a sad face standing in front of her tricycle
+beam_size_1	3	A little girl in a pink shirt about to cry
+beam_size_1	4	A little girl with mud on her face cries .
+beam_size_1	5	A young girl with dirt on her face and a red child 's bike is in the background .
+beam_size_1	6	The girl in a pink top is standing next to a red tricycle looking like she is about to cry .
+beam_size_1	7	A little girl slides down a green slide with her arms up at a playground .
+beam_size_1	8	A little girl sliding down a slide at a playground .
+beam_size_1	9	A young girl is sliding down a slide at a playground .
+beam_size_1	10	A young girl slides down a green plastic slide on a playground .
+beam_size_1	11	The girl is sliding down a green slide .
+beam_size_1	12	A ban in a grey swaetshirt picks out greens in a supermarket .
+beam_size_1	13	A man is taking a look at the food products .
+beam_size_1	14	A man looking at produce .
+beam_size_1	15	A man shopping for fresh lettuce in a market
+beam_size_1	16	An older man examines produce .
+beam_size_1	17	A baby sits on a tire and holds a toy .
+beam_size_1	18	A little kid , with a red toy , is sitting on a tire .
+beam_size_1	19	Boy in pajamas , with red and yellow toy , seated on tire near plants .
+beam_size_1	20	Child holding plastic car sits on a tire .
+beam_size_1	21	The child is sitting on the street playing with a red toy .
+beam_size_1	22	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	23	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	24	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	25	Two people riding a bike are riding towards a stop sign .
+beam_size_1	26	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	27	Airplane emitting heavy red colored smoke .
+beam_size_1	28	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	29	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	30	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	31	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	32	A boy points .
+beam_size_1	33	A boy points at something while a man looks .
+beam_size_1	34	A boy smiles at points at something ; a man looks to the side .
+beam_size_1	35	A little boy smiles and points while a man looks in the direction of the child 's gaze .
+beam_size_1	36	The man in the blue shirt is looking in the direction to which the little boy is pointing .
+beam_size_1	37	A woman carrying a white ball is running behind a small boy .
+beam_size_1	38	A woman holding a ball chases a small boy running in the grass .
+beam_size_1	39	a woman holding a small ball chasing after a small boy .
+beam_size_1	40	A woman is running after a boy on the grass .
+beam_size_1	41	A woman with a softball runs after a child in a grassy lawn .
+beam_size_1	42	A child slides down a slide and into the water .
+beam_size_1	43	A girl sliding into a pool
+beam_size_1	44	A little girl in a white shirt sliding down a green slide splashing into a blue baby pool .
+beam_size_1	45	A little girl splashes in a pool of water .
+beam_size_1	46	Little girl slides down in the pool .
+beam_size_1	47	A boy is sitting in a car seat in the backseat of a car .
+beam_size_1	48	A boy making a face while sitting in his car seat
+beam_size_1	49	A boy sitting in a car making a surprised face
+beam_size_1	50	A young boy is buckled into a car seat making a silly face .
+beam_size_1	51	The young boy with a silly face is buckled in a car seat .

@@ -1,0 +1,64 @@
+A black and white cow grazing near water . 
+a black and white cow grazing near water . 
+
+verb-prep-object	graze near water
+object-prep-object	cow near water
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow graze
+object	water
+object	cow
+object	cow
+#####################################################
+A cow grazing in the grass by a river . 
+a cow grazing in the grass by a river . 
+
+verb-prep-object	graze by water
+verb-prep-object	graze in grass
+object-prep-object	cow by water
+object-prep-object	cow in grass
+object-verb	cow graze
+object	water
+object	river
+object	grass
+object	cow
+object	cow
+#####################################################
+A cow grazing within its pen . 
+a cow grazing within its pen . 
+
+verb-prep-object	graze within pen
+object-prep-object	cow within pen
+object-verb	cow graze
+object	pen
+object	cow
+object	cow
+#####################################################
+A cow standing in front of a shack on the edge of a body of water . 
+a cow standing in front of a shack on the edge of a body of water . 
+
+object-verb	cow stand
+verb-prep-object	stand in_front_of shack
+object-prep-object	cow in_front_of shack
+verb-prep-object	stand on water
+object-prep-object	cow on water
+object	cow
+object	shack
+object	water
+object	cow
+#####################################################
+Black and white cow grazing on grass in front of stream . 
+Black and white cow grazing on grass in front of stream . 
+
+object-verb	cow graze
+attribute-object	black cow
+attribute-object	white cow
+verb-prep-object	graze on grass
+object-prep-object	cow on grass
+verb-prep-object	graze in_front_of stream
+object-prep-object	cow in_front_of stream
+object	cow
+object	grass
+object	stream
+object	cow
+#####################################################

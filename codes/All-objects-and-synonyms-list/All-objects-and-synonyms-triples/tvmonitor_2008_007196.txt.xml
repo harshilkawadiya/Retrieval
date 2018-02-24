@@ -1,0 +1,52 @@
+Several televisions are on the floor and stacked up on top of one another . 
+several television be on the floor and stack up on top of one another . 
+
+attribute-object	several tvmonitor
+object-prep-object	tvmonitor on television
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+There are three TV 's and a TV box piled on the floor . 
+there be three tv 's and a tv box pile on the floor . 
+
+object-verb	box pile
+verb-prep-object	pile on floor
+attribute-object	tv box
+object-prep-object	box on floor
+object-prep-object	tvmonitor on tv
+object-verb	tvmonitor pile
+object	box
+object	floor
+object	tvmonitor
+object	tv
+object	tvmonitor
+#####################################################
+This is an image of the back of some old televisions . 
+this be a image of the back of some old television . 
+
+attribute-object	old tvmonitor
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+Three televisions are on the floor , the other two on a box . 
+three television be on the floor , the other two on a box . 
+
+object-prep-object	tvmonitor on television
+object-prep-object	tvmonitor on television
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+Two portable televisions on a brown rug . 
+two portable television on a brown rug . 
+
+object-prep-object	tvmonitor on television
+attribute-object	portable tvmonitor
+attribute-object	brown rug
+object	tvmonitor
+object	television
+object	rug
+object	tvmonitor
+#####################################################

@@ -1,0 +1,59 @@
+A boy is sniffed through a fence by a black sheep . 
+a boy be sniff through a fence by a black sheep . 
+
+verb-prep-object	sniff through fence
+verb-prep-object	sniff by sheep
+attribute-object	black sheep
+object-verb	boy sniff
+object	fence
+object	sheep
+object	boy
+object	sheep
+#####################################################
+A little boy looking at a sheep poking his head through the fence . 
+a little boy look at a sheep poke he head through the fence . 
+
+verb-prep-object	poke through fence
+verb-prep-object	look at sheep
+attribute-object	little boy
+object-verb	boy look
+object-verb-object	boy poke head
+object	fence
+object	sheep
+object	boy
+object	head
+object	sheep
+#####################################################
+Black sheep sniffing a little boys knee . 
+Black sheep sniff a little boy knee . 
+
+attribute-object	little knee
+object-verb-object	sheep sniff knee
+attribute-object	black sheep
+attribute-object	boy knee
+object	knee
+object	sheep
+object	sheep
+#####################################################
+The boy kneels in the grass and looks at the sheep as it sticks its head through the fence . 
+the boy kneel in the grass and look at the sheep as it stick its head through the fence . 
+
+verb-prep-object	look at sheep
+verb-prep-object	kneel in grass
+object-prep-object	boy in grass
+object-verb	boy kneel
+object-verb	boy look
+object	sheep
+object	grass
+object	boy
+object	sheep
+#####################################################
+The sheep goes pokes through the fence to check out the boy . 
+the sheep go poke through the fence to check out the boy . 
+
+verb-prep-object	poke through fence
+object-verb	sheep poke
+object	fence
+object	sheep
+object	sheep
+#####################################################

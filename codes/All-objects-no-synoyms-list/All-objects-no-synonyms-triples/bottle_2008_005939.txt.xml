@@ -1,0 +1,63 @@
+A man dressed in a pale scarf with a stick . 
+a man dress in a pale scarf with a stick . 
+
+verb-prep-object	dress with stick
+object-prep-object	man with stick
+verb-prep-object	dress in scarf
+object-prep-object	man in scarf
+attribute-object	pale scarf
+object-verb	man dress
+object	stick
+object	man
+object	scarf
+object	bottle
+#####################################################
+A seated young man draped in a tan cloth holding a stick . 
+a seat young man drape in a tan cloth hold a stick . 
+
+verb-prep-object	drape in cloth
+object-prep-object	man in cloth
+object-verb-object	man hold stick
+attribute-object	tan cloth
+attribute-object	seat man
+attribute-object	young man
+object-verb	man drape
+object	cloth
+object	man
+object	stick
+object	bottle
+#####################################################
+A young man is dressed like a mystic . 
+a young man be dress like a mystic . 
+
+verb-prep-object	dress like mystic
+attribute-object	young man
+object-verb	man dress
+object	mystic
+object	man
+object	bottle
+#####################################################
+Man sitting cross legged while wearing a brown cloth and holding a wooden stick . 
+man sit cross leg while wear a brown cloth and hold a wooden stick . 
+
+attribute-object	brown cloth
+attribute-object	wooden stick
+object-verb	man sit
+object-verb-object	man wear cloth
+object-verb-object	man hold stick
+object	cloth
+object	stick
+object	man
+object	bottle
+#####################################################
+The man is sitting cross legged wearing a cloak and holding a stick . 
+the man be sit cross legged wear a cloak and hold a stick . 
+
+object-verb-object	man wear cloak
+object-verb-object	man hold stick
+object-verb	man sit
+object	man
+object	cloak
+object	stick
+object	bottle
+#####################################################

@@ -1,0 +1,56 @@
+A red bird and four other birds sitting in the snow . 
+a red bird and four other bird sit in the snow . 
+
+verb-prep-object	sit in snow
+object-prep-object	bird in snow
+attribute-object	red bird
+object-verb	bird sit
+object	snow
+object	bird
+object	bird
+#####################################################
+Family of birds walking standing in the snow . 
+Family of bird walk standing in the snow . 
+
+object-prep-object	family of bird
+verb-prep-object	walk in snow
+object-prep-object	bird in snow
+object-verb-object	bird walk standing
+object	family
+object	bird
+object	snow
+object	standing
+object	bird
+#####################################################
+Five birds stand on the snow . 
+five bird stand on the snow . 
+
+verb-prep-object	stand on snow
+object-prep-object	bird on snow
+object-verb	bird stand
+object	snow
+object	bird
+object	bird
+#####################################################
+Several cardinals stand in the snow . 
+several cardinal stand in the snow . 
+
+verb-prep-object	stand in snow
+object-prep-object	cardinal in snow
+attribute-object	several cardinal
+object-verb	cardinal stand
+object	snow
+object	cardinal
+object	bird
+#####################################################
+Small birds sitting on snow . 
+small bird sit on snow . 
+
+verb-prep-object	sit on snow
+object-prep-object	bird on snow
+attribute-object	small bird
+object-verb	bird sit
+object	snow
+object	bird
+object	bird
+#####################################################

@@ -1,0 +1,52 @@
+A docked fishing boat on a clear day . 
+a dock fishing boat on a clear day . 
+
+object-prep-object	boat on day
+attribute-object	dock boat
+attribute-object	fishing boat
+attribute-object	clear day
+object	boat
+object	day
+object	boat
+#####################################################
+a fishing boat at anchor . 
+a fishing boat at anchor . 
+
+attribute-object	fishing boat
+object-prep-object	boat at anchor
+object	boat
+object	anchor
+object	boat
+#####################################################
+A small fishing boat anchored in a cove . 
+a small fishing boat anchor in a cove . 
+
+verb-prep-object	anchor in cove
+object-prep-object	boat in cove
+attribute-object	small boat
+attribute-object	fishing boat
+object-verb	boat anchor
+object	cove
+object	boat
+object	boat
+#####################################################
+A wooden freighter at anchor . 
+a wooden freighter at anchor . 
+
+object-prep-object	freighter at anchor
+attribute-object	wooden freighter
+object	freighter
+object	anchor
+object	boat
+#####################################################
+Fisherman 's boat floating on the water . 
+Fisherman 's boat float on the water . 
+
+verb-prep-object	float on water
+object-prep-object	boat on water
+attribute-object	fisherman boat
+object-verb	boat float
+object	water
+object	boat
+object	boat
+#####################################################

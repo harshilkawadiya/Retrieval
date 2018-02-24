@@ -1,0 +1,60 @@
+A close-up view of a little girl riding a horse . 
+a close-up view of a little girl ride a horse . 
+
+attribute-object	little girl
+object-verb-object	girl ride horse
+object	girl
+object	horse
+object	horse
+#####################################################
+a little girl is riding a white and gray horse . 
+a little girl be ride a white and gray horse . 
+
+attribute-object	little girl
+attribute-object	white horse
+attribute-object	gray horse
+object-verb-object	girl ride horse
+object	girl
+object	horse
+object	horse
+#####################################################
+A young blonde girl in riding gear sits on top of a gray and white horse . 
+a young blonde girl in ride gear sit on top of a gray and white horse . 
+
+object-prep-object	girl in gear
+verb-prep-object	sit on_top_of horse
+object-prep-object	girl on_top_of horse
+attribute-object	young girl
+attribute-object	blonde girl
+attribute-object	ride gear
+attribute-object	gray horse
+attribute-object	white horse
+object-verb	girl sit
+object	girl
+object	gear
+object	horse
+object	horse
+#####################################################
+A young girl riding a white and gray horse . 
+a young girl ride a white and gray horse . 
+
+attribute-object	young girl
+attribute-object	white horse
+attribute-object	gray horse
+object-verb-object	girl ride horse
+object	girl
+object	horse
+object	horse
+#####################################################
+Young girl in riding gear on a horse . 
+Young girl in ride gear on a horse . 
+
+object-prep-object	girl on horse
+object-prep-object	girl in gear
+attribute-object	ride gear
+attribute-object	young girl
+object	girl
+object	horse
+object	gear
+object	horse
+#####################################################

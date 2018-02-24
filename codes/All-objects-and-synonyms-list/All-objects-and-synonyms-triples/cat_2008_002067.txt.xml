@@ -1,0 +1,78 @@
+A couple posing in a picture with a cat in hand . 
+a couple pose in a picture with a cat in hand . 
+
+verb-prep-object	pose in picture
+object-prep-object	person with couple
+verb-prep-object	pose with cat
+object-verb	person pose
+object	picture
+object	person
+object	couple
+object	cat
+object	cat
+#####################################################
+A man and a woman sitting on a couch with a cat . 
+a man and a woman sit on a couch with a cat . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	person on bed
+object-prep-object	sofa with bed
+verb-prep-object	sit with cat
+object-prep-object	person with man
+object-prep-object	person with woman
+object-verb	person sit
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	woman
+object	cat
+object	cat
+#####################################################
+A man and woman smiling at the camera while holding a white cat . 
+a man and woman smile at the camera while hold a white cat . 
+
+verb-prep-object	smile at camera
+attribute-object	white cat
+object-verb	person smile
+object-verb	person smile
+object-verb-object	person hold man
+object-verb-object	person hold woman
+object	camera
+object	cat
+object	person
+object	man
+object	woman
+object	cat
+#####################################################
+Asian couple sitting on couch with a white cat in the woman 's arms . 
+asian couple sit on couch with a white cat in the woman 's arm . 
+
+verb-prep-object	sit with cat
+verb-prep-object	sit on sofa
+object-prep-object	person with couple
+object-prep-object	person on bed
+attribute-object	asian person
+attribute-object	white cat
+object-verb	person sit
+object	cat
+object	sofa
+object	bed
+object	person
+object	couple
+object	cat
+#####################################################
+The man and woman are holding a less than enthusiastic cat . 
+the man and woman be hold a less than enthusiastic cat . 
+
+attribute-object	enthusiastic cat
+object-verb-object	person hold man
+object-verb-object	person hold woman
+object	cat
+object	person
+object	man
+object	woman
+object	cat
+#####################################################

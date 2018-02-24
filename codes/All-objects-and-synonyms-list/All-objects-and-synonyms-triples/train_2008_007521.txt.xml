@@ -1,0 +1,51 @@
+A picture of an old train on the tracks . 
+a picture of a old train on the track . 
+
+object-prep-object	train on track
+attribute-object	old train
+object	train
+object	track
+object	train
+#####################################################
+A railway sits on an off-track at a factory in the woods . 
+a railway sit on a off-track at a factory in the wood . 
+
+verb-prep-object	sit on off-track
+object-prep-object	railway on off-track
+verb-prep-object	sit at factory
+object-prep-object	railway at factory
+object-prep-object	factory in wooden
+object-verb	railway sit
+object	off-track
+object	railway
+object	factory
+object	wooden
+object	train
+#####################################################
+A train on the train tracks . 
+a train on the train track . 
+
+object-prep-object	train on track
+attribute-object	train track
+object	train
+object	track
+object	train
+#####################################################
+Gloomy train tracks . 
+gloomy train track . 
+
+attribute-object	gloomy track
+attribute-object	train track
+object	track
+object	train
+#####################################################
+train tracks with dark building next to it . 
+train track with dark building next to it . 
+
+object-prep-object	track with building
+attribute-object	dark building
+attribute-object	train track
+object	track
+object	building
+object	train
+#####################################################

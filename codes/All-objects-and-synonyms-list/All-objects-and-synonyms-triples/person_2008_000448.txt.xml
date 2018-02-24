@@ -1,0 +1,49 @@
+A woman holding a baby wearing a yellow hat . 
+a woman hold a baby wear a yellow hat . 
+
+attribute-object	yellow hat
+object-verb-object	person hold woman
+object-verb-object	person wear woman
+object	hat
+object	person
+object	woman
+object	person
+#####################################################
+A woman poses with a baby . 
+a woman pose with a baby . 
+
+verb-prep-object	pose with baby
+object-prep-object	person with woman
+object-verb	person pose
+object	baby
+object	person
+object	woman
+object	person
+#####################################################
+A woman with her child . 
+a woman with she child . 
+
+object-prep-object	person with person
+object	person
+object	woman
+object	person
+#####################################################
+A woman holding a small baby with a selection of bags behind . 
+a woman hold a small baby with a selection of bag behind . 
+
+attribute-object	small baby
+object-verb-object	person hold woman
+object	baby
+object	person
+object	woman
+object	person
+#####################################################
+A young mother is holding her baby . 
+a young mother be hold she baby . 
+
+attribute-object	young mother
+object-verb-object	mother hold baby
+object	mother
+object	baby
+object	person
+#####################################################

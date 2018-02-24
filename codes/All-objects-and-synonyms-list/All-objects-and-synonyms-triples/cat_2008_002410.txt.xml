@@ -1,0 +1,57 @@
+cats on a bed . 
+cat on a bed . 
+
+object-prep-object	cat on bed
+object	cat
+object	bed
+object	cat
+#####################################################
+The peaceful cats rest on the bed . 
+the peaceful cat rest on the bed . 
+
+verb-prep-object	rest on bed
+object-prep-object	cat on bed
+attribute-object	peaceful cat
+object-verb	cat rest
+object	bed
+object	cat
+object	cat
+#####################################################
+Two cats are seated on a bed . 
+two cat be seat on a bed . 
+
+verb-prep-object	seat on bed
+object-prep-object	cat on bed
+object-verb	cat seat
+object	bed
+object	cat
+object	cat
+#####################################################
+two cats , one brown and one white laying on a bed with a blue blanket . 
+two cat , one brown and one white lay on a bed with a blue blanket . 
+
+object-prep-object	bed with blanket
+object-prep-object	cat with blanket
+verb-prep-object	lay on bed
+object-prep-object	cat on bed
+attribute-object	brown cat
+attribute-object	white cat
+attribute-object	blue blanket
+object-verb	cat lay
+object	bed
+object	blanket
+object	cat
+object	cat
+#####################################################
+Two cats , one ginger , the other white laying on a bed . 
+two cat , one ginger , the other white lay on a bed . 
+
+verb-prep-object	lay on bed
+object-prep-object	cat on bed
+attribute-object	ginger cat
+attribute-object	white cat
+object-verb	cat lay
+object	bed
+object	cat
+object	cat
+#####################################################

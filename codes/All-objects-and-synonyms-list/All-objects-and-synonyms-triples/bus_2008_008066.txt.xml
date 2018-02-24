@@ -1,0 +1,58 @@
+An old Red London double decker bus with its hood raised . 
+a old Red London double decker bus with its hood raise . 
+
+object-prep-object	bus with hood
+attribute-object	old bus
+attribute-object	red bus
+attribute-object	london bus
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus raise
+object	bus
+object	hood
+object	bus
+#####################################################
+A red two-story bus parked with it 's hood open . 
+a red two-story bus park with it be hood open . 
+
+object-prep-object	bus with hood
+attribute-object	red bus
+attribute-object	two-story bus
+object-verb	bus park
+object	bus
+object	hood
+object	bus
+#####################################################
+Red double decker bus with hood open . 
+Red double decker bus with hood open . 
+
+object-prep-object	bus with hood
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	bus open
+object	bus
+object	hood
+object	bus
+#####################################################
+Red double decker bus with hood up . 
+Red double decker bus with hood up . 
+
+object-prep-object	bus with hood
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	hood
+object	bus
+#####################################################
+The big red bus 's hood is open . 
+the big red bus 's hood be open . 
+
+attribute-object	big bus
+attribute-object	red bus
+object-verb	hood open
+object	bus
+object	hood
+object	bus
+#####################################################

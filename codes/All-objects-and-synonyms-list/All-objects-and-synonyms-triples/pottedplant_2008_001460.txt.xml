@@ -1,0 +1,67 @@
+An indoor plant in a yellow pot by a window . 
+a indoor plant in a yellow pot by a window . 
+
+object-prep-object	pottedplant by plant
+object-prep-object	pottedplant in pottedplant
+attribute-object	indoor pottedplant
+attribute-object	yellow pottedplant
+object	pottedplant
+object	plant
+object	pot
+object	pottedplant
+#####################################################
+A potted plant getting light from a window . 
+a potted plant get light from a window . 
+
+object-prep-object	light from window
+attribute-object	potted pottedplant
+object-verb-object	pottedplant get plant
+object	light
+object	window
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A potted plant in sunlight from a window . 
+a potted plant in sunlight from a window . 
+
+object-prep-object	sunlight from window
+object-prep-object	pottedplant in plant
+attribute-object	potted pottedplant
+object	sunlight
+object	window
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A yellow plant pot with a green and white leafed plant . 
+a yellow plant pot with a green and white leaf plant . 
+
+object-prep-object	pottedplant with pottedplant
+attribute-object	yellow pottedplant
+attribute-object	plant pottedplant
+attribute-object	green pottedplant
+attribute-object	white pottedplant
+attribute-object	leaf pottedplant
+object	pottedplant
+object	pot
+object	plant
+object	pottedplant
+#####################################################
+There is a green plant in a white pot sitting on a brown table . 
+there be a green plant in a white pot sit on a brown table . 
+
+verb-prep-object	sit on diningtable
+object-prep-object	pottedplant on diningtable
+object-prep-object	pottedplant in pottedplant
+attribute-object	green pottedplant
+attribute-object	white pottedplant
+attribute-object	brown diningtable
+object-verb	pottedplant sit
+object	diningtable
+object	table
+object	pottedplant
+object	pot
+object	plant
+object	pottedplant
+#####################################################

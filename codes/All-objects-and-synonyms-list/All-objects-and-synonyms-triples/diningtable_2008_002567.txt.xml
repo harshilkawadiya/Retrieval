@@ -1,0 +1,74 @@
+A group of people sitting around a dining table , the men dressed in military dress . 
+a group of people sit around a dining table , the man dress in military dress . 
+
+object-verb	person sit
+verb-prep-object	sit around diningtable
+object-verb-object	person around diningtable
+attribute-object	dining diningtable
+attribute-object	military dress
+verb-prep-object	dress in dress
+object-verb	person dress
+object	person
+object	people
+object	diningtable
+object	table
+object	dress
+object	man
+object	diningtable
+#####################################################
+A group of six people sit around a table with red cloth napkins . 
+a group of six people sit around a table with red cloth napkin . 
+
+object-verb	person sit
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-prep-object	diningtable with table
+attribute-object	red napkin
+attribute-object	cloth napkin
+object	person
+object	people
+object	diningtable
+object	table
+object	napkin
+object	diningtable
+#####################################################
+A group of six people sitting at a table with salad served . 
+a group of six people sit at a table with salad serve . 
+
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+object	person
+object	people
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+Dinner with soldiers and the wives . 
+dinner with soldier and the wife . 
+
+object-prep-object	dinner with soldier
+object-prep-object	dinner with wife
+object	dinner
+object	soldier
+object	wife
+object	diningtable
+#####################################################
+There are three women and three men in uniform sitting at a table with seven plates of salad on the table . 
+there be three woman and three man in uniform sit at a table with seven plate of salad on the table . 
+
+object-prep-object	person in suit
+object-prep-object	person in suit
+object-verb	person sit
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	diningtable with table
+object	person
+object	woman
+object	suit
+object	man
+object	diningtable
+object	table
+object	diningtable
+#####################################################

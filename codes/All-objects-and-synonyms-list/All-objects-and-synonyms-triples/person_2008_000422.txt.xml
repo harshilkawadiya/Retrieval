@@ -1,0 +1,74 @@
+A baby is sitting in the grass . 
+a baby be sit in the grass . 
+
+verb-prep-object	sit in grass
+object-prep-object	baby in grass
+object-verb	baby sit
+object	grass
+object	baby
+object	person
+#####################################################
+A baby with blonde hair wearing lavender and a bib is sitting in the grass and looking down . 
+a baby with blonde hair wear lavender and a bib be sit in the grass and look down . 
+
+object-prep-object	baby with hair
+attribute-object	blonde hair
+object-verb-object	baby wear lavender
+object-verb	bib sit
+verb-prep-object	sit in grass
+object-prep-object	bib in grass
+object-verb	bib look
+verb-attribute	look down
+object	baby
+object	hair
+object	lavender
+object	bib
+object	grass
+object	person
+#####################################################
+A small blonde child wearing a bib and a purple outfit sits in the grass . 
+a small blonde child wear a bib and a purple outfit sit in the grass . 
+
+verb-prep-object	sit in grass
+object-prep-object	person in child
+attribute-object	small person
+attribute-object	blonde person
+attribute-object	purple suit
+object-verb-object	person wear child
+object-verb-object	person wear suit
+object-verb	person sit
+object	grass
+object	person
+object	child
+object	suit
+object	outfit
+object	person
+#####################################################
+Baby in pink outfit sitting on grass looking down . 
+Baby in pink outfit sit on grass look down . 
+
+verb-prep-object	sit on grass
+object-prep-object	baby on grass
+object-prep-object	baby in suit
+attribute-object	pink suit
+object-verb	baby sit
+object-verb	baby look
+verb-attribute	look down
+object	grass
+object	baby
+object	suit
+object	outfit
+object	person
+#####################################################
+Baby sitting in grass wearing a bib . 
+Baby sit in grass wear a bib . 
+
+verb-prep-object	sit in grass
+object-prep-object	baby in grass
+object-verb	baby sit
+object-verb-object	baby wear bib
+object	grass
+object	baby
+object	bib
+object	person
+#####################################################

@@ -1,0 +1,65 @@
+A black and white cat and dog on a striped couch . 
+a black and white cat and dog on a striped couch . 
+
+object-prep-object	dog on couch
+object-prep-object	cat on couch
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	striped couch
+object	dog
+object	couch
+object	cat
+object	dog
+#####################################################
+A black and white cat chilling out with a black and white dog on a striped sofa . 
+a black and white cat chill out with a black and white dog on a striped sofa . 
+
+verb-prep-object	chill with dog
+object-prep-object	cat with dog
+object-prep-object	dog on sofa
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	black dog
+attribute-object	white dog
+attribute-object	striped sofa
+object-verb	cat chill
+verb-attribute	chill out
+object	dog
+object	cat
+object	sofa
+object	dog
+#####################################################
+A brown dog and black cat sharing a tan sofa . 
+a brown dog and black cat share a tan sofa . 
+
+attribute-object	brown dog
+attribute-object	black cat
+object-verb-object	dog share sofa
+object-verb-object	cat share sofa
+attribute-object	tan sofa
+object	dog
+object	cat
+object	sofa
+object	dog
+#####################################################
+Brown dog and black cat on the couch . 
+Brown dog and black cat on the couch . 
+
+object-prep-object	dog on couch
+object-prep-object	cat on couch
+attribute-object	black cat
+attribute-object	brown dog
+object	dog
+object	couch
+object	cat
+object	dog
+#####################################################
+Dogs and cats can get along ! 
+dog and cat can get along ! 
+
+object	dog
+object	cat
+object	dog
+object	cat
+object	dog
+#####################################################

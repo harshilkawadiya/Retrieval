@@ -1,0 +1,53 @@
+Two bald eagles perched on a branch . 
+two bald eagle perch on a branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	eagle on branch
+attribute-object	bald eagle
+object-verb	eagle perch
+object	branch
+object	eagle
+object	bird
+#####################################################
+Two bald eagles perched on branches . 
+two bald eagle perch on branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	eagle on branch
+attribute-object	bald eagle
+object-verb	eagle perch
+object	branch
+object	eagle
+object	bird
+#####################################################
+Two eagles are perched on a branch . 
+two eagle be perch on a branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	eagle on branch
+object-verb	eagle perch
+object	branch
+object	eagle
+object	bird
+#####################################################
+Two Eagles perched on a branch . 
+two Eagle perch on a branch . 
+
+verb-prep-object	perch on branch
+object-prep-object	eagle on branch
+object-verb	eagle perch
+object	branch
+object	eagle
+object	bird
+#####################################################
+Two eagles sitting on a long branch . 
+two eagle sit on a long branch . 
+
+verb-prep-object	sit on branch
+object-prep-object	eagle on branch
+attribute-object	long branch
+object-verb	eagle sit
+object	branch
+object	eagle
+object	bird
+#####################################################

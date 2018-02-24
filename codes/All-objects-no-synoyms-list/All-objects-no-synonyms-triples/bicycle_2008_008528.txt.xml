@@ -1,0 +1,75 @@
+A crowd of bicycle riders ride down the street . 
+a crowd of bicycle rider ride down the street . 
+
+object-prep-object	crowd of rider
+object-verb-object	rider ride street
+attribute-object	bicycle rider
+verb-attribute	ride down
+object	crowd
+object	rider
+object	street
+object	bicycle
+#####################################################
+A selection of cyclists riding across Waterloo Bridge in London with the London Eye behind . 
+a selection of cyclist ride across Waterloo Bridge in London with the London Eye behind . 
+
+verb-prep-object	ride across bridge
+verb-prep-object	ride in london
+object-prep-object	cyclist across bridge
+object-prep-object	cyclist in london
+object-prep-object	selection of cyclist
+verb-prep-object	ride with eye
+attribute-object	waterloo bridge
+attribute-object	london eye
+object-verb	cyclist ride
+object	bridge
+object	london
+object	cyclist
+object	selection
+object	eye
+object	bicycle
+#####################################################
+Cyclists enjoy a ride through scenic downtown London . 
+cyclist enjoy a ride through scenic downtown London . 
+
+verb-prep-object	enjoy through london
+object-prep-object	cyclist through london
+attribute-object	scenic london
+object-verb-object	cyclist enjoy ride
+attribute-object	downtown london
+object	london
+object	cyclist
+object	ride
+object	bicycle
+#####################################################
+Many people ride bicycles on a road by a ferris wheel . 
+many people ride bicycle on a road by a ferris wheel . 
+
+verb-prep-object	ride by wheel
+object-prep-object	people by wheel
+object-prep-object	people on road
+verb-prep-object	ride on road
+attribute-object	many people
+attribute-object	ferris wheel
+object-verb-object	people ride bicycle
+object	wheel
+object	people
+object	road
+object	bicycle
+object	bicycle
+#####################################################
+People are riding bicycles down a street with a ferris wheel in a field in the background . 
+people be ride bicycle down a street with a ferris wheel in a field in the background . 
+
+verb-prep-object	ride with wheel
+verb-prep-object	ride in field
+object-prep-object	people in field
+attribute-verb	down ride
+attribute-object	ferris wheel
+object-verb-object	people ride bicycle
+object	wheel
+object	field
+object	people
+object	bicycle
+object	bicycle
+#####################################################

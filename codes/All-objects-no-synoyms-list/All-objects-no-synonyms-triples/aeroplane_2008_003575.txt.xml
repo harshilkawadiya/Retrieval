@@ -1,0 +1,58 @@
+A fighter jet with missiles on a runway . 
+a fighter jet with missile on a runway . 
+
+object-prep-object	jet on runway
+object-prep-object	jet with missile
+attribute-object	fighter jet
+object	jet
+object	runway
+object	missile
+object	aeroplane
+#####################################################
+A gray jet with several missiles attached below is parked on the concrete . 
+a gray jet with several missile attach below be park on the concrete . 
+
+object-prep-object	jet with missile
+verb-prep-object	park on concrete
+object-prep-object	jet on concrete
+attribute-object	gray jet
+attribute-object	several missile
+object-verb	jet park
+object	jet
+object	missile
+object	concrete
+object	aeroplane
+#####################################################
+A jet fighter sits on the tarmac with two bombs sitting in front of it . 
+a jet fighter sit on the tarmac with two bomb sit in front of it . 
+
+verb-prep-object	sit on tarmac
+object-prep-object	fighter on tarmac
+attribute-object	jet fighter
+object-verb	fighter sit
+object	tarmac
+object	fighter
+object	aeroplane
+#####################################################
+A jet plane . 
+a jet plane . 
+
+attribute-object	jet plane
+object	plane
+object	aeroplane
+#####################################################
+There is a gray jet sitting on the ground between two green torpedo . 
+there be a gray jet sit on the ground between two green torpedo . 
+
+verb-prep-object	sit between torpedo
+object-verb-object	jet between torpedo
+verb-prep-object	sit on ground
+object-prep-object	jet on ground
+attribute-object	gray jet
+attribute-object	green torpedo
+object-verb	jet sit
+object	torpedo
+object	jet
+object	ground
+object	aeroplane
+#####################################################

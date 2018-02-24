@@ -1,0 +1,65 @@
+A blank screen with two remotes on the table . 
+a blank screen with two remote on the table . 
+
+object-prep-object	remote on diningtable
+object-prep-object	screen with remote
+attribute-object	blank screen
+object	remote
+object	diningtable
+object	screen
+object	tvmonitor
+#####################################################
+A flat screen television on a table with two remote controls . 
+a flat screen television on a table with two remote control . 
+
+object-prep-object	diningtable with table
+object-prep-object	tvmonitor on diningtable
+attribute-object	flat tvmonitor
+attribute-object	remote control
+attribute-object	screen tvmonitor
+object	diningtable
+object	table
+object	tvmonitor
+object	television
+object	control
+object	tvmonitor
+#####################################################
+A Philips flat-screen TV is shown with its two remote controls . 
+a Philips flat-screen tv be show with its two remote control . 
+
+verb-prep-object	show with control
+object-prep-object	tvmonitor with tv
+attribute-object	philips tvmonitor
+attribute-object	flat-screen tvmonitor
+attribute-object	remote control
+object-verb	tvmonitor show
+object	control
+object	tvmonitor
+object	tv
+object	tvmonitor
+#####################################################
+A Philips flat screen TV with two remote controls . 
+a Philips flat screen tv with two remote control . 
+
+object-prep-object	tvmonitor with tv
+attribute-object	philips tvmonitor
+attribute-object	flat tvmonitor
+attribute-object	remote control
+attribute-object	screen tvmonitor
+object	tvmonitor
+object	tv
+object	control
+object	tvmonitor
+#####################################################
+Flat screen television with two remote controls sitting in front . 
+flat screen television with two remote control sit in front . 
+
+object-prep-object	tvmonitor with television
+attribute-object	flat tvmonitor
+attribute-object	remote control
+attribute-object	screen tvmonitor
+object	tvmonitor
+object	television
+object	control
+object	tvmonitor
+#####################################################

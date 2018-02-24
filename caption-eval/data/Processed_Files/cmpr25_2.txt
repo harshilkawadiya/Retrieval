@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog carrying an object out of the water .
+beam_size_1	3	A black dog carrying some seaweed out of the water .
+beam_size_1	4	A black dog is coming out of the ocean water on the beach with something in its mouth .
+beam_size_1	5	A black dog with a stick in its mouth is walking out of the water onto a beach .
+beam_size_1	6	A dog retrieves a branch from on a beach .
+beam_size_1	7	A guy rowing a yellow canoe down a river .
+beam_size_1	8	A lone , yellow canoe being paddled through a river .
+beam_size_1	9	A man on a scenic canoe trip .
+beam_size_1	10	A man with an orange hat in a yellow canoe paddles along a river in a wooded , mountainous area .
+beam_size_1	11	Man paddling a yellow canoe on a river .
+beam_size_1	12	A boy kicks through a pile of leaves .
+beam_size_1	13	A boy with blue shirt kicking off dead leaves from a pile of leaves .
+beam_size_1	14	A kid in a blue top leaps into a raked pile of leaves in front of trees .
+beam_size_1	15	A little boy in blue is running through a pile of brown leaves .
+beam_size_1	16	A young boy standing with a raised leg in a large pile of leaves .
+beam_size_1	17	a lone parasurfer surfing a huge wave in the ocean .
+beam_size_1	18	A man parasurfs in the ocean
+beam_size_1	19	A person in a green jacket it surfing while holding on to a line .
+beam_size_1	20	A person in green surfing a wave .
+beam_size_1	21	A person on a surfboard in the waves , holding onto a tether .
+beam_size_1	22	A boy is upside down in midair near a lake at sunset .
+beam_size_1	23	A person does a flip by two sailboats and a lake .
+beam_size_1	24	A person flipping upside down
+beam_size_1	25	a person in midair doing a back flip .
+beam_size_1	26	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	27	a brown and white dog chasing a ball on some grass .
+beam_size_1	28	a brown and white dog has is playing with a white ball on the grass .
+beam_size_1	29	A collie plays with a white ball in a field of green grass .
+beam_size_1	30	A orange dog playing with a white ball on green grass .
+beam_size_1	31	A small brown dog paws at a white ball
+beam_size_1	32	A man chains his bike to a rack while a woman in black and red walks .
+beam_size_1	33	Several people , one being a woman in a black dress , are outside , near a bike rack .
+beam_size_1	34	The woman wearing a red bow walks past a bicycle .
+beam_size_1	35	Woman in a black dress walking on the street .
+beam_size_1	36	Woman in black dress with red accessories is walking down the street .
+beam_size_1	37	A group of men in a yellow boat with their dogs .
+beam_size_1	38	The men shake hands while another man and dogs look on .
+beam_size_1	39	The three men and three dogs floated in the yellow boat .
+beam_size_1	40	Three men in team uniforms are surrounding a yellow dog in a boat .
+beam_size_1	41	two men huddle around a dog .
+beam_size_1	42	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	43	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	44	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	45	Two people riding a bike are riding towards a stop sign .
+beam_size_1	46	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	47	A baby is dressed up in pink gear and staring while an adult holds her steady .
+beam_size_1	48	A small baby wearing sunglasses sits on an adult 's lap .
+beam_size_1	49	A woman holds a fat baby with sunglasses and a denim hat .
+beam_size_1	50	A woman is holding onto a baby wearing who is wearing sunglasses .
+beam_size_1	51	The baby in a blue jean hat and sunglasses looks at the camera while being held .

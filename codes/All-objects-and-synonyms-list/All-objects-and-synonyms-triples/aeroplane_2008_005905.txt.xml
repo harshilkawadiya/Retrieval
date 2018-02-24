@@ -1,0 +1,56 @@
+A blue airplane in a tailspin at an airshow . 
+a blue airplane in a tailspin at a airshow . 
+
+object-prep-object	aeroplane at airshow
+object-prep-object	aeroplane in tailspin
+attribute-object	blue aeroplane
+object	aeroplane
+object	airshow
+object	tailspin
+object	aeroplane
+#####################################################
+Airplane releasing smoke in air while barrel rolling . 
+airplane release smoke in air while barrel rolling . 
+
+object-prep-object	smoke in sky
+verb-prep-object	release in sky
+object-verb-object	aeroplane release smoke
+object	smoke
+object	sky
+object	air
+object	aeroplane
+object	aeroplane
+#####################################################
+An acrobatic airplane trailing smoke . 
+a acrobatic airplane trail smoke . 
+
+attribute-object	acrobatic aeroplane
+object-verb-object	aeroplane trail smoke
+object	aeroplane
+object	smoke
+object	aeroplane
+#####################################################
+A stunt plane flying up leaving a white big-bag trail behind . 
+a stunt plane fly up leave a white big-bag trail behind . 
+
+attribute-object	white trail
+attribute-object	stunt aeroplane
+attribute-object	big-bag trail
+object-verb	aeroplane fly
+object-verb-object	aeroplane leave trail
+verb-attribute	fly up
+object	trail
+object	aeroplane
+object	aeroplane
+#####################################################
+A stunt plane spiraling in the sky with a smoke plume behind . 
+a stunt plane spiral in the sky with a smoke plume behind . 
+
+verb-prep-object	spiral in sky
+object-prep-object	aeroplane in sky
+attribute-object	stunt aeroplane
+object-verb	aeroplane spiral
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################

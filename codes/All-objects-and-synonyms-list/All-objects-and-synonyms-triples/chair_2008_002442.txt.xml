@@ -1,0 +1,52 @@
+a close up of a woman holding a white puppy . 
+a close up of a woman hold a white puppy . 
+
+attribute-object	white dog
+object-verb-object	person hold dog
+object	dog
+object	puppy
+object	person
+object	woman
+object	chair
+#####################################################
+A puppy being held . 
+a puppy be hold . 
+
+object-verb	dog hold
+object	dog
+object	puppy
+object	chair
+#####################################################
+A sunburn woman holds a blonde fluffy puppy as it is petted . 
+a sunburn woman hold a blonde fluffy puppy as it be pet . 
+
+attribute-object	blonde dog
+attribute-object	fluffy dog
+object-verb-object	person hold dog
+attribute-object	sunburn person
+object-verb-object	person pet dog
+object	dog
+object	puppy
+object	person
+object	woman
+object	chair
+#####################################################
+A tan puppy being held and petted . 
+a tan puppy be hold and pet . 
+
+attribute-object	tan dog
+object-verb	dog hold
+object-verb	dog pet
+object	dog
+object	puppy
+object	chair
+#####################################################
+A tan puppy being petted . 
+a tan puppy be pet . 
+
+attribute-object	tan dog
+object-verb	dog pet
+object	dog
+object	puppy
+object	chair
+#####################################################

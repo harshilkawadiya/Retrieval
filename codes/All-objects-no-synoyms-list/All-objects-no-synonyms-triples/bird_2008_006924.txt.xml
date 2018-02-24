@@ -1,0 +1,62 @@
+A hand holding bird seed and a small bird . 
+a hand hold bird seed and a small bird . 
+
+attribute-object	small bird
+object-verb-object	hand hold seed
+object-verb-object	hand hold bird
+attribute-object	bird seed
+object	bird
+object	hand
+object	seed
+object	bird
+#####################################################
+A person holding a small bluebird . 
+a person hold a small bluebird . 
+
+attribute-object	small bluebird
+object-verb-object	person hold bluebird
+object	bluebird
+object	person
+object	bird
+#####################################################
+A person holds a bird and seeds . 
+a person hold a bird and seed . 
+
+object-verb-object	person hold bird
+object-verb-object	person hold seed
+object	person
+object	bird
+object	seed
+object	bird
+#####################################################
+A small bird is sitting on a person 's hand that has bird seed in it . 
+a small bird be sit on a person 's hand that have bird seed in it . 
+
+verb-prep-object	sit on hand
+object-prep-object	bird on hand
+attribute-object	small bird
+attribute-object	person hand
+attribute-object	bird seed
+object-verb	bird sit
+object-verb-object	hand have seed
+object	hand
+object	bird
+object	seed
+object	bird
+#####################################################
+A small black , white , and brown bird perched on and eating out of a man 's hand . 
+a small black , white , and brown bird perch on and eat out of a man 's hand . 
+
+verb-prep-object	eat out_of hand
+object-prep-object	bird out_of hand
+attribute-object	small bird
+attribute-object	black bird
+attribute-object	white bird
+attribute-object	brown bird
+attribute-object	man hand
+object-verb	bird perch
+object-verb	bird eat
+object	hand
+object	bird
+object	bird
+#####################################################

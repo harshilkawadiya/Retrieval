@@ -1,0 +1,56 @@
+birds sitting on a bar . 
+bird sit on a bar . 
+
+verb-prep-object	sit on bar
+object-prep-object	bird on bar
+object-verb	bird sit
+object	bar
+object	bird
+object	bird
+#####################################################
+Close up of two birds perched on a round piece of steel . 
+close up of two bird perch on a round piece of steel . 
+
+verb-prep-object	perch on piece
+object-prep-object	bird on piece
+object-prep-object	piece of steel
+attribute-object	round piece
+object-verb	bird perch
+object	piece
+object	bird
+object	steel
+object	bird
+#####################################################
+Two birds are perched on a metal band . 
+two bird be perch on a metal band . 
+
+verb-prep-object	perch on band
+attribute-object	metal band
+object-verb	bird perch
+object	band
+object	bird
+object	bird
+#####################################################
+Two small birds facing in opposite directions . 
+two small bird face in opposite direction . 
+
+verb-prep-object	face in direction
+attribute-object	small bird
+attribute-object	opposite direction
+object-verb	bird face
+object	direction
+object	bird
+object	bird
+#####################################################
+Two small birds perched on a metal bar . 
+two small bird perch on a metal bar . 
+
+verb-prep-object	perch on bar
+object-prep-object	bird on bar
+attribute-object	small bird
+attribute-object	metal bar
+object-verb	bird perch
+object	bar
+object	bird
+object	bird
+#####################################################

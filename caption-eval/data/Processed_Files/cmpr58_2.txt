@@ -1,0 +1,50 @@
+beam_size_1	2	A child plays on the floor .
+beam_size_1	3	A little girl throws a pink and yellow chunk of chalk .
+beam_size_1	4	A small girl is sitting on the cement dropping some chalk
+beam_size_1	5	A young child plays with sidewalk chalk by dropping it on the gound .
+beam_size_1	6	A young girl throwing her pink chalk .
+beam_size_1	7	A girl doing the splits in the air while jumping on a trampoline .
+beam_size_1	8	a young woman is jumping on a trampoline
+beam_size_1	9	Girl in black and white top and black leggings jumping on trampoline .
+beam_size_1	10	The girl is jumping on a trampoline , outdoors in a backyard .
+beam_size_1	11	Young woman jumping on trampoline .
+beam_size_1	12	A boy in a yellow shirt is walking on a beach holding a surfboard .
+beam_size_1	13	A boy in a yellow shirt walks with his surfboard out of the ocean .
+beam_size_1	14	a little boy at the beach with a surfboard
+beam_size_1	15	A young boy in a yellow rash guard is walking on the shore carrying a surfboard .
+beam_size_1	16	a young boy wearing a yellow shirt walking on the beach carrying a surfboard
+beam_size_1	17	A man in a black cap and shirt smiling while holding a white grey and black rectangular object .
+beam_size_1	18	A man smiles and poses with a product he appears to be trying to sell .
+beam_size_1	19	A man wearing a black shirt and baseball cap smiling .
+beam_size_1	20	The man is wearing a black shirt and hat and smiling .
+beam_size_1	21	There is a man with a black shirt and a black hat smiling .
+beam_size_1	22	A teacher is instructing two boys how to use the computer in a class .
+beam_size_1	23	A woman helps boys on a computer .
+beam_size_1	24	Children sit in front of a computer while their teacher instructs them .
+beam_size_1	25	Kids work at computers with a teacher 's help .
+beam_size_1	26	Two boys are getting help on a computer from a teacher .
+beam_size_1	27	A boy plays a game with wooden blocks .
+beam_size_1	28	A child playing with building blocks on a wooden table .
+beam_size_1	29	A small boy is building with some wooden blocks .
+beam_size_1	30	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	31	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	32	a brown dog about to jump on a smaller black and tan dog
+beam_size_1	33	Large dog playing with smaller dog
+beam_size_1	34	Two dogs are playing together outside .
+beam_size_1	35	Two dogs playing in the grass with an adult nearby .
+beam_size_1	36	Two dogs playing with each other .
+beam_size_1	37	a man enjoying the view from top of a mountain
+beam_size_1	38	A man in a blue shirt sitting on the side of a mountain wearing a backpack .
+beam_size_1	39	A man in grey on a rocky cliff , overlooking the mountains .
+beam_size_1	40	A man sits on a cliff and looks out over another mountain .
+beam_size_1	41	one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+beam_size_1	42	A person is skijoring with a dog in the mountains .
+beam_size_1	43	A person skis with their dog .
+beam_size_1	44	A woman cross-country skiing , with a brown dog .
+beam_size_1	45	a woman skiing down a snowy mountain with a brown dog on a lesh running with her
+beam_size_1	46	The brown dog pulls a skier across snow-covered ground .
+beam_size_1	47	A guitarist plays while people play with hula-hoops in the background .
+beam_size_1	48	A guitarist sits playing before microphones , while a man and a boy dance and a woman stands by .
+beam_size_1	49	A man in a white hat plays guitar on a stage .
+beam_size_1	50	A man plays guitar on a stage while another woman smiles
+beam_size_1	51	Four people performing music outdoors .

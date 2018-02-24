@@ -1,0 +1,68 @@
+A man in a white shirt sitting at a small cluttered table . 
+a man in a white shirt sit at a small cluttered table . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	man in shirt
+attribute-object	white shirt
+attribute-object	small table
+attribute-object	cluttered table
+object-verb	man sit
+object	table
+object	man
+object	shirt
+object	diningtable
+#####################################################
+A man sits looking at a laptop computer on a messy table . 
+a man sit look at a laptop computer on a messy table . 
+
+verb-prep-object	look at computer
+object-prep-object	computer on table
+attribute-object	laptop computer
+attribute-object	messy table
+object-verb	man sit
+object-verb	man look
+object	computer
+object	table
+object	man
+object	diningtable
+#####################################################
+A man using a computer on a messy table . 
+a man use a computer on a messy table . 
+
+object-prep-object	computer on table
+attribute-object	messy table
+object-verb-object	man use computer
+object	computer
+object	table
+object	man
+object	diningtable
+#####################################################
+The man is sitting at a messy table and using a laptop . 
+the man be sit at a messy table and use a laptop . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+attribute-object	messy table
+object-verb-object	man use laptop
+object-verb	man sit
+object	table
+object	man
+object	laptop
+object	diningtable
+#####################################################
+Young man sitting at messy table staring at laptop . 
+Young man sit at messy table stare at laptop . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+attribute-object	messy table
+attribute-object	young man
+object-verb	man sit
+object-verb	man stare
+verb-prep-object	stare at laptop
+object	table
+object	man
+object	laptop
+object	diningtable
+#####################################################

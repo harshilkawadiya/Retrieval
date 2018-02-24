@@ -1,0 +1,65 @@
+A black motorbike parked in front of a city wall painting . 
+a black motorbike park in front of a city wall painting . 
+
+verb-prep-object	park in_front_of painting
+object-prep-object	motorbike in_front_of painting
+attribute-object	black motorbike
+attribute-object	city painting
+attribute-object	wall painting
+object-verb	motorbike park
+object	painting
+object	motorbike
+object	motorbike
+#####################################################
+a motorbike parked in front of a city like painted wall . 
+a motorbike park in front of a city like paint wall . 
+
+verb-prep-object	park in_front_of city
+object-prep-object	motorbike in_front_of city
+object-verb	motorbike park
+object	city
+object	motorbike
+object	motorbike
+#####################################################
+A motorcycle is parked by a mural of a city in the evening . 
+a motorcycle be park by a mural of a city in the evening . 
+
+verb-prep-object	park by mural
+object-prep-object	mural of city
+verb-prep-object	park in evening
+object-verb	motorcycle park
+object	mural
+object	city
+object	evening
+object	motorcycle
+object	motorbike
+#####################################################
+A motorcycle is parked near a wall covered with a graffiti scene of a cityscape . 
+a motorcycle be park near a wall cover with a graffitus scene of a cityscape . 
+
+verb-prep-object	park near wall
+object-prep-object	motorcycle near wall
+object-prep-object	scene of cityscape
+verb-prep-object	cover with scene
+attribute-object	graffitus scene
+object-verb	motorcycle park
+object-verb	wall cover
+object	wall
+object	motorcycle
+object	scene
+object	cityscape
+object	motorbike
+#####################################################
+A small motorcycle is parked against a painting of a cityscape . 
+a small motorcycle be park against a painting of a cityscape . 
+
+verb-prep-object	park against painting
+object-prep-object	motorcycle against painting
+object-prep-object	painting of cityscape
+attribute-object	small motorcycle
+object-verb	motorcycle park
+object	painting
+object	motorcycle
+object	cityscape
+object	motorbike
+#####################################################

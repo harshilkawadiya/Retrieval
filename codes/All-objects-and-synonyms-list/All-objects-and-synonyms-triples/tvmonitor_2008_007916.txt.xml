@@ -1,0 +1,56 @@
+A darkened desk with a desktop PC and a lamp . 
+a darken desk with a desktop pc and a lamp . 
+
+object-prep-object	table with laptop
+object-prep-object	table with diningtable
+attribute-object	darken table
+attribute-object	desktop laptop
+object	table
+object	diningtable
+object	laptop
+object	pc
+object	tvmonitor
+#####################################################
+a desk lamp is turned on and showing a desktop computer . 
+a desk lamp be turn on and show a desktop computer . 
+
+attribute-object	desk lamp
+attribute-object	desktop laptop
+object-verb	lamp turn
+verb-attribute	turn on
+object	lamp
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+A faint glow from a lamp shows a desktop computer . 
+a faint glow from a lamp show a desktop computer . 
+
+object-prep-object	glow from lamp
+attribute-object	desktop laptop
+object	glow
+object	lamp
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+Computer lit by a lamp . 
+computer light by a lamp . 
+
+verb-prep-object	light by lamp
+object-verb	laptop light
+object	lamp
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+Laptop on a desk with a lamp . 
+laptop on a desk with a lamp . 
+
+object-prep-object	laptop on diningtable
+object-prep-object	table with diningtable
+object	laptop
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################

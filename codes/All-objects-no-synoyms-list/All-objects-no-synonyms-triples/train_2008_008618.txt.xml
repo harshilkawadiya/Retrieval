@@ -1,0 +1,60 @@
+A man posing in front of a passenger train . 
+a man pose in front of a passenger train . 
+
+verb-prep-object	pose in_front_of train
+object-prep-object	man in_front_of train
+attribute-object	passenger train
+object-verb	man pose
+object	train
+object	man
+object	train
+#####################################################
+A man stands on a platform in front of a silver train . 
+a man stand on a platform in front of a silver train . 
+
+verb-prep-object	stand on platform
+object-prep-object	man on platform
+verb-prep-object	stand in_front_of train
+object-prep-object	man in_front_of train
+attribute-object	silver train
+object-verb	man stand
+object	platform
+object	man
+object	train
+object	train
+#####################################################
+Man standing in front of a silver rail car . 
+man standing in front of a silver rail car . 
+
+verb-prep-object	stand in_front_of car
+object-prep-object	man in_front_of car
+object-verb	man stand
+attribute-object	silver car
+attribute-object	rail car
+object	car
+object	man
+object	train
+#####################################################
+Man standing in front of silver train . 
+man standing in front of silver train . 
+
+verb-prep-object	stand in_front_of train
+object-prep-object	man in_front_of train
+object-verb	man stand
+attribute-object	silver train
+object	train
+object	man
+object	train
+#####################################################
+The man poses for a photo in front of the train . 
+the man pose for a photo in front of the train . 
+
+verb-prep-object	pose for photo
+verb-prep-object	pose in_front_of train
+object-prep-object	man in_front_of train
+object-verb	man pose
+object	photo
+object	train
+object	man
+object	train
+#####################################################

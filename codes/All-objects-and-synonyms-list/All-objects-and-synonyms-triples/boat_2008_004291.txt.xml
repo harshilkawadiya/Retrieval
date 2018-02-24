@@ -1,0 +1,55 @@
+Aircraft carrier floating in middle of ocean . 
+Aircraft carrier float in middle of ocean . 
+
+verb-prep-object	float in water
+attribute-object	aircraft boat
+object-verb	boat float
+object	water
+object	ocean
+object	boat
+object	carrier
+object	boat
+#####################################################
+Aircraft carrier on the open ocean . 
+Aircraft carrier on the open ocean . 
+
+object-prep-object	boat on water
+attribute-object	open water
+attribute-object	aircraft boat
+object	boat
+object	carrier
+object	water
+object	ocean
+object	boat
+#####################################################
+A large , flat port is positioned in a large body of water . 
+a large , flat port be position in a large body of water . 
+
+verb-prep-object	position in water
+attribute-object	large port
+attribute-object	flat port
+object-verb	port position
+object	water
+object	port
+object	boat
+#####################################################
+An Aircraft Carrier at sea . 
+a Aircraft carrier at sea . 
+
+object-prep-object	boat at water
+attribute-object	aircraft boat
+object	boat
+object	carrier
+object	water
+object	boat
+#####################################################
+A ship is in the dark water . 
+a ship be in the dark water . 
+
+object-prep-object	boat in ship
+attribute-object	dark water
+object	boat
+object	ship
+object	water
+object	boat
+#####################################################

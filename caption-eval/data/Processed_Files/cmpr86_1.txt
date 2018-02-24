@@ -1,0 +1,50 @@
+2	Two dogs playing in the water .
+3	Two dogs playing in the water , one is bounding at the other .
+4	Two furry beige dogs playing in ocean surf .
+5	Two white dogs are splashing around in white waves .
+6	Two white , long-haired dogs playing in the ocean
+7	Two dogs playing in the water .
+8	Two dogs playing in the water , one is bounding at the other .
+9	Two furry beige dogs playing in ocean surf .
+10	Two white dogs are splashing around in white waves .
+11	Two white , long-haired dogs playing in the ocean
+12	Two dogs playing in the water .
+13	Two dogs playing in the water , one is bounding at the other .
+14	Two furry beige dogs playing in ocean surf .
+15	Two white dogs are splashing around in white waves .
+16	Two white , long-haired dogs playing in the ocean
+17	Two dogs playing in the water .
+18	Two dogs playing in the water , one is bounding at the other .
+19	Two furry beige dogs playing in ocean surf .
+20	Two white dogs are splashing around in white waves .
+21	Two white , long-haired dogs playing in the ocean
+22	Two dogs playing in the water .
+23	Two dogs playing in the water , one is bounding at the other .
+24	Two furry beige dogs playing in ocean surf .
+25	Two white dogs are splashing around in white waves .
+26	Two white , long-haired dogs playing in the ocean
+27	Two dogs playing in the water .
+28	Two dogs playing in the water , one is bounding at the other .
+29	Two furry beige dogs playing in ocean surf .
+30	Two white dogs are splashing around in white waves .
+31	Two white , long-haired dogs playing in the ocean
+32	Two dogs playing in the water .
+33	Two dogs playing in the water , one is bounding at the other .
+34	Two furry beige dogs playing in ocean surf .
+35	Two white dogs are splashing around in white waves .
+36	Two white , long-haired dogs playing in the ocean
+37	Two dogs playing in the water .
+38	Two dogs playing in the water , one is bounding at the other .
+39	Two furry beige dogs playing in ocean surf .
+40	Two white dogs are splashing around in white waves .
+41	Two white , long-haired dogs playing in the ocean
+42	Two dogs playing in the water .
+43	Two dogs playing in the water , one is bounding at the other .
+44	Two furry beige dogs playing in ocean surf .
+45	Two white dogs are splashing around in white waves .
+46	Two white , long-haired dogs playing in the ocean
+47	Two dogs playing in the water .
+48	Two dogs playing in the water , one is bounding at the other .
+49	Two furry beige dogs playing in ocean surf .
+50	Two white dogs are splashing around in white waves .
+51	Two white , long-haired dogs playing in the ocean

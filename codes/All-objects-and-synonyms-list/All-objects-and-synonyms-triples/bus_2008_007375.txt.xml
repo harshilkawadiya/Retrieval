@@ -1,0 +1,67 @@
+A red double decker bus is picking up more passengers in a city . 
+a red double decker bus be pick up more passenger in a city . 
+
+object-prep-object	person in passenger
+object-prep-object	bus in city
+attribute-object	red bus
+attribute-object	double bus
+object-verb-object	bus pick person
+attribute-object	decker bus
+verb-attribute	pick up
+object	person
+object	passenger
+object	bus
+object	city
+object	bus
+#####################################################
+A red double decker bus on a crowded street . 
+a red double decker bus on a crowded street . 
+
+object-prep-object	bus on road
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	crowded road
+attribute-object	decker bus
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+Double decker red bus stopping on the street for riders . 
+double decker red bus stop on the street for rider . 
+
+verb-prep-object	stop on road
+object-prep-object	bus on road
+verb-prep-object	stop for person
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	red bus
+object-verb	bus stop
+object	road
+object	street
+object	bus
+object	person
+object	rider
+object	bus
+#####################################################
+Red double decker bus . 
+Red double decker bus . 
+
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+object	bus
+object	bus
+#####################################################
+Red double decker bus taking on passengers . 
+Red double decker bus take on passenger . 
+
+object-verb-object	bus take person
+attribute-object	red bus
+attribute-object	double bus
+attribute-object	decker bus
+verb-attribute	take on
+object	bus
+object	person
+object	bus
+#####################################################

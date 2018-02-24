@@ -1,0 +1,87 @@
+A family on a boat with a cross on a river . 
+a family on a boat with a cross on a river . 
+
+object-prep-object	family on boat
+object-prep-object	boat on river
+object-prep-object	family on river
+object-prep-object	boat with cross
+object	family
+object	boat
+object	river
+object	cross
+object	boat
+#####################################################
+A happy couple with a young child wearing a life preserver sitting on a boat . 
+a happy couple with a young child wear a life preserver sit on a boat . 
+
+attribute-object	happy couple
+object-prep-object	couple with child
+attribute-object	young child
+object-verb-object	couple wear preserver
+attribute-object	life preserver
+object-verb	couple sit
+verb-prep-object	sit on boat
+object-prep-object	couple on boat
+object	couple
+object	child
+object	preserver
+object	boat
+object	boat
+#####################################################
+A man , a woman , and a child sit on boat with a large cross on it . 
+a man , a woman , and a child sit on boat with a large cross on it . 
+
+object-verb	man sit
+object-verb	woman sit
+object-verb	child sit
+verb-prep-object	sit on boat
+object-prep-object	man on boat
+object-prep-object	woman on boat
+object-prep-object	child on boat
+object-prep-object	boat with cross
+attribute-object	large cross
+object	man
+object	woman
+object	child
+object	boat
+object	cross
+object	boat
+#####################################################
+A man , woman and small child sitting on top of a boat moving along the river . 
+a man , woman and small child sit on top of a boat move along the river . 
+
+object-verb	man sit
+object-verb	woman sit
+object-verb	child sit
+attribute-object	small child
+verb-prep-object	sit on_top_of boat
+object-prep-object	man on_top_of boat
+object-prep-object	woman on_top_of boat
+object-prep-object	child on_top_of boat
+object-verb	boat move
+verb-prep-object	move along river
+object	man
+object	woman
+object	child
+object	boat
+object	river
+object	boat
+#####################################################
+Family of three sitting on deck , child wearing red vest , brush and shoes are seen in the foreground . 
+Family of three sit on deck , child wear red vest , brush and shoe be see in the foreground . 
+
+object-verb	family sit
+verb-prep-object	sit on deck
+object-prep-object	family on deck
+attribute-object	red vest
+object-verb-object	child wear vest
+object-verb-object	child wear brush
+object-verb-object	child wear shoe
+object	family
+object	deck
+object	vest
+object	child
+object	brush
+object	shoe
+object	boat
+#####################################################

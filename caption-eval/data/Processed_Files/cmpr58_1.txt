@@ -1,0 +1,50 @@
+2	A black dog on a rocky beach .
+3	A black dog walks along an ocean front .
+4	A black dog walks on the beach near the rocks .
+5	a black dog walks on the sand .
+6	Black dog walking on the beach after swimming in the ocean .
+7	A black dog on a rocky beach .
+8	A black dog walks along an ocean front .
+9	A black dog walks on the beach near the rocks .
+10	a black dog walks on the sand .
+11	Black dog walking on the beach after swimming in the ocean .
+12	A black dog on a rocky beach .
+13	A black dog walks along an ocean front .
+14	A black dog walks on the beach near the rocks .
+15	a black dog walks on the sand .
+16	Black dog walking on the beach after swimming in the ocean .
+17	A black dog on a rocky beach .
+18	A black dog walks along an ocean front .
+19	A black dog walks on the beach near the rocks .
+20	a black dog walks on the sand .
+21	Black dog walking on the beach after swimming in the ocean .
+22	A black dog on a rocky beach .
+23	A black dog walks along an ocean front .
+24	A black dog walks on the beach near the rocks .
+25	a black dog walks on the sand .
+26	Black dog walking on the beach after swimming in the ocean .
+27	A black dog on a rocky beach .
+28	A black dog walks along an ocean front .
+29	A black dog walks on the beach near the rocks .
+30	a black dog walks on the sand .
+31	Black dog walking on the beach after swimming in the ocean .
+32	A black dog on a rocky beach .
+33	A black dog walks along an ocean front .
+34	A black dog walks on the beach near the rocks .
+35	a black dog walks on the sand .
+36	Black dog walking on the beach after swimming in the ocean .
+37	A black dog on a rocky beach .
+38	A black dog walks along an ocean front .
+39	A black dog walks on the beach near the rocks .
+40	a black dog walks on the sand .
+41	Black dog walking on the beach after swimming in the ocean .
+42	A black dog on a rocky beach .
+43	A black dog walks along an ocean front .
+44	A black dog walks on the beach near the rocks .
+45	a black dog walks on the sand .
+46	Black dog walking on the beach after swimming in the ocean .
+47	A black dog on a rocky beach .
+48	A black dog walks along an ocean front .
+49	A black dog walks on the beach near the rocks .
+50	a black dog walks on the sand .
+51	Black dog walking on the beach after swimming in the ocean .

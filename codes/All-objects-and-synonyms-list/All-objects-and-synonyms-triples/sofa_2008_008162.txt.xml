@@ -1,0 +1,61 @@
+A couple holds a baby . 
+a couple hold a baby . 
+
+object-verb-object	person hold couple
+object	person
+object	couple
+object	sofa
+#####################################################
+A man and woman sitting on a sofa holding a small baby . 
+a man and woman sit on a sofa hold a small baby . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+object-prep-object	person on woman
+attribute-object	small baby
+object-verb-object	person hold man
+object-verb-object	person hold woman
+object-verb	person sit
+object-verb	person sit
+object	sofa
+object	person
+object	man
+object	woman
+object	baby
+object	sofa
+#####################################################
+A middle eastern couple sitting on a couch holding their baby and displaying a gift . 
+a middle eastern couple sit on a couch hold they baby and display a gift . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	middle person
+attribute-object	eastern person
+object-verb	person sit
+object-verb-object	person hold couple
+object	sofa
+object	bed
+object	person
+object	couple
+object	sofa
+#####################################################
+Couple with newborn baby . 
+couple with newborn baby . 
+
+object-prep-object	person with couple
+attribute-object	newborn baby
+object	person
+object	couple
+object	baby
+object	sofa
+#####################################################
+Indian couple and newborn . 
+indian couple and newborn . 
+
+attribute-object	indian person
+object	newborn
+object	person
+object	couple
+object	newborn
+object	sofa
+#####################################################

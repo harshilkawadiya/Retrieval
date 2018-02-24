@@ -1,0 +1,62 @@
+A black bird sits on the edge of a piece of pavement looking to the side . 
+a black bird sit on the edge of a piece of pavement look to the side . 
+
+verb-prep-object	look to side
+verb-prep-object	sit on edge
+object-prep-object	bird on edge
+object-prep-object	edge of piece
+object-prep-object	piece of pavement
+attribute-object	black bird
+object-verb	bird sit
+object-verb	bird look
+object	side
+object	edge
+object	bird
+object	piece
+object	pavement
+object	bird
+#####################################################
+A blackbird sitting on the ground . 
+a blackbird sit on the ground . 
+
+verb-prep-object	sit on ground
+object-prep-object	blackbird on ground
+object-verb	blackbird sit
+object	ground
+object	blackbird
+object	bird
+#####################################################
+Black bird sitting on a concrete slab . 
+Black bird sit on a concrete slab . 
+
+verb-prep-object	sit on slab
+object-prep-object	bird on slab
+attribute-object	concrete slab
+attribute-object	black bird
+object-verb	bird sit
+object	slab
+object	bird
+object	bird
+#####################################################
+Black bird standing on concrete . 
+Black bird standing on concrete . 
+
+verb-prep-object	stand on concrete
+object-prep-object	bird on concrete
+attribute-object	black bird
+object-verb	bird stand
+object	concrete
+object	bird
+object	bird
+#####################################################
+The black bird is sitting on the ground . 
+the black bird be sit on the ground . 
+
+verb-prep-object	sit on ground
+object-prep-object	bird on ground
+attribute-object	black bird
+object-verb	bird sit
+object	ground
+object	bird
+object	bird
+#####################################################

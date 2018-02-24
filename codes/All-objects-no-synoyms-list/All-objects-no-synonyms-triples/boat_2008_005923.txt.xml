@@ -1,0 +1,58 @@
+A photo from the air of four people in a thin canoe . 
+a photo from the air of four people in a thin canoe . 
+
+object-prep-object	people in canoe
+attribute-object	thin canoe
+object	people
+object	canoe
+object	boat
+#####################################################
+four people are on a boat on green water . 
+four people be on a boat on green water . 
+
+object-prep-object	people on boat
+object-prep-object	boat on water
+attribute-object	green water
+object	people
+object	boat
+object	water
+object	boat
+#####################################################
+Four people on a catamaran boat looking up while floating in the water . 
+four people on a catamaran boat look up while float in the water . 
+
+object-prep-object	people on boat
+verb-prep-object	float in water
+attribute-object	catamaran boat
+object-verb	people look
+verb-attribute	look up
+object-verb	people float
+object	people
+object	boat
+object	water
+object	boat
+#####################################################
+People in an outrigger canoe sail on emerald green water . 
+people in a outrigger canoe sail on emerald green water . 
+
+object-verb	people sail
+object-prep-object	people in canoe
+attribute-object	outrigger canoe
+attribute-object	emerald water
+attribute-object	green water
+verb-prep-object	sail on water
+object	people
+object	canoe
+object	water
+object	boat
+#####################################################
+The fishermen look up at the plane overhead . 
+the fisherman look up at the plane overhead . 
+
+verb-prep-object	look at plane
+object-verb	fisherman look
+verb-attribute	look up
+object	plane
+object	fisherman
+object	boat
+#####################################################

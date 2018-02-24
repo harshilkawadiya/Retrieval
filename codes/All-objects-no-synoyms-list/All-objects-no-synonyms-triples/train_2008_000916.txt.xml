@@ -1,0 +1,65 @@
+Green train arriving at station . 
+Green train arrive at station . 
+
+verb-prep-object	arrive at station
+attribute-object	green train
+object-verb	train arrive
+object	station
+object	train
+object	train
+#####################################################
+Passengers wait to get on a little green children . 
+passenger wait to get on a little green child . 
+
+verb-prep-object	get on child
+attribute-object	little child
+attribute-object	green child
+object-verb	passenger wait
+verb-prep-verb	wait to get
+object	child
+object	passenger
+object	train
+#####################################################
+Passengers at a station waiting to board a train pulled by a green locomotive engine . 
+passenger at a station wait to board a train pull by a green locomotive engine . 
+
+object-prep-object	passenger at station
+object-verb	passenger wait
+verb-prep-verb	wait to board
+verb-object	board train
+object-verb	train pull
+verb-prep-object	pull by engine
+attribute-object	green engine
+attribute-object	locomotive engine
+object	passenger
+object	station
+object	train
+object	engine
+object	train
+#####################################################
+Passengers loading onto a train with a green and black steam engine . 
+passenger load onto a train with a green and black steam engine . 
+
+verb-prep-object	load onto train
+object-prep-object	passenger onto train
+object-prep-object	train with engine
+attribute-object	green engine
+attribute-object	black engine
+attribute-object	steam engine
+object-verb	passenger load
+object	train
+object	passenger
+object	engine
+object	train
+#####################################################
+Several people waiting to board the train . 
+several people wait to board the train . 
+
+verb-prep-verb	wait to board
+verb-object	board train
+attribute-object	several people
+object-verb	people wait
+object	train
+object	people
+object	train
+#####################################################

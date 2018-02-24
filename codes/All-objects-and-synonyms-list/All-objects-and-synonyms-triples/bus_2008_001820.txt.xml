@@ -1,0 +1,55 @@
+Two buses with their doors open parked side by side . 
+two bus with they door open park side by side . 
+
+object-prep-object	bus with door
+object-attribute	open door
+object-verb	bus park
+object	bus
+object	door
+object	open
+object	bus
+#####################################################
+Two empty buses parked next to each other . 
+two empty bus park next to each other . 
+
+attribute-object	empty bus
+object-verb	bus park
+object	bus
+object	bus
+#####################################################
+Two identical buses parked side by side . 
+two identical bus park side by side . 
+
+attribute-object	identical bus
+object-verb	bus park
+object	bus
+object	bus
+#####################################################
+Two old city buses with blue and red striped stand next to each other in a grassy area . 
+two old city bus with blue and red striped stand next to each other in a grassy area . 
+
+object-verb	bus stand
+verb-prep-object	stand in area
+object-prep-object	bus with striped
+object-prep-object	bus in area
+attribute-object	blue striped
+attribute-object	red striped
+attribute-object	grassy area
+attribute-object	old bus
+attribute-object	city bus
+object	bus
+object	area
+object	striped
+object	bus
+#####################################################
+Two white buses parked side-by-side in the grass . 
+two white bus park side-by-side in the grass . 
+
+verb-prep-object	park in grass
+object-prep-object	bus in grass
+attribute-object	white bus
+object-verb	bus park
+object	grass
+object	bus
+object	bus
+#####################################################

@@ -1,0 +1,70 @@
+A female in a pink tank top and jeans clutches a bottle of beer in each hand . 
+a female in a pink tank top and jeans clutch a bottle of beer in each hand . 
+
+object-prep-object	female in top
+attribute-object	pink top
+attribute-object	tank top
+object-prep-object	female in jeans
+object-verb-object	female clutch bottle
+object-prep-object	bottle of beer
+object	female
+object	top
+object	jeans
+object	bottle
+object	beer
+object	bottle
+#####################################################
+A woman in a pink top posing with beer . 
+a woman in a pink top pose with beer . 
+
+verb-prep-object	pose with beer
+object-prep-object	person with woman
+object-prep-object	person in woman
+attribute-object	pink top
+object-verb	person pose
+object	beer
+object	person
+object	woman
+object	top
+object	bottle
+#####################################################
+A woman holding two bottles of beer poses for the camera . 
+a woman hold two bottle of beer pose for the camera . 
+
+object-prep-object	bottle of beer
+verb-prep-object	pose for camera
+object-verb-object	person hold woman
+object-verb	person pose
+object	bottle
+object	beer
+object	camera
+object	person
+object	woman
+object	bottle
+#####################################################
+Girl double sitting beers . 
+Girl double sit beer . 
+
+attribute-verb	double sit
+object-verb-object	person sit girl
+object	person
+object	girl
+object	bottle
+#####################################################
+There is a girl with curly hair in a pink tank top holding two beer bottles . 
+there be a girl with curly hair in a pink tank top hold two beer bottle . 
+
+attribute-object	curly hair
+object-prep-object	person with girl
+attribute-object	pink top
+attribute-object	tank top
+object-prep-object	person in girl
+object-verb-object	person hold girl
+attribute-object	beer bottle
+object	hair
+object	person
+object	girl
+object	top
+object	bottle
+object	bottle
+#####################################################

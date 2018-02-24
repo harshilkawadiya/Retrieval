@@ -1,0 +1,72 @@
+A man in camouflage clothing is crouching behind a bush while a white dog looks on . 
+a man in camouflage clothing be crouch behind a bush while a white dog look on . 
+
+verb-prep-object	crouch behind bush
+object-prep-object	man behind bush
+object-prep-object	man in clothing
+attribute-object	white dog
+attribute-object	camouflage clothing
+object-verb	man crouch
+object-verb	dog look
+object	bush
+object	man
+object	clothing
+object	dog
+object	dog
+#####################################################
+A man is on the ground near a white dog on a leash . 
+a man be on the ground near a white dog on a leash . 
+
+object-prep-object	man on ground
+object-prep-object	dog on leash
+object-prep-object	man near dog
+attribute-object	white dog
+object	man
+object	ground
+object	dog
+object	leash
+object	dog
+#####################################################
+A small white dog on a leash and a man in combat fatigues on a hillside . 
+a small white dog on a leash and a man in combat fatigue on a hillside . 
+
+object-verb	man fatigue
+verb-prep-object	fatigue on hillside
+object-prep-object	man on hillside
+object-prep-object	dog on leash
+attribute-object	small dog
+attribute-object	white dog
+object-prep-object	man in combat
+object	man
+object	hillside
+object	dog
+object	leash
+object	combat
+object	dog
+#####################################################
+Soldier hunting a puppy . 
+soldier hunting a puppy . 
+
+object-verb-object	soldier hunting puppy
+object	soldier
+object	puppy
+object	dog
+#####################################################
+White dog standing in gravel in front of man dressed in army uniform . 
+White dog standing in gravel in front of man dress in army uniform . 
+
+attribute-object	white dog
+object-verb	dog stand
+verb-prep-object	stand in gravel
+object-prep-object	dog in gravel
+verb-prep-object	stand in_front_of man
+object-prep-object	dog in_front_of man
+verb-prep-object	dress in uniform
+attribute-object	army uniform
+object-verb	man dress
+object	dog
+object	gravel
+object	man
+object	uniform
+object	dog
+#####################################################

@@ -1,0 +1,52 @@
+A car parked in front of train tracks . 
+a car park in front of train track . 
+
+verb-prep-object	park in_front_of track
+object-prep-object	car in_front_of track
+attribute-object	train track
+object-verb	car park
+object	track
+object	car
+object	train
+#####################################################
+A freight train crossing a rural road . 
+a freight train cross a rural road . 
+
+attribute-object	rural road
+object-verb-object	train cross road
+attribute-object	freight train
+object	road
+object	train
+object	train
+#####################################################
+A mostly black train on a track . 
+a mostly black train on a track . 
+
+object-prep-object	train on track
+attribute-object	black train
+object	train
+object	track
+object	train
+#####################################################
+A small white car and a passing train . 
+a small white car and a pass train . 
+
+attribute-object	small car
+attribute-object	white car
+attribute-object	pass train
+object	car
+object	train
+object	train
+#####################################################
+A train carrying tanks passes a small silver car . 
+a train carry tank pass a small silver car . 
+
+attribute-object	small car
+object-verb-object	train carry tank
+object-verb-object	train pass car
+attribute-object	silver car
+object	car
+object	train
+object	tank
+object	train
+#####################################################

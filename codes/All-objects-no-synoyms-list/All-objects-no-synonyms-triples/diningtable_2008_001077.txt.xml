@@ -1,0 +1,81 @@
+A candle lit dinner set for two , each with a glass of wine . 
+a candle light dinner set for two , each with a glass of wine . 
+
+object-verb	dinner set
+attribute-object	candle dinner
+attribute-object	light dinner
+verb-prep-object	set with wine
+object-prep-object	dinner with wine
+object	dinner
+object	wine
+object	diningtable
+#####################################################
+a dining table with two place settings , three candles , two wine glasses filled with red wine , and some tuna salad in a purple plastic bowl . 
+a dining table with two place setting , three candle , two wine glass fill with red wine , and some tuna salad in a purple plastic bowl . 
+
+object-prep-object	table with setting
+attribute-object	dining table
+attribute-object	place setting
+object-prep-object	table with candle
+object-prep-object	table with glass
+attribute-object	wine glass
+object-verb	glass fill
+verb-prep-object	fill with wine
+object-prep-object	glass with wine
+attribute-object	red wine
+object-prep-object	table with salad
+attribute-object	tuna salad
+object-prep-object	salad in bowl
+attribute-object	purple bowl
+attribute-object	plastic bowl
+object	table
+object	setting
+object	candle
+object	glass
+object	wine
+object	salad
+object	bowl
+object	diningtable
+#####################################################
+A table is set with wine and dishes for two people . 
+a table be set with wine and dish for two people . 
+
+verb-prep-object	set with wine
+verb-prep-object	set with dish
+verb-prep-object	set for people
+object-prep-object	table with wine
+object-prep-object	table with dish
+object-prep-object	table for people
+object-verb	table set
+object	wine
+object	dish
+object	people
+object	table
+object	diningtable
+#####################################################
+A table set for two . 
+a table set for two . 
+
+object-verb	table set
+object	table
+object	diningtable
+#####################################################
+A wooden table is set with candles , wine , and a purple plastic bowl . 
+a wooden table be set with candle , wine , and a purple plastic bowl . 
+
+verb-prep-object	set with candle
+verb-prep-object	set with wine
+verb-prep-object	set with bowl
+object-prep-object	table with candle
+object-prep-object	table with wine
+object-prep-object	table with bowl
+attribute-object	purple bowl
+attribute-object	plastic bowl
+object-verb	table set
+attribute-object	wooden table
+object	candle
+object	wine
+object	bowl
+object	table
+object	diningtable
+#####################################################

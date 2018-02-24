@@ -1,0 +1,74 @@
+A cat and a dog laying on a rug in the sunshine . 
+a cat and a dog lay on a rug in the sunshine . 
+
+verb-prep-object	lay on rug
+object-prep-object	cat on rug
+object-prep-object	dog on rug
+object-prep-object	rug in sunshine
+object-verb	cat lay
+object-verb	dog lay
+object	rug
+object	cat
+object	dog
+object	sunshine
+object	dog
+#####################################################
+A small dog and a cat laying on its side , both on a white rug . 
+a small dog and a cat lay on its side , both on a white rug . 
+
+verb-prep-object	lay on rug
+object-prep-object	cat on rug
+object-prep-object	dog on rug
+attribute-object	small dog
+attribute-object	white rug
+object-verb	cat lay
+object-verb	dog lay
+object	rug
+object	cat
+object	dog
+object	dog
+#####################################################
+Two dogs on a rug with sun shining through the window . 
+two dog on a rug with sun shine through the window . 
+
+verb-prep-object	shine through window
+object-prep-object	dog on rug
+object-verb	sun shine
+object	window
+object	dog
+object	rug
+object	sun
+object	dog
+#####################################################
+Two small black dogs lay in the sun on a fluffy white rug and one looks directly at the camera . 
+two small black dog lay in the sun on a fluffy white rug and one look directly at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	lay in sun
+verb-prep-object	lay on rug
+object-prep-object	dog on rug
+object-prep-object	dog in sun
+attribute-object	small dog
+attribute-object	black dog
+attribute-object	fluffy rug
+attribute-object	white rug
+object-verb	dog lay
+object-verb	dog look
+object	camera
+object	sun
+object	rug
+object	dog
+object	dog
+#####################################################
+Two small black dogs on a furry white rug . 
+two small black dog on a furry white rug . 
+
+object-prep-object	dog on rug
+attribute-object	small dog
+attribute-object	black dog
+attribute-object	furry rug
+attribute-object	white rug
+object	dog
+object	rug
+object	dog
+#####################################################

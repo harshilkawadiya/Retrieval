@@ -1,0 +1,67 @@
+A group of people standing and sitting around a large circular table in a restaurant . 
+a group of people stand and sit around a large circular table in a restaurant . 
+
+verb-prep-object	stand in restaurant
+verb-prep-object	stand around diningtable
+object-prep-object	person in people
+object-prep-object	person around diningtable
+verb-prep-object	sit in restaurant
+verb-prep-object	sit around diningtable
+attribute-object	large diningtable
+attribute-object	circular diningtable
+object-verb	person stand
+object-verb	person sit
+object	restaurant
+object	diningtable
+object	table
+object	person
+object	people
+object	person
+#####################################################
+Eight people are at an Asian restaurant for dinner . 
+eight people be at a asian restaurant for dinner . 
+
+object-prep-object	person at people
+object-prep-object	restaurant for dinner
+attribute-object	asian restaurant
+object	person
+object	people
+object	restaurant
+object	dinner
+object	person
+#####################################################
+Eight people at a table at a restaurant . 
+eight people at a table at a restaurant . 
+
+object-prep-object	person at diningtable
+object-prep-object	person at people
+object	person
+object	people
+object	diningtable
+object	person
+#####################################################
+People gather around a circular table . 
+people gather around a circular table . 
+
+verb-prep-object	gather around diningtable
+object-prep-object	person around diningtable
+attribute-object	circular diningtable
+object-verb	person gather
+object	diningtable
+object	table
+object	person
+object	people
+object	person
+#####################################################
+The eight young people are posing at a restaurant . 
+the eight young people be pose at a restaurant . 
+
+verb-prep-object	pose at restaurant
+object-prep-object	person at people
+attribute-object	young person
+object-verb	person pose
+object	restaurant
+object	person
+object	people
+object	person
+#####################################################

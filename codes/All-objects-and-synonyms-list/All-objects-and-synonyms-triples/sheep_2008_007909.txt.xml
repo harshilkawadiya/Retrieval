@@ -1,0 +1,41 @@
+A close-up of an animal with curved horns . 
+a close-up of a animal with curved horn . 
+
+object-prep-object	animal with horn
+attribute-object	curved horn
+object	animal
+object	horn
+object	sheep
+#####################################################
+A close-up shot of a gray sheep . 
+a close-up shot of a gray sheep . 
+
+attribute-object	gray sheep
+object	sheep
+object	sheep
+#####################################################
+A sheep 's face . 
+a sheep 's face . 
+
+attribute-object	sheep face
+object	face
+object	sheep
+#####################################################
+close up of a gray sheep 's face . 
+close up of a gray sheep 's face . 
+
+attribute-object	gray face
+attribute-object	sheep face
+object	face
+object	sheep
+#####################################################
+The face of a gray ram . 
+the face of a gray ram . 
+
+object-prep-object	face of car
+attribute-object	gray sheep
+object	face
+object	sheep
+object	car
+object	sheep
+#####################################################

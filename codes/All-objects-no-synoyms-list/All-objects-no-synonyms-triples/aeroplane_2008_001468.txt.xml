@@ -1,0 +1,62 @@
+A blue grounded fighter jet is parked on grass in front of a glass building . 
+a blue ground fighter jet be park on grass in front of a glass building . 
+
+verb-prep-object	park on grass
+verb-prep-object	park in_front_of building
+attribute-object	blue jet
+attribute-object	ground jet
+attribute-object	fighter jet
+attribute-object	glass building
+object-verb	jet park
+object-verb-object	jet on grass
+object-verb-object	jet in_front_of building
+object	grass
+object	building
+object	jet
+object	aeroplane
+#####################################################
+A blue jet stopped on a lawn . 
+a blue jet stop on a lawn . 
+
+attribute-object	blue jet
+object-verb	jet stop
+verb-prep-object	stop on lawn
+object-prep-object	jet on lawn
+object	jet
+object	lawn
+object	aeroplane
+#####################################################
+A fighter jet sits on display . 
+a fighter jet sit on display . 
+
+verb-prep-object	sit on display
+object-prep-object	jet on display
+attribute-object	fighter jet
+object-verb	jet sit
+object	display
+object	jet
+object	aeroplane
+#####################################################
+A jet plane on exhibit in front of a modern building . 
+a jet plane on exhibit in front of a modern building . 
+
+attribute-object	modern building
+attribute-object	jet plane
+object-prep-object	plane in_front_of building
+object	building
+object	plane
+object	aeroplane
+#####################################################
+Blue fighter jet parked in the green grass . 
+Blue fighter jet park in the green grass . 
+
+verb-prep-object	park in grass
+object-prep-object	jet in grass
+attribute-object	green grass
+attribute-object	blue jet
+attribute-object	fighter jet
+object-verb	jet park
+object	grass
+object	jet
+object	aeroplane
+#####################################################

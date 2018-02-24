@@ -1,0 +1,60 @@
+A black and white bird on a body of water with grass in the background . 
+a black and white bird on a body of water with grass in the background . 
+
+object-prep-object	bird with grass
+object-prep-object	bird on body
+object-prep-object	body of water
+attribute-object	black bird
+attribute-object	white bird
+object	bird
+object	grass
+object	body
+object	water
+object	bird
+#####################################################
+A duck is swimming on a lake . 
+a duck be swim on a lake . 
+
+verb-prep-object	swim on water
+object-prep-object	bird on water
+object-verb	bird swim
+object	water
+object	bird
+object	bird
+#####################################################
+A little bird floating in the water . 
+a little bird float in the water . 
+
+verb-prep-object	float in water
+object-prep-object	bird in water
+attribute-object	little bird
+object-verb	bird float
+object	water
+object	bird
+object	bird
+#####################################################
+The seagull is floating on the water . 
+the seagull be float on the water . 
+
+verb-prep-object	float on water
+object-prep-object	bird on water
+object-verb	bird float
+object	water
+object	bird
+object	bird
+#####################################################
+The white bird floats in the water near a grassy shore . 
+the white bird float in the water near a grassy shore . 
+
+verb-prep-object	float near shore
+object-prep-object	bird near shore
+verb-prep-object	float in water
+object-prep-object	bird in water
+attribute-object	white bird
+attribute-object	grassy shore
+object-verb	bird float
+object	shore
+object	bird
+object	water
+object	bird
+#####################################################

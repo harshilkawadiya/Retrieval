@@ -1,0 +1,51 @@
+A close-up picture of a desk with a computer and papers on it . 
+a close-up picture of a desk with a computer and papers on it . 
+
+object-prep-object	desk with computer
+object-prep-object	desk with papers
+object	desk
+object	computer
+object	papers
+object	tvmonitor
+#####################################################
+a messy desktop with two monitors . 
+a messy desktop with two monitor . 
+
+object-prep-object	desktop with monitor
+attribute-object	messy desktop
+object	desktop
+object	monitor
+object	tvmonitor
+#####################################################
+Messy computer desk with two monitors . 
+messy computer desk with two monitor . 
+
+object-prep-object	desk with monitor
+attribute-object	messy desk
+attribute-object	computer desk
+object	desk
+object	monitor
+object	tvmonitor
+#####################################################
+The desk is very cluttered and has an old computer on it . 
+the desk be very cluttered and have a old computer on it . 
+
+attribute-object	old computer
+object-verb-object	desk have computer
+object-object	desk cluttered
+object	computer
+object	desk
+object	cluttered
+object	tvmonitor
+#####################################################
+Very crowded office desk with computer monitor on . 
+very crowd office desk with computer monitor on . 
+
+object-prep-object	desk with monitor
+attribute-object	crowd desk
+attribute-object	office desk
+attribute-object	computer monitor
+object	desk
+object	monitor
+object	tvmonitor
+#####################################################

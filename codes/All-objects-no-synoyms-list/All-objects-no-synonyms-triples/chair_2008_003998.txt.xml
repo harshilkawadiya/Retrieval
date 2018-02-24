@@ -1,0 +1,66 @@
+A plate of food is laying on a pink tablecloth . 
+a plate of food be lay on a pink tablecloth . 
+
+verb-prep-object	lay on tablecloth
+object-prep-object	plate on tablecloth
+object-prep-object	plate of food
+attribute-object	pink tablecloth
+object-verb	plate lay
+object	tablecloth
+object	plate
+object	food
+object	chair
+#####################################################
+A pot of food is placed in the center of a red tablecloth . 
+a pot of food be place in the center of a red tablecloth . 
+
+verb-prep-object	place in center
+object-prep-object	pot of food
+object-prep-object	center of tablecloth
+attribute-object	red tablecloth
+object-verb	pot place
+object	center
+object	pot
+object	food
+object	tablecloth
+object	chair
+#####################################################
+A pot of liquid is at the center of a tinfoil covered plate . 
+a pot of liquid be at the center of a tinfoil cover plate . 
+
+object-prep-object	pot at center
+object-prep-object	pot of liquid
+object-prep-object	center of plate
+attribute-object	tinfoil plate
+attribute-object	cover plate
+object	pot
+object	center
+object	liquid
+object	plate
+object	chair
+#####################################################
+Someone stirs soup on a table of food . 
+someone stir soup on a table of food . 
+
+object-prep-object	soup on table
+object-prep-object	table of food
+object-verb-object	someone stir soup
+object	soup
+object	table
+object	food
+object	someone
+object	chair
+#####################################################
+some seriously nasty looking food in a bowl with tinfoil . 
+some seriously nasty look food in a bowl with tinfoil . 
+
+object-prep-object	bowl with tinfoil
+object-prep-object	food in bowl
+attribute-object	seriously food
+attribute-object	nasty food
+attribute-object	looking food
+object	bowl
+object	tinfoil
+object	food
+object	chair
+#####################################################

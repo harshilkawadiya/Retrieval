@@ -1,0 +1,55 @@
+A closeup headshot of two women with one sticking out her tongue . 
+a closeup headshot of two woman with one stick out she tongue . 
+
+object-verb-object	woman stick tongue
+verb-attribute	stick out
+object	woman
+object	tongue
+object	person
+#####################################################
+A woman in a gray shirt smiles for the camera while the woman behind her makes a face . 
+a woman in a gray shirt smile for the camera while the woman behind she make a face . 
+
+object-prep-object	woman in shirt
+verb-prep-object	smile for camera
+attribute-object	gray shirt
+object-verb-object	woman make face
+object-verb	woman smile
+object	woman
+object	shirt
+object	camera
+object	face
+object	person
+#####################################################
+A woman with a surprised look on her face is holding a smiling woman from behind . 
+a woman with a surprised look on she face be hold a smile woman from behind . 
+
+object-prep-object	woman with look
+object-prep-object	look on face
+attribute-object	surprised look
+attribute-object	smile woman
+object-verb-object	woman hold woman
+object	woman
+object	look
+object	face
+object	person
+#####################################################
+Two women make faces at the camera . 
+two woman make face at the camera . 
+
+object-verb-object	woman make face
+object	woman
+object	face
+object	person
+#####################################################
+Two women posing for the camera with the women behind pulling a face . 
+two woman pose for the camera with the woman behind pull a face . 
+
+verb-prep-object	pose for camera
+object-prep-object	woman pull face
+object-verb	woman pose
+object	camera
+object	woman
+object	face
+object	person
+#####################################################

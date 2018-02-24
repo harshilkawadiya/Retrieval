@@ -1,0 +1,59 @@
+A yellow school bus is stopped on the street with its door open . 
+a yellow school bus be stop on the street with its door open . 
+
+verb-prep-object	stop with door
+verb-prep-object	stop on street
+object-prep-object	bus with door
+object-prep-object	bus on street
+attribute-object	yellow bus
+attribute-object	school bus
+object-verb	bus stop
+object	door
+object	street
+object	bus
+object	bus
+#####################################################
+A yellow school bus lets off passengers . 
+a yellow school bus let off passenger . 
+
+attribute-object	yellow bus
+object-verb-object	bus let passenger
+attribute-object	school bus
+verb-attribute	let off
+object	bus
+object	passenger
+object	bus
+#####################################################
+A yellow school bus stops and opens its door . 
+a yellow school bus stop and open its door . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object-verb	bus stop
+object-verb-object	bus open door
+object	bus
+object	door
+object	bus
+#####################################################
+The front end of a yellow school bus . 
+the front end of a yellow school bus . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	bus
+#####################################################
+The front of a yellow school bus with trees to the right and a large wooden building to the left . 
+the front of a yellow school bus with tree to the right and a large wooden building to the left . 
+
+attribute-object	yellow bus
+attribute-object	school bus
+object-prep-object	bus with tree
+object-prep-object	bus with building
+attribute-object	large building
+attribute-object	wooden building
+object	bus
+object	tree
+object	building
+object	bus
+#####################################################

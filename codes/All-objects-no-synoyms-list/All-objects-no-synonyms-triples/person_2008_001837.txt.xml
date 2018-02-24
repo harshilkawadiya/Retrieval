@@ -1,0 +1,65 @@
+Four people are behind a table . 
+four people be behind a table . 
+
+object-prep-object	people behind table
+object	people
+object	table
+object	person
+#####################################################
+Three middle-aged women and a man sit at a patio table with a bottle of wine . 
+three middle-aged woman and a man sit at a patio table with a bottle of wine . 
+
+object-verb	woman sit
+object-verb	man sit
+verb-prep-object	sit at table
+object-prep-object	woman at table
+object-prep-object	man at table
+object-prep-object	table with bottle
+object-prep-object	bottle of wine
+attribute-object	middle-aged woman
+attribute-object	patio table
+object	woman
+object	man
+object	table
+object	bottle
+object	wine
+object	person
+#####################################################
+Three women drinking wine on a patio with a man , in a city . 
+three woman drink wine on a patio with a man , in a city . 
+
+verb-prep-object	drink with man
+object-prep-object	woman with man
+object-prep-object	wine on patio
+object-prep-object	woman on patio
+verb-prep-object	drink in city
+object-prep-object	woman in city
+object-verb-object	woman drink wine
+object	man
+object	woman
+object	wine
+object	patio
+object	city
+object	person
+#####################################################
+Three women drinking wine while a man looks on . 
+three woman drink wine while a man look on . 
+
+object-verb-object	woman drink wine
+object-verb	man look
+object	woman
+object	wine
+object	man
+object	person
+#####################################################
+Two women sitting around a table drinking wine while others watch . 
+two woman sit around a table drinking wine while other watch . 
+
+verb-prep-object	sit around table
+object-prep-object	woman around table
+object-verb	woman drink
+object-verb	woman sit
+object	table
+object	woman
+object	person
+#####################################################

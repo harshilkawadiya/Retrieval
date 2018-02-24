@@ -1,0 +1,68 @@
+The two men are standing next to their bicycles in front of the building . 
+the two man be stand next to they bicycle in front of the building . 
+
+verb-prep-object	stand next_to bicycle
+object-prep-object	person next_to man
+verb-prep-object	stand in_front_of building
+object-prep-object	person in_front_of man
+object-verb	person stand
+object	bicycle
+object	person
+object	man
+object	building
+object	pottedplant
+#####################################################
+Two men in bike riding clothing standing by their bikes . 
+two man in bike ride clothing standing by they bike .
+
+object-prep-object	person in man
+attribute-object	bike clothing
+attribute-object	ride clothing
+object-verb	person stand
+verb-prep-object	stand by bicycle
+object	person
+object	man
+object	clothing
+object	bicycle
+object	bike
+object	pottedplant
+#####################################################
+Two men in biking uniforms looking off into the distance . 
+two man in biking uniform look off into the distance . 
+
+object-prep-object	person in suit
+verb-prep-object	look into distance
+attribute-object	biking suit
+object-verb	person look
+verb-attribute	look off
+object	person
+object	man
+object	suit
+object	distance
+object	uniform
+object	pottedplant
+#####################################################
+Two men stand with their bicycles outside a shop . 
+two man stand with they bicycle outside a shop . 
+
+verb-prep-object	stand with bicycle
+object-prep-object	person with man
+verb-prep-object	stand outside shop
+object-prep-object	person outside man
+object-verb	person stand
+object	bicycle
+object	person
+object	man
+object	shop
+object	pottedplant
+#####################################################
+Two men wearing bike helmets . 
+two man wear bike helmet . 
+
+object-verb-object	person wear man
+attribute-object	bike helmet
+object	person
+object	man
+object	helmet
+object	pottedplant
+#####################################################

@@ -1,0 +1,56 @@
+A Canadian train with the flag of Canada on the tracks . 
+a canadian train with the flag of Canada on the track . 
+
+object-prep-object	flag of canada
+object-prep-object	train on track
+object-prep-object	train with flag
+attribute-object	canadian train
+object	flag
+object	canada
+object	train
+object	track
+object	train
+#####################################################
+A gray , yellow and blue train engine from Canada . 
+a gray , yellow and blue train engine from Canada . 
+
+object-prep-object	engine from canada
+attribute-object	gray engine
+attribute-object	yellow engine
+attribute-object	blue engine
+attribute-object	train engine
+object	engine
+object	canada
+object	train
+#####################################################
+Canadian train on tracks . 
+canadian train on track . 
+
+object-prep-object	train on track
+attribute-object	canadian train
+object	train
+object	track
+object	train
+#####################################################
+The Canadian locomotive is parked . 
+the canadian locomotive be park . 
+
+attribute-object	canadian train
+object-verb	train park
+object	train
+object	locomotive
+object	train
+#####################################################
+The train engine is labeled with the word Canada and a flag . 
+the train engine be label with the word Canada and a flag . 
+
+verb-prep-object	label with canada
+verb-prep-object	label with flag
+object-prep-object	engine with flag
+attribute-object	train engine
+object-verb	engine label
+object	canada
+object	flag
+object	engine
+object	train
+#####################################################

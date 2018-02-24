@@ -1,0 +1,60 @@
+A man pressing a button on a television . 
+a man press a button on a television . 
+
+object-prep-object	button on tvmonitor
+object-verb-object	person press man
+object	button
+object	tvmonitor
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A man sitting and pointing at a blurred screen . 
+a man sit and point at a blur screen . 
+
+verb-prep-object	point at screen
+attribute-object	blur screen
+object-verb	person sit
+object-verb	person point
+object	screen
+object	person
+object	man
+object	tvmonitor
+#####################################################
+a man turning on a TV in his office . 
+a man turn on a tv in he office . 
+
+verb-prep-object	turn on tvmonitor
+object-prep-object	tvmonitor in tv
+object-verb	person turn
+object	tvmonitor
+object	tv
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A man viewing television in a doctors office . 
+a man view television in a doctor office . 
+
+object-verb-object	person view tvmonitor
+object-prep-object	tvmonitor in television
+attribute-object	doctor office
+object	person
+object	man
+object	tvmonitor
+object	television
+object	office
+object	tvmonitor
+#####################################################
+Man pointing at image on tv . 
+man point at image on tv . 
+
+object-prep-object	image on tvmonitor
+verb-prep-object	point at image
+object-verb	person point
+object	image
+object	tvmonitor
+object	person
+object	man
+object	tvmonitor
+#####################################################

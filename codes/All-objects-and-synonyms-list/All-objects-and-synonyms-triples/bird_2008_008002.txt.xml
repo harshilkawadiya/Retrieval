@@ -1,0 +1,56 @@
+Two birds fly by a fencepost . 
+two bird fly by a fencepost . 
+
+verb-prep-object	fly by fencepost
+object-prep-object	bird by fencepost
+object-verb	bird fly
+object	fencepost
+object	bird
+object	bird
+#####################################################
+Two birds flying next to barbed wire fence . 
+two bird fly next to barbed wire fence . 
+
+verb-prep-object	fly next_to fence
+object-prep-object	bird next_to fence
+attribute-object	barbed fence
+attribute-object	wire fence
+object-verb	bird fly
+object	fence
+object	bird
+object	bird
+#####################################################
+Two green birds flying above the telephone wires . 
+two green bird fly above the telephone wire . 
+
+verb-prep-object	fly above wire
+object-prep-object	bird above wire
+attribute-object	green bird
+attribute-object	telephone wire
+object-verb	bird fly
+object	wire
+object	bird
+object	bird
+#####################################################
+Two green birds fly towards a wooden telephone pole . 
+two green bird fly towards a wooden telephone pole . 
+
+verb-prep-object	fly towards pole
+object-prep-object	bird towards pole
+attribute-object	green bird
+attribute-object	wooden pole
+attribute-object	telephone pole
+object-verb	bird fly
+object	pole
+object	bird
+object	bird
+#####################################################
+Two green flowers above wire . 
+two green flower above wire . 
+
+object-prep-object	flower above wire
+attribute-object	green flower
+object	flower
+object	wire
+object	bird
+#####################################################

@@ -1,0 +1,58 @@
+A bus goes down a street with parked cars . 
+a bus go down a street with park car . 
+
+object-prep-object	road with street
+attribute-object	park car
+object-verb-object	bus go road
+verb-attribute	go down
+object	road
+object	street
+object	car
+object	bus
+object	bus
+#####################################################
+A school bus driving down a street with many parked cars . 
+a school bus drive down a street with many park car . 
+
+object-prep-object	road with street
+attribute-object	many car
+attribute-object	park car
+object-verb-object	bus drive road
+attribute-object	school bus
+verb-attribute	drive down
+object	road
+object	street
+object	car
+object	bus
+object	bus
+#####################################################
+a snowy road with a stopped schoolbus in the distance . 
+a snowy road with a stop schoolbus in the distance . 
+
+object-prep-object	road with bus
+attribute-object	snowy road
+attribute-object	stop bus
+object	road
+object	bus
+object	schoolbus
+object	bus
+#####################################################
+a street with some cars covered by a little bit of snow . 
+a street with some car cover by a little bit of snow . 
+
+verb-prep-object	cover by snow
+object-prep-object	road with street
+object-verb	road cover
+object	snow
+object	road
+object	street
+object	bus
+#####################################################
+Road with the rear image of the tail lights of a bus . 
+Road with the rear image of the tail light of a bus . 
+
+object-prep-object	road with bus
+object	road
+object	bus
+object	bus
+#####################################################

@@ -1,0 +1,47 @@
+A blurry picture of a man on a white horse . 
+a blurry picture of a man on a white horse . 
+
+object-prep-object	man on horse
+attribute-object	white horse
+object	man
+object	horse
+object	horse
+#####################################################
+A guy on a white horse . 
+a guy on a white horse . 
+
+object-prep-object	guy on horse
+attribute-object	white horse
+object	guy
+object	horse
+object	horse
+#####################################################
+A man riding a white horse . 
+a man ride a white horse . 
+
+attribute-object	white horse
+object-verb-object	man ride horse
+object	horse
+object	man
+object	horse
+#####################################################
+A man riding a white horse in an arena . 
+a man ride a white horse in a arena . 
+
+object-prep-object	horse in arena
+attribute-object	white horse
+object-verb-object	man ride horse
+object	horse
+object	arena
+object	man
+object	horse
+#####################################################
+A statue of a man with a white horse . 
+a statue of a man with a white horse . 
+
+object-prep-object	man with horse
+attribute-object	white horse
+object	man
+object	horse
+object	horse
+#####################################################

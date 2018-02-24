@@ -1,0 +1,50 @@
+beam_size_1	2	A man and a woman wearing a head covering turn the video camera on themselves .
+beam_size_1	3	A man and woman pose for the video camera that they are holding .
+beam_size_1	4	A man in a brown sweater and a woman smile for their video camera .
+beam_size_1	5	A smiling couple with a camcorder .
+beam_size_1	6	Woman standing with man holding a camcorder and smiling into lens .
+beam_size_1	7	A man sleeping with a bag on his lap on public transportation
+beam_size_1	8	A man who has fallen asleep on public transportation .
+beam_size_1	9	An asian man in a suit on the subway , asleep .
+beam_size_1	10	A tired business man takes a quick nap while riding the train .
+beam_size_1	11	A young man in a suit and tie leans against a railing to take a nap on public transit .
+beam_size_1	12	Airplane emitting heavy red colored smoke .
+beam_size_1	13	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	14	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	15	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	16	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	17	a lone skateboarder jumping a huge skateboarding ramp .
+beam_size_1	18	A man dressed all in black performs a trick on a rail while wearing inline skates .
+beam_size_1	19	An inline skater doing a jump on a ramp .
+beam_size_1	20	A skateboarder makes a jump off a ramp .
+beam_size_1	21	The skateboarder is jumping over a ramp .
+beam_size_1	22	A baby eats and has food on his face .
+beam_size_1	23	A boy with lips messy from eating fruit
+beam_size_1	24	A little boy is eating something and got it all over his mouth .
+beam_size_1	25	A small child with berries all over its mouth .
+beam_size_1	26	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	27	Two babies look up while they are playing in a playpen with a lot of balls .
+beam_size_1	28	Two boys in tent-like area , with colorful balls on floor .
+beam_size_1	29	Two children look up .
+beam_size_1	30	Two kids are in a pen playing with colorful balls .
+beam_size_1	31	Two young children play with colored balls .
+beam_size_1	32	A man in a black cap and shirt smiling while holding a white grey and black rectangular object .
+beam_size_1	33	A man smiles and poses with a product he appears to be trying to sell .
+beam_size_1	34	A man wearing a black shirt and baseball cap smiling .
+beam_size_1	35	The man is wearing a black shirt and hat and smiling .
+beam_size_1	36	There is a man with a black shirt and a black hat smiling .
+beam_size_1	37	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	38	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	39	A little boy is leaping in the air onto a water slide .
+beam_size_1	40	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	41	The boy in the swimming trunks is playing in the yard .
+beam_size_1	42	A blond woman in a blue shirt appears to wait for a ride .
+beam_size_1	43	A blond woman is on the street hailing a taxi .
+beam_size_1	44	A woman is signaling is to traffic , as seen from behind .
+beam_size_1	45	A woman with blonde hair wearing a blue tube top is waving on the side of the street .
+beam_size_1	46	The woman in the blue dress is holding out her arm at oncoming traffic .
+beam_size_1	47	A man in a white restaraunt shirt smokes next to a dumpster .
+beam_size_1	48	A man is lighting a smoke outside of a building .
+beam_size_1	49	a man lighting a cigarette near a dumpster in an ally .
+beam_size_1	50	A man lights a cigarette on a loading dock near a dumpster .
+beam_size_1	51	The man is lighting a cigarette outside the back of a building .

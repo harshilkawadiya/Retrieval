@@ -1,0 +1,64 @@
+A gray and white tabby cat is sleeping on purple fabric . 
+a gray and white tabby cat be sleep on purple fabric . 
+
+verb-prep-object	sleep on fabric
+object-prep-object	cat on fabric
+attribute-object	gray cat
+attribute-object	white cat
+attribute-object	purple fabric
+attribute-object	tabby cat
+object-verb	cat sleep
+object	fabric
+object	cat
+object	cat
+#####################################################
+A sleeping cat rests on the coach . 
+a sleep cat rest on the coach . 
+
+verb-prep-object	rest on coach
+object-prep-object	cat on coach
+attribute-object	sleep cat
+object-verb	cat rest
+object	coach
+object	cat
+object	cat
+#####################################################
+A sleeping gray cat curled up while lying on a purple surface . 
+a sleep gray cat curl up while lie on a purple surface . 
+
+verb-prep-object	lie on surface
+object-prep-object	cat on surface
+attribute-object	sleep cat
+attribute-object	gray cat
+attribute-object	purple surface
+object-verb	cat curl
+verb-attribute	curl up
+object-verb	cat lie
+object	surface
+object	cat
+object	cat
+#####################################################
+A striped cat asleep and curled up . 
+a striped cat asleep and curl up . 
+
+attribute-object	striped cat
+object-verb	cat asleep
+object-verb	cat curl
+verb-attribute	curl up
+object	cat
+object	cat
+#####################################################
+Gray cat curled up asleep on pink blanket . 
+Gray cat curl up asleep on pink blanket . 
+
+verb-prep-object	curl on blanket
+object-prep-object	cat on blanket
+object-verb-object	cat curl asleep
+attribute-object	pink blanket
+attribute-object	gray cat
+verb-attribute	curl up
+object	blanket
+object	cat
+object	asleep
+object	cat
+#####################################################

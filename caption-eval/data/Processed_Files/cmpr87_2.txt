@@ -1,0 +1,50 @@
+beam_size_1	2	A little girl hugs another little girl .
+beam_size_1	3	A young child is being held by another child looking straight at us .
+beam_size_1	4	Two toddlers posing for the camera .
+beam_size_1	5	Two young children holding each other and posing .
+beam_size_1	6	Two young girls hug .
+beam_size_1	7	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	8	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	9	A little boy is leaping in the air onto a water slide .
+beam_size_1	10	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	11	The boy in the swimming trunks is playing in the yard .
+beam_size_1	12	Airplane emitting heavy red colored smoke .
+beam_size_1	13	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	14	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	15	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	16	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	17	A brown dog jumps through three hoops .
+beam_size_1	18	A dog is jumping through hoops held by people .
+beam_size_1	19	a dog jumps through a black hulahoop .
+beam_size_1	20	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	21	A trainer runs next to his dog as it jumps through multiple hoops .
+beam_size_1	22	A man is lying on the grass next to a shopping cart .
+beam_size_1	23	A person is lying on the green grass and there is a small cart next to them .
+beam_size_1	24	A person lies on the grass with a shopping cart nearby .
+beam_size_1	25	There is a shopping cart and a person laying on the ground in a green field of grass .
+beam_size_1	26	There is one person lying in a large , green field .
+beam_size_1	27	A group of girls sit back to back .
+beam_size_1	28	a group of girls sitting in a circle
+beam_size_1	29	Little girl in bare feet sitting in a circle .
+beam_size_1	30	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	31	The young girls sat in a circle on the wood floor .
+beam_size_1	32	A boy is upside down in midair near a lake at sunset .
+beam_size_1	33	A person does a flip by two sailboats and a lake .
+beam_size_1	34	A person flipping upside down
+beam_size_1	35	a person in midair doing a back flip .
+beam_size_1	36	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	37	A girl jumping over a jump rope .
+beam_size_1	38	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	39	A girl wearing shorts plays jump rope .
+beam_size_1	40	A little girl is jumping over a yellow rope .
+beam_size_1	41	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	42	A dog walks down the dirt road as a person follows .
+beam_size_1	43	A tan dog walks ahead of a man in a dry area .
+beam_size_1	44	A white dog is going for a walk through the desert with its owner .
+beam_size_1	45	A yellow dog is walking along a mountain trail
+beam_size_1	46	Dog in desert area with distant man in background .
+beam_size_1	47	A teacher is instructing two boys how to use the computer in a class .
+beam_size_1	48	A woman helps boys on a computer .
+beam_size_1	49	Children sit in front of a computer while their teacher instructs them .
+beam_size_1	50	Kids work at computers with a teacher 's help .
+beam_size_1	51	Two boys are getting help on a computer from a teacher .

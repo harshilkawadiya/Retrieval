@@ -1,0 +1,64 @@
+A bird standing on top of a wooden fencepost . 
+a bird standing on top of a wooden fencepost . 
+
+verb-prep-object	stand on top
+object-prep-object	top of fencepost
+attribute-object	wooden fencepost
+object-verb	bird stand
+object	top
+object	fencepost
+object	bird
+object	bird
+#####################################################
+A bird with a blue tail stretches its neck . 
+a bird with a blue tail stretch its neck . 
+
+object-prep-object	bird with tail
+attribute-object	blue tail
+object-verb-object	bird stretch neck
+object	bird
+object	tail
+object	neck
+object	bird
+#####################################################
+A bird with a somewhat long neck is on a fencepost looking to the right . 
+a bird with a somewhat long neck be on a fencepost look to the right . 
+
+object-prep-object	bird with neck
+object-prep-object	bird on fencepost
+attribute-object	long neck
+object-verb	bird look
+object	bird
+object	neck
+object	fencepost
+object	bird
+#####################################################
+A large bird standing on a wooden beam with its head backwards . 
+a large bird standing on a wooden beam with its head backwards . 
+
+object-prep-object	bird with head
+verb-prep-object	stand on beam
+object-prep-object	bird on beam
+attribute-object	large bird
+attribute-object	wooden beam
+object-verb	bird stand
+object	bird
+object	head
+object	beam
+object	bird
+#####################################################
+A long-necked bird with an orange beak perches on a wooden post . 
+a long-necked bird with a orange beak perch on a wooden post . 
+
+verb-prep-object	perch on post
+object-prep-object	bird on post
+object-prep-object	bird with beak
+attribute-object	long-necked bird
+attribute-object	orange beak
+attribute-object	wooden post
+object-verb	bird perch
+object	post
+object	bird
+object	beak
+object	bird
+#####################################################

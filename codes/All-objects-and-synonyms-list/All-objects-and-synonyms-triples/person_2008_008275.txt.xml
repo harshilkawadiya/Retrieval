@@ -1,0 +1,47 @@
+A black and white image of an old fashioned train in a station . 
+a black and white image of a old fashion train in a station . 
+
+object-prep-object	train in station
+attribute-object	old train
+attribute-object	fashion train
+object	train
+object	station
+object	person
+#####################################################
+A black and white photo of an old train station . 
+a black and white photo of a old train station . 
+
+attribute-object	old station
+attribute-object	train station
+object	station
+object	person
+#####################################################
+A black and white scene of people boarding a train . 
+a black and white scene of people board a train . 
+
+object-verb-object	person board people
+object	person
+object	people
+object	person
+#####################################################
+a steam train is stopped at a train station . 
+a steam train be stop at a train station . 
+
+verb-prep-object	stop at station
+object-prep-object	train at station
+attribute-object	steam train
+attribute-object	train station
+object-verb	train stop
+object	station
+object	train
+object	person
+#####################################################
+A train is at a train station . 
+a train be at a train station . 
+
+object-prep-object	train at station
+attribute-object	train station
+object	train
+object	station
+object	person
+#####################################################

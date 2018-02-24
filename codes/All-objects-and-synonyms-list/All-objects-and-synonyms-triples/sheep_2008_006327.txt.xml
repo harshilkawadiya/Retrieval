@@ -1,0 +1,58 @@
+Four goat kids laying on hay . 
+four goat kid lay on hay . 
+
+verb-prep-object	lay on hay
+object-prep-object	person on kid
+attribute-object	goat person
+object-verb	person lay
+object	hay
+object	person
+object	kid
+object	sheep
+#####################################################
+Four lambs cuddled together on hay . 
+four lamb cuddle together on hay . 
+
+verb-prep-object	cuddle on hay
+object-prep-object	sheep on lamb
+object-verb	sheep cuddle
+object	hay
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+Four lambs lay together in hay . 
+four lamb lay together in hay . 
+
+verb-prep-object	lay in hay
+object-prep-object	sheep in lamb
+object-verb	sheep lay
+object	hay
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+The lambs are sleeping on the hay . 
+the lamb be sleep on the hay . 
+
+verb-prep-object	sleep on hay
+object-prep-object	sheep on lamb
+object-verb	sheep sleep
+object	hay
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+Three white lambs and a spotted lamb cuddling in the hay . 
+three white lamb and a spotted lamb cuddle in the hay . 
+
+verb-prep-object	cuddle in hay
+object-prep-object	sheep in lamb
+attribute-object	white sheep
+attribute-object	spotted sheep
+object-verb	sheep cuddle
+object	hay
+object	sheep
+object	lamb
+object	sheep
+#####################################################

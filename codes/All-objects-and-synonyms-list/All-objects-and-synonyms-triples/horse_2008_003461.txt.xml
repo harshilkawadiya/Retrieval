@@ -1,0 +1,70 @@
+A man and woman with helmets on brown horses at a farm . 
+a man and woman with helmet on brown horse at a farm . 
+
+object-prep-object	person at man
+object-prep-object	person at woman
+object-prep-object	person with man
+object-prep-object	person with woman
+object-prep-object	person on man
+object-prep-object	person on woman
+attribute-object	brown horse
+object	person
+object	man
+object	woman
+object	horse
+object	horse
+#####################################################
+an Asian man with glasses riding on a horse and a fat woman riding on another horse to the right . 
+a asian man with glass ride on a horse and a fat woman ride on another horse to the right . 
+
+object-verb	person ride
+object-prep-object	person with man
+verb-prep-object	ride on horse
+object-prep-object	person on man
+verb-prep-object	ride on horse
+attribute-object	asian person
+attribute-object	fat person
+object-verb	person ride
+object	person
+object	man
+object	horse
+object	woman
+object	horse
+#####################################################
+Smiling kid sitting on a horse . 
+smile kid sit on a horse . 
+
+verb-prep-object	sit on horse
+object-prep-object	person on kid
+attribute-object	smile person
+object-verb	person sit
+object	horse
+object	person
+object	kid
+object	horse
+#####################################################
+The profile of a smiling boy on a horse and a woman on a horse in the background . 
+the profile of a smile boy on a horse and a woman on a horse in the background . 
+
+object-prep-object	person on boy
+object-prep-object	person on woman
+attribute-object	smile person
+object	person
+object	boy
+object	woman
+object	horse
+#####################################################
+Two people sitting on horses in a stable yard . 
+two people sit on horse in a stable yard . 
+
+verb-prep-object	sit on horse
+object-prep-object	person on people
+object-prep-object	horse in yard
+attribute-object	stable yard
+object-verb	person sit
+object	horse
+object	person
+object	people
+object	yard
+object	horse
+#####################################################

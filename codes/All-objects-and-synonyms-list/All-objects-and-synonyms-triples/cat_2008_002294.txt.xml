@@ -1,0 +1,67 @@
+A close-up of a small white cat resting its head on a rock near a window . 
+a close-up of a small white cat rest its head on a rock near a window . 
+
+object-verb-object	cat rest head
+verb-prep-object	rest on rock
+object-prep-object	head on rock
+object-prep-object	rock near window
+attribute-object	small cat
+attribute-object	white cat
+object	cat
+object	head
+object	rock
+object	window
+object	cat
+#####################################################
+A white cat rests its head on a stone . 
+a white cat rest its head on a stone . 
+
+verb-prep-object	rest on stone
+object-prep-object	head on stone
+attribute-object	white cat
+object-verb-object	cat rest head
+object	stone
+object	head
+object	cat
+object	cat
+#####################################################
+A white kitten asleep on a window sill with his head on a rock . 
+a white kitten asleep on a window sill with he head on a rock . 
+
+object-prep-object	head on rock
+attribute-object	white cat
+object-verb	cat asleep
+verb-prep-object	asleep on sill
+attribute-object	window sill
+object	head
+object	rock
+object	cat
+object	kitten
+object	sill
+object	cat
+#####################################################
+A white kitten uses a rock as a pillow . 
+a white kitten use a rock as a pillow . 
+
+object-prep-object	rock as pillow
+attribute-object	white cat
+object-verb-object	cat use kitten
+object	rock
+object	pillow
+object	cat
+object	kitten
+object	cat
+#####################################################
+Peaceful image of a white cat sleeping with its chin resting on something . 
+peaceful image of a white cat sleep with its chin rest on something . 
+
+verb-prep-object	rest on something
+object-prep-object	chin on something
+attribute-object	white cat
+object-verb	cat sleep
+object-verb	chin rest
+object	something
+object	chin
+object	cat
+object	cat
+#####################################################

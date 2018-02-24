@@ -1,0 +1,53 @@
+One man has a hold of another man from behind while a third man watches . 
+one man have a hold of another man from behind while a third man watch . 
+
+object-prep-object	hold of man
+object-verb-object	man have hold
+object-verb	man watch
+object	hold
+object	man
+object	car
+#####################################################
+Three male friends horse around and laugh . 
+three male friend horse around and laugh . 
+
+object-verb	friend horse
+object-verb	friend laugh
+attribute-object	male friend
+object	friend
+object	car
+#####################################################
+Three men , one holding the another from behind standing in a parking lot at night . 
+three man , one hold the another from behind standing in a parking lot at night . 
+
+object-verb	man stand
+verb-prep-object	stand in lot
+object-prep-object	man in lot
+attribute-object	parking lot
+verb-prep-object	stand at night
+object	man
+object	lot
+object	night
+object	car
+#####################################################
+Three men play around in a parking lot at night . 
+three man play around in a parking lot at night . 
+
+verb-prep-object	play at night
+verb-prep-object	play in lot
+object-prep-object	man in lot
+attribute-object	parking lot
+object-verb	man play
+object	night
+object	lot
+object	man
+object	car
+#####################################################
+Two men hugging while another watches . 
+two man hug while another watch . 
+
+object-verb	man hug
+object-verb	man watch
+object	man
+object	car
+#####################################################

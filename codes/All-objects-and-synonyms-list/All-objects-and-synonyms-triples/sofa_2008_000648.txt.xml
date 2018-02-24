@@ -1,0 +1,73 @@
+A grown man wears a baby bib and sits on the couch . 
+a grown man wear a baby bib and sit on the couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	grown person
+object-verb-object	person wear man
+attribute-object	baby bib
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	bib
+object	sofa
+#####################################################
+A man sitting on a sofa with a baby 's bib around his neck . 
+a man sit on a sofa with a baby 's bib around he neck . 
+
+verb-prep-object	sit with bib
+object-prep-object	person with man
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+attribute-object	baby bib
+object-verb	person sit
+object	bib
+object	person
+object	man
+object	sofa
+object	sofa
+#####################################################
+A man wearing a baby 's bib and holding a baby 's toy . 
+a man wear a baby 's bib and hold a baby 's toy . 
+
+object-verb-object	person wear man
+object-verb-object	person hold man
+attribute-object	baby bib
+attribute-object	baby toy
+object	person
+object	man
+object	bib
+object	toy
+object	sofa
+#####################################################
+A smiling man on a sofa is holding up a set of colorful rings . 
+a smile man on a sofa be hold up a set of colorful ring . 
+
+object-prep-object	person on man
+object-prep-object	set of ring
+attribute-object	smile person
+attribute-object	colorful ring
+object-verb-object	person hold man
+verb-attribute	hold up
+object	person
+object	man
+object	set
+object	ring
+object	sofa
+#####################################################
+Man wearing a bib sitting on a green couch . 
+man wear a bib sit on a green couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	green sofa
+object-verb-object	person wear man
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	sofa
+#####################################################

@@ -1,0 +1,64 @@
+A group of sheep and a sheep dog in a large field . 
+a group of sheep and a sheep dog in a large field . 
+
+object-prep-object	sheep in field
+object-prep-object	dog in field
+attribute-object	large field
+attribute-object	sheep dog
+object	sheep
+object	field
+object	dog
+object	sheep
+#####################################################
+A group of sheep being herded by a dog in a pen . 
+a group of sheep be herd by a dog in a pen . 
+
+object-prep-object	sheep in pen
+verb-prep-object	herd by dog
+verb-prep-object	herd in pen
+object-verb	sheep herd
+object	sheep
+object	pen
+object	dog
+object	sheep
+#####################################################
+Group of sheep huddled together on gravel as dog watches . 
+Group of sheep huddle together on gravel as dog watch . 
+
+verb-prep-object	huddle on gravel
+object-prep-object	sheep on gravel
+object-verb	dog watch
+object-verb	sheep huddle
+object	gravel
+object	sheep
+object	dog
+object	sheep
+#####################################################
+Several sheep grazing in the field . 
+several sheep grazing in the field . 
+
+verb-prep-object	graze in field
+object-prep-object	sheep in field
+attribute-object	several sheep
+object-verb	sheep graze
+object	field
+object	sheep
+object	sheep
+#####################################################
+The group of sheep are standing in the sunshine under the watchful eye of the sheep dog . 
+the group of sheep be stand in the sunshine under the watchful eye of the sheep dog . 
+
+object-verb	sheep stand
+verb-prep-object	stand in sunny
+object-prep-object	sheep in sunny
+verb-prep-object	stand under eye
+object-prep-object	eye of dog
+attribute-object	watchful eye
+attribute-object	sheep dog
+object	sheep
+object	sunny
+object	sunshine
+object	eye
+object	dog
+object	sheep
+#####################################################

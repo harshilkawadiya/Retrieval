@@ -1,0 +1,49 @@
+Horse outfitted with riding gear . 
+Horse outfit with ride gear . 
+
+verb-prep-verb	outfit with gear
+object-prep-object	horse with gear
+attribute-object	ride gear
+object-verb	horse outfit
+object	horse
+object	gear
+object	horse
+#####################################################
+There are two brown horses with bridles on . 
+there be two brown horse with bridle on . 
+
+object-prep-object	horse with bridle
+attribute-object	brown horse
+object	horse
+object	bridle
+object	horse
+#####################################################
+Two draft horses are in full carting gear . 
+two draft horse be in full cart gear . 
+
+object-prep-object	horse in gear
+attribute-object	full gear
+attribute-object	cart gear
+attribute-object	draft horse
+object	horse
+object	gear
+object	horse
+#####################################################
+two horses . 
+two horse . 
+
+object	horse
+object	horse
+object	horse
+#####################################################
+Two horses pulling something on the street . 
+two horse pull something on the street . 
+
+verb-prep-object	pull on road
+object-verb-object	horse pull something
+object	road
+object	street
+object	horse
+object	something
+object	horse
+#####################################################

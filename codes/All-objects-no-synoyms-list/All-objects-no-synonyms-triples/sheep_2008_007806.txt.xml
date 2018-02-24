@@ -1,0 +1,57 @@
+A black and white lamb with other lambs in the background . 
+a black and white lamb with other lamb in the background . 
+
+object-prep-object	lamb with lamb
+attribute-object	black lamb
+attribute-object	white lamb
+object	lamb
+object	sheep
+#####################################################
+A black and white sheep is walking next to a white sheep . 
+a black and white sheep be walk next to a white sheep . 
+
+verb-prep-object	walk next_to sheep
+object-prep-object	sheep next_to sheep
+attribute-object	black sheep
+attribute-object	white sheep
+object-verb	sheep walk
+object	sheep
+object	sheep
+#####################################################
+A close-up of a black and white farm animal in hay . 
+a close-up of a black and white farm animal in hay . 
+
+object-prep-object	animal in hay
+attribute-object	black animal
+attribute-object	white animal
+attribute-object	farm animal
+object	animal
+object	hay
+object	sheep
+#####################################################
+Black and white lamb with tag in right ear . 
+Black and white lamb with tag in right ear . 
+
+object-prep-object	lamb with tag
+object-prep-object	tag in ear
+attribute-object	black lamb
+attribute-object	white lamb
+attribute-object	right ear
+object	lamb
+object	tag
+object	ear
+object	sheep
+#####################################################
+Little black and white calf with a tag on its ear . 
+little black and white calf with a tag on its ear . 
+
+object-prep-object	calf with tag
+object-prep-object	tag on ear
+attribute-object	little calf
+attribute-object	black calf
+attribute-object	white calf
+object	calf
+object	tag
+object	ear
+object	sheep
+#####################################################

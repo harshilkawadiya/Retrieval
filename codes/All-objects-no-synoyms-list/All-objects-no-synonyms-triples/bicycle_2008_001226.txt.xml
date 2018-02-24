@@ -1,0 +1,63 @@
+A biker in a helmet holds a phone up to their ear . 
+a biker in a helmet hold a phone up to they ear . 
+
+verb-prep-object	hold to ear
+object-prep-object	biker in helmet
+attribute-verb	up hold
+object-verb-object	biker hold phone
+object	ear
+object	biker
+object	helmet
+object	phone
+object	bicycle
+#####################################################
+a biker takes a break to catch a cell phone call . 
+a biker take a break to catch a cell phone call . 
+
+object-verb-object	biker take break
+object	biker
+object	break
+object	bicycle
+#####################################################
+A cyclist speaking on two cell phones while sitting next to their bike . 
+a cyclist speaking on two cell phone while sit next to they bike . 
+
+verb-prep-object	sit next_to bike
+object-prep-object	cyclist next_to bike
+verb-prep-object	speaking on phone
+object-verb	cyclist speaking
+object-verb	cyclist sit
+attribute-object	cell phone
+object	bike
+object	cyclist
+object	phone
+object	bicycle
+#####################################################
+A person wearing a bike helmet talks on a cell phone . 
+a person wear a bike helmet talk on a cell phone . 
+
+verb-prep-object	talk on phone
+object-verb-object	person on phone
+object-verb-object	person wear helmet
+attribute-object	bike helmet
+object-verb	person talk
+attribute-object	cell phone
+object	phone
+object	person
+object	helmet
+object	bicycle
+#####################################################
+Cyclist adjusting sun glasses and talking on cell phone . 
+cyclist adjusting sun glass and talk on cell phone . 
+
+verb-prep-object	talk on phone
+object-prep-object	cyclist on phone
+object-verb	cyclist talk
+object-verb-object	cyclist adjusting glass
+attribute-object	sun glass
+attribute-object	cell phone
+object	phone
+object	cyclist
+object	glass
+object	bicycle
+#####################################################

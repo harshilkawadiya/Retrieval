@@ -1,0 +1,78 @@
+An apartment scene showing a small fridge , a table with stools , a desk , and a chair with a towel over the back . 
+a apartment scene show a small fridge , a table with stool , a desk , and a chair with a towel over the back . 
+
+object-prep-object	diningtable with table
+object-prep-object	chair with towel
+attribute-object	small fridge
+object-verb-object	scene show fridge
+object-verb-object	scene show diningtable
+object-verb-object	scene show diningtable
+object-verb-object	scene show chair
+attribute-object	apartment scene
+object	diningtable
+object	table
+object	chair
+object	towel
+object	fridge
+object	scene
+object	chair
+#####################################################
+A small refrigerator with a tv on top , a small table and stools , and a large desk and chair . 
+a small refrigerator with a tv on top , a small table and stool , and a large desk and chair . 
+
+object-prep-object	refrigerator with tvmonitor
+object-prep-object	refrigerator with diningtable
+object-prep-object	refrigerator with stool
+object-prep-object	refrigerator with diningtable
+object-prep-object	refrigerator with chair
+attribute-object	small refrigerator
+attribute-object	small diningtable
+attribute-object	large table
+object	refrigerator
+object	tvmonitor
+object	diningtable
+object	stool
+object	table
+object	chair
+object	chair
+#####################################################
+A sparse kitchen still has the benefits of television . 
+a sparse kitchen still have the benefit of television . 
+
+object-prep-object	benefit of tvmonitor
+attribute-object	sparse kitchen
+object-verb-object	kitchen have benefit
+object	benefit
+object	tvmonitor
+object	kitchen
+object	chair
+#####################################################
+A television is sitting on top of a refrigerator in a kitchen with two tables . 
+a television be sit on top of a refrigerator in a kitchen with two table . 
+
+object-prep-object	kitchen with diningtable
+object-prep-object	refrigerator in kitchen
+verb-prep-object	sit on_top_of refrigerator
+object-prep-object	tvmonitor on_top_of television
+object-verb	tvmonitor sit
+object	kitchen
+object	diningtable
+object	refrigerator
+object	tvmonitor
+object	television
+object	chair
+#####################################################
+One small desk and one large desk are positioned against the wall . 
+one small desk and one large desk be position against the wall . 
+
+verb-prep-object	position against wall
+object-prep-object	table against diningtable
+attribute-object	small table
+attribute-object	large table
+object-verb	table position
+object-verb	table position
+object	wall
+object	table
+object	diningtable
+object	chair
+#####################################################

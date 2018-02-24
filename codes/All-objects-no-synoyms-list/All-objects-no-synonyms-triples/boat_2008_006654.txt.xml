@@ -1,0 +1,54 @@
+A distant view of a sailboat surrounded by the calm blue sea . 
+a distant view of a sailboat surround by the calm blue sea . 
+
+verb-prep-object	surround by sea
+object-prep-object	sailboat by sea
+attribute-object	calm sea
+attribute-object	blue sea
+object-verb	sailboat surround
+object	sea
+object	sailboat
+object	boat
+#####################################################
+A sail boat with two masts sails along the horizon . 
+a sail boat with two mast sail along the horizon . 
+
+object-prep-object	boat along horizon
+object-prep-object	boat with sail
+attribute-object	sail boat
+attribute-object	mast sail
+object	boat
+object	horizon
+object	sail
+object	boat
+#####################################################
+A sailing boat in the distance across the ocean . 
+a sailing boat in the distance across the ocean . 
+
+object-prep-object	boat across ocean
+attribute-object	sailing boat
+object	boat
+object	ocean
+object	boat
+#####################################################
+A schooner in the offing . 
+a schooner in the offing . 
+
+object-prep-object	schooner in offing
+object	schooner
+object	offing
+object	boat
+#####################################################
+Sunset with yacht sailing on the open ocean . 
+Sunset with yacht sailing on the open ocean . 
+
+object-prep-object	sunset with yacht
+verb-prep-object	sailing on ocean
+object-prep-object	yacht on ocean
+attribute-object	open ocean
+object-verb	yacht sailing
+object	sunset
+object	yacht
+object	ocean
+object	boat
+#####################################################

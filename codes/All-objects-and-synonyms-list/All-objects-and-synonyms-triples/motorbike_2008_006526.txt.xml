@@ -1,0 +1,62 @@
+A man sitting on a porch with two motor scooters parked outside . 
+a man sit on a porch with two motor scooter park outside . 
+
+verb-prep-object	sit on porch
+object-prep-object	person on man
+attribute-object	motor motorbike
+object-verb	motorbike park
+object-verb	person sit
+object	porch
+object	person
+object	man
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A man with his cheeks pushed out and two scooters to the left . 
+a man with he cheek push out and two scooter to the left . 
+
+object-prep-object	person with man
+object	motorbike
+object-verb	person push
+verb-attribute	push out
+object	person
+object	man
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A young man holding his breath . 
+a young man hold he breath . 
+
+attribute-object	young person
+object-verb-object	person hold man
+object	person
+object	man
+object	motorbike
+#####################################################
+A young man puffs out his cheeks in an outdoor cafe . 
+a young man puff out he cheek in a outdoor cafe . 
+
+object-prep-object	person in restaurant
+attribute-object	young person
+attribute-object	outdoor restaurant
+object-verb-object	person puff man
+verb-attribute	puff out
+object	person
+object	man
+object	restaurant
+object	cafe
+object	motorbike
+#####################################################
+A young man with a silly look on his face . 
+a young man with a silly look on he face . 
+
+object-prep-object	person with man
+attribute-object	young person
+attribute-object	silly look
+object	person
+object	man
+object	look
+object	motorbike
+#####################################################

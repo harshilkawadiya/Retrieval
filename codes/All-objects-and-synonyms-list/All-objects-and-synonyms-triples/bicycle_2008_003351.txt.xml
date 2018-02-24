@@ -1,0 +1,69 @@
+A man parking his bike near a building . 
+a man parking he bike near a building . 
+
+verb-prep-object	park near building
+object-prep-object	bicycle near building
+object-verb-object	person park bicycle
+object	building
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A man walks his bike towards the entrance of Longbottom Roasting Factory Deli . 
+a man walk he bike towards the entrance of Longbottom Roasting Factory Deli . 
+
+object-prep-object	entrance of deli
+verb-prep-object	walk towards entrance
+object-verb-object	person walk bicycle
+attribute-object	longbottom deli
+attribute-object	roasting deli
+attribute-object	factory deli
+object	entrance
+object	deli
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+A man with a bicycle at a coffee house . 
+a man with a bicycle at a coffee house . 
+
+object-prep-object	person at building
+object-prep-object	person with bicycle
+attribute-object	coffee building
+object	person
+object	building
+object	bicycle
+object	house
+object	bicycle
+#####################################################
+Man walking bicycle to patio of a coffee shop . 
+man walking bicycle to patio of a coffee shop . 
+
+verb-prep-object	walk to patio
+object-prep-object	patio of shop
+object-verb-object	person walk bicycle
+attribute-object	coffee shop
+object	patio
+object	shop
+object	person
+object	bicycle
+object	bicycle
+#####################################################
+The man with the bicycle is standing in front of the Coffe House Deli and Bakery building . 
+the man with the bicycle be stand in front of the Coffe House Deli and Bakery building . 
+
+object-prep-object	person with bicycle
+verb-prep-object	stand in_front_of deli
+object-prep-object	person in_front_of deli
+verb-prep-object	stand in_front_of building
+object-prep-object	person in_front_of building
+attribute-object	coffe deli
+attribute-object	house deli
+attribute-object	bakery building
+object-verb	person stand
+object	person
+object	bicycle
+object	deli
+object	building
+object	bicycle
+#####################################################

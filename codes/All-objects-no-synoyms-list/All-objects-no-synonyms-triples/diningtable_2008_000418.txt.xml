@@ -1,0 +1,69 @@
+A middle-aged woman in cap pants and sandals stands in her home . 
+a middle-aged woman in cap pants and sandal stand in she home . 
+
+object-prep-object	woman in pants
+object-prep-object	woman in sandal
+verb-prep-object	stand in home
+object-prep-object	woman in home
+attribute-object	middle-aged woman
+attribute-object	cap pants
+object-verb	woman stand
+object	woman
+object	pants
+object	sandal
+object	home
+object	diningtable
+#####################################################
+A woman standing in a kitchen . 
+a woman standing in a kitchen . 
+
+verb-prep-object	stand in kitchen
+object-prep-object	woman in kitchen
+object-verb	woman stand
+object	kitchen
+object	woman
+object	diningtable
+#####################################################
+A woman stands in a house just outside the bathroom . 
+a woman stand in a house just outside the bathroom . 
+
+verb-prep-object	stand outside bathroom
+object-prep-object	woman outside bathroom
+verb-prep-object	stand in house
+object-prep-object	woman in house
+object-verb	woman stand
+object	bathroom
+object	woman
+object	house
+object	diningtable
+#####################################################
+A woman with a purse is just inside the doorway of a dining room . 
+a woman with a purse be just inside the doorway of a dining room . 
+
+object-prep-object	woman with purse
+object-prep-object	woman inside doorway
+object-prep-object	doorway of room
+attribute-object	dining room
+object	woman
+object	purse
+object	doorway
+object	room
+object	diningtable
+#####################################################
+A woman with a handbag stands in a dining room near an open door . 
+a woman with a handbag stand in a dining room near a open door . 
+
+object-prep-object	woman with handbag
+verb-prep-object	stand near door
+object-prep-object	woman near door
+verb-prep-object	stand in room
+object-prep-object	woman in room
+attribute-object	open door
+attribute-object	dining room
+object-verb	woman stand
+object	woman
+object	handbag
+object	door
+object	room
+object	diningtable
+#####################################################

@@ -1,0 +1,61 @@
+A boy doing a wheelie on a plank with the beach in the background . 
+a boy do a wheelie on a plank with the beach in the background . 
+
+object-prep-object	wheelie on plank
+object-prep-object	beach in background
+object-verb-object	boy do wheelie
+object	wheelie
+object	plank
+object	beach
+object	background
+object	boy
+object	bicycle
+#####################################################
+A man is doing a wheelie on a bike . 
+a man be do a wheelie on a bike . 
+
+object-prep-object	wheelie on bike
+object-verb-object	man do wheelie
+object	wheelie
+object	bike
+object	man
+object	bicycle
+#####################################################
+A man on a bicycle doing a wheelie at the end of a diving board . 
+a man on a bicycle do a wheelie at the end of a diving board . 
+
+object-prep-object	man on bicycle
+object-verb-object	man do wheelie
+object	man
+object	bicycle
+object	wheelie
+object	bicycle
+#####################################################
+A man wearing a bike helmet does a trick on his dirt bike near a beach . 
+a man wear a bike helmet do a trick on he dirt bike near a beach . 
+
+object-prep-object	trick on bike
+object-prep-object	man near beach
+object-verb-object	man wear helmet
+object-verb-object	man do trick
+attribute-object	bike helmet
+attribute-object	dirt bike
+object	trick
+object	bike
+object	man
+object	beach
+object	helmet
+object	bicycle
+#####################################################
+Person on bike popping a wheelie from a rooftop . 
+person on bike pop a wheelie from a rooftop . 
+
+object-prep-object	person on bike
+verb-prep-object	pop from rooftop
+object-verb-object	person pop wheelie
+object	person
+object	bike
+object	rooftop
+object	wheelie
+object	bicycle
+#####################################################

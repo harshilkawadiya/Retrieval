@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog is running along the beach beside a brown dog in midair catching a stick in its mouth .
+beam_size_1	3	A black dog runs on the shore while a light brown dog jumps up to catch a stick .
+beam_size_1	4	A brown dog leaps into the air next to a black dog on a sandy bay .
+beam_size_1	5	On a beach , black and brown dog runs , brown dog jumps .
+beam_size_1	6	Two dogs are playing together
+beam_size_1	7	A black dog and a golden dog approaching one another
+beam_size_1	8	A black dog and tan dog run towards each other on a beach .
+beam_size_1	9	a black dog is approaching a golden dog on pebbly beach .
+beam_size_1	10	Two dogs playing on a rocky beach .
+beam_size_1	11	Two dogs running on the sand .
+beam_size_1	12	A blond girl in a green dress and elaborate gold necklace stands in front of a few women and a man .
+beam_size_1	13	A few people with a girl standing up in the center wearing a green dress
+beam_size_1	14	A girl is wear a green dress .
+beam_size_1	15	blonde girl wearing green dress standing
+beam_size_1	16	Woman in green dress being observed
+beam_size_1	17	The dogs are running through the water
+beam_size_1	18	three black and white dogs running through a watery field .
+beam_size_1	19	Three dogs running through a puddle .
+beam_size_1	20	Three dogs run through a soggy field .
+beam_size_1	21	Three dogs run through water and grass .
+beam_size_1	22	A man dressed in grey climbing a large brown rock .
+beam_size_1	23	A man in a gray shirt climbs a large rock wall .
+beam_size_1	24	A man in shorts climbs a rock face .
+beam_size_1	25	Man climbing a rock wall .
+beam_size_1	26	The back of a man climbing a rock .
+beam_size_1	27	A BMX rider in a red and black outfit is jumping on his motorcycle .
+beam_size_1	28	A dirt biker flies through the air .
+beam_size_1	29	A guy in red on a bike in midair .
+beam_size_1	30	A man in a red outfit jumps his motocross bike down the hill .
+beam_size_1	31	Someone in red on a bike is moving in midair .
+beam_size_1	32	A black and tan dog rolls on his back in a field .
+beam_size_1	33	A black dog rolling in the green grass .
+beam_size_1	34	A dog rolls on his back .
+beam_size_1	35	A dog rolls on his back in the grass .
+beam_size_1	36	A dog with paws in the air lying on grass
+beam_size_1	37	A man is standing on an animal in the water .
+beam_size_1	38	A man is standing on an elephant lying in some water .
+beam_size_1	39	A man standing on a rock in a river with a spash next to him .
+beam_size_1	40	A man stands on top of an elephant in the water .
+beam_size_1	41	A man stands on top of a submerged elephant .
+beam_size_1	42	A brown dog is laying on its back on the grass with a ball in its mouth .
+beam_size_1	43	A brown dog lies on its back in the grass , holding a ball in its mouth .
+beam_size_1	44	A brown dog with a tennis ball its mouth rolling on its back on a grassy surface .
+beam_size_1	45	A dog lays on his back with a favorite tennis ball in his mouth .
+beam_size_1	46	A tan dog plays with a tennis ball while rolling around in the grass .
+beam_size_1	47	A black dog in the middle of running or leaping .
+beam_size_1	48	A black dog is running quickly along the ground .
+beam_size_1	49	A rottweiler running .
+beam_size_1	50	The brown and black dog sprints across the snow .
+beam_size_1	51	There is a black and tan dog bounding through the air .

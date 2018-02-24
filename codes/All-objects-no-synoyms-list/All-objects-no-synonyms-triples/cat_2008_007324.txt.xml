@@ -1,0 +1,48 @@
+A computer on a desk . 
+a computer on a desk . 
+
+object-prep-object	computer on desk
+object	computer
+object	desk
+object	cat
+#####################################################
+A computer with a cat screen saver at an office desk . 
+a computer with a cat screen saver at a office desk . 
+
+object-prep-object	computer at desk
+object-prep-object	computer with saver
+attribute-object	cat saver
+attribute-object	screen saver
+attribute-object	office desk
+object	computer
+object	desk
+object	saver
+object	cat
+#####################################################
+A desktop pc with a close up picture of a cat on the monitor . 
+a desktop pc with a close up picture of a cat on the monitor . 
+
+object-prep-object	pc with cat
+object-prep-object	cat on monitor
+attribute-object	desktop pc
+object	pc
+object	cat
+object	monitor
+object	cat
+#####################################################
+A picture of cat is displayed on a desktop computer . 
+a picture of cat be display on a desktop computer . 
+
+object-prep-object	cat on computer
+attribute-object	desktop computer
+object	cat
+object	computer
+object	cat
+#####################################################
+Worker has a cat as a screen saver at the office . 
+worker have a cat as a screen saver at the office . 
+
+object	cat
+object	cat
+object	cat
+#####################################################

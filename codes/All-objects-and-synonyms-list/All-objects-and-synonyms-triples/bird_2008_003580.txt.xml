@@ -1,0 +1,57 @@
+A close up of a seagull with others in the background . 
+a close up of a seagull with other in the background . 
+
+object-prep-object	close_up of bird
+object-prep-object	bird with other
+object-prep-object	other in background
+object	close_up
+object	bird
+object	other
+object	background
+object	bird
+#####################################################
+A close-up of a white bird with other birds behind it . 
+a close-up of a white bird with other bird behind it . 
+
+object-prep-object	close-up of bird
+object-prep-object	close-up with bird
+attribute-object	white bird
+attribute-object	other bird
+object	close-up
+object	bird
+object	bird
+#####################################################
+Close up of a seagull and other seagulls in the background . 
+close up of a seagull and other seagull in the background . 
+
+object-prep-object	close_up of bird
+object-prep-object	close_up of bird
+attribute-object	other bird
+object-prep-object	bird in background
+object	close_up
+object	bird
+object	background
+object	bird
+#####################################################
+Gulls stand by for bread morsels . 
+gull stand by for bread morsel . 
+
+attribute-object	bread morsel
+object-verb	bird stand
+verb-prep-object	stand for morsel
+verb-attribute	stand by
+object	morsel
+object	bird
+object	bird
+#####################################################
+The white ducks are standing on the ground . 
+the white duck be stand on the ground . 
+
+verb-prep-object	stand on ground
+object-prep-object	bird on ground
+attribute-object	white bird
+object-verb	bird stand
+object	ground
+object	bird
+object	bird
+#####################################################

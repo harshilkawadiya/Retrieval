@@ -1,0 +1,59 @@
+A gray and red train coming out of a tunnel . 
+a gray and red train come out of a tunnel . 
+
+verb-prep-object	come out_of tunnel
+attribute-object	gray train
+attribute-object	red train
+object-verb	train come
+object	tunnel
+object	train
+object	train
+#####################################################
+An orange and silver train pass by a building on a hill . 
+a orange and silver train pass by a building on a hill . 
+
+object-verb	train pass
+verb-prep-object	pass by building
+object-prep-object	building on hill
+attribute-object	orange train
+attribute-object	silver train
+object	train
+object	building
+object	hill
+object	train
+#####################################################
+A red and gray train is going through a tunnel . 
+a red and gray train be go through a tunnel . 
+
+verb-prep-object	go through tunnel
+object-prep-object	train through tunnel
+attribute-object	red train
+attribute-object	gray train
+object-verb	train go
+object	tunnel
+object	train
+object	train
+#####################################################
+A red and gray train travels through a tunnel amongst the trees . 
+a red and gray train travels through a tunnel amongst the tree . 
+
+verb-prep-object	travels amongst tree
+verb-prep-object	travels through tunnel
+object-prep-object	train through tunnel
+attribute-object	red train
+attribute-object	gray train
+object-verb	train travels
+object	tree
+object	tunnel
+object	train
+object	train
+#####################################################
+Train going into a tunnel . 
+train go into a tunnel . 
+
+verb-prep-object	go into tunnel
+object-verb	train go
+object	tunnel
+object	train
+object	train
+#####################################################

@@ -1,0 +1,43 @@
+A boxcar with graffiti on it . 
+a boxcar with graffitus on it . 
+
+object-prep-object	boxcar with graffitus
+object	boxcar
+object	graffitus
+object	train
+#####################################################
+A graffiti covered Southern Pacific freight car . 
+a graffitus cover Southern Pacific freight car . 
+
+attribute-object	graffitus car
+attribute-object	southern_pacific car
+attribute-object	freight car
+object	car
+object	train
+#####################################################
+A graffiti decorated railroad car . 
+a graffitus decorate railroad car . 
+
+attribute-object	graffitus car
+attribute-object	decorate car
+attribute-object	railroad car
+object	car
+object	train
+#####################################################
+A graffiti side of a freight train car . 
+a graffitus side of a freight train car . 
+
+attribute-object	freight car
+attribute-object	train car
+object	car
+object	train
+#####################################################
+A train with graffiti art on the side . 
+a train with graffitus art on the side . 
+
+object-prep-object	train with art
+attribute-object	graffitus art
+object	train
+object	art
+object	train
+#####################################################

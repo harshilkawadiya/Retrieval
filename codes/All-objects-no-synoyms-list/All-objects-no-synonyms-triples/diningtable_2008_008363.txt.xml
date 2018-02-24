@@ -1,0 +1,63 @@
+A brown formal dining table with four chairs underneath a crystal chandelier . 
+a brown formal dining table with four chair underneath a crystal chandelier . 
+
+object-prep-object	table with chair
+object-prep-object	table underneath chandelier
+attribute-object	brown table
+attribute-object	formal table
+attribute-object	dining table
+attribute-object	crystal chandelier
+object	table
+object	chair
+object	chandelier
+object	diningtable
+#####################################################
+A dining room containing a dining table and chairs along with a cabinet . 
+a dining room contain a dining table and chair along with a cabinet . 
+
+object-prep-object	table along_with cabinet
+object-verb-object	room contain table
+object-verb-object	room contain chair
+attribute-object	dining room
+attribute-object	dining table
+object	table
+object	cabinet
+object	room
+object	chair
+object	diningtable
+#####################################################
+An elegant chandelier hangs in a room with antique wooden furnishings . 
+a elegant chandelier hang in a room with antique wooden furnishings . 
+
+object-prep-object	room with furnishings
+verb-prep-object	hang in room
+object-prep-object	chandelier in room
+attribute-object	elegant chandelier
+attribute-object	antique furnishings
+attribute-object	wooden furnishings
+object-verb	chandelier hang
+object	room
+object	furnishings
+object	chandelier
+object	diningtable
+#####################################################
+A traditionally decorated dining room . 
+a traditionally decorate dining room . 
+
+attribute-object	traditionally room
+attribute-object	decorate room
+attribute-object	dining room
+object	room
+object	diningtable
+#####################################################
+Elegant dining room with wood furniture . 
+elegant dining room with wood furniture . 
+
+object-prep-object	room with furniture
+attribute-object	elegant room
+attribute-object	dining room
+attribute-object	wood furniture
+object	room
+object	furniture
+object	diningtable
+#####################################################

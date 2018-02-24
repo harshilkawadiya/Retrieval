@@ -1,0 +1,66 @@
+A helmet wearing motorcycle stuntman performs for a crowd . 
+a helmet wear motorcycle stuntman perform for a crowd . 
+
+verb-prep-object	perform for crowd
+object-verb-object	helmet wear stuntman
+attribute-object	motorcycle stuntman
+object-verb	stuntman perform
+object	crowd
+object	helmet
+object	stuntman
+object	motorbike
+#####################################################
+A man performing a trick on his motorcycle in front of a crowd . 
+a man perform a trick on he motorcycle in front of a crowd . 
+
+verb-prep-object	perform on motorcycle
+object-prep-object	man on motorcycle
+verb-prep-object	perform in_front_of crowd
+object-prep-object	man in_front_of crowd
+object-verb-object	man perform trick
+object	motorcycle
+object	man
+object	crowd
+object	trick
+object	motorbike
+#####################################################
+A man standing on the seat of a motorbike that is being ridden on its back wheel . 
+a man standing on the seat of a motorbike that be be ride on its back wheel . 
+
+verb-prep-object	stand on seat
+object-prep-object	man on seat
+object-prep-object	seat of motorbike
+object-verb	man stand
+object	seat
+object	man
+object	motorbike
+object	motorbike
+#####################################################
+A man wearing a helmet does a wheelie on a motorcycle as a crowd watches . 
+a man wear a helmet do a wheelie on a motorcycle as a crowd watch . 
+
+object-prep-object	wheelie on motorcycle
+object-verb-object	man wear helmet
+object-verb-object	man do wheelie
+object	wheelie
+object	motorcycle
+object	man
+object	helmet
+object	motorbike
+#####################################################
+Young man wearing jeans and helmet rides his motorcycle in front of a small crowd . 
+Young man wear jeans and helmet ride he motorcycle in front of a small crowd . 
+
+object-verb-object	man ride motorcycle
+verb-prep-object	ride in_front_of crowd
+attribute-object	small crowd
+object-verb-object	man wear jeans
+object-verb-object	man wear helmet
+attribute-object	young man
+object	man
+object	motorcycle
+object	crowd
+object	jeans
+object	helmet
+object	motorbike
+#####################################################

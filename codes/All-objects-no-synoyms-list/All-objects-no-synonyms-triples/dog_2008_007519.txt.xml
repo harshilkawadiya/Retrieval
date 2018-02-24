@@ -1,0 +1,53 @@
+A brown dog lying on the grass . 
+a brown dog lie on the grass . 
+
+verb-prep-object	lie on grass
+object-prep-object	dog on grass
+attribute-object	brown dog
+object-verb	dog lie
+object	grass
+object	dog
+object	dog
+#####################################################
+A brown dog smelling grass . 
+a brown dog smell grass . 
+
+attribute-object	brown dog
+object-verb-object	dog smell grass
+object	dog
+object	grass
+object	dog
+#####################################################
+A large down resting on the lawn . 
+a large down rest on the lawn . 
+
+verb-prep-object	rest on lawn
+object-prep-object	down on lawn
+attribute-verb	large down
+object-verb	down rest
+object	lawn
+object	down
+object	dog
+#####################################################
+The pet dog rest in the yard . 
+the pet dog rest in the yard . 
+
+verb-prep-object	rest in yard
+object-prep-object	dog in yard
+attribute-object	pet dog
+object-verb	dog rest
+object	yard
+object	dog
+object	dog
+#####################################################
+The way this great dune is sprawled on the grass suggests it might be tired . 
+the way this great dune be sprawl on the grass suggest it might be tire . 
+
+verb-prep-object	sprawl on grass
+object-prep-object	dune on grass
+attribute-object	great dune
+object-verb	dune sprawl
+object	grass
+object	dune
+object	dog
+#####################################################

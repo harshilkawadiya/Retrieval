@@ -1,0 +1,65 @@
+A car is painted with bright colors and designs . 
+a car be paint with bright color and design . 
+
+verb-prep-object	paint with color
+verb-prep-object	paint with design
+object-prep-object	car with color
+object-prep-object	car with design
+attribute-object	bright color
+object-verb	car paint
+object	color
+object	design
+object	car
+object	car
+#####################################################
+A multicolored Rolls-Royce car . 
+a multicolor Rolls-Royce car . 
+
+attribute-object	multicolor car
+attribute-object	rolls-royce car
+object	car
+object	car
+#####################################################
+An exhibit of a custom car that is brightly painted with shades of yellow , blue , orange and paint . 
+a exhibit of a custom car that be brightly paint with shades of yellow , blue , orange and paint . 
+
+verb-prep-object	paint with shades
+object-prep-object	car with shades
+object-prep-object	shades of yellow
+object-prep-object	shades of blue
+object-prep-object	shades of orange
+object-prep-object	shades of paint
+attribute-object	custom car
+object-verb	car paint
+object	shades
+object	car
+object	yellow
+object	blue
+object	orange
+object	paint
+object	car
+#####################################################
+Car painted in various colors with different designs . 
+car paint in various color with different design . 
+
+verb-prep-object	paint with design
+object-prep-object	car with design
+verb-prep-object	paint in color
+object-prep-object	car in color
+attribute-object	various color
+attribute-object	different design
+object-verb	car paint
+object	design
+object	car
+object	color
+object	car
+#####################################################
+Custom painted Rolls Royce . 
+Custom paint Rolls Royce . 
+
+attribute-object	custom car
+attribute-object	paint car
+object	car
+object	rolls-royce
+object	car
+#####################################################

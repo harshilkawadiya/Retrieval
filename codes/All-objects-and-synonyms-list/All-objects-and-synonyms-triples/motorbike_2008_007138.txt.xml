@@ -1,0 +1,65 @@
+A man in jeans and a black t-shirt sits astride a motorcycle . 
+a man in jeans and a black t-shirt sit astride a motorcycle . 
+
+object-prep-object	person in man
+object-prep-object	person in man
+object-verb	person sit
+verb-prep-object	sit astride motorbike
+object-prep-object	person astride motorbike
+attribute-object	black t-shirt
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	t-shirt
+object	motorbike
+#####################################################
+A man on a black motorcycle . 
+a man on a black motorcycle . 
+
+object-prep-object	person on motorbike
+attribute-object	black motorbike
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A man on a black motorcycle looking left . 
+a man on a black motorcycle look left . 
+
+object-prep-object	person on motorbike
+attribute-object	black motorbike
+object-verb-object	person look man
+object	person
+object	man
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A man rides a large black motorbike . 
+a man ride a large black motorbike . 
+
+attribute-object	large motorbike
+attribute-object	black motorbike
+object-verb-object	person ride man
+object	motorbike
+object	person
+object	man
+object	motorbike
+#####################################################
+Man sitting on motorcycle in parking lot . 
+man sit on motorcycle in parking lot . 
+
+verb-prep-object	sit on motorbike
+object-prep-object	person on motorbike
+object-prep-object	motorbike in motorcycle
+attribute-object	parking lot
+object-verb	person sit
+object	motorbike
+object	motorcycle
+object	person
+object	man
+object	lot
+object	motorbike
+#####################################################

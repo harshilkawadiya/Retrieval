@@ -1,0 +1,50 @@
+beam_size_1	2	A man in a black fedora smiles at the camera .
+beam_size_1	3	A man in a hat posing for a picture .
+beam_size_1	4	An older man in a weathered fedora smiles slightly for the camera .
+beam_size_1	5	An old man with blue eyes wears a big black hat .
+beam_size_1	6	The man is wearing a black hat , a beige shirt and has his sunglasses hanging off the shirt .
+beam_size_1	7	A couple are walking along a street while the man carries a toddler over one shoulder .
+beam_size_1	8	A couple is walking away while an infant sleeps on the father 's shoulders .
+beam_size_1	9	A man carries a child while he walks with a woman .
+beam_size_1	10	A man holding a sleeping child walks with a woman .
+beam_size_1	11	The man walking next to the woman up the steps has a sleeping child on his shoulder .
+beam_size_1	12	A group of girls sit back to back .
+beam_size_1	13	a group of girls sitting in a circle
+beam_size_1	14	Little girl in bare feet sitting in a circle .
+beam_size_1	15	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	16	The young girls sat in a circle on the wood floor .
+beam_size_1	17	A dark-haired young woman , number 528 , wearing red and white , is preparing to throw a shot put .
+beam_size_1	18	A girl is curling in a competition .
+beam_size_1	19	Athletic woman in red and white uniform throwing shot put .
+beam_size_1	20	A woman is about to race around a track .
+beam_size_1	21	Shotput athlete getting ready to throw .
+beam_size_1	22	A race cars muffler catches on fire .
+beam_size_1	23	A race car sparks .
+beam_size_1	24	A sports car with flames coming out the exhaust .
+beam_size_1	25	The blue and white race car has flames coming out of its tail pipe .
+beam_size_1	26	The white racing car has fire bursting from its exhaust pipe .
+beam_size_1	27	One girl is wearing a white t-shirt with red sleeves ; the other has words on hers .
+beam_size_1	28	two asian girls laughing together
+beam_size_1	29	Two girls with dark hair and white shirts .
+beam_size_1	30	Two girls with long hair are smiling and one is hold something white and green .
+beam_size_1	31	Two women in white shirts talking .
+beam_size_1	32	A man doing a karate kick on a block of ice .
+beam_size_1	33	A man karate kicks a stack of ice bricks .
+beam_size_1	34	A martial artist breaks a brick .
+beam_size_1	35	A martial artist breaks ice with a kick .
+beam_size_1	36	The man breaking the ice with his foot stands on a blue mat .
+beam_size_1	37	A bunch of people playing soccer .
+beam_size_1	38	A shot-on-goal action photo of soccer players in red and black uniforms .
+beam_size_1	39	A soccer player jumping in air during a game .
+beam_size_1	40	Six soccer players on field with player in red uniform in the air and ball airborne .
+beam_size_1	41	The red team knocked the ball toward the goal and the black team tried to block it .
+beam_size_1	42	A bearded man on a train
+beam_size_1	43	A man is sitting on a train resting his hand against his face .
+beam_size_1	44	A man sitting on a subway .
+beam_size_1	45	A man sitting on a subway looking at the camera .
+beam_size_1	46	A man sitting on public transportation .
+beam_size_1	47	A baby eats and has food on his face .
+beam_size_1	48	A boy with lips messy from eating fruit
+beam_size_1	49	A little boy is eating something and got it all over his mouth .
+beam_size_1	50	A small child with berries all over its mouth .
+beam_size_1	51	A young brown eyed boy with red syrup on his lips is pouring syrup .

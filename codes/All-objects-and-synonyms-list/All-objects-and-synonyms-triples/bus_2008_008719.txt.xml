@@ -1,0 +1,59 @@
+a yellow school bus in front of a house . 
+a yellow school bus in front of a house . 
+
+object-prep-object	bus in_front_of building
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	building
+object	bus
+#####################################################
+People in a yellow school bus sit with their backs to the windows . 
+people in a yellow school bus sit with they back to the window . 
+
+object-prep-object	person in people
+attribute-object	yellow bus
+attribute-object	school bus
+object-verb	person sit
+object	person
+object	people
+object	bus
+object	bus
+#####################################################
+The backed of a school bus , with children inside the windows in a residential area . 
+the back of a school bus , with child inside the window in a residential area . 
+
+object-prep-object	bus with person
+object-prep-object	person inside child
+object-prep-object	bus in area
+attribute-object	residential area
+attribute-object	school bus
+object	bus
+object	person
+object	child
+object	area
+object	bus
+#####################################################
+The rear portion of an Autobus ideal passing in front of a blue house . 
+the rear portion of a Autobus ideal pass in front of a blue house . 
+
+verb-prep-object	pass in_front_of building
+object-prep-object	bus in_front_of building
+attribute-object	blue building
+object-verb	bus pass
+object	building
+object	house
+object	bus
+object	autobus
+object	bus
+#####################################################
+The school bus makes the neighborhood rounds . 
+the school bus make the neighborhood round . 
+
+object-verb-object	bus make round
+attribute-object	school bus
+attribute-object	neighborhood round
+object	bus
+object	round
+object	bus
+#####################################################

@@ -1,0 +1,68 @@
+A group of people sitting around a dining table , the men dressed in military dress . 
+a group of people sit around a dining table , the man dress in military dress . 
+
+object-verb	people sit
+verb-prep-object	sit around table
+object-verb-object	people around table
+attribute-object	dining table
+attribute-object	military dress
+verb-prep-object	dress in dress
+object-verb	man dress
+object	people
+object	table
+object	dress
+object	man
+object	diningtable
+#####################################################
+A group of six people sit around a table with red cloth napkins . 
+a group of six people sit around a table with red cloth napkin . 
+
+object-verb	people sit
+verb-prep-object	sit around table
+object-prep-object	people around table
+object-prep-object	table with napkin
+attribute-object	red napkin
+attribute-object	cloth napkin
+object	people
+object	table
+object	napkin
+object	diningtable
+#####################################################
+A group of six people sitting at a table with salad served . 
+a group of six people sit at a table with salad serve . 
+
+object-verb	people sit
+verb-prep-object	sit at table
+object-prep-object	people at table
+object-prep-object	table with salad
+object	people
+object	table
+object	salad
+object	diningtable
+#####################################################
+Dinner with soldiers and the wives . 
+dinner with soldier and the wife . 
+
+object-prep-object	dinner with soldier
+object-prep-object	dinner with wife
+object	dinner
+object	soldier
+object	wife
+object	diningtable
+#####################################################
+There are three women and three men in uniform sitting at a table with seven plates of salad on the table . 
+there be three woman and three man in uniform sit at a table with seven plate of salad on the table . 
+
+object-prep-object	woman in uniform
+object-prep-object	man in uniform
+object-verb	man sit
+object-verb	woman sit
+verb-prep-object	sit at table
+object-prep-object	table with salad
+object	woman
+object	uniform
+object	man
+object	table
+object	salad
+object	diningtable
+#####################################################

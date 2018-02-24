@@ -1,0 +1,50 @@
+beam_size_1	2	A man with red shirt and black hat stares at another man .
+beam_size_1	3	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	4	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	5	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	6	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	7	A child is happily playing on the slide .
+beam_size_1	8	A child is holding on to the top of a playground slide .
+beam_size_1	9	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	10	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	11	Child getting ready to go down a slide .
+beam_size_1	12	A girl in a red shirt takes a picture on a phone .
+beam_size_1	13	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	14	A woman in a red shirt holding a cellphone .
+beam_size_1	15	A woman taking pictures with her phone .
+beam_size_1	16	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	17	Three women standing on a city street .
+beam_size_1	18	Three women walk down the street .
+beam_size_1	19	Two girls and a woman walking on the sidewalk
+beam_size_1	20	Two girls in bright green boots and a woman are together .
+beam_size_1	21	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	22	A large dog sniffing a smaller dog outside .
+beam_size_1	23	Two blond dogs are standing together on a patio .
+beam_size_1	24	Two dogs are standing together on a patio .
+beam_size_1	25	Two golden dogs are standing on a wooden patio .
+beam_size_1	26	Two golden dogs on a wood deck .
+beam_size_1	27	Two children standing under an awning .
+beam_size_1	28	Two kids are playing a game of Foosball .
+beam_size_1	29	Two kids in a developing nation are playing a table top game under an awning made from burlap .
+beam_size_1	30	Two men play a game beneath a shade .
+beam_size_1	31	Two young kids are in a hut .
+beam_size_1	32	A dog coming out of a large yellow tube .
+beam_size_1	33	A little brown and white dog emerges from a yellow collapsable toy tunnel onto the lawn .
+beam_size_1	34	A small dog in front of a yellow tube on grass .
+beam_size_1	35	A small white dog walks through a yellow tube .
+beam_size_1	36	A white dog emerges from a yellow tube on an obstacle course .
+beam_size_1	37	A boy spinning on a blue and yellow merry-go-round .
+beam_size_1	38	a child on a spinning wheel holding on for dear life
+beam_size_1	39	A young boy rides a blue and yellow merry-go-round with an adult male hand in the foreground .
+beam_size_1	40	A young kid is standing up on the merry go round .
+beam_size_1	41	The boy is standing on the playground equipment in the blue triangle .
+beam_size_1	42	Children sit in a classroom holding slates .
+beam_size_1	43	Five of the six children have their own chalkboard .
+beam_size_1	44	Six African children sitting at two tables .
+beam_size_1	45	Six children are sitting in two rows with plastic bags on the desk in front of them .
+beam_size_1	46	Three children sitting at desks .
+beam_size_1	47	A man in a black hoodie and jeans skateboards down a railing .
+beam_size_1	48	A man skateboards down a steep railing next to some steps .
+beam_size_1	49	a person is sliding down a brick rail on a snowboard .
+beam_size_1	50	A person walks down the brick railing near a set of steps .
+beam_size_1	51	A snowboarder rides down a handrail without snow .

@@ -1,0 +1,73 @@
+A group of five people sitting at a table with water glasses on it . 
+a group of five people sit at a table with water glass on it . 
+
+object-verb	person sit
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+attribute-object	water glass
+object	person
+object	people
+object	diningtable
+object	table
+object	glass
+object	diningtable
+#####################################################
+A mixed-race family poses for a photo while at a restaurant . 
+a mixed-race family pose for a photo while at a restaurant . 
+
+verb-prep-object	pose for photo
+verb-prep-object	pose at restaurant
+object-prep-object	person at family
+attribute-object	mixed-race person
+object-verb	person pose
+object	photo
+object	restaurant
+object	person
+object	family
+object	diningtable
+#####################################################
+five people sitting at a table in a restaurant overlooking a view of a city . 
+five people sit at a table in a restaurant overlook a view of a city . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable in table
+object-prep-object	person in people
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Four adults and a young girl sitting at the table . 
+four adult and a young girl sit at the table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+attribute-object	young person
+object-verb	person sit
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	adult
+object	girl
+object	diningtable
+#####################################################
+Group of people sitting at long white table . 
+Group of people sit at long white table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+attribute-object	long diningtable
+attribute-object	white diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################

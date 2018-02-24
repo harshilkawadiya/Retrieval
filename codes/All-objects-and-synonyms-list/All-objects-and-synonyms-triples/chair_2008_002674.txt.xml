@@ -1,0 +1,73 @@
+A dark-skinned woman sits in a rocking chair holding a tiny baby wrapped in a blanket . 
+a dark-skinned woman sit in a rock chair hold a tiny baby wrap in a blanket . 
+
+object-verb	person sit
+attribute-object	dark-skinned person
+verb-prep-object	sit in chair
+object-prep-object	person in woman
+attribute-object	rock chair
+object-verb-object	person hold woman
+verb-prep-object	wrap in blanket
+object-prep-object	baby in blanket
+attribute-object	tiny baby
+object-verb	baby wrap
+object	person
+object	woman
+object	chair
+object	blanket
+object	baby
+object	chair
+#####################################################
+An African-American woman in a rocking chair holds a newborn child . 
+a african-american woman in a rock chair hold a newborn child . 
+
+object-prep-object	person in woman
+attribute-object	african-american person
+attribute-object	rock chair
+attribute-object	newborn person
+object-verb-object	person hold person
+object	person
+object	woman
+object	chair
+object	child
+object	chair
+#####################################################
+A woman holding a baby poses in a wooden rocking chair . 
+a woman hold a baby pose in a wooden rock chair . 
+
+verb-prep-object	pose in chair
+object-prep-object	person in woman
+object-verb-object	person hold woman
+attribute-object	wooden chair
+attribute-object	rock chair
+object-verb	person pose
+object	chair
+object	person
+object	woman
+object	chair
+#####################################################
+A woman holding a small baby . 
+a woman hold a small baby . 
+
+attribute-object	small baby
+object-verb-object	person hold woman
+object	baby
+object	person
+object	woman
+object	chair
+#####################################################
+A woman in black rocking a new baby wrapped in a blanket . 
+a woman in black rock a new baby wrap in a blanket . 
+
+object-prep-object	person in woman
+verb-prep-object	wrap in blanket
+object-prep-object	baby in blanket
+attribute-object	new baby
+object-verb-object	person rock woman
+object-verb	baby wrap
+object	person
+object	woman
+object	blanket
+object	baby
+object	chair
+#####################################################

@@ -1,0 +1,48 @@
+An Amtrack train coming towards the camera on a set of tracks with tracks next to it . 
+a Amtrack train come towards the camera on a set of track with track next to it . 
+
+verb-prep-object	come towards camera
+attribute-object	amtrack train
+object-verb	train come
+object	camera
+object	train
+object	train
+#####################################################
+a train rides on his tracks . 
+a train ride on he track . 
+
+verb-prep-object	ride on track
+object-prep-object	train on track
+object-verb	train ride
+object	track
+object	train
+object	train
+#####################################################
+A train traveling down the tracks . 
+a train travel down the track . 
+
+object-verb-object	train travel track
+verb-attribute	travel down
+object	train
+object	track
+object	train
+#####################################################
+The train arrive in the late afternoon . 
+the train arrive in the late afternoon . 
+
+verb-prep-object	arrive in afternoon
+attribute-object	late afternoon
+object-verb	train arrive
+object	afternoon
+object	train
+object	train
+#####################################################
+The train comes down the track , between two rows of trees . 
+the train come down the track , between two row of tree . 
+
+object-verb-object	train come track
+verb-attribute	come down
+object	train
+object	track
+object	train
+#####################################################

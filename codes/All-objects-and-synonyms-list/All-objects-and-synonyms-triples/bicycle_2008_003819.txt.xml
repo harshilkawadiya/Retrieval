@@ -1,0 +1,53 @@
+A bicycle race in a suburban neighborhood with a crowd watching . 
+a bicycle race in a suburban neighborhood with a crowd watch . 
+
+object-prep-object	race with person
+object-verb	person watch
+object-prep-object	race in neighborhood
+attribute-object	suburban neighborhood
+attribute-object	bicycle race
+object	race
+object	person
+object	neighborhood
+object	bicycle
+#####################################################
+A group of cyclists in green and white with spectators looking on . 
+a group of cyclist in green and white with spectator look on . 
+
+object-prep-object	person with person
+object-prep-object	person in green
+object-prep-object	person in white
+object-prep-object	group of person
+object-verb	person look
+object	person
+object	green
+object	white
+object	group
+object	bicycle
+#####################################################
+Bicycle racers ride by as spectators watch . 
+Bicycle racer ride by as spectator watch . 
+
+attribute-object	bicycle person
+object-verb	person ride
+object-verb	person watch
+object	person
+object	bicycle
+#####################################################
+Cyclists racing down the street . 
+cyclist race down the street . 
+
+attribute-verb	down race
+object-verb-object	person race road
+object	person
+object	road
+object	bicycle
+#####################################################
+Four racing bicyclists and spectators . 
+four race bicyclist and spectator . 
+
+attribute-object	race person
+attribute-object	race person
+object	person
+object	bicycle
+#####################################################

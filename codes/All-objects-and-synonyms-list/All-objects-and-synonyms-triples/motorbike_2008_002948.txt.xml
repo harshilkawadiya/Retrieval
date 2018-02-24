@@ -1,0 +1,67 @@
+A blue , tan , and black leather sofa on the sidewalk between bicycles . 
+a blue , tan , and black leather sofa on the sidewalk between bicycle . 
+
+object-prep-object	sidewalk between bicycle
+object-prep-object	sofa on sidewalk
+attribute-object	blue sofa
+attribute-object	tan sofa
+attribute-object	black sofa
+attribute-object	leather sofa
+object	sidewalk
+object	bicycle
+object	sofa
+object	motorbike
+#####################################################
+An orange and white couch on the street next to marked bicycles . 
+a orange and white couch on the street next to marked bicycle . 
+
+object-prep-object	sofa on road
+object-prep-object	sofa next_to bed
+attribute-object	marked bicycle
+attribute-object	orange sofa
+attribute-object	white sofa
+object	sofa
+object	bed
+object	road
+object	bicycle
+object	motorbike
+#####################################################
+A sofa parked between two bicycles and a scooter . 
+a sofa park between two bicycle and a scooter . 
+
+verb-prep-object	park between bicycle
+object-prep-object	sofa between bicycle
+verb-prep-object	park between motorbike
+object-prep-object	sofa between motorbike
+object-verb	sofa park
+object	bicycle
+object	sofa
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Bicycles and a moped are parked near a loveseat . 
+bicycle and a mope be park near a loveseat . 
+
+verb-prep-object	park near sofa
+object-prep-object	bicycle near sofa
+object-prep-object	motorbike near sofa
+object-verb	bicycle park
+object-verb	motorbike park
+object	sofa
+object	loveseat
+object	bicycle
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Tan and gray couch outside next to bicycles . 
+Tan and gray couch outside next to bicycle . 
+
+object-prep-object	sofa next_to bed
+attribute-object	tan sofa
+attribute-object	gray sofa
+object	sofa
+object	bed
+object	motorbike
+#####################################################

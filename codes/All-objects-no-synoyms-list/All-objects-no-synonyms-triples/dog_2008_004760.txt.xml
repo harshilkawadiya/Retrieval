@@ -1,0 +1,53 @@
+A dog lies down with its mouth open . 
+a dog lie down with its mouth open . 
+
+verb-prep-object	lie with mouth
+object-prep-object	dog with mouth
+object-verb	dog lie
+verb-attribute	lie down
+object	mouth
+object	dog
+object	dog
+#####################################################
+A dog pokes it 's head out from under a pile of stuff . 
+a dog poke it be head out from under a pile of stuff . 
+
+object-verb-object	dog poke head
+object	dog
+object	head
+object	dog
+#####################################################
+A dog underneath a wooden beam . 
+a dog underneath a wooden beam . 
+
+object-prep-object	dog underneath beam
+attribute-object	wooden beam
+object	dog
+object	beam
+object	dog
+#####################################################
+A dog with a white , black , and brown face is under a wooden beam . 
+a dog with a white , black , and brown face be under a wooden beam . 
+
+object-prep-object	dog under beam
+object-prep-object	dog with face
+attribute-object	white face
+attribute-object	black face
+attribute-object	brown face
+attribute-object	wooden beam
+object	dog
+object	beam
+object	face
+object	dog
+#####################################################
+The dog is looking at the camera from under a piece of wood . 
+the dog be look at the camera from under a piece of wood . 
+
+verb-prep-object	look from wood
+verb-prep-object	look at camera
+object-verb	dog look
+object	wood
+object	camera
+object	dog
+object	dog
+#####################################################

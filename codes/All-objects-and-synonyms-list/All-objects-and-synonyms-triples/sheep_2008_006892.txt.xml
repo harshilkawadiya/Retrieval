@@ -1,0 +1,58 @@
+Sheep being shaved on wooden floor . 
+Sheep be shave on wooden floor . 
+
+verb-prep-object	shave on floor
+object-prep-object	sheep on floor
+attribute-object	wooden floor
+object-verb	sheep shave
+object	floor
+object	sheep
+object	sheep
+#####################################################
+Two farmers shaving their sheep . 
+two farmer shave they sheep . 
+
+object-verb-object	farmer shave sheep
+object	farmer
+object	sheep
+object	sheep
+#####################################################
+Two women are shearing a white sheep inside of a wooden building . 
+two woman be shear a white sheep inside of a wooden building . 
+
+object-verb-object	person shear woman
+attribute-object	white sheep
+verb-prep-object	shear inside_of building
+object-prep-object	person inside_of woman
+attribute-object	wooden building
+object	person
+object	woman
+object	sheep
+object	building
+object	sheep
+#####################################################
+Two women in a barn finishing the job of shearing a sheep . 
+two woman in a barn finish the job of shear a sheep . 
+
+verb-prep-verb	job of shear
+object-prep-object	person in woman
+object-verb-object	person finish woman
+verb-object	shear sheep
+object	person
+object	woman
+object	sheep
+object	sheep
+#####################################################
+Two women shearing a white sheep in a wooden stall . 
+two woman shear a white sheep in a wooden stall . 
+
+verb-prep-object	shear in stall
+attribute-object	white sheep
+object-verb-object	person shear woman
+attribute-object	wooden stall
+object	stall
+object	sheep
+object	person
+object	woman
+object	sheep
+#####################################################

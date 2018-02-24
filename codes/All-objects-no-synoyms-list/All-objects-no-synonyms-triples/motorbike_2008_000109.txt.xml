@@ -1,0 +1,69 @@
+A woman wearing shorts and a desktop poses on the hood of a white car . 
+a woman wear shorts and a desktop pose on the hood of a white car . 
+
+verb-prep-object	pose on hood
+object-prep-object	woman on hood
+object-prep-object	hood of car
+attribute-object	white car
+object-verb-object	woman wear shorts
+object-verb-object	woman wear desktop
+object-verb	woman pose
+object	hood
+object	woman
+object	car
+object	shorts
+object	desktop
+object	motorbike
+#####################################################
+A woman wearing shorts on top of a white car . 
+a woman wear shorts on top of a white car . 
+
+object-prep-object	woman on_top_of car
+attribute-object	white car
+object-verb-object	woman wear shorts
+object	woman
+object	car
+object	shorts
+object	motorbike
+#####################################################
+A woman sits on the hood of a white car parked next to a house . 
+a woman sit on the hood of a white car park next to a house . 
+
+verb-prep-object	park next_to house
+object-prep-object	car next_to house
+verb-prep-object	sit on hood
+object-prep-object	woman on hood
+object-prep-object	hood of car
+attribute-object	white car
+object-verb	woman sit
+object-verb	car park
+object	house
+object	car
+object	hood
+object	woman
+object	motorbike
+#####################################################
+Girl on hood of white car . 
+Girl on hood of white car . 
+
+object-prep-object	girl on hood
+object-prep-object	hood of car
+attribute-object	white car
+object	girl
+object	hood
+object	car
+object	motorbike
+#####################################################
+There is a woman sitting on the hood of a white car with a bathing suit on . 
+there be a woman sit on the hood of a white car with a bathing suit on . 
+
+verb-prep-object	sit on hood
+object-prep-object	woman on hood
+object-prep-object	hood of car
+attribute-object	white car
+object-verb	woman sit
+object	hood
+object	woman
+object	car
+object	motorbike
+#####################################################

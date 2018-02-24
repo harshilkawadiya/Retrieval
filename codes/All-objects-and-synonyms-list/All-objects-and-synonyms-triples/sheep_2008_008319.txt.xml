@@ -1,0 +1,65 @@
+Children looking a sheep . 
+child look a sheep . 
+
+object-verb-object	person look child
+object	person
+object	child
+object	sheep
+#####################################################
+Children walking through farm looking at the sheep through red fencing . 
+child walk through farm look at the sheep through red fencing . 
+
+object-verb	person walk
+verb-prep-object	walk through farm
+object-prep-object	person through child
+object-verb	person look
+verb-prep-object	look at sheep
+verb-prep-object	look through fencing
+attribute-object	red fencing
+object	person
+object	child
+object	farm
+object	sheep
+object	fencing
+object	sheep
+#####################################################
+Four children looking at barn animals . 
+four child look at barn animal . 
+
+verb-prep-object	look at animal
+attribute-object	barn animal
+object-verb	person look
+object	animal
+object	person
+object	child
+object	sheep
+#####################################################
+Four children looking at sheep . 
+four child look at sheep . 
+
+verb-prep-object	look at sheep
+object-verb	person look
+object	sheep
+object	person
+object	child
+object	sheep
+#####################################################
+Four small children looking at sheep in wooden pens with red metal outer bars . 
+four small child look at sheep in wooden pen with red metal outer bar . 
+
+object-verb	person look
+verb-prep-object	look at sheep
+object-prep-object	sheep in pen
+attribute-object	wooden pen
+object-prep-object	pen with bar
+attribute-object	small person
+attribute-object	red bar
+attribute-object	metal bar
+attribute-object	outer bar
+object	person
+object	child
+object	sheep
+object	pen
+object	bar
+object	sheep
+#####################################################

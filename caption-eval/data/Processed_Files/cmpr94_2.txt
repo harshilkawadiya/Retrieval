@@ -1,0 +1,50 @@
+beam_size_1	2	A baby eats and has food on his face .
+beam_size_1	3	A boy with lips messy from eating fruit
+beam_size_1	4	A little boy is eating something and got it all over his mouth .
+beam_size_1	5	A small child with berries all over its mouth .
+beam_size_1	6	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	7	A man sleeping with a bag on his lap on public transportation
+beam_size_1	8	A man who has fallen asleep on public transportation .
+beam_size_1	9	An asian man in a suit on the subway , asleep .
+beam_size_1	10	A tired business man takes a quick nap while riding the train .
+beam_size_1	11	A young man in a suit and tie leans against a railing to take a nap on public transit .
+beam_size_1	12	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	13	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	14	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	15	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	16	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	17	Airplane emitting heavy red colored smoke .
+beam_size_1	18	An airplane is flying over the mountain trying to extinguish a fire .
+beam_size_1	19	A small plane is dropping a red chemical over the mountaintops .
+beam_size_1	20	Red spray is being ejected by an orange and white plane flying over the hilltops .
+beam_size_1	21	Small red airplane flies over mountaintop dropping red substance over fire .
+beam_size_1	22	A man in red swim trunks is jumping onto a bodyboard .
+beam_size_1	23	A man in red trunks flies through the air with a boogie board .
+beam_size_1	24	A man with a wake-board is diving over a surface that is not water .
+beam_size_1	25	A shirtless man bodysurfs .
+beam_size_1	26	Man is diving onto his wakeboard .
+beam_size_1	27	A man and a woman wearing a head covering turn the video camera on themselves .
+beam_size_1	28	A man and woman pose for the video camera that they are holding .
+beam_size_1	29	A man in a brown sweater and a woman smile for their video camera .
+beam_size_1	30	A smiling couple with a camcorder .
+beam_size_1	31	Woman standing with man holding a camcorder and smiling into lens .
+beam_size_1	32	A little girl hugs another little girl .
+beam_size_1	33	A young child is being held by another child looking straight at us .
+beam_size_1	34	Two toddlers posing for the camera .
+beam_size_1	35	Two young children holding each other and posing .
+beam_size_1	36	Two young girls hug .
+beam_size_1	37	A barefoot red-headed girl jumping over a rail .
+beam_size_1	38	a girl jumps on the trampoline .
+beam_size_1	39	A young girl jumping over a railing or a ladder on its side .
+beam_size_1	40	The small red haired girl jumps on the trampoline under the tree by the shed .
+beam_size_1	41	The young child with red hair bounced on the trampoline .
+beam_size_1	42	A lady sitting on a front porch reading a book .
+beam_size_1	43	A person sits at a doorstep and reads a book .
+beam_size_1	44	A woman is reading literature and sitting on the front stoop of a building .
+beam_size_1	45	A woman sits and reads in the stoop of a wooden door .
+beam_size_1	46	A woman sits and reads on the front stoop of her building .
+beam_size_1	47	A brown dog is jumping over a fence and another dog is chasing it .
+beam_size_1	48	A brown dog jumps over a wire fence and another dog follows him .
+beam_size_1	49	A dog jumping off a fence and another dog on the grass in the background .
+beam_size_1	50	A dog jumping over a gate followed by another dog .
+beam_size_1	51	A small tan dog is jumping over a chain linked fence .

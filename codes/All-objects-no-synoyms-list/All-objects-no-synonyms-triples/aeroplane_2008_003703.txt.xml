@@ -1,0 +1,57 @@
+An ocean airlines airplane is on a runway . 
+a ocean airline airplane be on a runway . 
+
+object-prep-object	airplane on runway
+attribute-object	ocean airplane
+attribute-object	airline airplane
+object	airplane
+object	runway
+object	aeroplane
+#####################################################
+an Ocean Airlines passenger jet on the runway . 
+a Ocean Airlines passenger jet on the runway . 
+
+object-prep-object	jet on runway
+attribute-object	ocean jet
+attribute-object	airlines jet
+attribute-object	passenger jet
+object	jet
+object	runway
+object	aeroplane
+#####################################################
+An ocean airlines passenger plane on the runway . 
+a ocean airline passenger plane on the runway . 
+
+object-prep-object	plane on runway
+attribute-object	ocean plane
+attribute-object	airline plane
+attribute-object	passenger plane
+object	plane
+object	runway
+object	aeroplane
+#####################################################
+A white Ocean Airlines plane travels down the runway . 
+a white Ocean Airlines plane travel down the runway . 
+
+attribute-object	white plane
+object-verb-object	plane travel runway
+attribute-object	ocean plane
+attribute-object	airlines plane
+verb-attribute	travel down
+object	plane
+object	runway
+object	aeroplane
+#####################################################
+A white Ocean Airlines plane travels down the wet runway . 
+a white Ocean Airlines plane travel down the wet runway . 
+
+attribute-object	white plane
+attribute-object	wet runway
+object-verb-object	plane travel runway
+attribute-object	ocean plane
+attribute-object	airlines plane
+verb-attribute	travel down
+object	plane
+object	runway
+object	aeroplane
+#####################################################

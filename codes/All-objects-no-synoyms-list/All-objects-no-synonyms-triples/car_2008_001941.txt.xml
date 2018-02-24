@@ -1,0 +1,50 @@
+A clean , shiny black tire in the rear of a truck . 
+a clean , shiny black tire in the rear of a truck . 
+
+object-prep-object	tire in truck
+attribute-object	clean tire
+attribute-object	shiny tire
+attribute-object	black tire
+object	tire
+object	truck
+object	car
+#####################################################
+Clean back truck tire . 
+clean back truck tire . 
+
+attribute-object	clean tire
+attribute-object	back tire
+attribute-object	truck tire
+object	tire
+object	car
+#####################################################
+Close-up of a tire with dirty , deep treads . 
+close-up of a tire with dirty , deep tread . 
+
+object-prep-object	tire with tread
+attribute-object	dirty tread
+attribute-object	deep tread
+object	tire
+object	tread
+object	car
+#####################################################
+The truck has a knobby rear tire . 
+the truck have a knobby rear tire . 
+
+attribute-object	knobby tire
+attribute-object	rear tire
+object-verb-object	truck have tire
+object	tire
+object	truck
+object	car
+#####################################################
+This is a close up of the back corner of a truck and tire . 
+this be a close up of the back corner of a truck and tire . 
+
+object-prep-object	back of truck
+object-prep-object	back of tire
+object	back
+object	truck
+object	tire
+object	car
+#####################################################

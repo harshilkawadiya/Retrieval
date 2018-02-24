@@ -1,0 +1,62 @@
+A kitten looking at the camera . 
+a kitten look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	cat look
+object	camera
+object	cat
+object	kitten
+object	cat
+#####################################################
+A kitten lying on a bed with red and white checkered sheets . 
+a kitten lie on a bed with red and white checkered sheet . 
+
+object-prep-object	bed with sheet
+verb-prep-object	lie on bed
+object-prep-object	cat on kitten
+attribute-object	red sheet
+attribute-object	white sheet
+attribute-object	checkered sheet
+object-verb	cat lie
+object	bed
+object	sheet
+object	cat
+object	kitten
+object	cat
+#####################################################
+A small tabby kitten laying down . 
+a small tabby kitten lay down . 
+
+attribute-object	small cat
+attribute-object	tabby cat
+object-verb	cat lay
+verb-attribute	lay down
+object	cat
+object	kitten
+object	cat
+#####################################################
+Domestic kitten lying down on red and white blanket . 
+domestic kitten lie down on red and white blanket . 
+
+verb-prep-object	lie on blanket
+object-prep-object	cat on kitten
+attribute-object	domestic cat
+attribute-object	red blanket
+attribute-object	white blanket
+object-verb	cat lie
+verb-attribute	lie down
+object	blanket
+object	cat
+object	kitten
+object	cat
+#####################################################
+This is a blurry picture of a kitten looking at the camera . 
+this be a blurry picture of a kitten look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	cat look
+object	camera
+object	cat
+object	kitten
+object	cat
+#####################################################

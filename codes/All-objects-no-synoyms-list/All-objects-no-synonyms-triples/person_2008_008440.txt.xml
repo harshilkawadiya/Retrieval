@@ -1,0 +1,61 @@
+A group of people standing and sitting around a large circular table in a restaurant . 
+a group of people stand and sit around a large circular table in a restaurant . 
+
+verb-prep-object	stand in restaurant
+verb-prep-object	stand around table
+object-prep-object	people in restaurant
+object-prep-object	people around table
+verb-prep-object	sit in restaurant
+verb-prep-object	sit around table
+attribute-object	large table
+attribute-object	circular table
+object-verb	people stand
+object-verb	people sit
+object	restaurant
+object	table
+object	people
+object	person
+#####################################################
+Eight people are at an Asian restaurant for dinner . 
+eight people be at a asian restaurant for dinner . 
+
+object-prep-object	people at restaurant
+object-prep-object	restaurant for dinner
+attribute-object	asian restaurant
+object	people
+object	restaurant
+object	dinner
+object	person
+#####################################################
+Eight people at a table at a restaurant . 
+eight people at a table at a restaurant . 
+
+object-prep-object	people at table
+object-prep-object	people at restaurant
+object	people
+object	table
+object	restaurant
+object	person
+#####################################################
+People gather around a circular table . 
+people gather around a circular table . 
+
+verb-prep-object	gather around table
+object-prep-object	people around table
+attribute-object	circular table
+object-verb	people gather
+object	table
+object	people
+object	person
+#####################################################
+The eight young people are posing at a restaurant . 
+the eight young people be pose at a restaurant . 
+
+verb-prep-object	pose at restaurant
+object-prep-object	people at restaurant
+attribute-object	young people
+object-verb	people pose
+object	restaurant
+object	people
+object	person
+#####################################################

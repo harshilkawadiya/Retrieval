@@ -1,0 +1,61 @@
+A cyclist riding along a waterside path . 
+a cyclist ride along a waterside path . 
+
+verb-prep-object	ride along path
+object-prep-object	cyclist along path
+attribute-object	waterside path
+object-verb	cyclist ride
+object	path
+object	cyclist
+object	bicycle
+#####################################################
+A person riding on a bicycle by the water . 
+a person ride on a bicycle by the water . 
+
+verb-prep-object	ride on bicycle
+verb-prep-object	ride by water
+object-prep-object	person on bicycle
+object-prep-object	person by water
+object-verb	person ride
+object	bicycle
+object	water
+object	person
+object	bicycle
+#####################################################
+Person riding bike along bike path in front of lake . 
+person ride bike along bike path in front of lake . 
+
+verb-prep-object	ride along path
+verb-prep-object	ride in_front_of lake
+object-verb-object	person ride bike
+attribute-object	bike path
+object	path
+object	lake
+object	person
+object	bike
+object	bicycle
+#####################################################
+Person riding bike and observing the city view along a waterfront bike path . 
+person ride bike and observe the city view along a waterfront bike path . 
+
+object-verb-object	person ride bike
+object-verb-object	person observe view
+verb-prep-object	view along path
+attribute-object	city view
+attribute-object	waterfront path
+attribute-object	bike path
+object	person
+object	bike
+object	view
+object	path
+object	bicycle
+#####################################################
+Shot from behind of a person bicycling by the sea . 
+shot from behind of a person bicycling by the sea . 
+
+verb-prep-object	bicycling by sea
+object-verb	person bicycling
+object	sea
+object	person
+object	bicycle
+#####################################################

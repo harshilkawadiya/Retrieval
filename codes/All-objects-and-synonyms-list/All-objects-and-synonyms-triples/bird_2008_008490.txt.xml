@@ -1,0 +1,61 @@
+The two birds are standing on the ground . 
+the two bird be stand on the ground . 
+
+verb-prep-object	stand on ground
+object-prep-object	bird on ground
+object-verb	bird stand
+object	ground
+object	bird
+object	bird
+#####################################################
+Two ducks on moss covered ledge . 
+two duck on moss cover ledge . 
+
+object-prep-object	bird on ledge
+attribute-object	moss ledge
+attribute-object	cover ledge
+object	bird
+object	ledge
+object	bird
+#####################################################
+Two ducks standing near a tree on the river bank . 
+two duck stand near a tree on the river bank . 
+
+verb-prep-object	stand on bank
+object-prep-object	bird on bank
+verb-prep-object	stand near tree
+object-prep-object	bird near tree
+attribute-object	river bank
+object-verb	bird stand
+object	bank
+object	bird
+object	tree
+object	bird
+#####################################################
+Two ducks standing on edge of algae covered stone . 
+two duck stand on edge of alga cover stone . 
+
+verb-prep-object	stand on edge
+object-prep-object	edge of stone
+attribute-object	alga stone
+attribute-object	cover stone
+object-verb	bird stand
+object	edge
+object	stone
+object	bird
+object	bird
+#####################################################
+Two mallard ducks stand on moss near trees . 
+two mallard duck stand on moss near tree . 
+
+verb-prep-object	stand on moss
+object-prep-object	bird on moss
+verb-prep-object	stand near tree
+object-prep-object	bird near tree
+attribute-object	mallard bird
+object-verb	bird stand
+object	moss
+object	bird
+object	tree
+object	bird
+#####################################################

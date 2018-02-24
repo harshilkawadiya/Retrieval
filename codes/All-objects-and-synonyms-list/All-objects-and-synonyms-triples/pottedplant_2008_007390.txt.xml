@@ -1,0 +1,58 @@
+A close-up of a house with yellow siding , shutters , and flowers . 
+a close-up of a house with yellow siding , shutter , and flower . 
+
+object-prep-object	building with house
+object-prep-object	building with house
+object-prep-object	building with house
+attribute-object	yellow siding
+object	building
+object	house
+object	siding
+object	pottedplant
+#####################################################
+A quaint yellow house with brown shutters and flowers all around . 
+a quaint yellow house with brown shutter and flower all around . 
+
+object-prep-object	building with house
+object-prep-object	building with house
+attribute-object	quaint building
+attribute-object	yellow building
+attribute-object	brown shutter
+object	building
+object	house
+object	shutter
+object	pottedplant
+#####################################################
+A small yellow and purple house . 
+a small yellow and purple house . 
+
+attribute-object	small building
+attribute-object	yellow building
+attribute-object	purple building
+object	building
+object	house
+object	pottedplant
+#####################################################
+Colorful flowers grow in a beige bungalow 's neatly kept yard . 
+colorful flower grow in a beige bungalow 's neatly keep yard . 
+
+object-verb	flower grow
+verb-prep-object	grow in yard
+object-prep-object	flower in yard
+attribute-object	colorful flower
+attribute-object	bungalow yard
+object	flower
+object	yard
+object	pottedplant
+#####################################################
+The yellow house has a beautiful garden . 
+the yellow house have a beautiful garden . 
+
+attribute-object	yellow building
+attribute-object	beautiful garden
+object-verb-object	building have house
+object	building
+object	house
+object	garden
+object	pottedplant
+#####################################################

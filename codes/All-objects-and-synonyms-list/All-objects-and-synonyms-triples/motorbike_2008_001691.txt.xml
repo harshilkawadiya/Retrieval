@@ -1,0 +1,54 @@
+A parked yellow motorbike . 
+a park yellow motorbike . 
+
+object-verb	park motorbike
+object-verb	yellow motorbike
+object	park
+object	yellow
+object	motorbike
+#####################################################
+A yellow motorcycle . 
+a yellow motorcycle . 
+
+attribute-object	yellow motorbike
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A yellow motorcycle is parked on the street . 
+a yellow motorcycle be park on the street . 
+
+verb-prep-object	park on road
+object-prep-object	motorbike on road
+attribute-object	yellow motorbike
+object-verb	motorbike park
+object	road
+object	street
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A yellow streetwise , parked with a helmet . 
+a yellow streetwise , park with a helmet . 
+
+verb-prep-object	park with helmet
+object-prep-object	streetwise with helmet
+attribute-object	yellow streetwise
+object-verb	streetwise park
+object	helmet
+object	streetwise
+object	motorbike
+#####################################################
+The yellow motorcycle is parked on the street . 
+the yellow motorcycle be park on the street . 
+
+verb-prep-object	park on road
+object-prep-object	motorbike on road
+attribute-object	yellow motorbike
+object-verb	motorbike park
+object	road
+object	street
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################

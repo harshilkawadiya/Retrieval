@@ -1,0 +1,53 @@
+A CN freight engine passes by a larger freight train . 
+a CN freight engine pass by a larger freight train . 
+
+object-verb	engine pass
+verb-prep-object	pass by train
+object-prep-object	engine by train
+attribute-object	larger train
+attribute-object	cn engine
+attribute-object	freight engine
+attribute-object	freight train
+object	engine
+object	train
+object	train
+#####################################################
+A CN freight train moves past wagons . 
+a CN freight train move past wagon . 
+
+verb-attribute	move past
+object-verb-object	train move wagon
+attribute-object	cn train
+attribute-object	freight train
+object	train
+object	wagon
+object	train
+#####################################################
+A pair of locomotives travels by train cars . 
+a pair of locomotive travels by train car . 
+
+object-verb	train travels
+verb-prep-object	travels by car
+attribute-object	train car
+object	train
+object	locomotive
+object	car
+object	train
+#####################################################
+front side of a red freight train . 
+front side of a red freight train . 
+
+attribute-object	red train
+attribute-object	freight train
+object	train
+object	train
+#####################################################
+Train with a red front . 
+train with a red front . 
+
+object-prep-object	train with front
+attribute-object	red front
+object	train
+object	front
+object	train
+#####################################################

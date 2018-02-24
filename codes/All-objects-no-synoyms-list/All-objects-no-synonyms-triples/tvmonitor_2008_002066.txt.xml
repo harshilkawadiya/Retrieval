@@ -1,0 +1,59 @@
+A computer monitor has a picture of a cat in a pumpkin . 
+a computer monitor have a picture of a cat in a pumpkin . 
+
+object-prep-object	cat in pumpkin
+object-prep-object	picture of cat
+object-verb-object	monitor have picture
+attribute-object	computer monitor
+object	cat
+object	pumpkin
+object	picture
+object	monitor
+object	tvmonitor
+#####################################################
+A graphic of a black cat in a pumpkin displayed on a computer screen . 
+a graphic of a black cat in a pumpkin display on a computer screen . 
+
+object-prep-object	cat in pumpkin
+attribute-object	black cat
+attribute-object	computer screen
+verb-prep-object	display on screen
+object-prep-object	graphic on screen
+object-verb	graphic display
+object-prep-object	graphic of cat
+object	cat
+object	pumpkin
+object	screen
+object	graphic
+object	tvmonitor
+#####################################################
+Close up of a PC monitor with a large halloween pumpkin displayed . 
+close up of a pc monitor with a large halloween pumpkin display . 
+
+object-prep-object	monitor with pumpkin
+attribute-object	large pumpkin
+attribute-object	pc monitor
+attribute-object	halloween pumpkin
+object	monitor
+object	pumpkin
+object	tvmonitor
+#####################################################
+Sticker-covered computer monitor . 
+sticker-covered computer monitor . 
+
+attribute-object	sticker-covered monitor
+attribute-object	computer monitor
+object	monitor
+object	tvmonitor
+#####################################################
+This is a computer monitor next to a cat-themed picture frame and showing an image of a cat and jack o'lantern . 
+this be a computer monitor next to a cat-themed picture frame and show a image of a cat and jack o'lantern . 
+
+object-prep-object	monitor next_to frame
+attribute-object	cat-themed frame
+attribute-object	computer monitor
+attribute-object	picture frame
+object	monitor
+object	frame
+object	tvmonitor
+#####################################################

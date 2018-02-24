@@ -1,0 +1,51 @@
+Four people are rowing a boat near the shore . 
+four people be rowing a boat near the shore . 
+
+object-prep-object	boat near shore
+object-prep-object	people near shore
+object-verb-object	people rowing boat
+object	boat
+object	shore
+object	people
+object	car
+#####################################################
+Four people row a canoe in water . 
+four people row a canoe in water . 
+
+object-prep-object	canoe in water
+object-verb-object	people row canoe
+object	canoe
+object	water
+object	people
+object	car
+#####################################################
+Four people rowing down a river . 
+four people rowing down a river . 
+
+object-verb-object	people rowing river
+verb-attribute	rowing down
+object	people
+object	river
+object	car
+#####################################################
+The canoe paddle in the wide river . 
+the canoe paddle in the wide river . 
+
+verb-prep-object	paddle in river
+object-prep-object	canoe in river
+attribute-object	wide river
+object-verb	canoe paddle
+object	river
+object	canoe
+object	car
+#####################################################
+The crew rows on a beautiful day . 
+the crew row on a beautiful day . 
+
+verb-prep-object	row on day
+attribute-object	beautiful day
+object-verb	crew row
+object	day
+object	crew
+object	car
+#####################################################

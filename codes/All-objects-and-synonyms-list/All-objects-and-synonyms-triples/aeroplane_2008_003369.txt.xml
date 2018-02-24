@@ -1,0 +1,61 @@
+A passenger aircraft with landing gear down . 
+a passenger aircraft with landing gear down . 
+
+object-prep-object	aeroplane with gear
+object-attribute	gear down
+attribute-object	passenger aeroplane
+attribute-object	landing gear
+object	aeroplane
+object	gear
+object	aeroplane
+#####################################################
+A passenger jet flies through the air . 
+a passenger jet fly through the air . 
+
+verb-prep-object	fly through sky
+object-prep-object	aeroplane through sky
+attribute-object	passenger aeroplane
+object-verb	aeroplane fly
+object	sky
+object	air
+object	aeroplane
+object	aeroplane
+#####################################################
+A passenger plane fly through the sky . 
+a passenger plane fly through the sky . 
+
+verb-prep-object	fly through sky
+object-prep-object	aeroplane through sky
+attribute-object	passenger aeroplane
+object-verb	aeroplane fly
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################
+The Austrian plane soars in the sky . 
+the austrian plane soar in the sky . 
+
+verb-prep-object	soar in sky
+object-prep-object	aeroplane in sky
+attribute-object	austrian aeroplane
+object-verb	aeroplane soar
+object	sky
+object	aeroplane
+object	aeroplane
+#####################################################
+The white jet with its landing gear down flies in the blue sky . 
+the white jet with its landing gear down fly in the blue sky . 
+
+object-verb	aeroplane fly
+object-prep-object	aeroplane with gear
+verb-prep-object	fly in sky
+object-prep-object	aeroplane in sky
+object-attribute	gear down
+attribute-object	white aeroplane
+attribute-object	blue sky
+attribute-object	landing gear
+object	aeroplane
+object	gear
+object	sky
+object	aeroplane
+#####################################################

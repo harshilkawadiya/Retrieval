@@ -1,0 +1,48 @@
+A sailboat at sea . 
+a sailboat at sea . 
+
+object-prep-object	boat at water
+object	boat
+object	sailboat
+object	water
+object	boat
+#####################################################
+A sailboat with a yellow sail in the water . 
+a sailboat with a yellow sail in the water . 
+
+object-prep-object	boat with sailboat
+object-prep-object	boat in sailboat
+attribute-object	yellow sail
+object	boat
+object	sailboat
+object	sail
+object	boat
+#####################################################
+a sailing boat and a motor boat are in the distance . 
+a sailing boat and a motor boat be in the distance . 
+
+attribute-object	sailing boat
+attribute-object	motor boat
+object	boat
+object	boat
+#####################################################
+Boat on sea with yellow and white sails . 
+Boat on sea with yellow and white sail . 
+
+object-prep-object	boat on water
+object-prep-object	boat with sail
+attribute-object	yellow sail
+attribute-object	white sail
+object	boat
+object	water
+object	sail
+object	boat
+#####################################################
+Two boats in the distance out on the ocean . 
+two boat in the distance out on the ocean . 
+
+object-prep-object	boat on water
+object	boat
+object	water
+object	boat
+#####################################################

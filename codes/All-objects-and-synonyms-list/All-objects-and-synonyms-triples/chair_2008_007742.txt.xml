@@ -1,0 +1,83 @@
+A boy and a girl smile while standing by some folding chairs . 
+a boy and a girl smile while stand by some folding chair . 
+
+verb-prep-object	stand by chair
+object-prep-object	person by boy
+object-prep-object	person by girl
+attribute-object	folding chair
+object-verb	person smile
+object-verb	person smile
+object-verb	person stand
+object-verb	person stand
+object	chair
+object	person
+object	boy
+object	girl
+object	chair
+#####################################################
+A girl and a boy smiling in front of cabinets . 
+a girl and a boy smile in front of cabinet . 
+
+verb-prep-object	smile in_front_of cabinet
+object-prep-object	person in_front_of girl
+object-prep-object	person in_front_of boy
+object-verb	person smile
+object-verb	person smile
+object	cabinet
+object	person
+object	girl
+object	boy
+object	chair
+#####################################################
+The boy in the white shirt smiles as the girl with the red shirt laughs . 
+the boy in the white shirt smile as the girl with the red shirt laugh . 
+
+object-verb	person smile
+object-prep-object	person in boy
+attribute-object	white shirt
+object-verb	person laugh
+object-prep-object	person with girl
+attribute-object	red shirt
+object	person
+object	boy
+object	shirt
+object	girl
+object	chair
+#####################################################
+two children laughing . 
+two child laugh . 
+
+object-verb	person laugh
+object	person
+object	child
+object	chair
+#####################################################
+Two smiling children , one girl and one boy , are in front of tall white cabinets . 
+two smile child , one girl and one boy , be in front of tall white cabinet . 
+
+object-prep-object	person in_front_of child
+attribute-object	smile person
+attribute-object	tall cabinet
+attribute-object	white cabinet
+object	person
+object	child
+object	cabinet
+object	chair
+#####################################################
+Two smiling , young children stand near cabinets and folded chairs . 
+two smile , young child stand near cabinet and fold chair . 
+
+verb-prep-object	stand near cabinet
+object-prep-object	person near child
+verb-prep-object	stand near chair
+object-prep-object	person near child
+attribute-object	smile person
+attribute-object	young person
+attribute-object	fold chair
+object-verb	person stand
+object	cabinet
+object	person
+object	child
+object	chair
+object	chair
+#####################################################

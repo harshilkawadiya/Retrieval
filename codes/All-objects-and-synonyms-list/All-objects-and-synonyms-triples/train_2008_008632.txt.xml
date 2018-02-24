@@ -1,0 +1,74 @@
+An American flag and another flag fly above a yellow train engine and snow . 
+a american flag and another flag fly above a yellow train engine and snow . 
+
+verb-prep-object	fly above engine
+object-prep-object	flag above engine
+verb-prep-object	fly above snow
+object-prep-object	flag above snow
+attribute-object	american flag
+attribute-object	yellow engine
+attribute-object	train engine
+object-verb	flag fly
+object-verb	flag fly
+object	engine
+object	flag
+object	snow
+object	train
+#####################################################
+A yellow and black train passing through the snow toward two flag poles . 
+a yellow and black train pass through the snow toward two flag pole . 
+
+verb-prep-object	pass through snow
+object-prep-object	train through snow
+verb-prep-object	pass toward pole
+attribute-object	yellow train
+attribute-object	black train
+attribute-object	flag pole
+object-verb	train pass
+object	snow
+object	train
+object	pole
+object	train
+#####################################################
+Two flags fly on a snowy day as a yellow train approaches . 
+two flag fly on a snowy day as a yellow train approach . 
+
+verb-prep-object	fly on day
+attribute-object	snowy day
+object-verb	flag fly
+object-verb	train approach
+attribute-object	yellow train
+object	day
+object	flag
+object	train
+object	train
+#####################################################
+Two flags lay quietly on their poles while a freight train passes by on the tracks . 
+two flag lay quietly on they pole while a freight train pass by on the track . 
+
+verb-prep-object	lay on pole
+object-prep-object	flag on pole
+attribute-object	freight train
+object-verb	flag lay
+object-verb	train pass
+verb-prep-object	pass on track
+object-prep-object	train on track
+object	pole
+object	flag
+object	train
+object	track
+object	train
+#####################################################
+Two flags on flagpoles near a train on covered ground . 
+two flag on flagpole near a train on covered ground . 
+
+object-prep-object	flag on flagpole
+object-prep-object	flagpole near train
+object-prep-object	train on ground
+attribute-object	covered ground
+object	flag
+object	flagpole
+object	train
+object	ground
+object	train
+#####################################################

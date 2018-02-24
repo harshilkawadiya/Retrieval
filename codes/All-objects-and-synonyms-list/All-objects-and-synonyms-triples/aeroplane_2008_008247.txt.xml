@@ -1,0 +1,64 @@
+A blue airplane beside the blue water . 
+a blue airplane beside the blue water . 
+
+object-prep-object	aeroplane beside water
+attribute-object	blue aeroplane
+attribute-object	blue water
+object	aeroplane
+object	water
+object	aeroplane
+#####################################################
+A blue hydroplane which has landed in a marshy area . 
+a blue hydroplane which have land in a marshy area . 
+
+verb-prep-object	land in area
+object-prep-object	aeroplane in area
+attribute-object	blue aeroplane
+attribute-object	marshy area
+object-verb	aeroplane land
+object	area
+object	aeroplane
+object	aeroplane
+#####################################################
+a blue sea plane on the bank of a river . 
+a blue sea plane on the bank of a river . 
+
+object-prep-object	aeroplane on bank
+object-prep-object	bank of water
+attribute-object	blue aeroplane
+attribute-object	sea aeroplane
+object	aeroplane
+object	bank
+object	water
+object	aeroplane
+#####################################################
+A blue seaplane sitting at the edge of a marsh . 
+a blue seaplane sit at the edge of a marsh . 
+
+object-prep-object	edge of marsh
+verb-prep-object	sit at edge
+object-prep-object	aeroplane at edge
+attribute-object	blue aeroplane
+object-verb	aeroplane sit
+object	edge
+object	marsh
+object	aeroplane
+object	aeroplane
+#####################################################
+Blue plane parked in grassy field along small lake . 
+Blue plane park in grassy field along small lake . 
+
+verb-prep-object	park along water
+verb-prep-object	park in field
+object-prep-object	aeroplane in field
+object-prep-object	aeroplane along water
+attribute-object	grassy field
+attribute-object	small water
+attribute-object	blue aeroplane
+object-verb	aeroplane park
+object	water
+object	lake
+object	field
+object	aeroplane
+object	aeroplane
+#####################################################

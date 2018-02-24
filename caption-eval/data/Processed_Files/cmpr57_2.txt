@@ -1,0 +1,50 @@
+beam_size_1	2	A black and white dog carrying a large stick
+beam_size_1	3	A black and white dog is carrying a stick in its mouth .
+beam_size_1	4	a black and white dog walking through the grass with a long stick in his mouth .
+beam_size_1	5	a dog holds a stick in its mouth .
+beam_size_1	6	A dog trots across the ground with a large stick in his mouth .
+beam_size_1	7	A brown and white dog stands outside while it snows .
+beam_size_1	8	A dog is looking at something near the water .
+beam_size_1	9	A furry dog attempts to dry itself by shaking the water off its coat .
+beam_size_1	10	A white and brown dog shaking its self dry .
+beam_size_1	11	The large brown and white dog shakes off water .
+beam_size_1	12	A black dog and a tan dog fighting .
+beam_size_1	13	A black dog and a white dog are wrestling on the ground .
+beam_size_1	14	A black dog bites a white dog while standing on the sand .
+beam_size_1	15	two dogs fight .
+beam_size_1	16	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	17	a brown dog about to jump on a smaller black and tan dog
+beam_size_1	18	Large dog playing with smaller dog
+beam_size_1	19	Two dogs are playing together outside .
+beam_size_1	20	Two dogs playing in the grass with an adult nearby .
+beam_size_1	21	Two dogs playing with each other .
+beam_size_1	22	A dog chases a ball that has dropped in the water .
+beam_size_1	23	A dog on a log looks at a splash in the water as another dog looks on .
+beam_size_1	24	dogs playing in a stream
+beam_size_1	25	Two dogs are staring at a splash in the water
+beam_size_1	26	Two dogs look at something splashing in the water .
+beam_size_1	27	a black dog jumping to catch a rope toy
+beam_size_1	28	A black dog playing fetch with a ball of rope .
+beam_size_1	29	A black dog pounces to get a rope toy .
+beam_size_1	30	A black dog running after his rope toy .
+beam_size_1	31	A large black dog is playing in a grassy yard .
+beam_size_1	32	A black dog is looking at the ball on the beach by the ocean .
+beam_size_1	33	A dog and a ball on a beach .
+beam_size_1	34	A dog standing on a beach with a ball nearby .
+beam_size_1	35	A dog stands on a beach at sunset .
+beam_size_1	36	Dog in shadow on beach at sunset .
+beam_size_1	37	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	38	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	39	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	40	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	41	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	42	A girl in a black coat next to some school kids .
+beam_size_1	43	Four teenagers are standing at the foot of some steps by a brick wall .
+beam_size_1	44	Kids are waiting at the bottom of a staircase attached to a brick building .
+beam_size_1	45	Peoople stand outside a building near a street .
+beam_size_1	46	Teenagers congregate outside a brick building
+beam_size_1	47	A large dog sniffing a smaller dog outside .
+beam_size_1	48	Two blond dogs are standing together on a patio .
+beam_size_1	49	Two dogs are standing together on a patio .
+beam_size_1	50	Two golden dogs are standing on a wooden patio .
+beam_size_1	51	Two golden dogs on a wood deck .

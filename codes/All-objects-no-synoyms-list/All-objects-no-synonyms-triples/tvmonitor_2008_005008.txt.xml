@@ -1,0 +1,64 @@
+A home office set up complete with a can of soda ! 
+a home office set up complete with a can of soda ! 
+
+object-prep-object	office with can
+object-prep-object	can of soda
+object-verb-object	office set complete
+attribute-object	home office
+verb-attribute	set up
+object	office
+object	can
+object	soda
+object	complete
+object	tvmonitor
+#####################################################
+An Apple computer is sitting on a desk next to a can and another computer . 
+a Apple computer be sit on a desk next to a can and another computer . 
+
+verb-prep-object	sit on desk
+object-prep-object	computer on desk
+verb-prep-object	sit next_to can
+object-prep-object	computer next_to can
+verb-prep-object	sit next_to computer
+object-prep-object	computer next_to computer
+attribute-object	apple computer
+object-verb	computer sit
+object	desk
+object	computer
+object	can
+object	tvmonitor
+#####################################################
+Computer desk with computer monitor and soda can sitting in front of keyboard . 
+Computer desk with computer monitor and soda can sit in front of keyboard . 
+
+object-prep-object	desk with monitor
+object-prep-object	desk with can
+object-prep-object	desk in_front_of keyboard
+attribute-object	computer desk
+attribute-object	computer monitor
+attribute-object	soda can
+object	desk
+object	monitor
+object	can
+object	keyboard
+object	tvmonitor
+#####################################################
+Desk with computer keyboard and monitor . 
+desk with computer keyboard and monitor . 
+
+object-prep-object	desk with keyboard
+object-prep-object	desk with monitor
+attribute-object	computer keyboard
+object	desk
+object	keyboard
+object	monitor
+object	tvmonitor
+#####################################################
+Two computers at a workstation . 
+two computer at a workstation . 
+
+object-prep-object	computer at workstation
+object	computer
+object	workstation
+object	tvmonitor
+#####################################################

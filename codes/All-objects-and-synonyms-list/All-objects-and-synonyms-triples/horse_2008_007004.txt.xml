@@ -1,0 +1,62 @@
+A bay Quarter Horse with a white blaze is trotting in a field . 
+a bay quarter Horse with a white blaze be trot in a field . 
+
+object-prep-object	horse with blaze
+verb-prep-object	trot in field
+object-prep-object	horse in field
+attribute-object	white blaze
+attribute-object	bay horse
+attribute-object	quarter horse
+object-verb	horse trot
+object	horse
+object	blaze
+object	field
+object	horse
+#####################################################
+A brown horse canters in a dirt pasture in front of a fenced of grassy area . 
+a brown horse canter in a dirt pasture in front of a fence of grassy area . 
+
+verb-prep-object	canter in pasture
+verb-prep-object	canter in_front_of area
+object-prep-object	horse in pasture
+object-prep-object	horse in_front_of area
+attribute-object	brown horse
+attribute-object	grassy area
+attribute-object	dirt pasture
+object-verb	horse canter
+object	pasture
+object	area
+object	horse
+object	horse
+#####################################################
+A brown horse trotting on sand . 
+a brown horse trot on sand . 
+
+verb-prep-object	trot on sand
+object-prep-object	horse on sand
+attribute-object	brown horse
+object-verb	horse trot
+object	sand
+object	horse
+object	horse
+#####################################################
+Horse trotting through the dirt . 
+Horse trot through the dirt . 
+
+verb-prep-object	trot through dirty
+object-prep-object	horse through dirty
+object-verb	horse trot
+object	dirty
+object	dirt
+object	horse
+object	horse
+#####################################################
+The powerful horse struts it stuff . 
+the powerful horse strut it stuff . 
+
+attribute-object	powerful horse
+object-verb-object	horse strut stuff
+object	horse
+object	stuff
+object	horse
+#####################################################

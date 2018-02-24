@@ -1,0 +1,60 @@
+A car on a snow covered runway next to an Israeli airplane . 
+a car on a snow cover runway next to a israeli airplane . 
+
+object-prep-object	car on runway
+attribute-object	snow runway
+attribute-object	cover runway
+object-prep-object	car next_to airplane
+attribute-object	israeli airplane
+object	car
+object	runway
+object	airplane
+object	bus
+#####################################################
+A green truck is traveling by an airplane on the snowy road . 
+a green truck be travel by a airplane on the snowy road . 
+
+verb-prep-object	travel by airplane
+object-prep-object	airplane on road
+attribute-object	green truck
+attribute-object	snowy road
+object-verb	truck travel
+object	airplane
+object	road
+object	truck
+object	bus
+#####################################################
+An armored personnel vehicle on a snowy tarmac . 
+a armored personnel vehicle on a snowy tarmac . 
+
+object-prep-object	vehicle on tarmac
+attribute-object	armored vehicle
+attribute-object	snowy tarmac
+attribute-object	personnel vehicle
+object	vehicle
+object	tarmac
+object	bus
+#####################################################
+A view of the airport from a parked airplane on a snowy day . 
+a view of the airport from a park airplane on a snowy day . 
+
+object-prep-object	airplane on day
+object-prep-object	airport from airplane
+attribute-object	park airplane
+attribute-object	snowy day
+object	airplane
+object	day
+object	airport
+object	bus
+#####################################################
+Snow covered lot in front of large building . 
+Snow cover lot in front of large building . 
+
+object-prep-object	lot in_front_of building
+attribute-object	snow lot
+attribute-object	cover lot
+attribute-object	large building
+object	lot
+object	building
+object	bus
+#####################################################

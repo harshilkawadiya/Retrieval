@@ -1,0 +1,68 @@
+A large stock standing next to a pond . 
+a large stock stand next to a pond . 
+
+verb-prep-object	stand next_to pond
+object-prep-object	stock next_to pond
+attribute-object	large stock
+object-verb	stock stand
+object	pond
+object	stock
+object	bird
+#####################################################
+A large white bird is standing near the water . 
+a large white bird be stand near the water . 
+
+verb-prep-object	stand near water
+object-prep-object	bird near water
+attribute-object	large bird
+attribute-object	white bird
+object-verb	bird stand
+object	water
+object	bird
+object	bird
+#####################################################
+A white bird with a long beak stands near water . 
+a white bird with a long beak stand near water . 
+
+verb-prep-object	stand near water
+object-prep-object	bird near water
+object-prep-object	bird with beak
+attribute-object	white bird
+attribute-object	long beak
+object-verb	bird stand
+object	water
+object	bird
+object	beak
+object	bird
+#####################################################
+A white bird with long orange legs standing by a lake . 
+a white bird with long orange leg stand by a lake . 
+
+object-prep-object	bird with leg
+verb-prep-object	stand by lake
+object-prep-object	bird by lake
+attribute-object	white bird
+attribute-object	long leg
+attribute-object	orange leg
+object-verb	bird stand
+object	bird
+object	leg
+object	lake
+object	bird
+#####################################################
+Large white bird with long orange beak standing on the shoreline . 
+large white bird with long orange beak stand on the shoreline . 
+
+object-prep-object	bird with beak
+verb-prep-object	stand on shoreline
+object-prep-object	bird on shoreline
+attribute-object	large bird
+attribute-object	white bird
+attribute-object	long beak
+attribute-object	orange beak
+object-verb	bird stand
+object	bird
+object	beak
+object	shoreline
+object	bird
+#####################################################

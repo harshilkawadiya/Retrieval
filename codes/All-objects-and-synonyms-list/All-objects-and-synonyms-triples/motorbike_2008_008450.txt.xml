@@ -1,0 +1,57 @@
+A row of motorbikes parked in front of a store . 
+a row of motorbike park in front of a store . 
+
+verb-prep-object	park in_front_of store
+object-prep-object	motorbike in_front_of store
+object-verb	motorbike park
+object	store
+object	motorbike
+object	motorbike
+#####################################################
+Several motorcycles parked in front of restaurant . 
+several motorcycle park in front of restaurant . 
+
+verb-prep-object	park in_front_of restaurant
+object-prep-object	motorbike in_front_of motorcycle
+attribute-object	several motorbike
+object-verb	motorbike park
+object	restaurant
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Three motorcycles are line up outside a restaurant . 
+three motorcycle be line up outside a restaurant . 
+
+verb-prep-object	line outside restaurant
+object-prep-object	motorbike outside motorcycle
+verb-attribute	line up
+object-verb	motorbike line
+object	restaurant
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Three motorcycles are parked in front of an open business . 
+three motorcycle be park in front of a open business . 
+
+verb-prep-object	park in_front_of business
+object-prep-object	motorbike in_front_of motorcycle
+attribute-object	open business
+object-verb	motorbike park
+object	business
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Three motorcycles parked in front of a building . 
+three motorcycle park in front of a building . 
+
+verb-prep-object	park in_front_of building
+object-prep-object	motorbike in_front_of motorcycle
+object-verb	motorbike park
+object	building
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################

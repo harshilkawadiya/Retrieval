@@ -1,0 +1,56 @@
+Two girls posing in front of a waterfall . 
+two girl pose in front of a waterfall . 
+
+verb-prep-object	pose in_front_of waterfall
+object-prep-object	girl in_front_of waterfall
+object-verb	girl pose
+object	waterfall
+object	girl
+object	person
+#####################################################
+Two girls posing on a boat by the ocean . 
+two girl pose on a boat by the ocean . 
+
+verb-prep-object	pose on boat
+object-prep-object	girl on boat
+object-prep-object	boat by ocean
+object-verb	girl pose
+object	boat
+object	girl
+object	ocean
+object	person
+#####################################################
+Two women are posing in front of a fountain . 
+two woman be pose in front of a fountain . 
+
+verb-prep-object	pose in_front_of fountain
+object-prep-object	woman in_front_of fountain
+object-verb	woman pose
+object	fountain
+object	woman
+object	person
+#####################################################
+Two women in front of a waterfall with a crowd behind them . 
+two woman in front of a waterfall with a crowd behind they . 
+
+object-prep-object	woman with crowd
+object-prep-object	woman in_front_of waterfall
+object	woman
+object	crowd
+object	waterfall
+object	person
+#####################################################
+Two women posing for the camera , while others on the boat talk and enjoy the view . 
+two woman pose for the camera , while other on the boat talk and enjoy the view . 
+
+verb-prep-object	pose for camera
+object-verb	woman talk
+object-verb-object	woman enjoy view
+object-prep-object	woman on boat
+object-verb	woman pose
+object	camera
+object	woman
+object	view
+object	boat
+object	person
+#####################################################

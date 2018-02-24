@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog and a tan dog fighting .
+beam_size_1	3	A black dog and a white dog are wrestling on the ground .
+beam_size_1	4	A black dog bites a white dog while standing on the sand .
+beam_size_1	5	two dogs fight .
+beam_size_1	6	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	7	A black dog is looking at the ball on the beach by the ocean .
+beam_size_1	8	A dog and a ball on a beach .
+beam_size_1	9	A dog standing on a beach with a ball nearby .
+beam_size_1	10	A dog stands on a beach at sunset .
+beam_size_1	11	Dog in shadow on beach at sunset .
+beam_size_1	12	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	13	A black dog with a purple collar is running .
+beam_size_1	14	A black dog with a purple collar running .
+beam_size_1	15	a black dog with purple collar running
+beam_size_1	16	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	17	The brown dogs are playing with a blue toy together .
+beam_size_1	18	The two light colored dogs are pulling on a blue object that is in their mouths .
+beam_size_1	19	Two beige dogs are playing in the grass near a doghouse .
+beam_size_1	20	Two dogs are playing tug of war with a blue object in front of a building .
+beam_size_1	21	Two light brown dogs are tugging at a blue toy in front of a blue shed .
+beam_size_1	22	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	23	An elderly woman rides a bicycle along a city street .
+beam_size_1	24	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	25	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	26	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	27	a black dog plays with a ball in the water .
+beam_size_1	28	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	29	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	30	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	31	The black dog is running though the water with a pink ball .
+beam_size_1	32	A beagle walks through the grass .
+beam_size_1	33	A black and tan dog standing in a field near trees
+beam_size_1	34	A brown and tan dog walks through the green grass .
+beam_size_1	35	a smal hound dog walking through the grass outside .
+beam_size_1	36	The dog is walking through a grassy area .
+beam_size_1	37	A large dog sniffing a human hand while a small dog is sniffing the large dog 's butt .
+beam_size_1	38	A person reaches for a large grey dog while a black dog trails .
+beam_size_1	39	A smaller dog sniffs a larger dog in the hills .
+beam_size_1	40	the black dog is sniffing the brown dog 's butt .
+beam_size_1	41	The lady ask the dog to give her the ball on their beach walk .
+beam_size_1	42	a brown and black dog jumping through a field of long blades of grass
+beam_size_1	43	A dog runs through the tall grass .
+beam_size_1	44	A dog wearing a red harness runs across a field
+beam_size_1	45	Black and brown dog with red harness in high grass .
+beam_size_1	46	Dog running through the weeds .
+beam_size_1	47	A black dog is slowly crossing a fallen log that is outstretched over a stream of water .
+beam_size_1	48	A dog crossing a river on a bridge made of a fallen tree .
+beam_size_1	49	A dog walks on a log across a small river .
+beam_size_1	50	The black dog is walking along a tree trunk bridge over water .
+beam_size_1	51	The dog walks across the stream on a fallen log .

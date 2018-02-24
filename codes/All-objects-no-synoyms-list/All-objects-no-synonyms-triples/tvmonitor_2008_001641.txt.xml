@@ -1,0 +1,51 @@
+a desk with a computer in a room . 
+a desk with a computer in a room . 
+
+object-prep-object	desk with computer
+object-prep-object	computer in room
+object	desk
+object	computer
+object	room
+object	tvmonitor
+#####################################################
+A messy home office . 
+a messy home office . 
+
+attribute-object	messy office
+attribute-object	home office
+object	office
+object	tvmonitor
+#####################################################
+a office space with two windows . 
+a office space with two window . 
+
+object-prep-object	space with window
+attribute-object	office space
+object	space
+object	window
+object	tvmonitor
+#####################################################
+A room set up as a quaint office . 
+a room set up as a quaint office . 
+
+verb-prep-object	set as office
+attribute-object	quaint office
+object-verb	room set
+verb-attribute	set up
+object	office
+object	room
+object	tvmonitor
+#####################################################
+A wooden desk alongside a large printer in a busy office . 
+a wooden desk alongside a large printer in a busy office . 
+
+object-prep-object	desk alongside printer
+object-prep-object	desk in office
+attribute-object	wooden desk
+attribute-object	large printer
+attribute-object	busy office
+object	desk
+object	printer
+object	office
+object	tvmonitor
+#####################################################

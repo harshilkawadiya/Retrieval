@@ -1,0 +1,66 @@
+A bearded man is holding a child in a sling . 
+a bearded man be hold a child in a sling . 
+
+verb-prep-object	hold in sling
+object-prep-object	child in sling
+attribute-object	bearded man
+object-verb-object	man hold child
+object	sling
+object	child
+object	man
+object	bottle
+#####################################################
+A bearded man stands while holding a small child in a green sheet . 
+a bearded man stand while hold a small child in a green sheet . 
+
+verb-prep-object	hold in sheet
+object-prep-object	child in sheet
+attribute-object	bearded man
+attribute-object	small child
+attribute-object	green sheet
+object-verb	man stand
+object-verb-object	man hold child
+object	sheet
+object	child
+object	man
+object	bottle
+#####################################################
+A bearded man with a baby in a sling poses . 
+a bearded man with a baby in a sling pose . 
+
+object-prep-object	man with baby
+object-prep-object	baby in sling
+attribute-object	bearded man
+object-verb	man pose
+object	man
+object	baby
+object	sling
+object	bottle
+#####################################################
+Man standing in kitchen with little girl in green sack . 
+man standing in kitchen with little girl in green sack . 
+
+verb-prep-object	stand with girl
+verb-prep-object	stand in kitchen
+object-prep-object	man in kitchen
+object-prep-object	man with girl
+object-prep-object	girl in sack
+attribute-object	little girl
+attribute-object	green sack
+object-verb	man stand
+object	girl
+object	kitchen
+object	man
+object	sack
+object	bottle
+#####################################################
+Man with beard and baby . 
+man with beard and baby . 
+
+object-prep-object	man with beard
+object-prep-object	man with baby
+object	man
+object	beard
+object	baby
+object	bottle
+#####################################################

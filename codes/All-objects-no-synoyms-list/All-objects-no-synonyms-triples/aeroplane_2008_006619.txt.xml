@@ -1,0 +1,60 @@
+An Air Canada airplane is ascending against a blue sky . 
+a Air Canada airplane be ascend against a blue sky . 
+
+verb-prep-object	ascend against sky
+object-prep-object	airplane against sky
+attribute-object	blue sky
+attribute-object	air airplane
+attribute-object	canada airplane
+object-verb	airplane ascend
+object	sky
+object	airplane
+object	aeroplane
+#####################################################
+A passenger plane in flight . 
+a passenger plane in flight . 
+
+object-prep-object	plane in flight
+attribute-object	passenger plane
+object	plane
+object	flight
+object	aeroplane
+#####################################################
+A white Air Canada airplane in flight with its landing gear down . 
+a white Air Canada airplane in flight with its landing gear down . 
+
+object-prep-object	airplane with gear
+object-prep-object	airplane in flight
+object-attribute	gear down
+attribute-object	white airplane
+attribute-object	air airplane
+attribute-object	canada airplane
+attribute-object	landing gear
+object	airplane
+object	gear
+object	flight
+object	aeroplane
+#####################################################
+The Air Canada jet soars majestically in the sky . 
+the Air Canada jet soar majestically in the sky . 
+
+object-verb	jet soar
+verb-prep-object	soar in sky
+attribute-verb	majestically soar
+attribute-object	air jet
+attribute-object	canada jet
+object	jet
+object	sky
+object	aeroplane
+#####################################################
+The white airplane is flying in the sky . 
+the white airplane be fly in the sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	airplane in sky
+attribute-object	white airplane
+object-verb	airplane fly
+object	sky
+object	airplane
+object	aeroplane
+#####################################################

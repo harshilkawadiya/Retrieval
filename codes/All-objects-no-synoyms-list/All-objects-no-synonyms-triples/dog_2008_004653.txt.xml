@@ -1,0 +1,47 @@
+A black dog . 
+a black dog . 
+
+attribute-object	black dog
+object	dog
+object	dog
+#####################################################
+A black dog is in a forest . 
+a black dog be in a forest . 
+
+object-prep-object	dog in forest
+attribute-object	black dog
+object	dog
+object	forest
+object	dog
+#####################################################
+A black dog standing in front of yellow flowers . 
+a black dog standing in front of yellow flower . 
+
+verb-prep-object	stand in_front_of flower
+object-prep-object	dog in_front_of flower
+attribute-object	black dog
+attribute-object	yellow flower
+object-verb	dog stand
+object	flower
+object	dog
+object	dog
+#####################################################
+Black long-haired dog standing in middle of garden . 
+Black long-haired dog standing in middle of garden . 
+
+verb-prep-object	stand in garden
+object-prep-object	dog in garden
+attribute-object	black dog
+attribute-object	long-haired dog
+object-verb	dog stand
+object	garden
+object	dog
+object	dog
+#####################################################
+Profile of a black dog . 
+profile of a black dog . 
+
+attribute-object	black dog
+object	dog
+object	dog
+#####################################################

@@ -1,0 +1,63 @@
+A brown horse and rider jumping over hay bales . 
+a brown horse and rider jump over hay bale . 
+
+attribute-object	brown horse
+object-verb-object	horse jump bale
+object-verb-object	rider jump bale
+attribute-object	hay bale
+verb-attribute	jump over
+object	horse
+object	bale
+object	rider
+object	horse
+#####################################################
+A girl on a horse jumps over hay bales . 
+a girl on a horse jump over hay bale . 
+
+object-prep-object	girl on horse
+verb-prep-object	jump over bale
+object-prep-object	girl over bale
+attribute-object	hay bale
+object-verb	girl jump
+object	girl
+object	horse
+object	bale
+object	horse
+#####################################################
+A horse with a rider jumps over a bale of hay . 
+a horse with a rider jump over a bale of hay . 
+
+object-prep-object	bale of hay
+verb-prep-object	jump over bale
+object-prep-object	horse over bale
+object-prep-object	horse with rider
+object-verb	horse jump
+object	bale
+object	hay
+object	horse
+object	rider
+object	horse
+#####################################################
+A jockey jumps a brown horse over a bale of hay . 
+a jockey jump a brown horse over a bale of hay . 
+
+verb-prep-object	jump over bale
+object-prep-object	horse over bale
+object-prep-object	bale of hay
+attribute-object	brown horse
+object-verb-object	jockey jump horse
+object	bale
+object	horse
+object	hay
+object	jockey
+object	horse
+#####################################################
+Equestrian in jumping event . 
+Equestrian in jump event . 
+
+object-prep-object	equestrian in event
+attribute-object	jump event
+object	equestrian
+object	event
+object	horse
+#####################################################

@@ -1,0 +1,70 @@
+A guy in a sports jersey poses with a girl in a kitchen . 
+a guy in a sport jersey pose with a girl in a kitchen . 
+
+verb-prep-object	pose with person
+object-prep-object	person with person
+object-prep-object	person in guy
+verb-prep-object	pose in kitchen
+object-prep-object	person in guy
+attribute-object	sport jersey
+object-verb	person pose
+object	person
+object	girl
+object	guy
+object	kitchen
+object	jersey
+object	person
+#####################################################
+A happy couple . 
+a happy couple . 
+
+attribute-object	happy person
+object	person
+object	couple
+object	person
+#####################################################
+A man and woman smiling at the camera while standing in a kitchen . 
+a man and woman smile at the camera while stand in a kitchen . 
+
+verb-prep-object	smile at camera
+verb-prep-object	stand in kitchen
+object-prep-object	person in man
+object-prep-object	person in woman
+object-verb	person stand
+object-verb	person stand
+object-verb	person smile
+object-verb	person smile
+object	camera
+object	kitchen
+object	person
+object	man
+object	woman
+object	person
+#####################################################
+A man wearing a Chicago Bears jersey poses for a picture with a woman . 
+a man wear a Chicago Bears jersey pose for a picture with a woman . 
+
+verb-prep-object	pose for picture
+verb-prep-object	pose with person
+object-verb-object	person wear man
+attribute-object	chicago jersey
+attribute-object	bears jersey
+object-verb	person pose
+object	picture
+object	person
+object	woman
+object	man
+object	jersey
+object	person
+#####################################################
+Couple posing together in kitchen . 
+couple pose together in kitchen . 
+
+verb-prep-object	pose in kitchen
+object-prep-object	person in couple
+object-verb	person pose
+object	kitchen
+object	person
+object	couple
+object	person
+#####################################################

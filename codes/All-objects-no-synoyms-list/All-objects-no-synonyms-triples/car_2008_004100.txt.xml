@@ -1,0 +1,50 @@
+A BOAC Boeing 747 sitting on the airport tarmac . 
+a BOAC Boeing 747 sit on the airport tarmac . 
+
+verb-prep-object	sit on tarmac
+object-prep-object	boeing on tarmac
+attribute-object	boac boeing
+attribute-object	airport tarmac
+object-verb	boeing sit
+object	tarmac
+object	boeing
+object	car
+#####################################################
+A commercial plane being loaded with passengers . 
+a commercial plane be load with passenger . 
+
+verb-prep-object	load with passenger
+object-prep-object	plane with passenger
+attribute-object	commercial plane
+object-verb	plane load
+object	passenger
+object	plane
+object	car
+#####################################################
+Passenger plane boarding at terminal . 
+passenger plane board at terminal . 
+
+verb-prep-object	board at terminal
+object-prep-object	plane at terminal
+attribute-object	passenger plane
+object-verb	plane board
+object	terminal
+object	plane
+object	car
+#####################################################
+Passengers boarding a large jet . 
+passenger board a large jet . 
+
+attribute-object	large jet
+object-verb-object	passenger board jet
+object	jet
+object	passenger
+object	car
+#####################################################
+The BOAC 747 is being boarded via the use of air stairs as it appears that the jet bridge is under reconstruction . 
+the BOAC 747 be be board via the use of air stair as it appear that the jet bridge be under reconstruction . 
+
+object-verb	boac board
+object	boac
+object	car
+#####################################################

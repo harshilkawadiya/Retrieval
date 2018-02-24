@@ -1,0 +1,52 @@
+A cat looking at the camera . 
+a cat look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################
+A close-up of the front end of an orange and white cat . 
+a close-up of the front end of a orange and white cat . 
+
+attribute-object	orange cat
+attribute-object	white cat
+object	cat
+object	cat
+#####################################################
+A ginger and white cat laying on a carpet . 
+a ginger and white cat lay on a carpet . 
+
+verb-prep-object	lay on carpet
+object-prep-object	cat on carpet
+attribute-object	ginger cat
+attribute-object	white cat
+object-verb	cat lay
+object	carpet
+object	cat
+object	cat
+#####################################################
+Tan and white cat lying down on carpeting . 
+Tan and white cat lie down on carpeting . 
+
+verb-prep-object	lie on carpeting
+object-prep-object	cat on carpeting
+attribute-object	tan cat
+attribute-object	white cat
+object-verb	cat lie
+verb-attribute	lie down
+object	carpeting
+object	cat
+object	cat
+#####################################################
+The green-eyed cat is looking straight at the camera . 
+the green-eyed cat be look straight at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	green-eyed cat
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################

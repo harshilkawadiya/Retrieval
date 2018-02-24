@@ -1,0 +1,54 @@
+A grounded passage plane in a terminal . 
+a ground passage plane in a terminal . 
+
+object-prep-object	plane in terminal
+attribute-object	ground plane
+attribute-object	passage plane
+object	plane
+object	terminal
+object	aeroplane
+#####################################################
+An Air Pacific airplane sitting on the tarmac . 
+a Air Pacific airplane sit on the tarmac . 
+
+verb-prep-object	sit on tarmac
+object-prep-object	airplane on tarmac
+attribute-object	air airplane
+attribute-object	pacific airplane
+object-verb	airplane sit
+object	tarmac
+object	airplane
+object	aeroplane
+#####################################################
+Large white commercial airliner parked on runway . 
+large white commercial airliner park on runway . 
+
+verb-prep-object	park on runway
+object-prep-object	airliner on runway
+attribute-object	large airliner
+attribute-object	white airliner
+attribute-object	commercial airliner
+object-verb	airliner park
+object	runway
+object	airliner
+object	aeroplane
+#####################################################
+The back and right side of a parked passenger jet . 
+the back and right side of a park passenger jet . 
+
+attribute-object	park jet
+attribute-object	passenger jet
+object	jet
+object	aeroplane
+#####################################################
+The passenger plane is sitting at the airport . 
+the passenger plane be sit at the airport . 
+
+verb-prep-object	sit at airport
+object-prep-object	plane at airport
+attribute-object	passenger plane
+object-verb	plane sit
+object	airport
+object	plane
+object	aeroplane
+#####################################################

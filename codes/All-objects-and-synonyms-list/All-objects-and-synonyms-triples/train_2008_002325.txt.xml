@@ -1,0 +1,69 @@
+A man gets off the Peruvian train for a photo opportunity . 
+a man get off the peruvian train for a photo opportunity . 
+
+verb-prep-object	get for opportunity
+attribute-object	peruvian train
+object-verb-object	person get man
+attribute-object	photo opportunity
+verb-attribute	get off
+object	opportunity
+object	train
+object	person
+object	man
+object	train
+#####################################################
+A man stands in front of a train labeled Perurail near mountains . 
+a man stand in front of a train label Perurail near mountain . 
+
+verb-prep-object	stand near mountain
+object-prep-object	person near man
+verb-prep-object	stand in_front_of train
+object-prep-object	person in_front_of man
+object-verb-object	train label perurail
+object-verb	person stand
+object	mountain
+object	person
+object	man
+object	train
+object	perurail
+object	train
+#####################################################
+A person posing for a picture outside a train . 
+a person pose for a picture outside a train . 
+
+verb-prep-object	pose for picture
+verb-prep-object	pose outside train
+object-prep-object	person outside train
+object-verb	person pose
+object	picture
+object	train
+object	person
+object	train
+#####################################################
+A person standing in front of a blue PeruRail train by the mountains . 
+a person standing in front of a blue PeruRail train by the mountain . 
+
+object-verb	person stand
+verb-prep-object	stand in_front_of train
+object-prep-object	person in_front_of train
+attribute-object	blue train
+attribute-object	perurail train
+object-prep-object	train by mountain
+object	person
+object	train
+object	mountain
+object	train
+#####################################################
+The person is standing in front of the blue , yellow and white train . 
+the person be stand in front of the blue , yellow and white train . 
+
+verb-prep-object	stand in_front_of train
+object-prep-object	person in_front_of train
+attribute-object	blue train
+attribute-object	yellow train
+attribute-object	white train
+object-verb	person stand
+object	train
+object	person
+object	train
+#####################################################

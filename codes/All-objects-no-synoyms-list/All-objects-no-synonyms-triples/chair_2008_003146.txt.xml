@@ -1,0 +1,53 @@
+Two girls in pink and blue outfits . 
+two girl in pink and blue outfit . 
+
+object-prep-object	girl in outfit
+attribute-object	pink outfit
+attribute-object	blue outfit
+object	girl
+object	outfit
+object	chair
+#####################################################
+Two women pose beneath a sign saying Welcome to English Camp . 
+two woman pose beneath a sign say welcome to English Camp . 
+
+object-verb	woman pose
+verb-prep-object	pose beneath sign
+object-prep-object	woman beneath sign
+object	woman
+object	sign
+object	chair
+#####################################################
+Two women posing by a `` Welcome to English Camp '' sign . 
+two woman pose by a `` welcome to English Camp '' sign . 
+
+verb-prep-object	pose by sign
+object-prep-object	woman by sign
+object-verb	woman pose
+object	sign
+object	woman
+object	chair
+#####################################################
+Two women smile in front of a Welcome sign . 
+two woman smile in front of a welcome sign . 
+
+verb-prep-object	smile in_front_of sign
+object-prep-object	woman in_front_of sign
+object-verb	woman smile
+object	sign
+object	woman
+object	chair
+#####################################################
+Two women standing together in a hall posing for the camera . 
+two woman stand together in a hall pose for the camera . 
+
+verb-prep-object	stand in hall
+object-prep-object	woman in hall
+verb-prep-object	pose for camera
+object-verb	woman stand
+object-verb	woman pose
+object	hall
+object	woman
+object	camera
+object	chair
+#####################################################

@@ -1,0 +1,60 @@
+A white horse and a white and brown horse stand together at a red fence . 
+a white horse and a white and brown horse stand together at a red fence . 
+
+verb-prep-object	stand at fence
+object-prep-object	horse at fence
+object-prep-object	horse at fence
+attribute-object	white horse
+attribute-object	white horse
+attribute-object	brown horse
+attribute-object	red fence
+object-verb	horse stand
+object-verb	horse stand
+object	fence
+object	horse
+object	horse
+#####################################################
+Profile headshot of a white horse and a colt . 
+Profile headshot of a white horse and a colt . 
+
+attribute-object	white horse
+object	horse
+object	horse
+object	colt
+object	horse
+#####################################################
+Two horses standing in a pen . 
+two horse stand in a pen . 
+
+verb-prep-object	stand in pen
+object-prep-object	horse in pen
+object-verb	horse stand
+object	pen
+object	horse
+object	horse
+#####################################################
+Two white horses , one large , the other smaller with darker face , look over a fence . 
+two white horse , one large , the other smaller with darker face , look over a fence . 
+
+object-verb	horse look
+verb-prep-object	look over fence
+attribute-object	white horse
+attribute-object	large horse
+attribute-object	smaller horse
+object-prep-object	horse with face
+attribute-object	darker face
+object	horse
+object	fence
+object	face
+object	horse
+#####################################################
+Two white horses staring over a fence . 
+two white horse stare over a fence . 
+
+verb-prep-object	stare over fence
+attribute-object	white horse
+object-verb	horse stare
+object	fence
+object	horse
+object	horse
+#####################################################

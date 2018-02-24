@@ -1,0 +1,65 @@
+A cat laying on a red cushion looking at the camera . 
+a cat lay on a red cushion look at the camera . 
+
+verb-prep-object	lay on cushion
+object-prep-object	cat on cushion
+verb-prep-object	look at camera
+attribute-object	red cushion
+object-verb	cat lay
+object-verb	cat look
+object	cushion
+object	cat
+object	camera
+object	cat
+#####################################################
+A distorted photo of a blue eyes seal point cat on a red towel . 
+a distorted photo of a blue eye seal point cat on a red towel . 
+
+object-prep-object	cat on towel
+attribute-object	blue cat
+attribute-object	eyes cat
+attribute-object	seal cat
+attribute-object	point cat
+attribute-object	red towel
+object	cat
+object	towel
+object	cat
+#####################################################
+A Siamese cat is lying on a red blanket and looking directly into the camera lens . 
+a siamese cat be lie on a red blanket and look directly into the camera lens . 
+
+verb-prep-object	lie on blanket
+object-prep-object	cat on blanket
+verb-prep-object	look into lens
+attribute-object	siamese cat
+attribute-object	red blanket
+attribute-object	camera lens
+object-verb	cat lie
+object-verb	cat look
+object	blanket
+object	cat
+object	lens
+object	cat
+#####################################################
+The siamese cat looks groggy after awaking from a cat nap . 
+the siamese cat look groggy after awake from a cat nap . 
+
+object-verb-object	cat look groggy
+attribute-object	siamese cat
+object	cat
+object	groggy
+object	cat
+#####################################################
+Up close photo of siamese cat lying down on a red blanket . 
+up close photo of siamese cat lie down on a red blanket . 
+
+verb-prep-object	lie on blanket
+object-prep-object	cat on blanket
+attribute-object	siamese cat
+attribute-object	red blanket
+object-verb	cat lie
+verb-attribute	lie down
+object	blanket
+object	cat
+object	cat
+#####################################################

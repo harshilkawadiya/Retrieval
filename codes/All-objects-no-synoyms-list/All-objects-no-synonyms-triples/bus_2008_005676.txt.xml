@@ -1,0 +1,61 @@
+A school bus driving down a road with green trees and grass in the background . 
+a school bus drive down a road with green tree and grass in the background . 
+
+object-prep-object	bus with tree
+object-prep-object	bus with grass
+attribute-object	green tree
+object-verb-object	bus drive road
+attribute-object	school bus
+verb-attribute	drive down
+object	bus
+object	tree
+object	grass
+object	road
+object	bus
+#####################################################
+A yellow school bus is on a road near grass and trees . 
+a yellow school bus be on a road near grass and tree . 
+
+object-prep-object	bus on road
+object-prep-object	bus near grass
+object-prep-object	bus near tree
+attribute-object	yellow bus
+attribute-object	school bus
+object	bus
+object	road
+object	grass
+object	tree
+object	bus
+#####################################################
+A yellow school bus stops at a rural road 's intersection . 
+a yellow school bus stop at a rural road 's intersection . 
+
+verb-prep-object	stop at intersection
+object-prep-object	bus at intersection
+attribute-object	yellow bus
+attribute-object	rural intersection
+attribute-object	road intersection
+attribute-object	school bus
+object-verb	bus stop
+object	intersection
+object	bus
+object	bus
+#####################################################
+School bus on a road . 
+School bus on a road . 
+
+object-prep-object	bus on road
+attribute-object	school bus
+object	bus
+object	road
+object	bus
+#####################################################
+Yellow bus with trees in the background . 
+yellow bus with tree in the background . 
+
+object-prep-object	bus with tree
+attribute-object	yellow bus
+object	bus
+object	tree
+object	bus
+#####################################################

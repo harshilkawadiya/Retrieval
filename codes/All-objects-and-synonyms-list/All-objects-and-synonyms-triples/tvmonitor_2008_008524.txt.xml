@@ -1,0 +1,68 @@
+A group of people in a living room . 
+a group of people in a living room . 
+
+object-prep-object	person in people
+attribute-object	living room
+object	person
+object	people
+object	room
+object	tvmonitor
+#####################################################
+A group of people , most likely a family siting in a living room . 
+a group of people , most likely a family site in a living room . 
+
+verb-prep-object	sit in room
+object-prep-object	person in people
+attribute-object	living room
+object-verb	person sit
+object	room
+object	person
+object	people
+object	tvmonitor
+#####################################################
+A group of people posing for a picture in a living room . 
+a group of people pose for a picture in a living room . 
+
+verb-prep-object	pose in room
+object-prep-object	person in people
+verb-prep-object	pose for picture
+attribute-object	living room
+object-verb	person pose
+object	room
+object	person
+object	people
+object	picture
+object	tvmonitor
+#####################################################
+A large gathering of people crowd into this small living room for a photo-op . 
+a large gathering of people crowd into this small living room for a photo-op . 
+
+object-prep-object	person into crowd
+attribute-object	people person
+object-prep-object	person for crowd
+attribute-object	small room
+attribute-object	living room
+object	person
+object	crowd
+object	room
+object	tvmonitor
+#####################################################
+This room is full of people sitting on the sofa , standing , and sitting on the floor . 
+this room be full of people sit on the sofa , standing , and sit on the floor . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on people
+verb-prep-object	sit on floor
+object-prep-object	person on people
+object-prep-object	full of person
+object-object	room full
+object-verb	person sit
+object-verb	person stand
+object	sofa
+object	person
+object	people
+object	floor
+object	full
+object	room
+object	tvmonitor
+#####################################################

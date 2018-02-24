@@ -1,0 +1,50 @@
+beam_size_1	2	A black dog and a tan dog fighting .
+beam_size_1	3	A black dog and a white dog are wrestling on the ground .
+beam_size_1	4	A black dog bites a white dog while standing on the sand .
+beam_size_1	5	two dogs fight .
+beam_size_1	6	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	7	A brown and black dog on a leash is sniffed by a black and white dog .
+beam_size_1	8	A dog on a leash walks on the sidewalk while another dog follows .
+beam_size_1	9	A small dog on a leash is being smelled by another animal .
+beam_size_1	10	The black and white dog is sniffing the butt of the brown dog that is on a leash .
+beam_size_1	11	Two small dogs , one black-and-white and one brown-and-black , walk down the street .
+beam_size_1	12	A brown , black , and white dog runs along on the gravel .
+beam_size_1	13	A dog runs
+beam_size_1	14	A little dog running on sand .
+beam_size_1	15	The brown , white and black dog runs on a gravel surface .
+beam_size_1	16	The dog is running across the gravel .
+beam_size_1	17	an elderly woman is riding a bicycle in the city as a yellow taxi is about to pass by .
+beam_size_1	18	An elderly woman rides a bicycle along a city street .
+beam_size_1	19	An older woman with blond hair rides a bicycle down the street .
+beam_size_1	20	A woman in a grey overcoat rides her bicycle along a street .
+beam_size_1	21	Older woman wearing glassses riding a bicycle with a shopping bag on the handle , yellow car is in the background .
+beam_size_1	22	A dog jumps up towards a woman in a car , while another dog is outside the car .
+beam_size_1	23	An orange dog and a little white dog with black spots are next to a white car .
+beam_size_1	24	A small black and white dog jumps at a woman in a white jeep while a golden dog follows beside them .
+beam_size_1	25	A small dog jumps by a car to reach a lady 's face while another dog watches .
+beam_size_1	26	White and black dog jumps at someone through car window .
+beam_size_1	27	A man fly fishes in a large river .
+beam_size_1	28	A man stands on the edge of the water and holds a fishing pole .
+beam_size_1	29	A man with a tan hat and jacket is fishing in green waters .
+beam_size_1	30	one lone fisherman with his line cast out into the river .
+beam_size_1	31	The man is fishing at the water 's edge .
+beam_size_1	32	A beagle walks through the grass .
+beam_size_1	33	A black and tan dog standing in a field near trees
+beam_size_1	34	A brown and tan dog walks through the green grass .
+beam_size_1	35	a smal hound dog walking through the grass outside .
+beam_size_1	36	The dog is walking through a grassy area .
+beam_size_1	37	The three dogs ran in the yard .
+beam_size_1	38	three dogs are running across the grass near to a blue industrial building .
+beam_size_1	39	Three dogs are running in a field .
+beam_size_1	40	Three dogs run away from a patch of non-grassy surface leaving one another dog behind .
+beam_size_1	41	Three dogs that are different shades of brown and white are running in a field .
+beam_size_1	42	Children play with large hoops .
+beam_size_1	43	Little kids playing with sparklers at night .
+beam_size_1	44	Two small children are twirling sparkling rope .
+beam_size_1	45	Two young boys playing with sparklers .
+beam_size_1	46	Two young children and an older man play with sparklers .
+beam_size_1	47	A beige puppy walks across the floor .
+beam_size_1	48	A small puppy rungs towards the camera .
+beam_size_1	49	A white puppy is running on a tiled floor .
+beam_size_1	50	puppy running on the floor
+beam_size_1	51	The white dog ran across the tile floor .

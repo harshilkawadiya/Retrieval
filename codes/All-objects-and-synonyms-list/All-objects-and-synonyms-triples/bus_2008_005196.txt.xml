@@ -1,0 +1,61 @@
+a bus at night in town . 
+a bus at night in town . 
+
+object-prep-object	bus at night
+object-prep-object	bus in country
+object	bus
+object	night
+object	country
+object	bus
+#####################################################
+A trolleybus with passengers waiting on a road . 
+a trolleybus with passenger wait on a road . 
+
+verb-prep-object	wait on road
+object-prep-object	person on passenger
+object-prep-object	bus with person
+object-verb	person wait
+object	road
+object	person
+object	passenger
+object	bus
+object	trolleybus
+object	bus
+#####################################################
+A white bus driving on the street at night . 
+a white bus drive on the street at night . 
+
+verb-prep-object	drive on road
+verb-prep-object	drive at night
+attribute-object	white bus
+object-prep-object	bus on road
+object-prep-object	bus at night
+object-verb	bus drive
+object	road
+object	street
+object	night
+object	bus
+object	bus
+#####################################################
+Streetcar running down a city street at night . 
+Streetcar run down a city street at night . 
+
+verb-prep-object	run at night
+object-prep-object	bus at streetcar
+object-verb-object	bus run road
+attribute-object	city road
+verb-attribute	run down
+object	night
+object	bus
+object	streetcar
+object	road
+object	street
+object	bus
+#####################################################
+The bus goes on in the evening . 
+the bus go on in the evening . 
+
+object-verb	bus go
+object	bus
+object	bus
+#####################################################

@@ -1,0 +1,48 @@
+A black and white photo of a motorcycle laying on the ground . 
+a black and white photo of a motorcycle lay on the ground . 
+
+object-verb	motorbike lay
+verb-prep-object	lay on ground
+object-prep-object	motorbike on motorcycle
+object	motorbike
+object	motorcycle
+object	ground
+object	motorbike
+#####################################################
+A motorcycle is lying on the road . 
+a motorcycle be lie on the road . 
+
+verb-prep-object	lie on road
+object-prep-object	motorbike on motorcycle
+object-verb	motorbike lie
+object	road
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+Motorbike with basket on back . 
+motorbike with basket on back . 
+
+object-prep-object	motorbike with basket
+object	motorbike
+object	basket
+object	motorbike
+#####################################################
+This is a black and white photograph of a motorcycle in a parking lot . 
+this be a black and white photograph of a motorcycle in a parking lot . 
+
+object-prep-object	motorbike in motorcycle
+attribute-object	parking lot
+object	motorbike
+object	motorcycle
+object	lot
+object	motorbike
+#####################################################
+This is a cool motorcycle ! 
+this be a cool motorcycle ! 
+
+attribute-object	cool motorbike
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################

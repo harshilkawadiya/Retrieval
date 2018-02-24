@@ -1,0 +1,70 @@
+A child in pajamas opens a wrapped gift in front of a Christmas tree . 
+a child in pajamas open a wrap gift in front of a Christmas tree . 
+
+object-prep-object	person in child
+object-verb-object	person open child
+attribute-object	wrap gift
+verb-prep-object	open in_front_of tree
+object-prep-object	person in_front_of child
+attribute-object	christmas tree
+object	person
+object	child
+object	gift
+object	tree
+object	person
+#####################################################
+A child opening presents on Christmas morning . 
+a child open present on Christmas morning . 
+
+verb-prep-object	open on morning
+attribute-object	christmas morning
+object-verb-object	person open child
+object	morning
+object	person
+object	child
+object	person
+#####################################################
+A little boy opens presents next to a tree on Christmas morning . 
+a little boy open present next to a tree on Christmas morning . 
+
+verb-prep-object	open next_to tree
+object-prep-object	person next_to boy
+attribute-object	little person
+object-verb-object	person open boy
+verb-prep-object	open on morning
+attribute-object	christmas morning
+object	tree
+object	person
+object	boy
+object	morning
+object	person
+#####################################################
+A red headed child in his pajamas opening christmas gifts . 
+a red head child in he pajamas open christmas gift . 
+
+object-prep-object	person in child
+attribute-object	red person
+attribute-object	head person
+object-verb-object	person open child
+attribute-object	christmas gift
+object	person
+object	child
+object	gift
+object	person
+#####################################################
+Young boy with glasses and dressed in blue opening Christmas presents . 
+Young boy with glass and dress in blue opening Christmas present . 
+
+object-prep-object	person with boy
+attribute-object	young person
+object-verb	person dress
+verb-prep-object	dress in blue
+object-prep-object	person in boy
+object-verb-object	person open boy
+attribute-object	christmas present
+object	person
+object	boy
+object	blue
+object	present
+object	person
+#####################################################

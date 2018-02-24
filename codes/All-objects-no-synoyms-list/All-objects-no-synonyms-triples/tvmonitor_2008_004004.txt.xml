@@ -1,0 +1,42 @@
+A large screen tv with news headlines . 
+a large screen tv with news headline . 
+
+object-prep-object	tv with headline
+attribute-object	large tv
+attribute-object	screen tv
+attribute-object	news headline
+object	tv
+object	headline
+object	tvmonitor
+#####################################################
+A monitor is on to a screen reading World News Today from Yahoo . 
+a monitor be on to a screen reading World News today from Yahoo . 
+
+object-object	monitor on
+object	monitor
+object	on
+object	tvmonitor
+#####################################################
+Library kiosk display showing news . 
+Library kiosk display show news . 
+
+attribute-object	library display
+attribute-object	kiosk display
+object-verb-object	display show news
+object	display
+object	news
+object	tvmonitor
+#####################################################
+World news headlines displayed on a large screen . 
+World news headline display on a large screen . 
+
+verb-prep-object	display on screen
+object-prep-object	headline on screen
+attribute-object	large screen
+attribute-object	world headline
+attribute-object	news headline
+object-verb	headline display
+object	screen
+object	headline
+object	tvmonitor
+#####################################################

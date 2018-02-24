@@ -1,0 +1,71 @@
+A red moped is parked by a building with graffiti . 
+a red moped be park by a building with graffitus . 
+
+object-prep-object	building with graffitus
+verb-prep-object	park by building
+object-prep-object	motorbike by scooter
+attribute-object	red motorbike
+object-verb	motorbike park
+object	building
+object	graffitus
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+A red moped parked on a sidewalk in front of graffiti . 
+a red moped park on a sidewalk in front of graffitus . 
+
+verb-prep-object	park on sidewalk
+object-prep-object	motorbike on scooter
+verb-prep-object	park in_front_of graffitus
+object-prep-object	motorbike in_front_of scooter
+attribute-object	red motorbike
+object-verb	motorbike park
+object	sidewalk
+object	motorbike
+object	scooter
+object	graffitus
+object	motorbike
+#####################################################
+A red scooter is parked near the door step . 
+a red scooter be park near the door step . 
+
+verb-prep-object	park near step
+object-prep-object	motorbike near scooter
+attribute-object	red motorbike
+attribute-object	door step
+object-verb	motorbike park
+object	step
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Graffiti and a red scooter in an urban area . 
+Graffiti and a red scooter in a urban area . 
+
+object-prep-object	graffiti in area
+object-prep-object	motorbike in scooter
+attribute-object	red motorbike
+attribute-object	urban area
+object	graffiti
+object	area
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+The red scooter is sitting on the street in front of the building . 
+the red scooter be sit on the street in front of the building . 
+
+verb-prep-object	sit on road
+object-prep-object	motorbike on road
+verb-prep-object	sit in_front_of building
+object-prep-object	motorbike in_front_of scooter
+attribute-object	red motorbike
+object-verb	motorbike sit
+object	road
+object	street
+object	motorbike
+object	scooter
+object	building
+object	motorbike
+#####################################################

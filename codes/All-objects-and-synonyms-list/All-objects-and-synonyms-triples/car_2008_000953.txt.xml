@@ -1,0 +1,66 @@
+The curious boys look in the shed . 
+the curious boy look in the shed . 
+
+verb-prep-object	look in shed
+attribute-object	curious person
+object-verb	person look
+object	shed
+object	person
+object	boy
+object	car
+#####################################################
+Two boys are looking into the window of a shed . 
+two boy be look into the window of a shed . 
+
+verb-prep-object	look into window
+object-prep-object	window of shed
+object-verb	person look
+object	window
+object	shed
+object	person
+object	boy
+object	car
+#####################################################
+Two children look into the window of a small shed . 
+two child look into the window of a small shed . 
+
+verb-prep-object	look into window
+object-prep-object	window of shed
+object-verb	person look
+attribute-object	small shed
+object	window
+object	shed
+object	person
+object	child
+object	car
+#####################################################
+Two small boys in a woody area looking at a shed . 
+two small boy in a woody area look at a shed . 
+
+object-prep-object	person in boy
+attribute-object	small person
+attribute-object	wooden area
+verb-prep-object	look at shed
+object-verb	person look
+object	person
+object	boy
+object	area
+object	shed
+object	car
+#####################################################
+Two small children looking into a small wood and brick shed . 
+two small child look into a small wood and brick shed . 
+
+verb-prep-object	look into wooden
+verb-prep-object	look into shed
+attribute-object	small person
+attribute-object	small wooden
+attribute-object	brick shed
+object-verb	person look
+object	wooden
+object	wood
+object	shed
+object	person
+object	child
+object	car
+#####################################################

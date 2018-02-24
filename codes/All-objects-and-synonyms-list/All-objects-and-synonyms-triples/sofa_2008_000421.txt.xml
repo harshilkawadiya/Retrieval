@@ -1,0 +1,81 @@
+A woman is lying across the laps of two men sitting on a couch . 
+a woman be lie across the lap of two man sit on a couch . 
+
+verb-prep-object	lie across lap
+object-prep-object	person across woman
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	lap of person
+object-verb	person lie
+object-verb	person sit
+object	lap
+object	person
+object	woman
+object	sofa
+object	bed
+object	man
+object	sofa
+#####################################################
+A woman laying across two men sitting on a sofa . 
+a woman lay across two man sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on man
+verb-prep-object	lay across person
+object-prep-object	person across person
+object-verb	person lay
+object-verb	person sit
+object	sofa
+object	person
+object	man
+object	woman
+object	sofa
+#####################################################
+three teenagers are on a couch , the girl is laying on two guys , both guys have beer . 
+three teenager be on a couch , the girl be lay on two guy , both guy have beer . 
+
+object-prep-object	person on bed
+verb-prep-object	lay on person
+object-prep-object	person on person
+object-verb-object	person have guy
+object-verb	person lay
+object	person
+object	teenager
+object	sofa
+object	bed
+object	guy
+object	girl
+object	sofa
+#####################################################
+Three young adults lounging on couch together . 
+three young adult lounge on couch together . 
+
+verb-prep-object	lounge on sofa
+object-prep-object	person on bed
+attribute-object	young person
+object-verb	person lounge
+object	sofa
+object	bed
+object	person
+object	adult
+object	sofa
+#####################################################
+Two guys sit on a couch holding beers with a girl lying on their laps . 
+two guy sit on a couch hold beer with a girl lie on they lap . 
+
+object-verb	person sit
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-verb-object	person hold guy
+verb-prep-object	sit with person
+object-prep-object	person with person
+verb-prep-object	lie on lap
+object-verb	person lie
+object	person
+object	guy
+object	sofa
+object	bed
+object	girl
+object	lap
+object	sofa
+#####################################################

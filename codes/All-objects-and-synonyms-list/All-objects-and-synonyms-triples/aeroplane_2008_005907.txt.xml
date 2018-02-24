@@ -1,0 +1,55 @@
+An old style plane awaits to be loaded with cargo . 
+a old style plane await to be load with cargo . 
+
+attribute-object	old aeroplane
+attribute-object	style aeroplane
+object-verb	aeroplane await
+object	aeroplane
+object	aeroplane
+#####################################################
+A plane being readied for takeoff . 
+a plane be ready for takeoff . 
+
+verb-prep-object	ready for takeoff
+object-verb	aeroplane ready
+object	takeoff
+object	aeroplane
+object	aeroplane
+#####################################################
+A small turboprop plane being loaded on the tarmac . 
+a small turboprop plane be load on the tarmac . 
+
+verb-prep-object	load on airport
+object-prep-object	aeroplane on airport
+attribute-object	small aeroplane
+attribute-object	turboprop aeroplane
+object-verb	aeroplane load
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+Men are working on an airplane parked on a tarmac . 
+man be work on a airplane park on a tarmac . 
+
+verb-prep-object	work on aeroplane
+object-prep-object	person on man
+verb-prep-object	park on airport
+object-verb	person work
+object-verb	aeroplane park
+object	aeroplane
+object	person
+object	man
+object	airport
+object	aeroplane
+#####################################################
+Twin propeller aircraft being prepped for takeoff . 
+twin propeller aircraft be prep for takeoff . 
+
+verb-prep-object	prep for takeoff
+attribute-object	twin aeroplane
+attribute-object	propeller aeroplane
+object-verb	aeroplane prep
+object	takeoff
+object	aeroplane
+object	aeroplane
+#####################################################

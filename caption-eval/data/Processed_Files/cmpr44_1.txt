@@ -1,0 +1,50 @@
+2	Three man looking into the distance
+3	Three men are standing on a cliff overlooking mountains and the ocean .
+4	Three men are staring at the big , green hills in the distance .
+5	Three men looking at grass covered hill .
+6	Three men stand on a mountain looking at another .
+7	Three man looking into the distance
+8	Three men are standing on a cliff overlooking mountains and the ocean .
+9	Three men are staring at the big , green hills in the distance .
+10	Three men looking at grass covered hill .
+11	Three men stand on a mountain looking at another .
+12	Three man looking into the distance
+13	Three men are standing on a cliff overlooking mountains and the ocean .
+14	Three men are staring at the big , green hills in the distance .
+15	Three men looking at grass covered hill .
+16	Three men stand on a mountain looking at another .
+17	Three man looking into the distance
+18	Three men are standing on a cliff overlooking mountains and the ocean .
+19	Three men are staring at the big , green hills in the distance .
+20	Three men looking at grass covered hill .
+21	Three men stand on a mountain looking at another .
+22	Three man looking into the distance
+23	Three men are standing on a cliff overlooking mountains and the ocean .
+24	Three men are staring at the big , green hills in the distance .
+25	Three men looking at grass covered hill .
+26	Three men stand on a mountain looking at another .
+27	Three man looking into the distance
+28	Three men are standing on a cliff overlooking mountains and the ocean .
+29	Three men are staring at the big , green hills in the distance .
+30	Three men looking at grass covered hill .
+31	Three men stand on a mountain looking at another .
+32	Three man looking into the distance
+33	Three men are standing on a cliff overlooking mountains and the ocean .
+34	Three men are staring at the big , green hills in the distance .
+35	Three men looking at grass covered hill .
+36	Three men stand on a mountain looking at another .
+37	Three man looking into the distance
+38	Three men are standing on a cliff overlooking mountains and the ocean .
+39	Three men are staring at the big , green hills in the distance .
+40	Three men looking at grass covered hill .
+41	Three men stand on a mountain looking at another .
+42	Three man looking into the distance
+43	Three men are standing on a cliff overlooking mountains and the ocean .
+44	Three men are staring at the big , green hills in the distance .
+45	Three men looking at grass covered hill .
+46	Three men stand on a mountain looking at another .
+47	Three man looking into the distance
+48	Three men are standing on a cliff overlooking mountains and the ocean .
+49	Three men are staring at the big , green hills in the distance .
+50	Three men looking at grass covered hill .
+51	Three men stand on a mountain looking at another .

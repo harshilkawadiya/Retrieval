@@ -1,0 +1,70 @@
+A living room with TV , books , vacuum , and accessories . 
+a living room with tv , book , vacuum , and accessory . 
+
+object-prep-object	room with tv
+object-prep-object	room with book
+object-prep-object	room with vacuum
+object-prep-object	room with accessory
+attribute-object	living room
+object	room
+object	tv
+object	book
+object	vacuum
+object	accessory
+object	tvmonitor
+#####################################################
+A modest living room contains two cluttered bookshelves and a small flatscreen TV . 
+a modest living room contain two cluttered bookshelf and a small flatscreen tv . 
+
+attribute-object	modest room
+attribute-object	living room
+attribute-object	cluttered bookshelf
+attribute-object	small tv
+attribute-object	flatscreen tv
+object-verb-object	room contain bookshelf
+object-verb-object	room contain tv
+object	room
+object	bookshelf
+object	tv
+object	tvmonitor
+#####################################################
+A small TV on a wooden floor is surrounded by bookshelves and cleaning supplies . 
+a small tv on a wooden floor be surround by bookshelf and clean supplies . 
+
+object-prep-object	tv on floor
+attribute-object	small tv
+attribute-object	wooden floor
+verb-prep-object	surround by bookshelf
+verb-prep-object	surround by supplies
+object-verb	tv surround
+attribute-object	clean supplies
+object	tv
+object	floor
+object	bookshelf
+object	supplies
+object	tvmonitor
+#####################################################
+A television next to a bookcase and vacuum cleaner . 
+a television next to a bookcase and vacuum cleaner . 
+
+object-prep-object	television next_to bookcase
+object-prep-object	television next_to cleaner
+attribute-object	vacuum cleaner
+object	television
+object	bookcase
+object	cleaner
+object	tvmonitor
+#####################################################
+The corner of a cluttered room with a television and two full book shelves . 
+the corner of a cluttered room with a television and two full book shelf . 
+
+object-prep-object	room with television
+object-prep-object	room with shelf
+attribute-object	cluttered room
+attribute-object	full shelf
+attribute-object	book shelf
+object	room
+object	television
+object	shelf
+object	tvmonitor
+#####################################################

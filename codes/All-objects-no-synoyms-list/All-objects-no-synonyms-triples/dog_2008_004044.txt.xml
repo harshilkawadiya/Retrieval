@@ -1,0 +1,62 @@
+A brown and white dog laying on the bed while a woman looks on . 
+a brown and white dog lay on the bed while a woman look on . 
+
+verb-prep-object	lay on bed
+object-prep-object	dog on bed
+attribute-object	brown dog
+attribute-object	white dog
+object-verb	woman look
+object-verb	dog lay
+object	bed
+object	dog
+object	woman
+object	dog
+#####################################################
+A dog laying on top of the blanket a woman is laying under . 
+a dog lay on top of the blanket a woman be lay under . 
+
+verb-prep-object	lay on_top_of blanket
+object-prep-object	dog on_top_of blanket
+object-verb	dog lay
+object-verb	woman lay
+object	blanket
+object	dog
+object	woman
+object	dog
+#####################################################
+A dog on a bed with a woman in it . 
+a dog on a bed with a woman in it . 
+
+object-prep-object	dog on bed
+object-prep-object	bed with woman
+object	dog
+object	bed
+object	woman
+object	dog
+#####################################################
+a dog sitting on a yellow blanket . 
+a dog sit on a yellow blanket . 
+
+verb-prep-object	sit on blanket
+object-prep-object	dog on blanket
+attribute-object	yellow blanket
+object-verb	dog sit
+object	blanket
+object	dog
+object	dog
+#####################################################
+A tan and white dog laying in bed with a yellow coverlet . 
+a tan and white dog lay in bed with a yellow coverlet . 
+
+verb-prep-object	lay in bed
+object-prep-object	dog in bed
+object-prep-object	bed with coverlet
+attribute-object	yellow coverlet
+attribute-object	tan dog
+attribute-object	white dog
+object-verb	dog lay
+object	bed
+object	dog
+object	coverlet
+object	dog
+#####################################################

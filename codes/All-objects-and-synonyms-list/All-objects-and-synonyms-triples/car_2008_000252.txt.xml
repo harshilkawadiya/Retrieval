@@ -1,0 +1,68 @@
+Gentleman with one glove posing for winter photo . 
+gentleman with one glove pose for winter photo . 
+
+verb-prep-object	pose for photo
+object-prep-object	person with gentleman
+attribute-object	winter photo
+object-verb	person pose
+object	photo
+object	person
+object	gentleman
+object	car
+#####################################################
+Man standing in front of a double decker bus , tree and snow covered field . 
+man standing in front of a double decker bus , tree and snow cover field . 
+
+object-verb	person stand
+verb-prep-object	stand in_front_of bus
+verb-prep-object	stand in_front_of tree
+verb-prep-object	stand in_front_of field
+object-prep-object	person in_front_of man
+object-prep-object	person in_front_of man
+object-prep-object	person in_front_of man
+attribute-object	snow field
+attribute-object	cover field
+attribute-object	double bus
+attribute-object	decker bus
+object	person
+object	man
+object	bus
+object	tree
+object	field
+object	car
+#####################################################
+Man standing in snow in front of a bus . 
+man standing in snow in front of a bus . 
+
+verb-prep-object	stand in snow
+object-prep-object	person in man
+verb-prep-object	stand in_front_of bus
+object-prep-object	person in_front_of man
+object-verb	person stand
+object	snow
+object	person
+object	man
+object	bus
+object	car
+#####################################################
+Man standing outside in snow . 
+man standing outside in snow . 
+
+verb-prep-object	stand in snow
+object-prep-object	person in man
+object-verb	person stand
+object	snow
+object	person
+object	man
+object	car
+#####################################################
+Man with sunglasses , in the snow in front of a bus . 
+man with sunglass , in the snow in front of a bus . 
+
+object-prep-object	person with man
+object-prep-object	person in man
+object-prep-object	person in_front_of man
+object	person
+object	man
+object	car
+#####################################################

@@ -1,0 +1,62 @@
+A lone sheep walking through the woods . 
+a lone sheep walk through the wood . 
+
+verb-prep-object	walk through wooden
+object-prep-object	sheep through wooden
+attribute-object	lone sheep
+object-verb	sheep walk
+object	wooden
+object	wood
+object	sheep
+object	sheep
+#####################################################
+A sheep in the morning mist with trees in the background . 
+a sheep in the morning mist with tree in the background . 
+
+object-prep-object	sheep in mist
+attribute-object	morning mist
+object	tree
+object	sheep
+object	mist
+object	tree
+object	sheep
+#####################################################
+A sheep standing on a hill at sunset . 
+a sheep standing on a hill at sunset . 
+
+verb-prep-object	stand on mountain
+object-prep-object	sheep on mountain
+verb-prep-object	stand at sunset
+object-prep-object	sheep at sunset
+object-verb	sheep stand
+object	mountain
+object	hill
+object	sheep
+object	sunset
+object	sheep
+#####################################################
+a white sheep on the grass in front of trees . 
+a white sheep on the grass in front of tree . 
+
+object-prep-object	sheep on grass
+object-prep-object	sheep in_front_of tree
+attribute-object	white sheep
+object	sheep
+object	grass
+object	tree
+object	sheep
+#####################################################
+White sheep standing on grass in the morning . 
+White sheep standing on grass in the morning . 
+
+verb-prep-object	stand on grass
+object-prep-object	sheep on grass
+verb-prep-object	stand in morning
+object-prep-object	sheep in morning
+attribute-object	white sheep
+object-verb	sheep stand
+object	grass
+object	sheep
+object	morning
+object	sheep
+#####################################################

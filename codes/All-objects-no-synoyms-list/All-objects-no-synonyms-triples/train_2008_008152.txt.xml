@@ -1,0 +1,55 @@
+A blue train in a mountainous area . 
+a blue train in a mountainous area . 
+
+object-prep-object	train in area
+attribute-object	blue train
+attribute-object	mountainous area
+object	train
+object	area
+object	train
+#####################################################
+An old train sits idle on the tracks . 
+a old train sit idle on the track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+object-verb-object	train sit idle
+attribute-object	old train
+object	track
+object	train
+object	idle
+object	train
+#####################################################
+A weathered passenger train car . 
+a weathered passenger train car . 
+
+attribute-object	weathered car
+attribute-object	passenger car
+attribute-object	train car
+object	car
+object	train
+#####################################################
+Old blue and white train on tracks . 
+Old blue and white train on track . 
+
+object-prep-object	train on track
+attribute-object	old train
+attribute-object	blue train
+attribute-object	white train
+object	train
+object	track
+object	train
+#####################################################
+Picture of an old railroad car with a passenger looking out the window . 
+Picture of a old railroad car with a passenger look out the window . 
+
+object-prep-object	car with passenger
+attribute-object	old car
+attribute-object	railroad car
+object-verb-object	passenger look window
+verb-attribute	look out
+object	car
+object	passenger
+object	window
+object	train
+#####################################################

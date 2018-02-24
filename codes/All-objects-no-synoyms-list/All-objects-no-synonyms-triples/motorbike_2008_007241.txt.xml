@@ -1,0 +1,57 @@
+A motorcycle parked next to a car . 
+a motorcycle park next to a car . 
+
+verb-prep-object	park next_to car
+object-prep-object	motorcycle next_to car
+object-verb	motorcycle park
+object	car
+object	motorcycle
+object	motorbike
+#####################################################
+A silver and blue motorcycle sitting next to a car . 
+a silver and blue motorcycle sit next to a car . 
+
+verb-prep-object	sit next_to car
+object-prep-object	motorcycle next_to car
+attribute-object	silver motorcycle
+attribute-object	blue motorcycle
+object-verb	motorcycle sit
+object	car
+object	motorcycle
+object	motorbike
+#####################################################
+A silver motorbike parked next to a car on the side of the road . 
+a silver motorbike park next to a car on the side of the road . 
+
+verb-prep-object	park next_to car
+object-prep-object	motorbike next_to car
+verb-prep-object	park on road
+object-prep-object	motorbike on road
+attribute-object	silver motorbike
+object-verb	motorbike park
+object	car
+object	motorbike
+object	road
+object	motorbike
+#####################################################
+Motorcycle in parking lot next to vehicle . 
+Motorcycle in parking lot next to vehicle . 
+
+object-prep-object	motorcycle next_to vehicle
+object-prep-object	motorcycle in lot
+attribute-object	parking lot
+object	motorcycle
+object	vehicle
+object	lot
+object	motorbike
+#####################################################
+Motorcycle parked next to a car outside . 
+Motorcycle park next to a car outside . 
+
+verb-prep-object	park next_to car
+object-prep-object	motorcycle next_to car
+object-verb	motorcycle park
+object	car
+object	motorcycle
+object	motorbike
+#####################################################

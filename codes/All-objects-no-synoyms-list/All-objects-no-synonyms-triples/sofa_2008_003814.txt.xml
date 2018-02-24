@@ -1,0 +1,73 @@
+A small efficiency apartment , complete with twin bed , soda , and entertainment center . 
+a small efficiency apartment , complete with twin bed , soda , and entertainment center . 
+
+attribute-object	small apartment
+attribute-object	efficiency apartment
+object-prep-object	apartment with bed
+attribute-object	twin bed
+object-prep-object	apartment with soda
+object-prep-object	apartment with center
+attribute-object	entertainment center
+object	apartment
+object	bed
+object	soda
+object	center
+object	sofa
+#####################################################
+Blue couch and twin bed in a living room . 
+Blue couch and twin bed in a living room . 
+
+object-prep-object	couch in room
+object-prep-object	bed in room
+attribute-object	twin bed
+attribute-object	blue couch
+attribute-object	living room
+object	couch
+object	room
+object	bed
+object	sofa
+#####################################################
+Picture of a dorm room . 
+Picture of a dorm room . 
+
+attribute-object	dorm room
+object	room
+object	sofa
+#####################################################
+Red and white checkered floor with blue couch and red pillows in room . 
+Red and white checkered floor with blue couch and red pillow in room . 
+
+object-prep-object	floor with couch
+object-prep-object	pillow in room
+attribute-object	red floor
+attribute-object	white floor
+attribute-object	checkered floor
+attribute-object	blue couch
+attribute-object	red pillow
+object	floor
+object	couch
+object	pillow
+object	room
+object	sofa
+#####################################################
+This is the interior of someone 's living room including a TV , light , cabinet , chair , guitar , and checkered floor pattern . 
+this be the interior of someone 's living room include a tv , light , cabinet , chair , guitar , and checkered floor pattern . 
+
+object-prep-object	room including tv
+object-prep-object	room including light
+object-prep-object	room including cabinet
+object-prep-object	room including chair
+object-prep-object	room including guitar
+object-prep-object	room including pattern
+attribute-object	checkered pattern
+attribute-object	living room
+attribute-object	floor pattern
+object	room
+object	tv
+object	light
+object	cabinet
+object	chair
+object	guitar
+object	pattern
+object	sofa
+#####################################################

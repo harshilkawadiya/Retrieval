@@ -1,0 +1,57 @@
+a bird with bright colors . 
+a bird with bright color . 
+
+object-prep-object	bird with color
+attribute-object	bright color
+object	bird
+object	color
+object	bird
+#####################################################
+A close-up of a green bird with a red face and purple tail feathers . 
+a close-up of a green bird with a red face and purple tail feather . 
+
+object-prep-object	bird with face
+object-prep-object	bird with feathered
+attribute-object	green bird
+attribute-object	red face
+attribute-object	purple feathered
+attribute-object	tail feathered
+object	bird
+object	face
+object	feathered
+object	feather
+object	bird
+#####################################################
+A green bird with a red face sitting . 
+a green bird with a red face sit . 
+
+object-prep-object	bird with face
+attribute-object	green bird
+attribute-object	red face
+object-verb	bird sit
+object	bird
+object	face
+object	bird
+#####################################################
+A small green bird with a red beak . 
+a small green bird with a red beak . 
+
+object-prep-object	bird with beak
+attribute-object	small bird
+attribute-object	green bird
+attribute-object	red beak
+object	bird
+object	beak
+object	bird
+#####################################################
+Tropical bird sitting on wet rock . 
+tropical bird sit on wet rock . 
+
+verb-prep-object	sit on rock
+attribute-object	tropical bird
+attribute-object	wet rock
+object-verb	bird sit
+object	rock
+object	bird
+object	bird
+#####################################################

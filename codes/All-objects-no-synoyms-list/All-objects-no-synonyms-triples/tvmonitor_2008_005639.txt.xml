@@ -1,0 +1,54 @@
+A bookcase with entertainment center and TV . 
+a bookcase with entertainment center and tv . 
+
+object-prep-object	bookcase with center
+object-prep-object	bookcase with tv
+attribute-object	entertainment center
+object	bookcase
+object	center
+object	tv
+object	tvmonitor
+#####################################################
+A room with a television , stereo and bookshelf . 
+a room with a television , stereo and bookshelf . 
+
+object-prep-object	room with television
+object-prep-object	room with stereo
+object-prep-object	room with bookshelf
+object	room
+object	television
+object	stereo
+object	bookshelf
+object	tvmonitor
+#####################################################
+A television in a messy room with several bookcases . 
+a television in a messy room with several bookcase . 
+
+object-prep-object	room with bookcase
+object-prep-object	television in room
+attribute-object	messy room
+attribute-object	several bookcase
+object	room
+object	bookcase
+object	television
+object	tvmonitor
+#####################################################
+A view of an entertainment system and a bookshelf . 
+a view of a entertainment system and a bookshelf . 
+
+object	bookshelf
+attribute-object	entertainment system
+object	bookshelf
+object	system
+object	tvmonitor
+#####################################################
+A wall with a TV and four bookcases . 
+a wall with a tv and four bookcase . 
+
+object-prep-object	wall with tv
+object-prep-object	wall with bookcase
+object	wall
+object	tv
+object	bookcase
+object	tvmonitor
+#####################################################

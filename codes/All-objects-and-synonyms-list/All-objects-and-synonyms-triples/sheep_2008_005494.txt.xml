@@ -1,0 +1,58 @@
+A boy feeding a sheep hay . 
+a boy feed a sheep hay . 
+
+object-verb-object	person feed boy
+attribute-object	sheep hay
+object	person
+object	boy
+object	hay
+object	sheep
+#####################################################
+A small boy feeds a large brown sheep in the stable . 
+a small boy feed a large brown sheep in the stable . 
+
+object-prep-object	sheep in stable
+attribute-object	small person
+attribute-object	large sheep
+attribute-object	brown sheep
+object-verb-object	person feed boy
+object	sheep
+object	stable
+object	person
+object	boy
+object	sheep
+#####################################################
+A small boy feeds hay to a sheep in a pen . 
+a small boy feed hay to a sheep in a pen . 
+
+verb-prep-object	feed to sheep
+object-prep-object	sheep in pen
+attribute-object	small person
+object-verb-object	person feed boy
+object	sheep
+object	pen
+object	person
+object	boy
+object	sheep
+#####################################################
+Boy feeding a sheep . 
+Boy feed a sheep . 
+
+object-verb-object	person feed boy
+object	person
+object	boy
+object	sheep
+#####################################################
+There is a young boy with a red and blue jacket on feeding a sheep . 
+there be a young boy with a red and blue jacket on feed a sheep . 
+
+object-prep-object	person with boy
+attribute-object	young person
+attribute-object	red jacket
+attribute-object	blue jacket
+object-verb-object	person feed boy
+object	person
+object	boy
+object	jacket
+object	sheep
+#####################################################

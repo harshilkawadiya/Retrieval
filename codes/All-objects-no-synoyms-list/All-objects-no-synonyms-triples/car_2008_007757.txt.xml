@@ -1,0 +1,67 @@
+A blonde in a polka-dot bikini poses in front of an orange convertible car . 
+a blonde in a polka-dot bikini pose in front of a orange convertible car . 
+
+object-verb	blonde pose
+verb-prep-object	pose in_front_of car
+object-prep-object	blonde in_front_of car
+object-prep-object	blonde in bikini
+attribute-object	polka-dot bikini
+attribute-object	orange car
+attribute-object	convertible car
+object	blonde
+object	car
+object	bikini
+object	car
+#####################################################
+A half-dressed woman standing next to an orange vehicle . 
+a half-dressed woman stand next to a orange vehicle . 
+
+verb-prep-object	stand next_to vehicle
+object-prep-object	woman next_to vehicle
+attribute-object	half-dressed woman
+attribute-object	orange vehicle
+object-verb	woman stand
+object	vehicle
+object	woman
+object	car
+#####################################################
+A scantily clad woman is standing next to a car . 
+a scantily clad woman be stand next to a car . 
+
+verb-prep-object	stand next_to car
+object-prep-object	woman next_to car
+attribute-object	scantily woman
+attribute-object	clad woman
+object-verb	woman stand
+object	car
+object	woman
+object	car
+#####################################################
+A scantily clad woman standing next to a small red vehicle . 
+a scantily clad woman stand next to a small red vehicle . 
+
+verb-prep-object	stand next_to vehicle
+object-prep-object	woman next_to vehicle
+attribute-object	scantily woman
+attribute-object	clad woman
+attribute-object	small vehicle
+attribute-object	red vehicle
+object-verb	woman stand
+object	vehicle
+object	woman
+object	car
+#####################################################
+Woman in two-piece bikini posing in front of a dune buggy . 
+Woman in two-piece bikini pose in front of a dune buggy . 
+
+object-prep-object	woman in bikini
+verb-prep-object	pose in_front_of buggy
+object-prep-object	woman in_front_of buggy
+attribute-object	two-piece bikini
+attribute-object	dune buggy
+object-verb	woman pose
+object	woman
+object	bikini
+object	buggy
+object	car
+#####################################################

@@ -1,0 +1,43 @@
+A blurry photo of a bottle of water . 
+a blurry photo of a bottle of water . 
+
+object-prep-object	bottle of water
+object	bottle
+object	water
+object	bottle
+#####################################################
+A close-up of an Ice Mountain water bottle . 
+a close-up of a Ice Mountain water bottle . 
+
+attribute-object	ice bottle
+attribute-object	mountain bottle
+attribute-object	water bottle
+object	bottle
+object	bottle
+#####################################################
+A close up view of a bottle of water . 
+a close up view of a bottle of water . 
+
+object-prep-object	bottle of water
+object	bottle
+object	water
+object	bottle
+#####################################################
+Close up of a bottle of water . 
+close up of a bottle of water . 
+
+object-prep-object	bottle of water
+object	bottle
+object	water
+object	bottle
+#####################################################
+This is a close-up of a bottle of Ice Mountain water . 
+this be a close-up of a bottle of Ice Mountain water . 
+
+object-prep-object	bottle of water
+attribute-object	ice water
+attribute-object	mountain water
+object	bottle
+object	water
+object	bottle
+#####################################################

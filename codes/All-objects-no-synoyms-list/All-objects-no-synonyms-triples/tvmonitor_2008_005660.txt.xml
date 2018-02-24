@@ -1,0 +1,48 @@
+Duel monitors is now the norm in most home office set ups . 
+duel monitor be now the norm in most home office set up . 
+
+verb-prep-object	norm in office
+object-prep-object	monitor in office
+attribute-object	duel monitor
+attribute-object	home office
+object-verb	monitor norm
+object	office
+object	monitor
+object	tvmonitor
+#####################################################
+There are two computer monitors sitting side by side . 
+there be two computer monitor sit side by side . 
+
+attribute-object	computer monitor
+object	monitor
+object	tvmonitor
+#####################################################
+Two flat screen computer monitors next to each other . 
+two flat screen computer monitor next to each other . 
+
+attribute-object	flat monitor
+attribute-object	screen monitor
+attribute-object	computer monitor
+object	monitor
+object	tvmonitor
+#####################################################
+Two flat screen computer screens side by side . 
+two flat screen computer screen side by side . 
+
+attribute-object	flat screen
+attribute-object	screen screen
+attribute-object	computer screen
+object	screen
+object	tvmonitor
+#####################################################
+Two flat screen TVs showing underwater scenes . 
+two flat screen tv show underwater scene . 
+
+attribute-object	flat tv
+attribute-object	underwater scene
+object-verb-object	tv show scene
+attribute-object	screen tv
+object	tv
+object	scene
+object	tvmonitor
+#####################################################

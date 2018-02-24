@@ -1,0 +1,83 @@
+A building is surrounded by wide attractions , such as a horse statue and a statue of a giant hand and wrist , with a picnic table next to them . 
+a building be surround by wide attraction , such as a horse statue and a statue of a giant hand and wrist , with a picnic table next to they . 
+
+verb-prep-object	surround with diningtable
+object-prep-object	statue of hand
+object-prep-object	statue of wrist
+object-prep-object	attraction such_as statue
+verb-prep-object	surround by attraction
+attribute-object	wide attraction
+attribute-object	giant hand
+attribute-object	horse statue
+attribute-object	picnic diningtable
+object-verb	building surround
+object	diningtable
+object	table
+object	statue
+object	hand
+object	wrist
+object	attraction
+object	building
+object	bicycle
+#####################################################
+A large hand statue outside of a country store . 
+a large hand statue outside of a country store . 
+
+object-prep-object	statue outside store
+attribute-object	large statue
+attribute-object	hand statue
+attribute-object	country store
+object	statue
+object	store
+object	bicycle
+#####################################################
+A strange antique store with odd artwork outside near assorted tables and chairs . 
+a strange antique store with odd artwork outside near assorted table and chair . 
+
+object-prep-object	store with artwork
+object-prep-object	store near diningtable
+object-prep-object	store near chair
+attribute-object	strange store
+attribute-object	antique store
+attribute-object	odd artwork
+attribute-object	assorted diningtable
+object	store
+object	artwork
+object	diningtable
+object	chair
+object	table
+object	bicycle
+#####################################################
+A wooden shop with a large hand in the forecourt . 
+a wooden shop with a large hand in the forecourt . 
+
+object-prep-object	shop with hand
+object-prep-object	shop in forecourt
+attribute-object	wooden shop
+attribute-object	large hand
+object	shop
+object	hand
+object	forecourt
+object	bicycle
+#####################################################
+Country store has big hand with checkered-base statue and tables with benches on front yard . 
+country store have big hand with checkered-base statue and table with bench on front yard . 
+
+object-prep-object	hand with statue
+object-prep-object	hand with diningtable
+object-prep-object	store with chair
+object-prep-object	chair on bench
+attribute-object	big hand
+attribute-object	checkered-base statue
+attribute-object	front yard
+object-verb-object	store have hand
+attribute-object	country store
+object	hand
+object	statue
+object	diningtable
+object	store
+object	chair
+object	bench
+object	yard
+object	bicycle
+#####################################################

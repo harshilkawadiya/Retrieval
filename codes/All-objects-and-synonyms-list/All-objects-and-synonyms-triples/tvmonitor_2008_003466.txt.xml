@@ -1,0 +1,55 @@
+A silver television on a silver stand with visible wires . 
+a silver television on a silver stand with visible wire . 
+
+object-prep-object	tvmonitor on television
+object-prep-object	stand with wire
+attribute-object	visible wire
+attribute-object	silver tvmonitor
+attribute-object	silver stand
+object	tvmonitor
+object	television
+object	stand
+object	wire
+object	tvmonitor
+#####################################################
+a silver TV with a silver stand . 
+a silver tv with a silver stand . 
+
+object-prep-object	tvmonitor with tv
+attribute-object	silver tvmonitor
+attribute-object	silver stand
+object	tvmonitor
+object	tv
+object	stand
+object	tvmonitor
+#####################################################
+A television is on a media stand near a plant . 
+a television be on a media stand near a plant . 
+
+object-prep-object	tvmonitor on television
+attribute-object	media stand
+object-prep-object	tvmonitor near pottedplant
+object	tvmonitor
+object	television
+object	stand
+object	pottedplant
+object	tvmonitor
+#####################################################
+A television with a show on . 
+a television with a show on . 
+
+object-prep-object	tvmonitor with television
+object	tvmonitor
+object	television
+object	tvmonitor
+#####################################################
+A TV and cable unit that is currently playing a video . 
+a tv and cable unit that be currently play a video . 
+
+object-verb-object	unit play video
+attribute-object	tv unit
+attribute-object	cable unit
+object	unit
+object	video
+object	tvmonitor
+#####################################################

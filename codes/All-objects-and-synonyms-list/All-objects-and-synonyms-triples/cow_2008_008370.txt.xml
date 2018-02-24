@@ -1,0 +1,57 @@
+A cow walking through a field . 
+a cow walk through a field . 
+
+verb-prep-object	walk through field
+object-prep-object	cow through field
+object-verb	cow walk
+object	field
+object	cow
+object	cow
+#####################################################
+A dark colored cow is near a white animal on grass . 
+a dark color cow be near a white animal on grass . 
+
+object-prep-object	animal on grass
+object-prep-object	cow near animal
+attribute-object	dark cow
+attribute-object	color cow
+attribute-object	white animal
+object	animal
+object	grass
+object	cow
+object	cow
+#####################################################
+Two black and one white cow grazing in a pasture . 
+two black and one white cow grazing in a pasture . 
+
+verb-prep-object	graze in pasture
+object-prep-object	cow in pasture
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow graze
+object	pasture
+object	cow
+object	cow
+#####################################################
+Two black and one white cow graze in the pasture . 
+two black and one white cow graze in the pasture . 
+
+verb-prep-object	graze in pasture
+object-prep-object	cow in pasture
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow graze
+object	pasture
+object	cow
+object	cow
+#####################################################
+Two cows graze in a field . 
+two cow graze in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	A man with red shirt and black hat stares at another man .
+beam_size_1	3	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	4	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	5	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	6	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	7	A man is standing on an animal in the water .
+beam_size_1	8	A man is standing on an elephant lying in some water .
+beam_size_1	9	A man standing on a rock in a river with a spash next to him .
+beam_size_1	10	A man stands on top of an elephant in the water .
+beam_size_1	11	A man stands on top of a submerged elephant .
+beam_size_1	12	A child is happily playing on the slide .
+beam_size_1	13	A child is holding on to the top of a playground slide .
+beam_size_1	14	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	15	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	16	Child getting ready to go down a slide .
+beam_size_1	17	These men are smoking outside a grey building .
+beam_size_1	18	Two men are standing by a railing , while posing for a picture .
+beam_size_1	19	Two men in black jackets behind a white handrail .
+beam_size_1	20	Two men smoking behind a railing .
+beam_size_1	21	Two men smoking while standing by a rail in front of a building
+beam_size_1	22	A group of men playing hockey .
+beam_size_1	23	A team of hockey players , with one player taking a shot .
+beam_size_1	24	Hockey players with one taking a shot .
+beam_size_1	25	Six hockey players of the same team are skating around waiting for the puck .
+beam_size_1	26	There is an ice hockey game in progress .
+beam_size_1	27	A child in a black cap sleeping across two chairs .
+beam_size_1	28	A small boy in a hat asleep on a padded bench .
+beam_size_1	29	A small child sucks his thumb while sleeping with a pink blanket on a multi-colored seat .
+beam_size_1	30	A young boy wearing a dark blue hat sleeps on a bench at a terminal .
+beam_size_1	31	Small boy sleeping on seats and sucking his thumb .
+beam_size_1	32	A formation on a big field with people wearing red , white and blue
+beam_size_1	33	Many people in formation on a field .
+beam_size_1	34	Marching bands in formation on a field .
+beam_size_1	35	The crowd stood in many different lines in the open field .
+beam_size_1	36	The group of people make single file lines on the field .
+beam_size_1	37	a dog jumps over a fence , while two other dogs watch .
+beam_size_1	38	One dog , apparently standing on the edge of a fence , confronts three others in a backyard setting .
+beam_size_1	39	The dog is on the fence
+beam_size_1	40	Three dogs are in a fenced yard and one is jumping off the fence .
+beam_size_1	41	Two pitbulls fighting , one standing on top of a fence .
+beam_size_1	42	Three women standing on a city street .
+beam_size_1	43	Three women walk down the street .
+beam_size_1	44	Two girls and a woman walking on the sidewalk
+beam_size_1	45	Two girls in bright green boots and a woman are together .
+beam_size_1	46	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	47	A boy is leading donkeys on a path .
+beam_size_1	48	A man and two pack mules walk across a field in front of a mountain .
+beam_size_1	49	A man is walking in a field behind two donkeys .
+beam_size_1	50	A man travels with two donkeys in the mountains
+beam_size_1	51	A person in a blue jacket follows two donkeys along a mountain trail .

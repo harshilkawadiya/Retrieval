@@ -1,0 +1,61 @@
+A jockey in a blue jacket riding a brown horse . 
+a jockey in a blue jacket ride a brown horse . 
+
+object-prep-object	person in jockey
+attribute-object	blue jacket
+attribute-object	brown horse
+object-verb-object	person ride jockey
+object	person
+object	jockey
+object	jacket
+object	horse
+object	horse
+#####################################################
+A jockey rides a horse at a gallop . 
+a jockey ride a horse at a gallop . 
+
+object-prep-object	horse at gallop
+object-prep-object	person at jockey
+verb-prep-object	ride at gallop
+object-verb-object	person ride jockey
+object	horse
+object	gallop
+object	person
+object	jockey
+object	horse
+#####################################################
+A jockey wearing blue riding a race horse on the track . 
+a jockey wear blue ride a race horse on the track . 
+
+verb-prep-object	ride on track
+object-prep-object	horse on track
+object-verb-object	person ride jockey
+attribute-object	race horse
+object-verb-object	person wear jockey
+object	track
+object	horse
+object	person
+object	jockey
+object	horse
+#####################################################
+A person riding a horse and pulling it 's reins . 
+a person ride a horse and pull it be rein . 
+
+object-verb-object	person ride horse
+object	person
+object	horse
+object	horse
+#####################################################
+Person dressed in blue riding brown horse . 
+person dress in blue ride brown horse . 
+
+verb-prep-object	dress in blue
+object-prep-object	person in blue
+attribute-object	brown horse
+object-verb-object	person ride horse
+object-verb	person dress
+object	blue
+object	person
+object	horse
+object	horse
+#####################################################

@@ -1,0 +1,61 @@
+A man stands while paddling a small canoe . 
+a man stand while paddle a small canoe . 
+
+attribute-object	small canoe
+object-verb	man stand
+object-verb-object	man paddle canoe
+object	canoe
+object	man
+object	boat
+#####################################################
+A person stands and rows a wooden boat in dirty water . 
+a person stand and row a wooden boat in dirty water . 
+
+verb-prep-object	row in water
+object-prep-object	boat in water
+attribute-object	wooden boat
+attribute-object	dirty water
+object-verb	person stand
+object-verb-object	person row boat
+object	water
+object	boat
+object	person
+object	boat
+#####################################################
+Person steering wooden boat through brown water . 
+person steer wooden boat through brown water . 
+
+verb-prep-object	steer through water
+attribute-object	wooden boat
+attribute-object	brown water
+object-verb-object	person steer boat
+object	water
+object	boat
+object	person
+object	boat
+#####################################################
+The local fisherman sets off on their boat . 
+the local fisherman set off on they boat . 
+
+verb-prep-object	set on boat
+object-prep-object	fisherman on boat
+attribute-object	local fisherman
+object-verb	fisherman set
+verb-attribute	set off
+object	boat
+object	fisherman
+object	boat
+#####################################################
+Villager on a wooden boat floating on a dirty river . 
+villager on a wooden boat float on a dirty river . 
+
+object-prep-object	villager on boat
+verb-prep-object	float on river
+attribute-object	wooden boat
+attribute-object	dirty river
+object-verb	villager float
+object	villager
+object	boat
+object	river
+object	boat
+#####################################################

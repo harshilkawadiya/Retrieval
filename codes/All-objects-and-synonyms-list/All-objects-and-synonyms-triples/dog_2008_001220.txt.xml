@@ -1,0 +1,53 @@
+A small tan dog and a large brown dog bite each other . 
+a small tan dog and a large brown dog bite each other . 
+
+attribute-object	small dog
+attribute-object	tan dog
+attribute-object	large dog
+attribute-object	brown dog
+object-verb	dog bite
+object	dog
+object	dog
+#####################################################
+A small white puppy plays with a large brown dog . 
+a small white puppy play with a large brown dog . 
+
+verb-prep-object	play with dog
+object-prep-object	dog with puppy
+attribute-object	small dog
+attribute-object	white dog
+attribute-object	large dog
+attribute-object	brown dog
+object-verb	dog play
+object	dog
+object	puppy
+object	dog
+#####################################################
+Big dog fighting with little dog . 
+big dog fight with little dog . 
+
+verb-prep-object	fight with dog
+object-prep-object	dog with dog
+attribute-object	big dog
+attribute-object	little dog
+object-verb	dog fight
+object	dog
+object	dog
+#####################################################
+Large brown dog and small dog playing . 
+large brown dog and small dog playing . 
+
+attribute-object	large dog
+attribute-object	brown dog
+attribute-object	small dog
+object-verb	dog play
+object	dog
+object	dog
+#####################################################
+the two dogs are fighting . 
+the two dog be fight . 
+
+object-verb	dog fight
+object	dog
+object	dog
+#####################################################

@@ -1,0 +1,62 @@
+About nine cows are laying on some mulch in a stable area . 
+about nine cow be lay on some mulch in a stable area . 
+
+verb-prep-object	lay on mulch
+object-prep-object	cow on mulch
+verb-prep-object	lay in area
+object-prep-object	cow in area
+attribute-object	stable area
+object-verb	cow lay
+object	mulch
+object	cow
+object	area
+object	cow
+#####################################################
+A bunch of cows are inside a building lying down on hay , all facing the wall . 
+a bunch of cow be inside a building lie down on hay , all face the wall . 
+
+object-prep-object	cow inside building
+object-verb	cow lie
+verb-attribute	lie down
+verb-prep-object	lie on hay
+object-prep-object	cow on hay
+object-verb-object	cow face wall
+object	cow
+object	building
+object	hay
+object	wall
+object	cow
+#####################################################
+rear of a row of cows sitting on hay . 
+rear of a row of cow sit on hay . 
+
+verb-prep-object	sit on hay
+object-prep-object	cow on hay
+object-verb	cow sit
+object	hay
+object	cow
+object	cow
+#####################################################
+The backs of a line of cows and straw . 
+the back of a line of cow and straw . 
+
+object	cow
+object	straw
+object	cow
+object	straw
+object	cow
+#####################################################
+The brown , white and black cows are laying down on the hay . 
+the brown , white and black cow be lay down on the hay . 
+
+verb-prep-object	lay on hay
+object-prep-object	cow on hay
+attribute-object	brown cow
+attribute-object	white cow
+attribute-object	black cow
+object-verb	cow lay
+verb-attribute	lay down
+object	hay
+object	cow
+object	cow
+#####################################################

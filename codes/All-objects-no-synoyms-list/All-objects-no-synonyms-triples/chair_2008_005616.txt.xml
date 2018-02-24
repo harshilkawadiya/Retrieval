@@ -1,0 +1,61 @@
+A black & white photo of an older woman and a middle age woman sitting in chairs underneath a tree and talking . 
+a black & white photo of a older woman and a middle age woman sit in chair underneath a tree and talk . 
+
+object-prep-object	chair underneath tree
+verb-prep-object	sit in chair
+object-prep-object	woman in chair
+attribute-object	older woman
+attribute-object	middle woman
+attribute-object	age woman
+object-verb	woman sit
+object-verb	woman sit
+object-verb	woman talk
+object	chair
+object	tree
+object	woman
+object	chair
+#####################################################
+A lady sits next to an elderly lady under a tree . 
+a lady sit next to a elderly lady under a tree . 
+
+verb-prep-object	sit under tree
+object-prep-object	lady under tree
+verb-prep-object	sit next_to lady
+object-prep-object	lady next_to lady
+attribute-object	elderly lady
+object-verb	lady sit
+object	tree
+object	lady
+object	chair
+#####################################################
+Black and White picture of an old woman with a younger woman looking on . 
+Black and White picture of a old woman with a younger woman look on . 
+
+object-prep-object	woman with woman
+attribute-object	old woman
+attribute-object	younger woman
+object-verb	woman look
+object	woman
+object	chair
+#####################################################
+Black and white picture of two women sitting under a tree . 
+Black and white picture of two woman sit under a tree . 
+
+verb-prep-object	sit under tree
+object-prep-object	woman under tree
+object-verb	woman sit
+object	tree
+object	woman
+object	chair
+#####################################################
+Two women sitting in lawn chairs . 
+two woman sit in lawn chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	woman in chair
+attribute-object	lawn chair
+object-verb	woman sit
+object	chair
+object	woman
+object	chair
+#####################################################

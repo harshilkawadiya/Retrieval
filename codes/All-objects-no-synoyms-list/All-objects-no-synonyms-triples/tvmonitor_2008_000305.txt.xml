@@ -1,0 +1,73 @@
+A hotel room contains a flat-screen TV and sparse but adequate furnishings . 
+a hotel room contain a flat-screen tv and sparse but adequate furnishings . 
+
+attribute-object	flat-screen tv
+attribute-object	sparse furnishings
+attribute-object	adequate furnishings
+object-verb-object	room contain tv
+object-verb-object	room contain furnishings
+attribute-object	hotel room
+object	tv
+object	furnishings
+object	room
+object	tvmonitor
+#####################################################
+A television and a laptop computer are on in a hotel room . 
+a television and a laptop computer be on in a hotel room . 
+
+attribute-object	laptop computer
+attribute-object	hotel room
+object-prep-object	television in room
+object-prep-object	computer in room
+object	computer
+object	room
+object	television
+object	tvmonitor
+#####################################################
+A television screen over a room with two desks and a bed . 
+a television screen over a room with two desk and a bed . 
+
+object-prep-object	screen over room
+attribute-object	television screen
+object-prep-object	room with desk
+object-prep-object	room with bed
+object	screen
+object	room
+object	desk
+object	bed
+object	tvmonitor
+#####################################################
+The table , chair , and television of a hotel room have a yellow hue due to the lamp light . 
+the table , chair , and television of a hotel room have a yellow hue due to the lamp light . 
+
+object-prep-object	table of room
+object-prep-object	chair of room
+object-prep-object	television of room
+attribute-object	yellow hue
+object-verb-object	table have hue
+object-verb-object	chair have hue
+object-verb-object	television have hue
+attribute-object	hotel room
+attribute-object	lamp light
+object	table
+object	room
+object	chair
+object	television
+object	hue
+object	light
+object	tvmonitor
+#####################################################
+The television and desk of hotel room with lamp lighting . 
+the television and desk of hotel room with lamp lighting . 
+
+object-prep-object	television of room
+object-prep-object	desk of room
+attribute-object	hotel room
+object-prep-object	room with lighting
+attribute-object	lamp lighting
+object	television
+object	room
+object	desk
+object	lighting
+object	tvmonitor
+#####################################################

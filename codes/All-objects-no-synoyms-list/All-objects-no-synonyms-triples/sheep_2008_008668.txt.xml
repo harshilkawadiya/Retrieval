@@ -1,0 +1,56 @@
+Distant view of two lambs perched on top of a rocky plain . 
+distant view of two lamb perch on top of a rocky plain . 
+
+verb-prep-object	perch on_top_of plain
+object-prep-object	lamb on_top_of plain
+attribute-object	rocky plain
+object-verb	lamb perch
+object	plain
+object	lamb
+object	sheep
+#####################################################
+Two animals sitting on a rock . 
+two animal sit on a rock . 
+
+verb-prep-object	sit on rock
+object-prep-object	animal on rock
+object-verb	animal sit
+object	rock
+object	animal
+object	sheep
+#####################################################
+Two sheep looking towards the camera while standing on top of a rocky ledge . 
+two sheep look towards the camera while stand on top of a rocky ledge . 
+
+verb-prep-object	look towards camera
+verb-prep-object	stand on_top_of ledge
+object-prep-object	sheep on_top_of ledge
+attribute-object	rocky ledge
+object-verb	sheep look
+object-verb	sheep stand
+object	camera
+object	ledge
+object	sheep
+object	sheep
+#####################################################
+Two sheep on top of a cliff looking at the camera . 
+two sheep on top of a cliff look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	sheep on_top_of cliff
+object-verb	sheep look
+object	camera
+object	sheep
+object	cliff
+object	sheep
+#####################################################
+Two sheep standing on rocks . 
+two sheep standing on rock . 
+
+verb-prep-object	stand on rock
+object-prep-object	sheep on rock
+object-verb	sheep stand
+object	rock
+object	sheep
+object	sheep
+#####################################################

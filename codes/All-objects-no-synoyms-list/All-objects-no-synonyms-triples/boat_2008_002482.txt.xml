@@ -1,0 +1,61 @@
+A man in a canoe on a sunny day . 
+a man in a canoe on a sunny day . 
+
+object-prep-object	man on day
+object-prep-object	man in canoe
+attribute-object	sunny day
+object	man
+object	day
+object	canoe
+object	boat
+#####################################################
+A man on a yellow canoe paddles down a river . 
+a man on a yellow canoe paddle down a river . 
+
+object-prep-object	man on canoe
+object-verb-object	man paddle river
+verb-attribute	paddle down
+attribute-object	yellow canoe
+object	man
+object	canoe
+object	river
+object	boat
+#####################################################
+Man in yellow canoe paddling through water . 
+man in yellow canoe paddle through water . 
+
+verb-prep-object	paddle through water
+object-prep-object	man in canoe
+attribute-object	yellow canoe
+object-verb	man paddle
+object	water
+object	man
+object	canoe
+object	boat
+#####################################################
+Man paddling a yellow canoe towards the shore . 
+man paddle a yellow canoe towards the shore . 
+
+verb-prep-object	paddle towards shore
+attribute-object	yellow canoe
+object-verb-object	man paddle canoe
+object	shore
+object	canoe
+object	man
+object	boat
+#####################################################
+Two people paddling in a yellow canoe down a river with trees in the background . 
+two people paddle in a yellow canoe down a river with tree in the background . 
+
+object-verb	people paddle
+verb-prep-object	paddle in canoe
+verb-prep-object	paddle with tree
+object-prep-object	tree in background
+verb-attribute	paddle down
+attribute-object	yellow canoe
+object	people
+object	canoe
+object	tree
+object	background
+object	boat
+#####################################################

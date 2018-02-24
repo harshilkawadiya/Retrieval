@@ -1,0 +1,50 @@
+beam_size_1	2	A man dressed in black wearing a hat and glasses in front of a red wall .
+beam_size_1	3	A man in a black hat stands in front of a red wall .
+beam_size_1	4	A man wearing all black and a black hat is smiling .
+beam_size_1	5	A man with a hat , glasses , jewelry and a jacket stands against an orange wall .
+beam_size_1	6	There is a man with glasses and a hat wearing a black suit jacket indoors .
+beam_size_1	7	A man in blue rock climbing .
+beam_size_1	8	A man , wearing glasses , is rock climbing .
+beam_size_1	9	a middle aged woman climbs a mountain .
+beam_size_1	10	An adult wearing a harness climbs in a rocky area .
+beam_size_1	11	Person in blue shirt scales wall .
+beam_size_1	12	A car is driven on a dusty track .
+beam_size_1	13	A race car kicks up dust as it speeds down a gravel racetrack .
+beam_size_1	14	a red and white race car racing on a dirt racetrack .
+beam_size_1	15	a red and white rally car throws up dust behind it as drives away down the trail .
+beam_size_1	16	The car leaves a dust trail as it goes around the dirt track .
+beam_size_1	17	A closeup of a young child wearing a pink bathing suit laying in shallow water at the beach .
+beam_size_1	18	A little girl smiles as she lays on her side in the water .
+beam_size_1	19	a smiling toddler in a pink swimsuit is laying in the water .
+beam_size_1	20	A young dark haired girl in a pink and white swimsuit smiles as she lies in three inch deep water .
+beam_size_1	21	Little girl in swimsuit lies on stomach in water , smiles at camera .
+beam_size_1	22	A group of people on skis with two dogs .
+beam_size_1	23	A man dressed in a horned hat poses for a picture on skis with three other people and a dog .
+beam_size_1	24	Four people holding each others shoulders with a brown dog in front of them , standing on snow .
+beam_size_1	25	People dressed in costumes are on skis .
+beam_size_1	26	People , some dressed in costumes , and dogs on a snowy mountain .
+beam_size_1	27	An extremely wet woman is wading in front of a waterfall .
+beam_size_1	28	A woman dressed in shorts and a t-shirt walking in shallow water in front of a waterfall .
+beam_size_1	29	A woman wading through a pool in front of a waterfall .
+beam_size_1	30	The lady is walking through the water .
+beam_size_1	31	Wet woman walking through water near a large waterfall .
+beam_size_1	32	a dog gets sprayed by a hose .
+beam_size_1	33	A dog is being sprayed with water .
+beam_size_1	34	A dog jumping through the air getting hit by water .
+beam_size_1	35	An animal is hosed down by a brick wall .
+beam_size_1	36	Leaping dog sprayed by off screen person with hose .
+beam_size_1	37	A man sits on a bench on a San Diego street .
+beam_size_1	38	A man wearing a coat and had sitting on a bench in the city .
+beam_size_1	39	A man wearing an orange cap sits on a white bench beside a blue trashcan .
+beam_size_1	40	Man hunched on gray bench marked SAN DIEGO , neat blue trashcan .
+beam_size_1	41	Man sitting on a bench on the sidewalk .
+beam_size_1	42	An Asian girl performs a routine with two red flags in a square .
+beam_size_1	43	a person waving long red flags
+beam_size_1	44	A woman plays with long red ribbons in an empty square .
+beam_size_1	45	Lady waving two long red streamers around
+beam_size_1	46	Two people work with long ribbons in a Chinese courtyard .
+beam_size_1	47	A hiker is walking a treeless path up a hill .
+beam_size_1	48	A man is backpacking up a grassy hill .
+beam_size_1	49	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	50	Person hiking up a grassy trail toward a large hill .
+beam_size_1	51	The hiker is following a trail uphill .

@@ -1,0 +1,57 @@
+an old wooden train heading toward an old station . 
+a old wooden train head toward a old station . 
+
+verb-prep-object	head toward station
+object-prep-object	train toward station
+attribute-object	old train
+attribute-object	wooden train
+attribute-object	old station
+object-verb	train head
+object	station
+object	train
+object	train
+#####################################################
+A railroad track and a train to the side . 
+a railroad track and a train to the side . 
+
+attribute-object	railroad track
+object	train
+object	track
+object	train
+object	train
+#####################################################
+A train passing through a deserted town . 
+a train pass through a desert town . 
+
+verb-prep-object	pass through town
+object-prep-object	train through town
+attribute-object	desert town
+object-verb	train pass
+object	town
+object	train
+object	train
+#####################################################
+A train sitting on the tracks near a field . 
+a train sit on the track near a field . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+verb-prep-object	sit near field
+object-prep-object	train near field
+object-verb	train sit
+object	track
+object	train
+object	field
+object	train
+#####################################################
+Close up of a railroad track with two old wooden rails on one side . 
+close up of a railroad track with two old wooden rail on one side . 
+
+object-prep-object	track with rail
+attribute-object	old rail
+attribute-object	wooden rail
+attribute-object	railroad track
+object	track
+object	rail
+object	train
+#####################################################

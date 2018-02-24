@@ -1,0 +1,75 @@
+A woman posing in front of an apartment building in the snow . 
+a woman pose in front of a apartment building in the snow . 
+
+verb-prep-object	pose in snow
+object-prep-object	woman in snow
+verb-prep-object	pose in_front_of building
+object-prep-object	woman in_front_of building
+attribute-object	apartment building
+object-verb	woman pose
+object	snow
+object	woman
+object	building
+object	bicycle
+#####################################################
+A woman standing on the snow covered ground . 
+a woman standing on the snow cover ground . 
+
+verb-prep-object	stand on ground
+object-prep-object	woman on ground
+attribute-object	snow ground
+attribute-object	cover ground
+object-verb	woman stand
+object	ground
+object	woman
+object	bicycle
+#####################################################
+A woman stands in front of a building in the snow . 
+a woman stand in front of a building in the snow . 
+
+verb-prep-object	stand in_front_of building
+object-prep-object	woman in_front_of building
+verb-prep-object	stand in snow
+object-prep-object	woman in snow
+object-verb	woman stand
+object	building
+object	woman
+object	snow
+object	bicycle
+#####################################################
+A young woman , bundled up for the cold , stands in the snowy yard of an urban stone building with 2 balconies and red trim . 
+a young woman , bundle up for the cold , stand in the snowy yard of a urban stone building with 2 balcony and red trim . 
+
+verb-prep-object	stand in yard
+object-prep-object	woman in yard
+verb-prep-object	yard of building
+verb-prep-object	bundle for cold
+object-prep-object	building with balcony
+object-prep-object	building with trim
+attribute-object	young woman
+attribute-object	snowy yard
+attribute-object	urban building
+attribute-object	red trim
+attribute-object	stone building
+object-verb	woman stand
+object-verb	woman bundle
+verb-attribute	bundle up
+object	yard
+object	woman
+object	building
+object	cold
+object	balcony
+object	trim
+object	bicycle
+#####################################################
+Girl in front of building on a snowy day . 
+Girl in front of building on a snowy day . 
+
+object-prep-object	girl in_front_of building
+object-prep-object	girl on day
+attribute-object	snowy day
+object	girl
+object	building
+object	day
+object	bicycle
+#####################################################

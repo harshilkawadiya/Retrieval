@@ -1,0 +1,59 @@
+An airplane sitting on the tarmac at an airport with another plane in the background . 
+a airplane sit on the tarmac at a airport with another plane in the background . 
+
+verb-prep-object	sit with aeroplane
+verb-prep-object	sit on airport
+verb-prep-object	sit at airport
+object-verb	aeroplane sit
+object-prep-object	aeroplane on airport
+object-prep-object	aeroplane at airport
+object	aeroplane
+object	airport
+object	tarmac
+object	aeroplane
+#####################################################
+A white and blue airplane parked at the airport near another small plane . 
+a white and blue airplane park at the airport near another small plane . 
+
+verb-prep-object	park at airport
+object-prep-object	aeroplane at airport
+verb-prep-object	park near aeroplane
+attribute-object	white aeroplane
+attribute-object	blue aeroplane
+attribute-object	small aeroplane
+object-verb	aeroplane park
+object-prep-object	aeroplane near aeroplane
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################
+Blue and white airplane parked . 
+Blue and white airplane park . 
+
+attribute-object	white aeroplane
+attribute-object	blue aeroplane
+object-verb	aeroplane park
+object	aeroplane
+object	aeroplane
+#####################################################
+two airplanes are waiting on the tarmac . 
+two airplane be wait on the tarmac . 
+
+verb-prep-object	wait on airport
+object-prep-object	aeroplane on airport
+object-verb	aeroplane wait
+object	airport
+object	tarmac
+object	aeroplane
+object	aeroplane
+#####################################################
+Two airplanes parked at the airport . 
+two airplane park at the airport . 
+
+verb-prep-object	park at airport
+object-prep-object	aeroplane at airport
+object-verb	aeroplane park
+object	airport
+object	aeroplane
+object	aeroplane
+#####################################################

@@ -1,0 +1,70 @@
+A dog on the deck chewing on a twig . 
+a dog on the deck chew on a twig . 
+
+object-prep-object	dog on deck
+verb-prep-object	chew on twig
+object-prep-object	dog on twig
+object-verb	dog chew
+object	dog
+object	deck
+object	twig
+object	chair
+#####################################################
+A dog playing with a stick . 
+a dog play with a stick . 
+
+verb-prep-object	play with stick
+object-prep-object	dog with stick
+object-verb	dog play
+object	stick
+object	dog
+object	chair
+#####################################################
+A small white dog chews on a twig while lying on a wooden deck . 
+a small white dog chew on a twig while lie on a wooden deck . 
+
+verb-prep-object	chew on twig
+object-prep-object	dog on twig
+verb-prep-object	lie on deck
+object-prep-object	dog on deck
+attribute-object	small dog
+attribute-object	white dog
+attribute-object	wooden deck
+object-verb	dog chew
+object-verb	dog lie
+object	twig
+object	dog
+object	deck
+object	chair
+#####################################################
+Tan puppy chewing on a plant lying down on the patio . 
+Tan puppy chew on a plant lie down on the patio . 
+
+verb-prep-object	chew on plant
+verb-prep-object	lie on patio
+object-prep-object	puppy on plant
+object-prep-object	puppy on patio
+attribute-object	tan puppy
+object-verb	puppy chew
+object-verb	puppy lie
+verb-attribute	lie down
+object	plant
+object	patio
+object	puppy
+object	chair
+#####################################################
+The white dog is laying on the wooden floor underneath the table . 
+the white dog be lay on the wooden floor underneath the table . 
+
+object-prep-object	floor underneath table
+object-prep-object	dog underneath table
+verb-prep-object	lay on floor
+object-prep-object	dog on floor
+attribute-object	white dog
+attribute-object	wooden floor
+object-verb	dog lay
+object	floor
+object	table
+object	dog
+object	chair
+#####################################################

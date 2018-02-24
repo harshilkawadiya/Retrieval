@@ -1,0 +1,51 @@
+A coal train traveling down the tracks . 
+a coal train travel down the track . 
+
+object-verb-object	train travel track
+attribute-object	coal train
+verb-attribute	travel down
+object	train
+object	track
+object	train
+#####################################################
+A locomotive with smoke coming out of the top going away from the camera . 
+a locomotive with smoke come out of the top go away from the camera . 
+
+verb-prep-object	go away_from camera
+object-verb	locomotive go
+object	camera
+object	locomotive
+object	train
+#####################################################
+a steam train with dark smoke . 
+a steam train with dark smoke . 
+
+object-prep-object	train with smoke
+attribute-object	dark smoke
+attribute-object	steam train
+object	train
+object	smoke
+object	train
+#####################################################
+Steam rises from the train engine on the tracks . 
+steam rise from the train engine on the track . 
+
+object-prep-object	engine on track
+verb-prep-object	rise from engine
+attribute-object	train engine
+object-verb	steam rise
+object	engine
+object	track
+object	steam
+object	train
+#####################################################
+The steam from the train signals it is time to move out . 
+the steam from the train signal it be time to move out . 
+
+object-prep-object	steam from train
+object-verb-object	steam signal time
+object	steam
+object	train
+object	time
+object	train
+#####################################################

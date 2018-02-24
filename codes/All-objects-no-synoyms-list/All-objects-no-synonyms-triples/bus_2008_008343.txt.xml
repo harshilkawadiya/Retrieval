@@ -1,0 +1,65 @@
+a brown double decker tour bus on a street with a ferris wheel behind it . 
+a brown double decker tour bus on a street with a ferris wheel behind it . 
+
+object-prep-object	bus with wheel
+object-prep-object	bus on street
+attribute-object	brown bus
+attribute-object	double bus
+attribute-object	decker bus
+attribute-object	ferris wheel
+attribute-object	tour bus
+object	bus
+object	wheel
+object	street
+object	bus
+#####################################################
+A bus is on a road with a ferris wheel in the background . 
+a bus be on a road with a ferris wheel in the background . 
+
+object-prep-object	bus with wheel
+object-prep-object	bus on road
+attribute-object	ferris wheel
+object	bus
+object	wheel
+object	road
+object	bus
+#####################################################
+A double-decker bus driving in front of a ferris wheel . 
+a double-decker bus drive in front of a ferris wheel . 
+
+verb-prep-object	drive in_front_of wheel
+object-prep-object	bus in_front_of wheel
+attribute-object	double-decker bus
+attribute-object	ferris wheel
+object-verb	bus drive
+object	wheel
+object	bus
+object	bus
+#####################################################
+An overcast day still brings in tourists on the double decker bus . 
+a overcast day still bring in tourist on the double decker bus . 
+
+object-prep-object	tourist on bus
+verb-prep-object	bring in tourist
+attribute-object	overcast day
+attribute-object	double bus
+attribute-object	decker bus
+object-verb	day bring
+object	tourist
+object	bus
+object	day
+object	bus
+#####################################################
+Double decker bus with the London Eye ferris wheel in background . 
+double decker bus with the London Eye ferris wheel in background . 
+
+object-prep-object	bus with wheel
+attribute-verb	double bus
+attribute-object	decker bus
+attribute-object	london wheel
+attribute-object	eye wheel
+attribute-object	ferris wheel
+object	bus
+object	wheel
+object	bus
+#####################################################

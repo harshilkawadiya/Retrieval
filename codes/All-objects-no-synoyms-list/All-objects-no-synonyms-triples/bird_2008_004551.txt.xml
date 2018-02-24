@@ -1,0 +1,58 @@
+A bird holding on to a metal gate . 
+a bird hold on to a metal gate . 
+
+attribute-object	metal gate
+object-verb	bird hold
+verb-prep-object	hold to gate
+object	gate
+object	bird
+object	bird
+#####################################################
+A colorful bird inside a cage is hanging on to the side of the cage . 
+a colorful bird inside a cage be hang on to the side of the cage . 
+
+object-prep-object	bird inside cage
+attribute-object	colorful bird
+object-verb	bird hang
+verb-prep-object	hang to cage
+object	bird
+object	cage
+object	bird
+#####################################################
+A colorful bird is grabbing onto a chain link fence . 
+a colorful bird be grab onto a chain link fence . 
+
+verb-prep-object	grab onto fence
+object-prep-object	bird onto fence
+attribute-object	colorful bird
+attribute-object	chain fence
+attribute-object	link fence
+object-verb	bird grab
+object	fence
+object	bird
+object	bird
+#####################################################
+A green , red and blue bird hanging on to a chain fence . 
+a green , red and blue bird hang on to a chain fence . 
+
+attribute-object	green bird
+attribute-object	red bird
+attribute-object	blue bird
+attribute-object	chain fence
+object-verb	bird hang
+verb-prep-object	hang to fence
+object	bird
+object	fence
+object	bird
+#####################################################
+A multi-colored bird clings to a wire fence . 
+a multi-colored bird cling to a wire fence . 
+
+verb-prep-object	cling to fence
+attribute-object	multi-colored bird
+object-verb	bird cling
+attribute-object	wire fence
+object	fence
+object	bird
+object	bird
+#####################################################

@@ -1,0 +1,71 @@
+a bald man smiling with a black , white-haired horse . 
+a bald man smile with a black , white-haired horse . 
+
+object-prep-object	person with man
+attribute-object	bald person
+attribute-object	black horse
+attribute-object	white-haired horse
+object-verb	person smile
+object	person
+object	man
+object	horse
+object	horse
+#####################################################
+A bald man touches the nose of a black horse on the other side of a fence . 
+a bald man touch the nose of a black horse on the other side of a fence . 
+
+object-verb-object	person touch man
+attribute-object	bald person
+object-prep-object	nose of horse
+attribute-object	black horse
+object	person
+object	man
+object	nose
+object	horse
+object	horse
+#####################################################
+A bald man with a beard pets the nose of a black and white horse at the fence . 
+a bald man with a beard pet the nose of a black and white horse at the fence . 
+
+object-prep-object	person with man
+attribute-object	bald person
+object-verb-object	person pet man
+object-prep-object	nose of horse
+object-prep-object	horse at fence
+attribute-object	black horse
+attribute-object	white horse
+object	person
+object	man
+object	nose
+object	horse
+object	fence
+object	horse
+#####################################################
+A man is staring at a horse with a white mane . 
+a man be stare at a horse with a white mane . 
+
+verb-prep-object	stare at horse
+object-prep-object	horse with mane
+attribute-object	white mane
+object-verb	person stare
+object	horse
+object	mane
+object	person
+object	man
+object	horse
+#####################################################
+A man strokes a horses nose while it stands over a fence . 
+a man stroke a horse nose while it stand over a fence . 
+
+object-verb-object	person stroke man
+attribute-object	horse nose
+object-verb	horse stand
+verb-prep-object	stand over fence
+object-prep-object	horse over fence
+object	person
+object	man
+object	nose
+object	horse
+object	fence
+object	horse
+#####################################################

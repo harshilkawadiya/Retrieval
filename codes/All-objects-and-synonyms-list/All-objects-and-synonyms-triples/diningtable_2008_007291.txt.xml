@@ -1,0 +1,70 @@
+a family of four raising their glasses for a toast . 
+a family of four raise they glass for a toast . 
+
+verb-prep-object	raise for toast
+object-prep-object	glass for toast
+object-verb-object	person raise family
+object	toast
+object	glass
+object	person
+object	family
+object	diningtable
+#####################################################
+A group of people sitting around a dining table holding drinks in the air . 
+a group of people sit around a dining table hold drink in the air . 
+
+object-verb	person sit
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+attribute-object	dining diningtable
+object-verb-object	person hold people
+object-prep-object	drink in sky
+object	person
+object	people
+object	diningtable
+object	table
+object	drink
+object	sky
+object	diningtable
+#####################################################
+A group of people sitting around a table with food on it . 
+a group of people sit around a table with food on it . 
+
+object-prep-object	diningtable with table
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Four people sitting around a dinner table eating and drinking . 
+four people sit around a dinner table eating and drinking . 
+
+verb-prep-object	sit around diningtable
+object-prep-object	person around diningtable
+attribute-object	dinner diningtable
+object-verb	person sit
+object-verb	person eat
+object-verb	person drink
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Four people sitting at the table raising their glasses . 
+four people sit at the table raise they glass . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb-object	person raise people
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################

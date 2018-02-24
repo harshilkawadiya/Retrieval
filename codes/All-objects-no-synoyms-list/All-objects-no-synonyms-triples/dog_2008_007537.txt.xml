@@ -1,0 +1,68 @@
+A man walking a dog on the beach near large waves . 
+a man walk a dog on the beach near large wave . 
+
+verb-prep-object	walk on beach
+object-prep-object	man on beach
+verb-prep-object	walk near wave
+attribute-object	large wave
+object-verb-object	man walk dog
+object	beach
+object	man
+object	wave
+object	dog
+object	dog
+#####################################################
+a man walking a small dog on a very wavy beach . 
+a man walk a small dog on a very wavy beach . 
+
+verb-prep-object	walk on beach
+object-prep-object	dog on beach
+attribute-object	small dog
+attribute-object	wavy beach
+object-verb-object	man walk dog
+object	beach
+object	dog
+object	man
+object	dog
+#####################################################
+A person in a large black coats walks a white dog on the beach through rough waves . 
+a person in a large black coat walk a white dog on the beach through rough wave . 
+
+verb-prep-object	walk on beach
+verb-prep-object	walk through wave
+object-prep-object	dog on beach
+object-prep-object	person in coat
+attribute-object	large coat
+attribute-object	black coat
+attribute-object	white dog
+attribute-object	rough wave
+object-verb-object	person walk dog
+object	beach
+object	wave
+object	dog
+object	person
+object	coat
+object	dog
+#####################################################
+A person walks a dog along the water 's edge . 
+a person walk a dog along the water 's edge . 
+
+verb-prep-object	walk along edge
+attribute-object	water edge
+object-verb-object	person walk dog
+object	edge
+object	person
+object	dog
+object	dog
+#####################################################
+Walking a dog on the edge of the ocean . 
+walk a dog on the edge of the ocean . 
+
+verb-object	walk dog
+object-prep-object	dog on edge
+object-prep-object	edge of ocean
+object	dog
+object	edge
+object	ocean
+object	dog
+#####################################################

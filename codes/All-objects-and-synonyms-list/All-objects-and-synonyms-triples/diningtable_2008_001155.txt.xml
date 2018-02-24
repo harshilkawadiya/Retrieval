@@ -1,0 +1,58 @@
+A kitchen with pine doors and a table and chairs . 
+a kitchen with pine door and a table and chair . 
+
+object-prep-object	kitchen with door
+attribute-object	pine door
+object-prep-object	kitchen with diningtable
+object-prep-object	kitchen with chair
+object	kitchen
+object	door
+object	diningtable
+object	chair
+object	diningtable
+#####################################################
+A white table with three chairs are located in a kitchen . 
+a white table with three chair be locate in a kitchen . 
+
+object-prep-object	diningtable with table
+verb-prep-object	locate in kitchen
+object-prep-object	diningtable in table
+attribute-object	white diningtable
+object-verb	diningtable locate
+object	diningtable
+object	table
+object	kitchen
+object	diningtable
+#####################################################
+Picture of a kitchen and dining room table . 
+Picture of a kitchen and dining room table . 
+
+object	kitchen
+attribute-object	dining diningtable
+attribute-object	room diningtable
+object	kitchen
+object	diningtable
+object	table
+object	diningtable
+#####################################################
+White tables and chairs are near the kitchen . 
+White table and chair be near the kitchen . 
+
+object-prep-object	diningtable near table
+object-prep-object	chair near kitchen
+attribute-object	white diningtable
+object	diningtable
+object	table
+object	chair
+object	kitchen
+object	diningtable
+#####################################################
+Wooden cabinets in kitchen . 
+wooden cabinet in kitchen . 
+
+object-prep-object	cabinet in kitchen
+attribute-object	wooden cabinet
+object	cabinet
+object	kitchen
+object	diningtable
+#####################################################

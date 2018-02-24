@@ -1,0 +1,64 @@
+A bird is pecking at a log in a marsh . 
+a bird be peck at a log in a marsh . 
+
+object-prep-object	log in marsh
+verb-prep-object	peck at log
+object-prep-object	bird at log
+object-prep-object	bird in marsh
+object-verb	bird peck
+object	log
+object	marsh
+object	bird
+object	bird
+#####################################################
+A small bird standing on a log at the waters edge . 
+a small bird standing on a log at the water edge . 
+
+verb-prep-object	stand at edge
+verb-prep-object	stand on log
+attribute-object	small bird
+attribute-object	water edge
+object-verb	bird stand
+object	edge
+object	log
+object	bird
+object	bird
+#####################################################
+Bird sitting on a log in a lake . 
+bird sit on a log in a lake . 
+
+verb-prep-object	sit on log
+verb-prep-object	sit in water
+object-verb	bird sit
+object	log
+object	water
+object	bird
+object	bird
+#####################################################
+The brown water bird has a fish in his beak . 
+the brown water bird have a fish in he beak . 
+
+object-prep-object	fish in beak
+attribute-object	brown bird
+object-verb-object	bird have fish
+attribute-object	water bird
+object	fish
+object	beak
+object	bird
+object	bird
+#####################################################
+The long-legged bird perches on the log for a drink of water . 
+the long-legged bird perch on the log for a drink of water . 
+
+object-prep-object	drink of water
+verb-prep-object	perch on log
+object-prep-object	bird on log
+verb-prep-object	perch for water
+attribute-object	long-legged bird
+object-verb	bird perch
+object	drink
+object	water
+object	log
+object	bird
+object	bird
+#####################################################

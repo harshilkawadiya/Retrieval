@@ -1,0 +1,51 @@
+A brown and white horse with its eyes closed , with a barn in the background . 
+a brown and white horse with its eye close , with a barn in the background . 
+
+object-prep-object	horse with eye
+attribute-object	brown horse
+attribute-object	white horse
+object-prep-object	horse with barn
+object	horse
+object	eye
+object	barn
+object	cow
+#####################################################
+A close-up of a horse . 
+a close-up of a horse . 
+
+object	horse
+object	horse
+object	cow
+#####################################################
+A close-up photo of a brown and white horse on a farm . 
+a close-up photo of a brown and white horse on a farm . 
+
+object-prep-object	horse on farm
+attribute-object	brown horse
+attribute-object	white horse
+object	horse
+object	farm
+object	cow
+#####################################################
+A paint horse stands close to the camera on a ranch . 
+a paint horse stand close to the camera on a ranch . 
+
+verb-prep-object	stand on ranch
+object-prep-object	horse on ranch
+verb-prep-object	stand close_to camera
+object-prep-object	horse close_to camera
+attribute-object	paint horse
+object-verb	horse stand
+object	ranch
+object	horse
+object	camera
+object	cow
+#####################################################
+The curious horse moves in for a close up . 
+the curious horse move in for a close up . 
+
+attribute-object	curious horse
+object-verb	horse move
+object	horse
+object	cow
+#####################################################

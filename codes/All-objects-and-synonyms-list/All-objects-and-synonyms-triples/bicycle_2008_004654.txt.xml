@@ -1,0 +1,50 @@
+A girl performing a trick on her bicycle . 
+a girl perform a trick on she bicycle . 
+
+verb-prep-object	perform on bicycle
+object-prep-object	person on bicycle
+object-verb-object	person perform trick
+object	bicycle
+object	person
+object	trick
+object	bicycle
+#####################################################
+a woman in the country rides a bicycle with one leg up . 
+a woman in the country ride a bicycle with one leg up . 
+
+object-verb-object	person ride bicycle
+object-prep-object	person in country
+object	person
+object	bicycle
+object	country
+object	bicycle
+#####################################################
+A woman standing on a moving bicycle with a leg raised to the left . 
+a woman standing on a move bicycle with a leg raise to the left . 
+
+verb-prep-object	stand on bicycle
+object-prep-object	person on bicycle
+attribute-object	move bicycle
+object-verb	person stand
+object	bicycle
+object	person
+object	bicycle
+#####################################################
+A woman riding down a country land smiling with one leg out . 
+a woman ride down a country land smile with one leg out . 
+
+object-verb-object	person ride land
+attribute-object	country land
+verb-attribute	ride down
+object	person
+object	land
+object	bicycle
+#####################################################
+Woman riding bike with left leg kicked out to the side . 
+Woman ride bike with left leg kick out to the side . 
+
+object-verb-object	person ride bicycle
+object	person
+object	bicycle
+object	bicycle
+#####################################################

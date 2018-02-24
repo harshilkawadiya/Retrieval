@@ -1,0 +1,56 @@
+A group of horses grazing in a field . 
+a group of horse grazing in a field . 
+
+verb-prep-object	graze in field
+object-prep-object	horse in field
+object-verb	horse graze
+object	field
+object	horse
+object	horse
+#####################################################
+Group of horses grazing in grassy field . 
+Group of horse grazing in grassy field . 
+
+object-prep-object	horse in field
+verb-prep-object	graze in field
+attribute-object	grassy field
+object-verb	horse graze
+object	horse
+object	field
+object	horse
+#####################################################
+Horses graze in the pasture . 
+horse graze in the pasture . 
+
+verb-prep-object	graze in pasture
+object-prep-object	horse in pasture
+object-verb	horse graze
+object	pasture
+object	horse
+object	horse
+#####################################################
+Seven brown horses graze in a field in front of the trees . 
+seven brown horse graze in a field in front of the tree . 
+
+verb-prep-object	graze in field
+object-prep-object	horse in field
+verb-prep-object	graze in_front_of tree
+object-prep-object	horse in_front_of tree
+attribute-object	brown horse
+object-verb	horse graze
+object	field
+object	horse
+object	tree
+object	horse
+#####################################################
+Seven brown horses grazing in the field . 
+seven brown horse grazing in the field . 
+
+verb-prep-object	graze in field
+object-prep-object	horse in field
+attribute-object	brown horse
+object-verb	horse graze
+object	field
+object	horse
+object	horse
+#####################################################

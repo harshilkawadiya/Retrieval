@@ -1,0 +1,73 @@
+A black and brown cow walking through the grass field . 
+a black and brown cow walk through the grass field . 
+
+verb-prep-object	walk through field
+object-prep-object	cow through field
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	grass field
+object-verb	cow walk
+object	field
+object	cow
+object	cow
+#####################################################
+A black cow and a brown cow standing in front of a small copse of trees in a field . 
+a black cow and a brown cow standing in front of a small copse of tree in a field . 
+
+object-verb	cow stand
+verb-prep-object	stand in_front_of copse
+object-prep-object	cow in_front_of copse
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	small copse
+object-prep-object	tree in field
+object-prep-object	copse of tree
+object	cow
+object	copse
+object	tree
+object	field
+object	cow
+#####################################################
+A black cow and a brown cow stands in a plain in front of an uprooted tree . 
+a black cow and a brown cow stand in a plain in front of a uproot tree . 
+
+verb-prep-object	stand in plain
+object-prep-object	cow in plain
+verb-prep-object	stand in_front_of tree
+object-prep-object	cow in_front_of tree
+attribute-object	black cow
+attribute-object	brown cow
+attribute-object	uproot tree
+object-verb	cow stand
+object	plain
+object	cow
+object	tree
+object	cow
+#####################################################
+Two cows standing under a tree looking at the camera . 
+two cow stand under a tree look at the camera . 
+
+verb-prep-object	stand under tree
+object-prep-object	cow under tree
+verb-prep-object	look at camera
+object-verb	cow stand
+object-verb	cow look
+object	tree
+object	cow
+object	camera
+object	cow
+#####################################################
+Two goats standing in a field by a tree . 
+two goat stand in a field by a tree . 
+
+verb-prep-object	stand in field
+verb-prep-object	stand by tree
+object-prep-object	sheep in cow
+object-prep-object	sheep by cow
+object-verb	sheep stand
+object	field
+object	tree
+object	sheep
+object	cow
+object	cow
+#####################################################

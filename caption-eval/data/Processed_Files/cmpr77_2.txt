@@ -1,0 +1,50 @@
+beam_size_1	2	A man sitting on the left near a man walking along the side of a street with colorful buildings .
+beam_size_1	3	A man walking by a sitting man on the street .
+beam_size_1	4	A man with dreadlocks and a backpack walks down the sidewalk with colorful buildings in the background .
+beam_size_1	5	A white man with dreadlocks walks down the sidewalk .
+beam_size_1	6	Two boys are on the sidewalk as cars pass by on the road .
+beam_size_1	7	children playing at the beach
+beam_size_1	8	A little boy in red shorts , a boy in a black Speedo , and a boy in grey shorts are all running on the beach .
+beam_size_1	9	Three boys are running on the beach playing a game .
+beam_size_1	10	Three boys play tag on the beach .
+beam_size_1	11	Two young boys and one young man run on a beach with water behind them .
+beam_size_1	12	A man with red shirt and black hat stares at another man .
+beam_size_1	13	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	14	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	15	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	16	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	17	A boy crawling through a cement pipeline
+beam_size_1	18	A boy in a tube
+beam_size_1	19	A young boy dressed in a black hoodie crawling through a large , white tube .
+beam_size_1	20	A young boy is crawling through a white tube .
+beam_size_1	21	Boy crawling through a cement tunnel .
+beam_size_1	22	A Japanese woman in a colorful outfit is walking with a man dressed in black past a wooden building .
+beam_size_1	23	A lady dressed in a kimono is looking at the camera .
+beam_size_1	24	Two people stop on an empty city street .
+beam_size_1	25	Two women dressed in traditional Japanese clothing
+beam_size_1	26	Two women in Japanese dress walk down the street .
+beam_size_1	27	A child is happily playing on the slide .
+beam_size_1	28	A child is holding on to the top of a playground slide .
+beam_size_1	29	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	30	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	31	Child getting ready to go down a slide .
+beam_size_1	32	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	33	A firetruck with ladder extended on the side of the road .
+beam_size_1	34	A jogger with a dog approaches a ladder truck .
+beam_size_1	35	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	36	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	37	A family poses seated on concrete steps .
+beam_size_1	38	A family sits for a picture on a staircase outside .
+beam_size_1	39	A group of people are sitting on the steps outside .
+beam_size_1	40	A group of people sit on the cement steps in the woods and smile .
+beam_size_1	41	These five people are seated on steps outdoors .
+beam_size_1	42	A little baby climbing up the ladder after someone .
+beam_size_1	43	A little girl is climbing a ladder .
+beam_size_1	44	A person on a ladder with a baby underneath .
+beam_size_1	45	A person stands at the top of a ladder as a young girl begins to climb .
+beam_size_1	46	A person stands on a ladder and a small child climbs at the bottom of the ladder .
+beam_size_1	47	A snowboarder flies in the air .
+beam_size_1	48	A snowboarder is performing a stunt in mostly dark .
+beam_size_1	49	Snowboarder in the air performing a stunt .
+beam_size_1	50	There is a snowboarder doing tricks in a half pipe .
+beam_size_1	51	The snowboarder gets serious air .

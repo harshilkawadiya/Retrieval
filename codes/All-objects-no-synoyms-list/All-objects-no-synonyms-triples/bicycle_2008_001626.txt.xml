@@ -1,0 +1,62 @@
+A bike painted pink sitting on a sidewalk outside a building . 
+a bike paint pink sit on a sidewalk outside a building . 
+
+object-prep-object	bike outside building
+verb-prep-object	sit outside building
+verb-prep-object	sit on sidewalk
+object-prep-object	bike on sidewalk
+attribute-object	painted bike
+attribute-object	pink bike
+object-verb	bike sit
+object	bike
+object	building
+object	sidewalk
+object	bicycle
+#####################################################
+An old bicycle painted almost completely pink standing against a city building . 
+a old bicycle paint almost completely pink standing against a city building . 
+
+object-verb	bicycle stand
+attribute-object	old bicycle
+attribute-object	painted bicycle
+verb-prep-object	stand against building
+object-prep-object	bicycle against building
+attribute-object	city building
+object	bicycle
+object	building
+object	bicycle
+#####################################################
+A pink bicycle is in front of a building . 
+a pink bicycle be in front of a building . 
+
+object-prep-object	bicycle in_front_of building
+attribute-object	pink bicycle
+object	bicycle
+object	building
+object	bicycle
+#####################################################
+A pink bicycle is parked next to a brick and concrete building . 
+a pink bicycle be park next to a brick and concrete building . 
+
+verb-prep-object	park next_to brick
+verb-prep-object	park next_to building
+object-prep-object	bicycle next_to brick
+object-prep-object	bicycle next_to building
+attribute-object	pink bicycle
+attribute-object	concrete building
+object-verb	bicycle park
+object	brick
+object	building
+object	bicycle
+object	bicycle
+#####################################################
+A pink bicycle with matching tires . 
+a pink bicycle with match tire . 
+
+object-prep-object	bicycle with tire
+attribute-object	pink bicycle
+attribute-object	match tire
+object	bicycle
+object	tire
+object	bicycle
+#####################################################

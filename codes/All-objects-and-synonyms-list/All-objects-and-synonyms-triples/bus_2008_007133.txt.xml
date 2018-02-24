@@ -1,0 +1,70 @@
+A view of a street filled with vehicles , people , and a large brick building . 
+a view of a street fill with vehicle , people , and a large brick building . 
+
+verb-prep-object	fill with car
+object-prep-object	road with car
+verb-prep-object	fill with person
+object-prep-object	road with person
+verb-prep-object	fill with building
+object-prep-object	road with street
+attribute-object	large building
+attribute-object	brick building
+object-verb	road fill
+object	car
+object	vehicle
+object	road
+object	street
+object	person
+object	people
+object	building
+object	bus
+#####################################################
+Old style church near Greyfriar 's Bobby . 
+Old style church near Greyfriar 's Bobby . 
+
+object-prep-object	church near bobby
+attribute-object	greyfriar bobby
+attribute-object	old church
+attribute-object	style church
+object	church
+object	bobby
+object	bus
+#####################################################
+people , a bus and some cars in the street . 
+people , a bus and some car in the street . 
+
+object-prep-object	person in road
+object-prep-object	bus in road
+object-prep-object	car in road
+object	person
+object	people
+object	road
+object	bus
+object	car
+object	bus
+#####################################################
+People walk in front of a building with towers . 
+people walk in front of a building with tower . 
+
+verb-prep-object	walk in_front_of building
+object-prep-object	person in_front_of people
+object-prep-object	building with building
+object-verb	person walk
+object	building
+object	person
+object	people
+object	bus
+#####################################################
+People walking through a city street . 
+people walk through a city street . 
+
+verb-prep-object	walk through road
+object-prep-object	person through road
+attribute-object	city road
+object-verb	person walk
+object	road
+object	street
+object	person
+object	people
+object	bus
+#####################################################

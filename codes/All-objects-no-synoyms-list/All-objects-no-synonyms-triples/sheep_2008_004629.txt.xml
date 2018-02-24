@@ -1,0 +1,55 @@
+A domestic animal stands in a pen . 
+a domestic animal stand in a pen . 
+
+verb-prep-object	stand in pen
+object-prep-object	animal in pen
+attribute-object	domestic animal
+object-verb	animal stand
+object	pen
+object	animal
+object	sheep
+#####################################################
+A sheep standing on a table at auction . 
+a sheep standing on a table at auction . 
+
+verb-prep-object	stand on table
+verb-prep-object	stand at auction
+object-prep-object	sheep on table
+object-prep-object	sheep at auction
+object-verb	sheep stand
+object	table
+object	auction
+object	sheep
+object	sheep
+#####################################################
+A tall animal is confined by blue metal fencing . 
+a tall animal be confine by blue metal fencing . 
+
+verb-prep-object	confine by fencing
+attribute-object	tall animal
+attribute-object	blue fencing
+attribute-object	metal fencing
+object-verb	animal confine
+object	fencing
+object	animal
+object	sheep
+#####################################################
+White sheep in captivity . 
+White sheep in captivity . 
+
+object-prep-object	sheep in captivity
+attribute-object	white sheep
+object	sheep
+object	captivity
+object	sheep
+#####################################################
+Woolly sheep at auction house . 
+woolly sheep at auction house . 
+
+object-prep-object	sheep at house
+attribute-object	woolly sheep
+attribute-object	auction house
+object	sheep
+object	house
+object	sheep
+#####################################################

@@ -1,0 +1,68 @@
+a lifeguard tower and a yellow lifeguard truck on a beach . 
+a lifeguard tower and a yellow lifeguard truck on a beach . 
+
+object-prep-object	building on tower
+object-prep-object	bus on car
+attribute-object	yellow bus
+attribute-object	lifeguard bus
+attribute-object	lifeguard building
+object	building
+object	tower
+object	bus
+object	car
+object	bird
+#####################################################
+a lifeguard watch tower with a pick up on a beach . 
+a lifeguard watch tower with a pick up on a beach . 
+
+object-prep-object	building on tower
+object-prep-object	building with tower
+attribute-object	lifeguard building
+attribute-object	watch building
+object	building
+object	tower
+object	bird
+#####################################################
+A yellow truck is parked on a beach near a small structure . 
+a yellow truck be park on a beach near a small structure . 
+
+verb-prep-object	park on beach
+verb-prep-object	park near structure
+object-prep-object	bus on car
+object-prep-object	bus near car
+attribute-object	yellow bus
+attribute-object	small structure
+object-verb	bus park
+object	beach
+object	structure
+object	bus
+object	car
+object	bird
+#####################################################
+A yellow truck near a lifeguard station on a beach . 
+a yellow truck near a lifeguard station on a beach . 
+
+object-prep-object	bus on car
+object-prep-object	bus near car
+attribute-object	yellow bus
+attribute-object	lifeguard station
+object	bus
+object	car
+object	station
+object	bird
+#####################################################
+Sandy field with a yellow pickup parked beside a small outpost . 
+Sandy field with a yellow pickup park beside a small outpost . 
+
+object-prep-object	field with pickup
+verb-prep-object	park beside outpost
+object-prep-object	field beside outpost
+attribute-object	yellow pickup
+attribute-object	small outpost
+attribute-object	sandy field
+object-verb	field park
+object	field
+object	pickup
+object	outpost
+object	bird
+#####################################################

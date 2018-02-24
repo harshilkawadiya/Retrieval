@@ -1,0 +1,57 @@
+A car and three buses in a rear-view mirror . 
+a car and three bus in a rear-view mirror . 
+
+object-prep-object	car in mirror
+object-prep-object	bus in mirror
+attribute-object	rear-view mirror
+object	car
+object	mirror
+object	bus
+object	bus
+#####################################################
+A car viewed through the back window of another car . 
+a car view through the back window of another car . 
+
+object-prep-object	window of car
+verb-prep-object	view through window
+attribute-object	back window
+object-verb	car view
+object	window
+object	car
+object	bus
+#####################################################
+a rear view from a car showing school buses on the left and a car in front . 
+a rear view from a car show school bus on the left and a car in front . 
+
+object-verb-object	car show bus
+attribute-object	school bus
+object	car
+object	bus
+object	bus
+#####################################################
+From inside a vehicle , a street filled with parked buses and cars can be seen out the rear window . 
+from inside a vehicle , a street fill with park bus and car can be see out the rear window . 
+
+verb-prep-object	fill with bus
+verb-prep-object	fill with car
+object-prep-object	road with street
+object-prep-object	road with street
+attribute-object	park bus
+object-verb	road fill
+object	bus
+object	car
+object	road
+object	street
+object	bus
+#####################################################
+Front of vehicle image through a back vehicle window . 
+front of vehicle image through a back vehicle window . 
+
+object-prep-object	image through window
+attribute-object	back window
+attribute-object	vehicle image
+attribute-object	vehicle window
+object	image
+object	window
+object	bus
+#####################################################

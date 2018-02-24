@@ -1,0 +1,52 @@
+A happy mother dotes on her children . 
+a happy mother dote on she child . 
+
+verb-prep-object	dote on child
+attribute-object	happy mother
+object-verb	mother dote
+object	child
+object	mother
+object	chair
+#####################################################
+A mom with two children on her lap , a girl looking to the right and a boy looking at the camera . 
+a mom with two child on she lap , a girl look to the right and a boy look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	boy look
+object-prep-object	mom with child
+object-prep-object	child on lap
+object-verb	girl look
+object	camera
+object	boy
+object	mom
+object	child
+object	lap
+object	girl
+object	chair
+#####################################################
+A woman holding two toddlers : a girl and a boy . 
+a woman hold two toddler : a girl and a boy . 
+
+object-verb-object	woman hold toddler
+object	woman
+object	toddler
+object	chair
+#####################################################
+A woman with two children in her lap . 
+a woman with two child in she lap . 
+
+object-prep-object	woman with child
+object-prep-object	child in lap
+object	woman
+object	child
+object	lap
+object	chair
+#####################################################
+Mom holding two kids . 
+mom hold two kid . 
+
+object-verb-object	mom hold kid
+object	mom
+object	kid
+object	chair
+#####################################################

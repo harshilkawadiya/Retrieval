@@ -1,0 +1,63 @@
+A passenger train waiting in a station . 
+a passenger train wait in a station . 
+
+verb-prep-object	wait in station
+object-prep-object	train in station
+attribute-object	passenger train
+object-verb	train wait
+object	station
+object	train
+object	train
+#####################################################
+A red , white and blue train pull up to the station . 
+a red , white and blue train pull up to the station . 
+
+attribute-object	red train
+attribute-object	white train
+attribute-object	blue train
+object-verb	train pull
+verb-attribute	pull up
+verb-prep-object	pull to station
+object	train
+object	station
+object	train
+#####################################################
+Electric train or tram waiting at a station . 
+Electric train or tram wait at a station . 
+
+verb-prep-object	wait at station
+object-prep-object	train at station
+attribute-object	electric train
+object-verb	train wait
+object-verb	train wait
+object	station
+object	train
+object	tram
+object	train
+#####################################################
+Passenger train stopped at rail station . 
+passenger train stop at rail station . 
+
+verb-prep-object	stop at station
+object-prep-object	train at station
+attribute-object	passenger train
+attribute-object	rail station
+object-verb	train stop
+object	station
+object	train
+object	train
+#####################################################
+Red , white and blue train arriving at train station . 
+Red , white and blue train arrive at train station . 
+
+verb-prep-object	arrive at station
+object-prep-object	train at station
+attribute-object	red train
+attribute-object	white train
+attribute-object	blue train
+attribute-object	train station
+object-verb	train arrive
+object	station
+object	train
+object	train
+#####################################################

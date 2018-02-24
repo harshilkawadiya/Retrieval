@@ -1,0 +1,60 @@
+A cubicle with a large , black office chair and a telephone on the desk . 
+a cubicle with a large , black office chair and a telephone on the desk . 
+
+object-prep-object	room with cubicle
+object-prep-object	room with cubicle
+object-prep-object	telephone on diningtable
+attribute-object	large chair
+attribute-object	black chair
+attribute-object	office chair
+object	room
+object	cubicle
+object	telephone
+object	table
+object	diningtable
+object	chair
+object	chair
+#####################################################
+An empty office chair in a cubicle . 
+a empty office chair in a cubicle . 
+
+object-prep-object	chair in room
+attribute-object	empty chair
+attribute-object	office chair
+object	chair
+object	room
+object	chair
+#####################################################
+An empty office cubicle . 
+a empty office cubicle . 
+
+attribute-object	empty room
+attribute-object	office room
+object	room
+object	cubicle
+object	chair
+#####################################################
+An empty office cubicle with chair , desk and phone . 
+a empty office cubicle with chair , desk and phone . 
+
+object-prep-object	room with cubicle
+object-prep-object	room with diningtable
+object-prep-object	room with cubicle
+attribute-object	empty room
+attribute-object	office room
+object	room
+object	cubicle
+object	table
+object	diningtable
+object	chair
+#####################################################
+There is a telephone and a chair in the cubicle . 
+there be a telephone and a chair in the cubicle . 
+
+object-prep-object	telephone in room
+object-prep-object	chair in room
+object	telephone
+object	room
+object	chair
+object	chair
+#####################################################

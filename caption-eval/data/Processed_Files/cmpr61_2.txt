@@ -1,0 +1,50 @@
+beam_size_1	2	A little girl hugs another little girl .
+beam_size_1	3	A young child is being held by another child looking straight at us .
+beam_size_1	4	Two toddlers posing for the camera .
+beam_size_1	5	Two young children holding each other and posing .
+beam_size_1	6	Two young girls hug .
+beam_size_1	7	A girl jumping over a jump rope .
+beam_size_1	8	A girl wearing pink shoes jumps over a rope and smiles .
+beam_size_1	9	A girl wearing shorts plays jump rope .
+beam_size_1	10	A little girl is jumping over a yellow rope .
+beam_size_1	11	A small girl with brown hair and a big smile is jumping rope .
+beam_size_1	12	A group of girls sit back to back .
+beam_size_1	13	a group of girls sitting in a circle
+beam_size_1	14	Little girl in bare feet sitting in a circle .
+beam_size_1	15	Little girls sitting in a circle on wooden floor surrounded by observer area .
+beam_size_1	16	The young girls sat in a circle on the wood floor .
+beam_size_1	17	A man doing a karate kick on a block of ice .
+beam_size_1	18	A man karate kicks a stack of ice bricks .
+beam_size_1	19	A martial artist breaks a brick .
+beam_size_1	20	A martial artist breaks ice with a kick .
+beam_size_1	21	The man breaking the ice with his foot stands on a blue mat .
+beam_size_1	22	A man on horseback on a grassy field in front of mountains .
+beam_size_1	23	A person on a brown horse in a prairie in front of tall mountains .
+beam_size_1	24	A person riding a horse with a mountain range in the far background .
+beam_size_1	25	A rider on a horse in front of a mountain range
+beam_size_1	26	Distant horse rider on plain in the middle of brown mountains .
+beam_size_1	27	A boy plays a game with wooden blocks .
+beam_size_1	28	A child playing with building blocks on a wooden table .
+beam_size_1	29	A small boy is building with some wooden blocks .
+beam_size_1	30	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	31	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	32	A firetruck stops and makes a call at a bridge , where a man and his dogs are running .
+beam_size_1	33	A firetruck with ladder extended on the side of the road .
+beam_size_1	34	A jogger with a dog approaches a ladder truck .
+beam_size_1	35	A jogger with a dog running towards a firetruck with extended ladder on a road
+beam_size_1	36	A man walks on a sidewalk and a firetruck is nearby .
+beam_size_1	37	A baby eats and has food on his face .
+beam_size_1	38	A boy with lips messy from eating fruit
+beam_size_1	39	A little boy is eating something and got it all over his mouth .
+beam_size_1	40	A small child with berries all over its mouth .
+beam_size_1	41	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	42	A boy is upside down in midair near a lake at sunset .
+beam_size_1	43	A person does a flip by two sailboats and a lake .
+beam_size_1	44	A person flipping upside down
+beam_size_1	45	a person in midair doing a back flip .
+beam_size_1	46	A person is doing a flip in midair near a lake with sails behind him .
+beam_size_1	47	A brown dog jumps through three hoops .
+beam_size_1	48	A dog is jumping through hoops held by people .
+beam_size_1	49	a dog jumps through a black hulahoop .
+beam_size_1	50	A medium size dog is jumping through hoops which are being held by men .
+beam_size_1	51	A trainer runs next to his dog as it jumps through multiple hoops .

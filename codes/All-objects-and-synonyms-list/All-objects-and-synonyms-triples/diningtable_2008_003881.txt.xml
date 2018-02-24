@@ -1,0 +1,63 @@
+Two smiling women holding a baby . 
+two smile woman hold a baby . 
+
+object-verb-object	person hold woman
+attribute-object	smile person
+object	person
+object	woman
+object	diningtable
+#####################################################
+Two women pose in a dining room with a baby . 
+two woman pose in a dining room with a baby . 
+
+object-verb	person pose
+verb-prep-object	pose with baby
+object-prep-object	person with woman
+verb-prep-object	pose in room
+object-prep-object	person in woman
+attribute-object	dining room
+object	person
+object	woman
+object	baby
+object	room
+object	diningtable
+#####################################################
+Two women and a baby pose in front of a dining room . 
+two woman and a baby pose in front of a dining room . 
+
+verb-prep-object	pose in_front_of room
+object-prep-object	person in_front_of woman
+object-prep-object	baby in_front_of room
+attribute-object	dining room
+object-verb	person pose
+object-verb	baby pose
+object	room
+object	person
+object	woman
+object	baby
+object	diningtable
+#####################################################
+Two women posing with a baby . 
+two woman pose with a baby . 
+
+verb-prep-object	pose with baby
+object-prep-object	person with woman
+object-verb	person pose
+object	baby
+object	person
+object	woman
+object	diningtable
+#####################################################
+Two women smiling at the camera while one of them holds a small child . 
+two woman smile at the camera while one of they hold a small child . 
+
+verb-prep-object	smile at camera
+attribute-object	small person
+object-verb-object	person hold person
+object-verb	person smile
+object	camera
+object	person
+object	child
+object	woman
+object	diningtable
+#####################################################

@@ -1,0 +1,67 @@
+a wild garden with two potted flowers . 
+a wild garden with two potted flower . 
+
+object-prep-object	garden with flower
+attribute-object	wild garden
+attribute-object	potted flower
+object	garden
+object	flower
+object	pottedplant
+#####################################################
+Lush plants grow in terra cotta pots and directly out of the ground . 
+lush plant grow in terra cotta pot and directly out of the ground . 
+
+object-verb	pottedplant grow
+attribute-object	lush pottedplant
+verb-prep-object	grow out_of ground
+verb-prep-object	grow in pottedplant
+object-prep-object	pottedplant in pottedplant
+attribute-object	terra pottedplant
+attribute-object	cotta pottedplant
+object	pottedplant
+object	plant
+object	ground
+object	pot
+object	pottedplant
+#####################################################
+There are several different colors of flowers and types of plants in this garden . 
+there be several different color of flower and type of plant in this garden . 
+
+object-prep-object	pottedplant in plant
+object-prep-object	flower in garden
+attribute-object	different flower
+object	pottedplant
+object	plant
+object	flower
+object	garden
+object	pottedplant
+#####################################################
+There are two flowerpots in the middle of the planted flowers on the ground . 
+there be two flowerpot in the middle of the plant flower on the ground . 
+
+object-prep-object	pottedplant on flowerpot
+object-prep-object	pottedplant in flowerpot
+attribute-object	plant flower
+object	pottedplant
+object	flowerpot
+object	flower
+object	pottedplant
+#####################################################
+Two potted plants are surrounded by a lovely green garden of varying plants and flowers . 
+two potted plant be surround by a lovely green garden of vary plant and flower . 
+
+object-verb	pottedplant surround
+attribute-object	potted pottedplant
+verb-prep-object	surround by garden
+object-prep-object	pottedplant by plant
+attribute-object	lovely garden
+attribute-object	green garden
+object-prep-object	garden of pottedplant
+object-prep-object	garden of flower
+attribute-object	vary pottedplant
+object	pottedplant
+object	plant
+object	garden
+object	flower
+object	pottedplant
+#####################################################

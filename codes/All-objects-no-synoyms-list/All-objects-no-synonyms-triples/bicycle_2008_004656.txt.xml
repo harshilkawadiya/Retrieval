@@ -1,0 +1,64 @@
+A man on a mountain bike going down an incline . 
+a man on a mountain bike go down a incline . 
+
+object-prep-object	man on bike
+object-verb-object	man go incline
+attribute-object	mountain bike
+verb-attribute	go down
+object	man
+object	bike
+object	incline
+object	bicycle
+#####################################################
+A mountain biker riding over a small stone ridge . 
+a mountain biker ride over a small stone ridge . 
+
+verb-prep-object	ride over ridge
+attribute-object	small ridge
+attribute-object	mountain biker
+attribute-object	stone ridge
+object-verb	biker ride
+object	ridge
+object	biker
+object	bicycle
+#####################################################
+A person on a bicycle rides on a rocky path . 
+a person on a bicycle ride on a rocky path . 
+
+object-prep-object	person on bicycle
+verb-prep-object	ride on path
+attribute-object	rocky path
+object-verb	person ride
+object	person
+object	bicycle
+object	path
+object	bicycle
+#####################################################
+Man on mountain bike coming off of small rocky ledge . 
+man on mountain bike come off of small rocky ledge . 
+
+verb-prep-object	man on bike
+verb-prep-object	comeoff of ledge
+attribute-object	small ledge
+attribute-object	rocky ledge
+attribute-object	mountain bike
+object-verb	man comeoff
+object	bike
+object	ledge
+object	man
+object	bicycle
+#####################################################
+This is a man riding a mountain bike over rocks on a clear day . 
+this be a man ride a mountain bike over rock on a clear day . 
+
+verb-prep-object	ride over rock
+verb-prep-object	ride on day
+attribute-object	clear day
+object-verb-object	man ride bike
+attribute-object	mountain bike
+object	rock
+object	day
+object	man
+object	bike
+object	bicycle
+#####################################################

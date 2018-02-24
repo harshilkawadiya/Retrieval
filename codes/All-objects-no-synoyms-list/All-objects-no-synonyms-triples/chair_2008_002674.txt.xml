@@ -1,0 +1,70 @@
+A dark-skinned woman sits in a rocking chair holding a tiny baby wrapped in a blanket . 
+a dark-skinned woman sit in a rock chair hold a tiny baby wrap in a blanket . 
+
+object-verb	woman sit
+attribute-object	dark-skinned woman
+verb-prep-object	sit in chair
+object-prep-object	woman in chair
+attribute-object	rock chair
+object-verb-object	woman hold baby
+verb-prep-object	wrap in blanket
+object-prep-object	baby in blanket
+attribute-object	tiny baby
+object-verb	baby wrap
+object	woman
+object	chair
+object	baby
+object	blanket
+object	chair
+#####################################################
+An African-American woman in a rocking chair holds a newborn child . 
+a african-american woman in a rock chair hold a newborn child . 
+
+object-prep-object	woman in chair
+attribute-object	african-american woman
+attribute-object	rock chair
+attribute-object	newborn child
+object-verb-object	woman hold child
+object	woman
+object	chair
+object	child
+object	chair
+#####################################################
+A woman holding a baby poses in a wooden rocking chair . 
+a woman hold a baby pose in a wooden rock chair . 
+
+verb-prep-object	pose in chair
+object-prep-object	woman in chair
+object-verb-object	woman hold baby
+attribute-object	wooden chair
+attribute-object	rock chair
+object-verb	woman pose
+object	chair
+object	woman
+object	baby
+object	chair
+#####################################################
+A woman holding a small baby . 
+a woman hold a small baby . 
+
+attribute-object	small baby
+object-verb-object	woman hold baby
+object	baby
+object	woman
+object	chair
+#####################################################
+A woman in black rocking a new baby wrapped in a blanket . 
+a woman in black rock a new baby wrap in a blanket . 
+
+object-prep-object	woman in black
+verb-prep-object	wrap in blanket
+object-prep-object	baby in blanket
+attribute-object	new baby
+object-verb-object	woman rock baby
+object-verb	baby wrap
+object	woman
+object	black
+object	blanket
+object	baby
+object	chair
+#####################################################

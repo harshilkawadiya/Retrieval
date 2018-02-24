@@ -1,0 +1,67 @@
+friends at dinner . 
+friend at dinner . 
+
+object-prep-object	person at friend
+object	person
+object	friend
+object	diningtable
+#####################################################
+Three gentlemen sitting at a table at a dinner party . 
+three gentleman sit at a table at a dinner party . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	sit at party
+object-prep-object	person at gentleman
+attribute-object	dinner party
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	gentleman
+object	party
+object	diningtable
+#####################################################
+Three men are sitting down at a table that has drinks on it . 
+three man be sit down at a table that have drink on it . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb-object	diningtable have table
+object-verb	person sit
+verb-attribute	sit down
+object	diningtable
+object	table
+object	person
+object	man
+object	diningtable
+#####################################################
+Three men in suits sitting at a table . 
+three man in suit sit at a table . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person in man
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	man
+object	diningtable
+#####################################################
+Three men wearing ties and suit coats pose at a table . 
+three man wear tie and suit coat pose at a table . 
+
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+object-verb-object	person wear man
+object-verb-object	person wear man
+attribute-object	suit coat
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	man
+object	coat
+object	diningtable
+#####################################################

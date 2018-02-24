@@ -1,0 +1,66 @@
+A group of people gets ready to enjoy a meal around the table . 
+a group of people get ready to enjoy a meal around the table . 
+
+verb-prep-verb	ready to enjoy
+verb-object	enjoy meal
+object-prep-object	people around table
+object-verb	people ready
+object	meal
+object	people
+object	table
+object	diningtable
+#####################################################
+A group of people sitting around a table containing food . 
+a group of people sit around a table contain food . 
+
+verb-prep-object	sit around table
+object-prep-object	people around table
+object-verb-object	table contain food
+object-verb	people sit
+object	table
+object	people
+object	food
+object	diningtable
+#####################################################
+A mixture of people sit in a living room around a table filled with snacks . 
+a mixture of people sit in a living room around a table fill with snack . 
+
+verb-prep-object	sit in room
+object-prep-object	people in room
+verb-prep-object	sit around table
+object-prep-object	people around table
+verb-prep-object	fill with snack
+object-prep-object	table with snack
+attribute-object	living room
+object-verb	people sit
+object-verb	table fill
+object	room
+object	people
+object	table
+object	snack
+object	diningtable
+#####################################################
+Four people are sitting around a living room with snacks . 
+four people be sit around a living room with snack . 
+
+object-prep-object	room with snack
+verb-prep-object	sit around room
+object-prep-object	people around room
+attribute-object	living room
+object-verb	people sit
+object	room
+object	snack
+object	people
+object	diningtable
+#####################################################
+the people are posed around a coffee table . 
+the people be pose around a coffee table . 
+
+verb-prep-object	pose around table
+object-prep-object	people around table
+attribute-object	coffee table
+object-verb	people pose
+object	table
+object	people
+object	diningtable
+#####################################################

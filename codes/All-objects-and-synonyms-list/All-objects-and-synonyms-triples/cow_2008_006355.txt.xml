@@ -1,0 +1,62 @@
+a black and white cow standing in the field . 
+a black and white cow standing in the field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	white cow
+object-verb	cow stand
+object	field
+object	cow
+object	cow
+#####################################################
+A cow stands next to a tall fence on some snow . 
+a cow stand next to a tall fence on some snow . 
+
+verb-prep-object	stand on snow
+object-prep-object	cow on snow
+verb-prep-object	stand next_to fence
+object-prep-object	cow next_to fence
+attribute-object	tall fence
+object-verb	cow stand
+object	snow
+object	cow
+object	fence
+object	cow
+#####################################################
+A lone cow sits in the cold of the yard . 
+a lone cow sit in the cold of the yard . 
+
+verb-prep-object	sit in cold
+object-prep-object	cow in cold
+attribute-object	lone cow
+object-verb	cow sit
+object	cold
+object	cow
+object	cow
+#####################################################
+Black and white cow standing near pile of snow . 
+Black and white cow standing near pile of snow . 
+
+object-verb	cow stand
+verb-prep-object	stand near snow
+object-prep-object	cow near snow
+attribute-object	black cow
+attribute-object	white cow
+object	cow
+object	snow
+object	cow
+#####################################################
+Black and white cow with front feet in snow . 
+Black and white cow with front foot in snow . 
+
+object-prep-object	cow with foot
+object-prep-object	foot in snow
+attribute-object	black cow
+attribute-object	white cow
+attribute-object	front foot
+object	cow
+object	foot
+object	snow
+object	cow
+#####################################################

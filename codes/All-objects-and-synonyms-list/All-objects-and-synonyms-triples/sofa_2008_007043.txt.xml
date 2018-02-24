@@ -1,0 +1,68 @@
+Two smiling young ladies sitting on a couch . 
+two smile young lady sit on a couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	smile person
+attribute-object	young person
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	lady
+object	sofa
+#####################################################
+Two women on a rust-colored sofa smile into the camera . 
+two woman on a rust-colored sofa smile into the camera . 
+
+object-prep-object	person on woman
+verb-prep-object	smile into camera
+attribute-object	rust-colored sofa
+object-verb	person smile
+object	person
+object	woman
+object	camera
+object	sofa
+object	sofa
+#####################################################
+Two women on a sofa in a cafe looking at the camera . 
+two woman on a sofa in a cafe look at the camera . 
+
+verb-prep-object	look at camera
+object-prep-object	person on woman
+object-prep-object	person in restaurant
+object-verb	person look
+object	camera
+object	person
+object	woman
+object	restaurant
+object	sofa
+#####################################################
+Two women sitting on a large sofa in a coffee shop . 
+two woman sit on a large sofa in a coffee shop . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on woman
+object-prep-object	person in woman
+attribute-object	large sofa
+attribute-object	coffee shop
+object-verb	person sit
+object	sofa
+object	person
+object	woman
+object	shop
+object	sofa
+#####################################################
+Two women sitting on brown couch . 
+two woman sit on brown couch . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+attribute-object	brown sofa
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	woman
+object	sofa
+#####################################################

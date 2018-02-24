@@ -1,0 +1,50 @@
+beam_size_1	2	A boy with his hands above his head stands on a cement pillar above the cobblestones .
+beam_size_1	3	A child in colorful shorts is standing on a post in the street .
+beam_size_1	4	A small boy stands on a cement stump in a park with his hands on his head .
+beam_size_1	5	a young man wearing a white t-shirt and green and black shorts standing on a stump .
+beam_size_1	6	Small child in white shirt and print shorts with hands over their head standing on object .
+beam_size_1	7	a brown dog about to jump on a smaller black and tan dog
+beam_size_1	8	Large dog playing with smaller dog
+beam_size_1	9	Two dogs are playing together outside .
+beam_size_1	10	Two dogs playing in the grass with an adult nearby .
+beam_size_1	11	Two dogs playing with each other .
+beam_size_1	12	A girl wets her head in a white bucket .
+beam_size_1	13	A little girl dips her hair into a bucket filled with water .
+beam_size_1	14	A little girl has dunked her head in a bowl of water .
+beam_size_1	15	A little girl in a dress lifts her soaked head from a bucket .
+beam_size_1	16	a young girl lifting her wet hair out of a white bucket
+beam_size_1	17	A boy points .
+beam_size_1	18	A boy points at something while a man looks .
+beam_size_1	19	A boy smiles at points at something ; a man looks to the side .
+beam_size_1	20	A little boy smiles and points while a man looks in the direction of the child 's gaze .
+beam_size_1	21	The man in the blue shirt is looking in the direction to which the little boy is pointing .
+beam_size_1	22	A ban in a grey swaetshirt picks out greens in a supermarket .
+beam_size_1	23	A man is taking a look at the food products .
+beam_size_1	24	A man looking at produce .
+beam_size_1	25	A man shopping for fresh lettuce in a market
+beam_size_1	26	An older man examines produce .
+beam_size_1	27	A girl making a sad face standing in front of her tricycle
+beam_size_1	28	A little girl in a pink shirt about to cry
+beam_size_1	29	A little girl with mud on her face cries .
+beam_size_1	30	A young girl with dirt on her face and a red child 's bike is in the background .
+beam_size_1	31	The girl in a pink top is standing next to a red tricycle looking like she is about to cry .
+beam_size_1	32	A lady looks to her right and holds a mini camera .
+beam_size_1	33	A lady with curly brown hair stands in a crowd with a camera .
+beam_size_1	34	A woman holding a camera .
+beam_size_1	35	A woman stands in a crowd holding a camera .
+beam_size_1	36	The woman with a camera is looking to the side in a crowded area
+beam_size_1	37	A brown and white dog with a Frisbee in his mouth .
+beam_size_1	38	A dog with his front paws off the ground holds a white Frisbee in his mouth in an RV campground .
+beam_size_1	39	A white and brown dog jumps up for a white Frisbee .
+beam_size_1	40	Dog catching Frisbee .
+beam_size_1	41	The brown and white dog is catching a Frisbee in his mouth .
+beam_size_1	42	A dog and a cow are on a rocky slope .
+beam_size_1	43	A dog and a cow are standing on a hillside .
+beam_size_1	44	A white dog looks at a nervous cow in a mountain setting .
+beam_size_1	45	A white dog stands in front of a cow that has its head down and horns directed at the dog .
+beam_size_1	46	Two dogs are in a grassy area .
+beam_size_1	47	A bunch of asian children on steps .
+beam_size_1	48	A large group of Asian children sit on or stand near steps .
+beam_size_1	49	Group of children in blue uniforms sitting on steps .
+beam_size_1	50	Little children in school uniforms congregate on the steps .
+beam_size_1	51	Many school children dressed in the same uniform are sitting on stairs .

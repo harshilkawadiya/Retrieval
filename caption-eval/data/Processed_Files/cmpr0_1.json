@@ -1,0 +1,722 @@
+{
+  "annotations": [
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 1,
+      "image_id": 147156126842754535
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 2,
+      "image_id": 354620927941987105
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 3,
+      "image_id": 4596295743730961195
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 4,
+      "image_id": 1706843097672330799
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 5,
+      "image_id": 7746716028754089677
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 6,
+      "image_id": 6521029496747478038
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 7,
+      "image_id": 1914151115008837004
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 8,
+      "image_id": 416393196367123490
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 9,
+      "image_id": 8151042108688046781
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 10,
+      "image_id": 7380894928305291391
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 11,
+      "image_id": 7234930660931089625
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 12,
+      "image_id": 5520929447791439233
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 13,
+      "image_id": 6053423208940422883
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 14,
+      "image_id": 8415691923592806151
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 15,
+      "image_id": 7393123741125160431
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 16,
+      "image_id": 7789102173934657087
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 17,
+      "image_id": 1430864458907729979
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 18,
+      "image_id": 4121536794438867538
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 19,
+      "image_id": 1249955956815959204
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 20,
+      "image_id": 4199438651302312482
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 21,
+      "image_id": 7537713053174310511
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 22,
+      "image_id": 7711203720256143251
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 23,
+      "image_id": 7264319869785197054
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 24,
+      "image_id": 398116283929862537
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 25,
+      "image_id": 6777233964009624203
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 26,
+      "image_id": 7012253932756119194
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 27,
+      "image_id": 3905537726477018840
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 28,
+      "image_id": 568236679728935827
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 29,
+      "image_id": 5625965223639895024
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 30,
+      "image_id": 1485520535939202509
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 31,
+      "image_id": 7631018928459741011
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 32,
+      "image_id": 5305872424177444141
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 33,
+      "image_id": 5135776397508493448
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 34,
+      "image_id": 4585408470745275902
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 35,
+      "image_id": 6058927832527627242
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 36,
+      "image_id": 5502640930990391600
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 37,
+      "image_id": 5349861126453926619
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 38,
+      "image_id": 2924885770975581775
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 39,
+      "image_id": 4504670602684578417
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 40,
+      "image_id": 2483891956188181807
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 41,
+      "image_id": 5986105610333344556
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 42,
+      "image_id": 7530407002536702961
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 43,
+      "image_id": 1662519019586474335
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 44,
+      "image_id": 3046767195812049757
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 45,
+      "image_id": 5047589512677811852
+    },
+    {
+      "caption": "The dogs are in the snow in front of a fence .",
+      "id": 46,
+      "image_id": 3892143013435389081
+    },
+    {
+      "caption": "The dogs play on the snow .",
+      "id": 47,
+      "image_id": 9480383061343876
+    },
+    {
+      "caption": "Two brown dogs playfully fight in the snow .",
+      "id": 48,
+      "image_id": 5076805073583338084
+    },
+    {
+      "caption": "Two brown dogs wrestle in the snow .",
+      "id": 49,
+      "image_id": 1763301740694252556
+    },
+    {
+      "caption": "Two dogs playing in the snow .",
+      "id": 50,
+      "image_id": 1353679079766892029
+    }
+  ],
+  "images": [
+    {
+      "date_captured": "",
+      "file_name": "2",
+      "height": 0,
+      "id": 147156126842754535,
+      "license": "",
+      "url": "2",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "3",
+      "height": 0,
+      "id": 354620927941987105,
+      "license": "",
+      "url": "3",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "4",
+      "height": 0,
+      "id": 4596295743730961195,
+      "license": "",
+      "url": "4",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "5",
+      "height": 0,
+      "id": 1706843097672330799,
+      "license": "",
+      "url": "5",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "6",
+      "height": 0,
+      "id": 7746716028754089677,
+      "license": "",
+      "url": "6",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "7",
+      "height": 0,
+      "id": 6521029496747478038,
+      "license": "",
+      "url": "7",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "8",
+      "height": 0,
+      "id": 1914151115008837004,
+      "license": "",
+      "url": "8",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "9",
+      "height": 0,
+      "id": 416393196367123490,
+      "license": "",
+      "url": "9",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "10",
+      "height": 0,
+      "id": 8151042108688046781,
+      "license": "",
+      "url": "10",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "11",
+      "height": 0,
+      "id": 7380894928305291391,
+      "license": "",
+      "url": "11",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "12",
+      "height": 0,
+      "id": 7234930660931089625,
+      "license": "",
+      "url": "12",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "13",
+      "height": 0,
+      "id": 5520929447791439233,
+      "license": "",
+      "url": "13",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "14",
+      "height": 0,
+      "id": 6053423208940422883,
+      "license": "",
+      "url": "14",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "15",
+      "height": 0,
+      "id": 8415691923592806151,
+      "license": "",
+      "url": "15",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "16",
+      "height": 0,
+      "id": 7393123741125160431,
+      "license": "",
+      "url": "16",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "17",
+      "height": 0,
+      "id": 7789102173934657087,
+      "license": "",
+      "url": "17",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "18",
+      "height": 0,
+      "id": 1430864458907729979,
+      "license": "",
+      "url": "18",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "19",
+      "height": 0,
+      "id": 4121536794438867538,
+      "license": "",
+      "url": "19",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "20",
+      "height": 0,
+      "id": 1249955956815959204,
+      "license": "",
+      "url": "20",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "21",
+      "height": 0,
+      "id": 4199438651302312482,
+      "license": "",
+      "url": "21",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "22",
+      "height": 0,
+      "id": 7537713053174310511,
+      "license": "",
+      "url": "22",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "23",
+      "height": 0,
+      "id": 7711203720256143251,
+      "license": "",
+      "url": "23",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "24",
+      "height": 0,
+      "id": 7264319869785197054,
+      "license": "",
+      "url": "24",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "25",
+      "height": 0,
+      "id": 398116283929862537,
+      "license": "",
+      "url": "25",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "26",
+      "height": 0,
+      "id": 6777233964009624203,
+      "license": "",
+      "url": "26",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "27",
+      "height": 0,
+      "id": 7012253932756119194,
+      "license": "",
+      "url": "27",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "28",
+      "height": 0,
+      "id": 3905537726477018840,
+      "license": "",
+      "url": "28",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "29",
+      "height": 0,
+      "id": 568236679728935827,
+      "license": "",
+      "url": "29",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "30",
+      "height": 0,
+      "id": 5625965223639895024,
+      "license": "",
+      "url": "30",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "31",
+      "height": 0,
+      "id": 1485520535939202509,
+      "license": "",
+      "url": "31",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "32",
+      "height": 0,
+      "id": 7631018928459741011,
+      "license": "",
+      "url": "32",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "33",
+      "height": 0,
+      "id": 5305872424177444141,
+      "license": "",
+      "url": "33",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "34",
+      "height": 0,
+      "id": 5135776397508493448,
+      "license": "",
+      "url": "34",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "35",
+      "height": 0,
+      "id": 4585408470745275902,
+      "license": "",
+      "url": "35",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "36",
+      "height": 0,
+      "id": 6058927832527627242,
+      "license": "",
+      "url": "36",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "37",
+      "height": 0,
+      "id": 5502640930990391600,
+      "license": "",
+      "url": "37",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "38",
+      "height": 0,
+      "id": 5349861126453926619,
+      "license": "",
+      "url": "38",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "39",
+      "height": 0,
+      "id": 2924885770975581775,
+      "license": "",
+      "url": "39",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "40",
+      "height": 0,
+      "id": 4504670602684578417,
+      "license": "",
+      "url": "40",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "41",
+      "height": 0,
+      "id": 2483891956188181807,
+      "license": "",
+      "url": "41",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "42",
+      "height": 0,
+      "id": 5986105610333344556,
+      "license": "",
+      "url": "42",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "43",
+      "height": 0,
+      "id": 7530407002536702961,
+      "license": "",
+      "url": "43",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "44",
+      "height": 0,
+      "id": 1662519019586474335,
+      "license": "",
+      "url": "44",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "45",
+      "height": 0,
+      "id": 3046767195812049757,
+      "license": "",
+      "url": "45",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "46",
+      "height": 0,
+      "id": 5047589512677811852,
+      "license": "",
+      "url": "46",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "47",
+      "height": 0,
+      "id": 3892143013435389081,
+      "license": "",
+      "url": "47",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "48",
+      "height": 0,
+      "id": 9480383061343876,
+      "license": "",
+      "url": "48",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "49",
+      "height": 0,
+      "id": 5076805073583338084,
+      "license": "",
+      "url": "49",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "50",
+      "height": 0,
+      "id": 1763301740694252556,
+      "license": "",
+      "url": "50",
+      "width": 0
+    },
+    {
+      "date_captured": "",
+      "file_name": "51",
+      "height": 0,
+      "id": 1353679079766892029,
+      "license": "",
+      "url": "51",
+      "width": 0
+    }
+  ],
+  "info": {
+    "contributor": "Subhashini Venugopalan",
+    "date_created": "",
+    "description": "CaptionEval",
+    "url": "https://github.com/vsubhashini/",
+    "version": "1",
+    "year": 2016
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "test",
+      "url": "test"
+    }
+  ],
+  "type": "captions"
+}

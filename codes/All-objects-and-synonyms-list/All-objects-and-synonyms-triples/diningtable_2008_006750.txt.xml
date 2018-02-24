@@ -1,0 +1,64 @@
+A group of friends gathered in a restaurant eating . 
+a group of friend gather in a restaurant eating . 
+
+verb-prep-object	gather in restaurant
+object-prep-object	person in friend
+object-verb	person gather
+object	restaurant
+object	person
+object	friend
+object	diningtable
+#####################################################
+Five people pose at a restaurant table . 
+five people pose at a restaurant table . 
+
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+attribute-object	restaurant diningtable
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Group of people sitting at table of restaurant . 
+Group of people sit at table of restaurant . 
+
+object-prep-object	diningtable of table
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Two men and three women in a restaurant . 
+two man and three woman in a restaurant . 
+
+object-prep-object	person in man
+object-prep-object	person in woman
+object	person
+object	man
+object	woman
+object	diningtable
+#####################################################
+Two older men and three women seated at a restaurant table . 
+two older man and three woman seat at a restaurant table . 
+
+verb-prep-object	seat at diningtable
+object-prep-object	person at diningtable
+object-prep-object	person at diningtable
+attribute-object	older person
+attribute-object	restaurant diningtable
+object-verb	person seat
+object-verb	person seat
+object	diningtable
+object	table
+object	person
+object	man
+object	woman
+object	diningtable
+#####################################################

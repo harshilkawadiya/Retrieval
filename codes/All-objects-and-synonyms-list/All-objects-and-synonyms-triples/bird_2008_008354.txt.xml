@@ -1,0 +1,55 @@
+A green and orange lovebird with its feet vertically on its cage . 
+a green and orange lovebird with its foot vertically on its cage . 
+
+object-prep-object	bird with foot
+object-attribute	foot vertically
+attribute-object	green bird
+attribute-object	orange bird
+object	bird
+object	foot
+object	bird
+#####################################################
+A yellow and orange bird hold on to the side of a cage . 
+a yellow and orange bird hold on to the side of a cage . 
+
+verb-prep-object	hold to cage
+attribute-object	yellow bird
+attribute-object	orange bird
+object-verb	bird hold
+object	cage
+object	bird
+object	bird
+#####################################################
+A yellow parrot clings to the side of its cage . 
+a yellow parrot cling to the side of its cage . 
+
+verb-prep-object	cling to cage
+attribute-object	yellow bird
+object-verb	bird cling
+object	cage
+object	bird
+object	bird
+#####################################################
+Beautiful orange and green bird hanging onto a cage . 
+beautiful orange and green bird hang onto a cage . 
+
+verb-prep-object	hang onto cage
+attribute-object	beautiful bird
+attribute-object	orange bird
+attribute-object	green bird
+object-verb	bird hang
+object	cage
+object	bird
+object	bird
+#####################################################
+Yellow and orange parrot hanging from the side of his cage . 
+Yellow and orange parrot hang from the side of he cage . 
+
+verb-prep-object	hang from cage
+attribute-object	yellow bird
+attribute-object	orange bird
+object-verb	bird hang
+object	cage
+object	bird
+object	bird
+#####################################################

@@ -1,0 +1,60 @@
+A computer desk displays elvis memorabilia . 
+a computer desk display elvi memorabilia . 
+
+object-verb-object	desk display memorabilia
+attribute-object	computer desk
+attribute-object	elvis memorabilia
+object	desk
+object	memorabilia
+object	tvmonitor
+#####################################################
+A computer desk with various Elvis Presley paraphernalia on it . 
+a computer desk with various Elvis Presley paraphernalia on it . 
+
+object-prep-object	desk with paraphernalia
+attribute-object	various paraphernalia
+attribute-object	computer desk
+attribute-object	elvis paraphernalia
+attribute-object	presley paraphernalia
+object	desk
+object	paraphernalia
+object	tvmonitor
+#####################################################
+A display of Elvis memorabilia sits in the apartment . 
+a display of Elvis memorabilia sit in the apartment . 
+
+object-prep-object	display of memorabilia
+verb-prep-object	sit in apartment
+object-prep-object	display in apartment
+attribute-object	elvis memorabilia
+object-verb	display sit
+object	display
+object	memorabilia
+object	apartment
+object	tvmonitor
+#####################################################
+Elvis books are displayed on a computer desk . 
+Elvis book be display on a computer desk . 
+
+verb-prep-object	display on desk
+object-prep-object	book on desk
+attribute-object	elvis book
+attribute-object	computer desk
+object-verb	book display
+object	desk
+object	book
+object	tvmonitor
+#####################################################
+Some pictures of Elvis on a shelf below a computer monitor . 
+some picture of Elvis on a shelf below a computer monitor . 
+
+object-prep-object	picture of elvis
+object-prep-object	elvis on shelf
+object-prep-object	shelf below monitor
+attribute-object	computer monitor
+object	picture
+object	elvis
+object	shelf
+object	monitor
+object	tvmonitor
+#####################################################

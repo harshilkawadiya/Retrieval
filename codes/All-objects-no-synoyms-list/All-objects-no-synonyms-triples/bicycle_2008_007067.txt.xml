@@ -1,0 +1,59 @@
+An adult rides a child 's bike . 
+a adult ride a child 's bike . 
+
+object-verb-object	adult ride bike
+object	adult
+object	bike
+object	bicycle
+#####################################################
+A person on a small bike in some bright sunlight . 
+a person on a small bike in some bright sunlight . 
+
+object-prep-object	person on bike
+object-prep-object	person in sunlight
+attribute-object	small bike
+attribute-object	bright sunlight
+object	person
+object	bike
+object	sunlight
+object	bicycle
+#####################################################
+A person wearing a helmet sits on a bicycle on a sunny day . 
+a person wear a helmet sit on a bicycle on a sunny day . 
+
+verb-prep-object	sit on bicycle
+object-prep-object	person on bicycle
+verb-prep-object	sit on day
+attribute-object	sunny day
+object-verb-object	person wear helmet
+object-verb	person sit
+object	bicycle
+object	person
+object	day
+object	helmet
+object	bicycle
+#####################################################
+A person with a pink bicycle near a tree which has the sun shining through . 
+a person with a pink bicycle near a tree which have the sun shine through . 
+
+object-prep-object	person with bicycle
+object-prep-object	person near tree
+attribute-object	pink bicycle
+object	person
+object	bicycle
+object	tree
+object	bicycle
+#####################################################
+A small child riding a bike in bright sunlight . 
+a small child ride a bike in bright sunlight . 
+
+verb-prep-object	ride in sunlight
+object-prep-object	child in sunlight
+attribute-object	small child
+attribute-object	bright sunlight
+object-verb-object	child ride bike
+object	sunlight
+object	child
+object	bike
+object	bicycle
+#####################################################

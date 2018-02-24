@@ -1,0 +1,60 @@
+A clear plastic chair . 
+a clear plastic chair . 
+
+attribute-object	clear chair
+attribute-object	plastic chair
+object	chair
+object	chair
+#####################################################
+A clear plastic chair in front of a bookcase . 
+a clear plastic chair in front of a bookcase . 
+
+object-prep-object	chair in_front_of bookcase
+attribute-object	clear chair
+attribute-object	plastic chair
+object	chair
+object	bookcase
+object	chair
+#####################################################
+a clear plastic chair in front of book shelves . 
+a clear plastic chair in front of book shelf . 
+
+object-prep-object	chair in_front_of shelf
+attribute-object	clear chair
+attribute-object	plastic chair
+attribute-object	book shelf
+object	chair
+object	shelf
+object	chair
+#####################################################
+A transparent armchair sits on a light-colored wood floor near a case of books . 
+a transparent armchair sit on a light-colored wood floor near a case of book . 
+
+object-verb	armchair sit
+attribute-object	transparent armchair
+verb-prep-object	sit on floor
+object-prep-object	armchair on floor
+attribute-object	light-colored floor
+attribute-object	wood floor
+verb-prep-object	sit near case
+object-prep-object	case of book
+object	armchair
+object	floor
+object	case
+object	book
+object	chair
+#####################################################
+Clear glass or plastic chair in a room with loaded bookshelves . 
+clear glass or plastic chair in a room with loaded bookshelf . 
+
+object-prep-object	chair in room
+attribute-object	clear chair
+attribute-object	glass chair
+attribute-object	plastic chair
+object-prep-object	room with bookshelf
+attribute-object	loaded bookshelf
+object	chair
+object	room
+object	bookshelf
+object	chair
+#####################################################

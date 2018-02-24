@@ -1,0 +1,61 @@
+A grounded passenger plane at an airport . 
+a ground passenger plane at a airport . 
+
+object-prep-object	aeroplane at airport
+attribute-object	ground aeroplane
+attribute-object	passenger aeroplane
+object	aeroplane
+object	airport
+object	aeroplane
+#####################################################
+A JAL Boeing 747 sitting at an airport gate at night . 
+a JAL Boeing 747 sit at a airport gate at night . 
+
+verb-prep-object	sit at gate
+verb-prep-object	sit at night
+object-prep-object	aeroplane at gate
+object-prep-object	aeroplane at night
+attribute-object	jal aeroplane
+attribute-object	airport gate
+object-verb	aeroplane sit
+object	gate
+object	night
+object	aeroplane
+object	aeroplane
+#####################################################
+A large airplane parked at the airport at night . 
+a large airplane park at the airport at night . 
+
+verb-prep-object	park at airport
+verb-prep-object	park at night
+object-prep-object	aeroplane at airport
+object-prep-object	airport at night
+attribute-object	large aeroplane
+object-verb	aeroplane park
+object	airport
+object	night
+object	aeroplane
+object	aeroplane
+#####################################################
+A large jet on the ground at the airport . 
+a large jet on the ground at the airport . 
+
+object-prep-object	aeroplane on ground
+object-prep-object	aeroplane at airport
+attribute-object	large aeroplane
+object	aeroplane
+object	ground
+object	airport
+object	aeroplane
+#####################################################
+White Japan Airlines airplane at the gate . 
+White Japan Airlines airplane at the gate . 
+
+object-prep-object	aeroplane at gate
+attribute-object	white aeroplane
+attribute-object	japan aeroplane
+attribute-object	airlines aeroplane
+object	aeroplane
+object	gate
+object	aeroplane
+#####################################################

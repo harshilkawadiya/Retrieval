@@ -1,0 +1,59 @@
+A man holding a green bottle in left hand and petting horse with the other . 
+a man hold a green bottle in left hand and petting horse with the other . 
+
+object-verb-object	person hold man
+object-verb-object	person pet man
+verb-prep-object	hold in hand
+attribute-object	green bottle
+attribute-object	left hand
+object	person
+object	man
+object	hand
+object	bottle
+object	bottle
+#####################################################
+A man in a cowboy hat is looking at a brown horse whose head is reaching over the fence . 
+a man in a cowboy hat be look at a brown horse whose head be reach over the fence . 
+
+object-verb	person look
+object-prep-object	person in man
+verb-prep-object	look at horse
+attribute-object	brown horse
+attribute-object	cowboy hat
+object	person
+object	man
+object	horse
+object	hat
+object	bottle
+#####################################################
+A man with a bottle is petting a brown horse . 
+a man with a bottle be pet a brown horse . 
+
+object-prep-object	person with man
+attribute-object	brown horse
+object-verb-object	person pet man
+object	person
+object	man
+object	horse
+object	bottle
+#####################################################
+Man petting horse over fence . 
+man pet horse over fence . 
+
+object-prep-object	horse over fence
+object-verb-object	person pet man
+object	horse
+object	fence
+object	person
+object	man
+object	bottle
+#####################################################
+Man petting horse with beer in his hand . 
+man pet horse with beer in he hand . 
+
+object-prep-object	person with man
+object-verb-object	person pet man
+object	person
+object	man
+object	bottle
+#####################################################

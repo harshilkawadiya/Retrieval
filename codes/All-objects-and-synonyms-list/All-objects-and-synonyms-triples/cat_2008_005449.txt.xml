@@ -1,0 +1,67 @@
+A black and white cat laying on the ground in the sun . 
+a black and white cat lay on the ground in the sun . 
+
+verb-prep-object	lay on ground
+verb-prep-object	lay in sun
+object-prep-object	cat on ground
+object-prep-object	cat in sun
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat lay
+object	ground
+object	sun
+object	cat
+object	cat
+#####################################################
+A black and white cat lies in the dirt . 
+a black and white cat lie in the dirt . 
+
+verb-prep-object	lie in dirty
+object-prep-object	cat in dirty
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat lie
+object	dirty
+object	dirt
+object	cat
+object	cat
+#####################################################
+A white and black cat laying down outdoors . 
+a white and black cat lay down outdoors . 
+
+attribute-object	white cat
+attribute-object	black cat
+object-verb-object	cat lay outdoors
+verb-attribute	lay down
+object	cat
+object	outdoors
+object	cat
+#####################################################
+Black and white cat lying under bush . 
+Black and white cat lie under bush . 
+
+verb-prep-object	lie under bush
+object-prep-object	cat under bush
+attribute-object	black cat
+attribute-object	white cat
+object-verb	cat lie
+object	bush
+object	cat
+object	cat
+#####################################################
+The black and white cat with yellow eyes lounges in the dirt . 
+the black and white cat with yellow eye lounge in the dirt . 
+
+object-verb	cat lounge
+verb-prep-object	lounge in dirty
+object-prep-object	cat with eye
+object-prep-object	cat in dirty
+attribute-object	black cat
+attribute-object	white cat
+attribute-object	yellow eye
+object	cat
+object	dirty
+object	dirt
+object	eye
+object	cat
+#####################################################

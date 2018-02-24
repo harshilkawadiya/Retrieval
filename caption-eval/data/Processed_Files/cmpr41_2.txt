@@ -1,0 +1,50 @@
+beam_size_1	2	A boy and a girl playing on the beach .
+beam_size_1	3	A small boy and girls are playing in the sand on the beach .
+beam_size_1	4	Two children , one of which is holding a stick , are standing on the beach as the sun begins to set .
+beam_size_1	5	Two children on the beach silhouetted by the setting sun .
+beam_size_1	6	Two young children playing with sticks at the beach .
+beam_size_1	7	A couple of smiling little boys ride together in a plastic chair-swing , one on the other 's lap .
+beam_size_1	8	Children swinging on a blue swing in the park .
+beam_size_1	9	The two children swinging together on a swing .
+beam_size_1	10	Two little kids laugh on a blue swing .
+beam_size_1	11	Two smiling , small children , one child holding the other on a swing .
+beam_size_1	12	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	13	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	14	A little boy is leaping in the air onto a water slide .
+beam_size_1	15	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	16	The boy in the swimming trunks is playing in the yard .
+beam_size_1	17	A boy sitting in water .
+beam_size_1	18	A small boy is sitting in the water and water is splashing up through his legs .
+beam_size_1	19	A young boy in a swimming suit sits in water .
+beam_size_1	20	A young boy sitting on a water jet in a pool .
+beam_size_1	21	Little boy sitting in water with a fountain coming up through his lap .
+beam_size_1	22	A man and a dog running across shallow water on a beach .
+beam_size_1	23	A man and his dog walk on the ice of a frozen pond .
+beam_size_1	24	A man dressed in winter clothes is on the beach wiht a dog .
+beam_size_1	25	a man in a brown jacket is running on a sandy bay towards a dog that is in turn running towards him .
+beam_size_1	26	The backview of a man dressed up in a jacket and a dog running towards him .
+beam_size_1	27	A group of men are standing around during a sports game in a park .
+beam_size_1	28	Men in the park .
+beam_size_1	29	Men playing soccer in a field
+beam_size_1	30	Men standing on a grass field with trees in the background .
+beam_size_1	31	Nine men are playing a game in the park , shirts versus skins .
+beam_size_1	32	A brown dog possessively grabs a purple Frisbee in a field .
+beam_size_1	33	A brown dog running to catch a Frisbee in a field of grass .
+beam_size_1	34	A brown dog with a purple Frisbee in its mouth .
+beam_size_1	35	A dog in a field with a Frisbee .
+beam_size_1	36	The dog is concerned with a purple object lying in an uncut field .
+beam_size_1	37	A barefoot child climbs at the jungle gym .
+beam_size_1	38	A little girl climbs up a rock climbing jungle gym at a park .
+beam_size_1	39	A young child climbing a rock wall at a playground .
+beam_size_1	40	Girl climbing on a climbing wall
+beam_size_1	41	The little girl is climbing a wall in the park barefoot .
+beam_size_1	42	A dirty tan dog rolling in the dirt and looking right at the camera .
+beam_size_1	43	A dog lies on the ground .
+beam_size_1	44	A dog rolls on the ground .
+beam_size_1	45	Dog with black collar rolling in dirt and dried leaves
+beam_size_1	46	The brown dog is rolling around in the dirt .
+beam_size_1	47	A kid walks on a snowy hill with their arms out .
+beam_size_1	48	a little boy plays in the snow .
+beam_size_1	49	A toddler in a red jacket is balancing on top of snow .
+beam_size_1	50	A young child wearing orange balances on a snowy ledge .
+beam_size_1	51	The little boy in black and orange walks through the snow .

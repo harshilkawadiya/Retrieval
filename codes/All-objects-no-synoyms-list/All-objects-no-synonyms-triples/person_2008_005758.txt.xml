@@ -1,0 +1,69 @@
+A guy wearing a cap backwards and standing between two large Coca-Cola bottles that are taller than he is . 
+a guy wear a cap backwards and stand between two large Coca-Cola bottle that be taller than he be . 
+
+object-verb-object	guy wear cap
+object-verb	guy stand
+verb-prep-object	stand between bottle
+object-prep-object	guy between bottle
+attribute-object	large bottle
+attribute-object	coca-cola bottle
+object	guy
+object	cap
+object	bottle
+object	person
+#####################################################
+A long-haired man with a hat standing between two large , half-empty Coke bottles . 
+a long-haired man with a hat standing between two large , half-empty Coke bottle . 
+
+object-prep-object	man with hat
+object-verb	man stand
+verb-prep-object	stand between bottle
+object-prep-object	man between bottle
+attribute-object	long-haired man
+attribute-object	large bottle
+attribute-object	half-empty bottle
+attribute-object	coke bottle
+object	man
+object	hat
+object	bottle
+object	person
+#####################################################
+A man with a cap and jacket walking between two large bottles . 
+a man with a cap and jacket walking between two large bottle . 
+
+object-prep-object	man with cap
+object-prep-object	man with jacket
+object-verb	man walk
+verb-prep-object	walk between bottle
+object-prep-object	man between bottle
+attribute-object	large bottle
+object	man
+object	cap
+object	jacket
+object	bottle
+object	person
+#####################################################
+A young tourist gets his photo taken in front of a Coca-Cola ad . 
+a young tourist get he photo take in front of a Coca-Cola ad . 
+
+verb-prep-object	take in_front_of ad
+object-prep-object	tourist in_front_of ad
+attribute-object	young tourist
+object-verb-object	tourist get photo
+attribute-object	coca-cola ad
+object-verb	photo take
+object	ad
+object	tourist
+object	photo
+object	person
+#####################################################
+Man between two giant coke bottles . 
+man between two giant coke bottle . 
+
+object-prep-object	man between bottle
+attribute-object	giant bottle
+attribute-object	coke bottle
+object	man
+object	bottle
+object	person
+#####################################################

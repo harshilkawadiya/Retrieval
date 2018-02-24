@@ -1,0 +1,71 @@
+Fighter jet formation flying over lake . 
+Fighter jet formation fly over lake . 
+
+verb-prep-object	fly over water
+attribute-object	fighter aeroplane
+object-verb	aeroplane fly
+object-prep-object	aeroplane over water
+object	water
+object	lake
+object	aeroplane
+object	aeroplane
+#####################################################
+Five jets screech across the sky at low altitude above a river in a small city . 
+five jet screech across the sky at low altitude above a river in a small city . 
+
+verb-prep-object	screech across sky
+verb-prep-object	screech at altitude
+verb-prep-object	screech above water
+verb-prep-object	screech in city
+object-prep-object	aeroplane across sky
+object-prep-object	aeroplane above water
+object-prep-object	aeroplane in city
+attribute-object	low altitude
+attribute-object	small city
+object-verb	aeroplane screech
+object	sky
+object	altitude
+object	water
+object	river
+object	city
+object	aeroplane
+object	aeroplane
+#####################################################
+Jets flying across the sky over the water by a city . 
+jet fly across the sky over the water by a city . 
+
+verb-prep-object	fly across sky
+verb-prep-object	fly over water
+verb-prep-object	fly by city
+object-verb	aeroplane fly
+object-prep-object	aeroplane across sky
+object-prep-object	aeroplane over water
+object-prep-object	aeroplane by city
+object	sky
+object	water
+object	city
+object	aeroplane
+object	aeroplane
+#####################################################
+Six jets are flying over the ocean . 
+six jet be fly over the ocean . 
+
+verb-prep-object	fly over water
+object-prep-object	aeroplane over water
+object-verb	aeroplane fly
+object	water
+object	ocean
+object	aeroplane
+object	aeroplane
+#####################################################
+The Blue Angels flying over a river with a skyline in the background . 
+the Blue Angels fly over a river with a skyline in the background . 
+
+verb-prep-object	fly over water
+attribute-object	blue aeroplane
+object-verb	aeroplane fly
+object	water
+object	river
+object	aeroplane
+object	aeroplane
+#####################################################

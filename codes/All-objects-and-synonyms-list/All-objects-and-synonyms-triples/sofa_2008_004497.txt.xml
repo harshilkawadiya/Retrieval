@@ -1,0 +1,81 @@
+A black leather couch with a chew ' lounge and a coffee table with light candles in glasses . 
+a black leather couch with a chew ' lounge and a coffee table with light candle in glass . 
+
+object-prep-object	sofa with room
+attribute-object	chew room
+object-prep-object	diningtable with table
+attribute-object	coffee diningtable
+attribute-object	light candle
+attribute-object	black sofa
+attribute-object	leather sofa
+object-prep-object	candle in glass
+object	sofa
+object	bed
+object	room
+object	lounge
+object	diningtable
+object	table
+object	candle
+object	glass
+object	sofa
+#####################################################
+A brown leather sofa with a wooden coffee table in front of it . 
+a brown leather sofa with a wooden coffee table in front of it . 
+
+object-prep-object	sofa with diningtable
+attribute-object	brown sofa
+attribute-object	wooden diningtable
+attribute-object	leather sofa
+attribute-object	coffee diningtable
+object	sofa
+object	diningtable
+object	table
+object	sofa
+#####################################################
+A leather couch and wooden table in a living room . 
+a leather couch and wooden table in a living room . 
+
+object-prep-object	sofa in bed
+object-prep-object	diningtable in table
+attribute-object	wooden diningtable
+attribute-object	leather sofa
+attribute-object	living room
+object	sofa
+object	bed
+object	diningtable
+object	table
+object	room
+object	sofa
+#####################################################
+A living room with a brown leather couch and a coffee table . 
+a living room with a brown leather couch and a coffee table . 
+
+object-prep-object	room with bed
+object-prep-object	room with diningtable
+attribute-object	brown sofa
+attribute-object	living room
+attribute-object	leather sofa
+attribute-object	coffee diningtable
+object	room
+object	sofa
+object	bed
+object	diningtable
+object	table
+object	sofa
+#####################################################
+The leather couch is behind the coffee table set with glasses and place mats . 
+the leather couch be behind the coffee table set with glass and place mat . 
+
+object-prep-object	sofa behind diningtable
+attribute-object	leather sofa
+attribute-object	coffee diningtable
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+attribute-object	place mat
+object	sofa
+object	bed
+object	diningtable
+object	table
+object	mat
+object	sofa
+#####################################################

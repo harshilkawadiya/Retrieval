@@ -1,0 +1,50 @@
+beam_size_1	2	A hiker is walking a treeless path up a hill .
+beam_size_1	3	A man is backpacking up a grassy hill .
+beam_size_1	4	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	5	Person hiking up a grassy trail toward a large hill .
+beam_size_1	6	The hiker is following a trail uphill .
+beam_size_1	7	A few younger boys play around a fountain .
+beam_size_1	8	A group of people gather around a large fountain .
+beam_size_1	9	Three boys play around a fountain in an office building courtyard .
+beam_size_1	10	Three kids are playing at a fountain in front of a building .
+beam_size_1	11	three kids playing around a fountain
+beam_size_1	12	A girl in a red shirt takes a picture on a phone .
+beam_size_1	13	A woman in a low cut shirt takes a picture with her cellphone .
+beam_size_1	14	A woman in a red shirt holding a cellphone .
+beam_size_1	15	A woman taking pictures with her phone .
+beam_size_1	16	The girl in sunglasses holds up her phone to take a picture of something .
+beam_size_1	17	A group of people stand in the sand looking out at the water .
+beam_size_1	18	Five people look out toward the ocean .
+beam_size_1	19	Five people standing in front of a body of water .
+beam_size_1	20	Three men and two women stand facing the ocean from the shore on a sunny day .
+beam_size_1	21	Two ladies and three men looking at the ocean .
+beam_size_1	22	a man looks through his binoculars while another man holds a drink .
+beam_size_1	23	A man with a thermos is standing next to a man who is gazing through binoculars .
+beam_size_1	24	Two men are standing together while one looks through binoculars .
+beam_size_1	25	Two men look out as one is holding binoculars .
+beam_size_1	26	two people standing next to each other with mountains in the distance .
+beam_size_1	27	Children skating while people watch on the side .
+beam_size_1	28	Two boys ice skate with other people .
+beam_size_1	29	Two boys on ice skates race on an outdoor ice rink .
+beam_size_1	30	Two boys race on ice skates while others watch .
+beam_size_1	31	Two children are skating quickly on ice .
+beam_size_1	32	The iguanas wrestled along the rocky water bank .
+beam_size_1	33	The two reptiles are standing on their back legs near deep water .
+beam_size_1	34	Two lizards fighting .
+beam_size_1	35	Two lizards fight in the water .
+beam_size_1	36	Two oriental lizards are fighting for dominance in a small pond
+beam_size_1	37	A group of people are walking while holding numerous baskets and rugs .
+beam_size_1	38	A man carrying many woven baskets next to a man carrying a stack of rugs on his back .
+beam_size_1	39	Two individuals carrying numerous products to sell are walking on a beach .
+beam_size_1	40	Two people carrying colorful baskets and blankets walk near a building .
+beam_size_1	41	Two people walking laden down with baskets and blankets .
+beam_size_1	42	One climber is sitting on the rock overlooking the ocean whilst another climber is on her way up .
+beam_size_1	43	Two people are on a rock overlooking the ocean
+beam_size_1	44	Two people climb a rock overhanging water .
+beam_size_1	45	Two people climb rocks over some water .
+beam_size_1	46	Two people rock climbing near water .
+beam_size_1	47	A girl and guy dressed up in costumes
+beam_size_1	48	A man dressed as " Teen Wolf " hugs a woman made up like a vampire .
+beam_size_1	49	A man in a werewolf mask is with a woman wearing elf ears .
+beam_size_1	50	The man wearing the mask and sunglasses has his arm around the woman who is wearing fake pointed ears .
+beam_size_1	51	Two individuals dressed up like animals are posing for the camera .

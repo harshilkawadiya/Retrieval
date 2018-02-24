@@ -1,0 +1,62 @@
+A baby holds a ketchup packet . 
+a baby hold a ketchup packet . 
+
+object-verb-object	baby hold packet
+attribute-object	ketchup packet
+object	baby
+object	packet
+object	bottle
+#####################################################
+A baby in a highchair holds a ketchup packet . 
+a baby in a highchair hold a ketchup packet . 
+
+object-prep-object	baby in highchair
+object-verb-object	baby hold packet
+attribute-object	ketchup packet
+object	baby
+object	highchair
+object	packet
+object	bottle
+#####################################################
+A baby is seated in a polka-dotted high chair and holding a packet of cats . 
+a baby be seat in a polka-dotted high chair and hold a packet of cat . 
+
+verb-prep-object	seat in chair
+object-prep-object	baby in chair
+object-prep-object	packet of cat
+attribute-object	polka-dotted chair
+attribute-object	high chair
+object-verb	baby seat
+object-verb-object	baby hold packet
+object	chair
+object	baby
+object	packet
+object	cat
+object	bottle
+#####################################################
+A small child sitting in a multicolored chair . 
+a small child sit in a multicolored chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	child in chair
+attribute-object	small child
+attribute-object	multicolored chair
+object-verb	child sit
+object	chair
+object	child
+object	bottle
+#####################################################
+A toddler in a polka-dotted chair plays with condiment packages . 
+a toddler in a polka-dotted chair play with condiment package . 
+
+verb-prep-object	play with package
+object-prep-object	toddler with package
+object-prep-object	toddler in chair
+attribute-object	polka-dotted chair
+attribute-object	condiment package
+object-verb	toddler play
+object	package
+object	toddler
+object	chair
+object	bottle
+#####################################################

@@ -1,0 +1,57 @@
+A female child with dark brown hair is smiling at the camera . 
+a female child with dark brown hair be smile at the camera . 
+
+verb-prep-object	smile at camera
+object-prep-object	child with hair
+attribute-object	female child
+attribute-object	dark hair
+attribute-object	brown hair
+object-verb	child smile
+object	camera
+object	child
+object	hair
+object	person
+#####################################################
+a little girl is laughing at the camera . 
+a little girl be laugh at the camera . 
+
+verb-prep-object	laugh at camera
+attribute-object	little girl
+object-verb	girl laugh
+object	camera
+object	girl
+object	person
+#####################################################
+A small child smiling at the camera . 
+a small child smile at the camera . 
+
+verb-prep-object	smile at camera
+attribute-object	small child
+object-verb	child smile
+object	camera
+object	child
+object	person
+#####################################################
+A young child in a floral shirt smiles . 
+a young child in a floral shirt smile . 
+
+object-prep-object	child in shirt
+attribute-object	young child
+attribute-object	floral shirt
+object-verb	child smile
+object	child
+object	shirt
+object	person
+#####################################################
+Young girl smiling in a white shirt . 
+Young girl smile in a white shirt . 
+
+verb-prep-object	smile in shirt
+object-prep-object	girl in shirt
+attribute-object	white shirt
+attribute-object	young girl
+object-verb	girl smile
+object	shirt
+object	girl
+object	person
+#####################################################

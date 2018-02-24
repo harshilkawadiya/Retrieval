@@ -1,0 +1,64 @@
+A black and white scene of birds eating at bird feeder . 
+a black and white scene of bird eat at bird feeder . 
+
+verb-prep-object	eat at feeder
+object-prep-object	scene of bird
+attribute-object	black scene
+attribute-object	white scene
+attribute-object	bird feeder
+object-verb	bird eat
+object	feeder
+object	scene
+object	bird
+object	bird
+#####################################################
+Black and white photo of two birds circling a small birdbath . 
+Black and white photo of two bird circle a small birdbath . 
+
+object-prep-object	photo of bird
+attribute-object	white photo
+attribute-object	black photo
+attribute-object	small birdbath
+object-verb-object	bird circle birdbath
+object	photo
+object	bird
+object	birdbath
+object	bird
+#####################################################
+This is a black and white picture of two birds flying among bird feeders . 
+this be a black and white picture of two bird fly among bird feeder . 
+
+verb-prep-object	fly among feeder
+object-prep-object	bird among feeder
+object-prep-object	picture of bird
+attribute-object	black picture
+attribute-object	white picture
+attribute-object	bird feeder
+object-verb	bird fly
+object	feeder
+object	bird
+object	picture
+object	bird
+#####################################################
+Two birds flying near bird feeders . 
+two bird fly near bird feeder . 
+
+verb-prep-object	fly near feeder
+object-prep-object	bird near feeder
+attribute-object	bird feeder
+object-verb	bird fly
+object	feeder
+object	bird
+object	bird
+#####################################################
+Two birds flying towards water feeder . 
+two bird fly towards water feeder . 
+
+verb-prep-object	fly towards feeder
+object-prep-object	bird towards feeder
+attribute-object	water feeder
+object-verb	bird fly
+object	feeder
+object	bird
+object	bird
+#####################################################

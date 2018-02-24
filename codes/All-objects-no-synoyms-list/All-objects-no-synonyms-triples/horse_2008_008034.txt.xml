@@ -1,0 +1,60 @@
+A jockey riding a horse . 
+a jockey ride a horse . 
+
+object-verb-object	jockey ride horse
+object	jockey
+object	horse
+object	horse
+#####################################################
+A jockey wearing purple riding a brown horse with its tongue out . 
+a jockey wear purple ride a brown horse with its tongue out . 
+
+attribute-object	brown horse
+object-verb-object	jockey wear purple
+object-verb-object	jockey ride horse
+object	horse
+object	jockey
+object	purple
+object	horse
+#####################################################
+A jockey with a purple uniform shirt and hat with white pants rides a horse . 
+a jockey with a purple uniform shirt and hat with white pants ride a horse . 
+
+object-prep-object	jockey with shirt
+object-prep-object	jocket with hat
+object-prep-object	jockey with pants
+attribute-object	purple shirt
+attribute-object	uniform shirt
+attribute-object	white pants
+object-verb-object	jockey ride horse
+object	jockey
+object	shirt
+object	jocket
+object	hat
+object	pants
+object	horse
+object	horse
+#####################################################
+Jockey dressed in purple riding horse . 
+jockey dress in purple ride horse . 
+
+verb-prep-object	dress in purple
+object-prep-object	jockey in purple
+object-verb-object	jockey ride horse
+object-verb	jockey dress
+object	purple
+object	jockey
+object	horse
+object	horse
+#####################################################
+The jockey is wearing purple and riding a brown horse . 
+the jockey be wear purple and ride a brown horse . 
+
+attribute-object	brown horse
+object-verb-object	jockey wear purple
+object-verb-object	jockey ride horse
+object	horse
+object	jockey
+object	purple
+object	horse
+#####################################################

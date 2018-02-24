@@ -1,0 +1,55 @@
+a black and white photo of a cow under a tree . 
+a black and white photo of a cow under a tree . 
+
+object-prep-object	cow under tree
+object	cow
+object	tree
+object	cow
+#####################################################
+A black and white photo of a cow walking under a tree in a field . 
+a black and white photo of a cow walk under a tree in a field . 
+
+verb-prep-object	walk under tree
+object-prep-object	cow under tree
+object-prep-object	tree in field
+object-verb	cow walk
+object	tree
+object	cow
+object	field
+object	cow
+#####################################################
+Black cow walking under trees in pasture . 
+Black cow walk under tree in pasture . 
+
+object-prep-object	tree in pasture
+verb-prep-object	walk under tree
+object-prep-object	cow under tree
+attribute-object	black cow
+object-verb	cow walk
+object	tree
+object	pasture
+object	cow
+object	cow
+#####################################################
+Cow walking under the tree in a pasture . 
+cow walking under the tree in a pasture . 
+
+verb-prep-object	walk under tree
+object-prep-object	cow under tree
+object-prep-object	tree in pasture
+object-verb	cow walk
+object	tree
+object	cow
+object	pasture
+object	cow
+#####################################################
+The cow is grazing in the field . 
+the cow be grazing in the field . 
+
+verb-prep-object	graze in field
+object-prep-object	cow in field
+object-verb	cow graze
+object	field
+object	cow
+object	cow
+#####################################################

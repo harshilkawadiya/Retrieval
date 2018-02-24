@@ -1,0 +1,63 @@
+A red and white bus drives down an England street . 
+a red and white bus drive down a England street . 
+
+object-verb	bus drive
+verb-prep-object	drive down road
+attribute-object	red bus
+attribute-object	white bus
+attribute-object	england road
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+A red and white bus with England written on the side is waiting at a traffic signal . 
+a red and white bus with England write on the side be wait at a traffic signal . 
+
+attribute-object	red bus
+attribute-object	white bus
+verb-prep-object	wait at signal
+object-prep-object	bus at signal
+attribute-object	traffic signal
+object-verb	bus wait
+object	bus
+object	signal
+object	bus
+#####################################################
+A red and white England bus drives down the street . 
+a red and white England bus drive down the street . 
+
+object-verb	bus drive
+verb-prep-object	drive down road
+attribute-object	red bus
+attribute-object	white bus
+attribute-object	england bus
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+Red and white England bus driving down the street . 
+Red and white England bus drive down the street . 
+
+attribute-object	red bus
+attribute-object	white bus
+object-verb	bus drive
+attribute-object	england bus
+verb-prep-object	drive down road
+object	bus
+object	road
+object	street
+object	bus
+#####################################################
+The bus drives on in the damp English weather . 
+the bus drive on in the damp english weather . 
+
+attribute-object	damp weather
+attribute-object	english weather
+verb-prep-object	drive in weather
+object-verb	bus drive
+object	weather
+object	bus
+object	bus
+#####################################################

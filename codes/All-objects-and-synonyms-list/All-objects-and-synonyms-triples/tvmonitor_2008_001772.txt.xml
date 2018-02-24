@@ -1,0 +1,75 @@
+A green painted office with a buster eaten poster and a soda bottle on the wall . 
+a green painted office with a buster eat poster and a soda bottle on the wall . 
+
+object-prep-object	office with poster
+attribute-object	green office
+attribute-object	painted office
+attribute-object	buster poster
+attribute-object	eat poster
+object-prep-object	office with bottle
+object-prep-object	bottle on wall
+attribute-object	soda bottle
+object	office
+object	poster
+object	bottle
+object	wall
+object	tvmonitor
+#####################################################
+An office with a green wall , desk , fax machine , computer , and chairs . 
+a office with a green wall , desk , fax machine , computer , and chair . 
+
+object-prep-object	office with wall
+object-prep-object	office with diningtable
+object-prep-object	office with machine
+object-prep-object	office with laptop
+object-prep-object	office with chair
+attribute-object	green wall
+attribute-object	fax machine
+object	office
+object	wall
+object	table
+object	diningtable
+object	machine
+object	laptop
+object	chair
+object	tvmonitor
+#####################################################
+An office with multiple desks and green walls . 
+a office with multiple desk and green wall . 
+
+object-prep-object	office with diningtable
+object-prep-object	office with wall
+attribute-object	multiple table
+attribute-object	green wall
+object	office
+object	table
+object	diningtable
+object	wall
+object	tvmonitor
+#####################################################
+Home office space with bright green walls and artwork . 
+Home office space with bright green wall and artwork . 
+
+object-prep-object	space with wall
+object-prep-object	space with artwork
+attribute-object	bright wall
+attribute-object	green wall
+attribute-object	home space
+attribute-object	office space
+object	space
+object	wall
+object	artwork
+object	tvmonitor
+#####################################################
+Small office space with bright green walls . 
+small office space with bright green wall . 
+
+object-prep-object	space with wall
+attribute-object	small space
+attribute-object	bright wall
+attribute-object	green wall
+attribute-object	office space
+object	space
+object	wall
+object	tvmonitor
+#####################################################

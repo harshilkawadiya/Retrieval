@@ -1,0 +1,66 @@
+a man in a street cleaning tricycle in China . 
+a man in a street clean tricycle in China . 
+
+object-prep-object	person in road
+object-prep-object	person in country
+object-verb-object	person clean bicycle
+object	person
+object	road
+object	country
+object	bicycle
+object	bicycle
+#####################################################
+A man riding a tricycle on a city street . 
+a man ride a tricycle on a city street . 
+
+object-prep-object	person on road
+verb-prep-object	ride on road
+object-verb-object	person ride bicycle
+attribute-object	city road
+object	person
+object	road
+object	bicycle
+object	bicycle
+#####################################################
+A man wearing a dust mask riding a three wheeled bicycle . 
+a man wear a dust mask ride a three wheel bicycle . 
+
+object-verb-object	person wear mask
+object-verb-object	person ride bicycle
+attribute-object	dust mask
+attribute-object	wheeled bicycle
+object	person
+object	mask
+object	bicycle
+object	bicycle
+#####################################################
+A man with orange hat and jacket wearing a face mask pedals down a Japanese street . 
+a man with orange hat and jacket wear a face mask pedal down a japanese street . 
+
+object-verb-object	person wear mask
+object-verb-object	person pedal road
+attribute-verb	down pedal
+object-prep-object	person with hat
+object-prep-object	person with jacket
+attribute-object	orange hat
+attribute-object	japanese road
+attribute-object	face mask
+object	person
+object	mask
+object	road
+object	hat
+object	jacket
+object	bicycle
+#####################################################
+A person driving a cart pulled by a bicycle . 
+a person drive a cart pull by a bicycle . 
+
+verb-prep-object	pull by bicycle
+object-verb-object	person drive bus
+object-verb	bus pull
+object	bicycle
+object	person
+object	bus
+object	cart
+object	bicycle
+#####################################################

@@ -1,0 +1,57 @@
+A dining room containing two tables . 
+a dining room contain two table . 
+
+object-verb-object	room contain table
+attribute-object	dining room
+object	room
+object	table
+object	diningtable
+#####################################################
+An empty room with glass windows and a chandelier . 
+a empty room with glass window and a chandelier . 
+
+object-prep-object	room with window
+object-prep-object	room with chandelier
+attribute-object	empty room
+attribute-object	glass window
+object	room
+object	window
+object	chandelier
+object	diningtable
+#####################################################
+A room with two tables , three chairs and a bay window . 
+a room with two table , three chair and a bay window . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+object-prep-object	room with window
+attribute-object	bay window
+object	room
+object	table
+object	chair
+object	window
+object	diningtable
+#####################################################
+a small dining room set facing three windows . 
+a small dining room set face three window . 
+
+attribute-object	small room
+attribute-object	dining room
+object-verb	room set
+object-verb-object	room face window
+object	room
+object	window
+object	diningtable
+#####################################################
+Sun shining through the window with a cluttered table . 
+Sun shine through the window with a cluttered table . 
+
+verb-prep-object	shine through window
+object-prep-object	window with table
+attribute-object	cluttered table
+object-verb	sun shine
+object	window
+object	table
+object	sun
+object	diningtable
+#####################################################

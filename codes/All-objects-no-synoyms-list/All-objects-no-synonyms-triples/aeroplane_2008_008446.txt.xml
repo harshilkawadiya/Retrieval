@@ -1,0 +1,63 @@
+A plane maneuvers at low altitude over the river . 
+a plane maneuver at low altitude over the river . 
+
+verb-prep-object	maneuver at altitude
+verb-prep-object	maneuver over river
+object-prep-object	plane at altitude
+object-prep-object	plane over river
+attribute-object	low altitude
+object-verb	plane maneuver
+object	altitude
+object	river
+object	plane
+object	aeroplane
+#####################################################
+A red airplane flying over a white and gray harbor scene . 
+a red airplane fly over a white and gray harbor scene . 
+
+verb-prep-object	fly over scene
+object-prep-object	airplane over scene
+attribute-object	red airplane
+attribute-object	white scene
+attribute-object	gray scene
+attribute-object	harbor scene
+object-verb	airplane fly
+object	scene
+object	airplane
+object	aeroplane
+#####################################################
+A red plane is banking over a shipyard . 
+a red plane be bank over a shipyard . 
+
+attribute-object	red plane
+object-verb	plane bank
+verb-prep-object	bank over shipyard
+object-prep-object	plane over shipyard
+object	plane
+object	shipyard
+object	aeroplane
+#####################################################
+A stunt plane flies low over water . 
+a stunt plane fly low over water . 
+
+verb-prep-object	fly over water
+object-prep-object	plane over water
+verb-attribute	fly low
+object-verb	plane fly
+attribute-object	stunt plane
+object	water
+object	plane
+object	aeroplane
+#####################################################
+Red airplane in flight on a cloudy day . 
+Red airplane in flight on a cloudy day . 
+
+object-prep-object	airplane on day
+object-prep-object	airplane in flight
+attribute-object	cloudy day
+attribute-object	red airplane
+object	airplane
+object	day
+object	flight
+object	aeroplane
+#####################################################

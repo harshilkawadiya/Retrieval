@@ -1,0 +1,68 @@
+A table and three chairs with a large wall cupboard above . 
+a table and three chair with a large wall cupboard above . 
+
+object-prep-object	table with cupboard
+object-prep-object	chair with cupboard
+attribute-object	large cupboard
+attribute-object	wall cupboard
+object	table
+object	cupboard
+object	chair
+object	diningtable
+#####################################################
+A table in a small kitchen with a scale and a box of Canada Dry . 
+a table in a small kitchen with a scale and a box of Canada Dry . 
+
+object-prep-object	kitchen with scale
+object-prep-object	kitchen with box
+object-prep-object	table in kitchen
+attribute-object	small kitchen
+attribute-object	canada dry
+object-prep-object	box of dry
+object	kitchen
+object	scale
+object	box
+object	table
+object	dry
+object	diningtable
+#####################################################
+A table with three chairs in a room with plywood walls . 
+a table with three chair in a room with plywood wall . 
+
+object-prep-object	table with chair
+object-prep-object	table in room
+object-prep-object	room with wall
+attribute-object	plywood wall
+object	table
+object	chair
+object	room
+object	wall
+object	diningtable
+#####################################################
+Small kitchen table with small food scale on top . 
+small kitchen table with small food scale on top . 
+
+object-prep-object	table with scale
+attribute-object	small table
+attribute-object	small scale
+attribute-object	kitchen table
+attribute-object	food scale
+object	table
+object	scale
+object	diningtable
+#####################################################
+The dining room has a table and chairs underneath a low hanging cabinet . 
+the dining room have a table and chair underneath a low hanging cabinet . 
+
+object-prep-object	table underneath cabinet
+attribute-object	low cabinet
+object-verb-object	room have table
+object-verb-object	room have chair
+attribute-object	dining room
+attribute-object	hanging cabinet
+object	table
+object	cabinet
+object	room
+object	chair
+object	diningtable
+#####################################################

@@ -1,0 +1,62 @@
+A computer with two monitors on a white desk . 
+a computer with two monitor on a white desk . 
+
+object-prep-object	tvmonitor on diningtable
+object-prep-object	laptop with tvmonitor
+attribute-object	white table
+object	tvmonitor
+object	monitor
+object	table
+object	diningtable
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+monitors on a desk . 
+monitor on a desk . 
+
+object-prep-object	tvmonitor on diningtable
+object	tvmonitor
+object	monitor
+object	table
+object	diningtable
+object	tvmonitor
+#####################################################
+Two computer monitors with matching images . 
+two computer monitor with match image . 
+
+object-prep-object	tvmonitor with monitor
+attribute-object	match image
+attribute-object	computer tvmonitor
+object	tvmonitor
+object	monitor
+object	image
+object	tvmonitor
+#####################################################
+Two computer monitors with matching screens sit on a desk with other electronics . 
+two computer monitor with match screen sit on a desk with other electronics . 
+
+object-prep-object	tvmonitor with monitor
+attribute-object	computer tvmonitor
+attribute-object	match screen
+object-verb	tvmonitor sit
+verb-prep-object	sit on table
+object-prep-object	tvmonitor on diningtable
+object-prep-object	table with diningtable
+attribute-object	other electronics
+object	tvmonitor
+object	monitor
+object	screen
+object	table
+object	diningtable
+object	electronics
+object	tvmonitor
+#####################################################
+Two computer monitors with the same background are placed right next to each other . 
+two computer monitor with the same background be place right next to each other . 
+
+attribute-object	computer tvmonitor
+object	tvmonitor
+object	monitor
+object	tvmonitor
+#####################################################

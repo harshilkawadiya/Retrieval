@@ -1,0 +1,50 @@
+beam_size_1	2	A kid walks on a snowy hill with their arms out .
+beam_size_1	3	a little boy plays in the snow .
+beam_size_1	4	A toddler in a red jacket is balancing on top of snow .
+beam_size_1	5	A young child wearing orange balances on a snowy ledge .
+beam_size_1	6	The little boy in black and orange walks through the snow .
+beam_size_1	7	A dirt biker pushes his motorcycle up a rock while another rider watches .
+beam_size_1	8	A man in red on a dirt bike struggles up a rock while another man in red watches .
+beam_size_1	9	A man in red pushes his motocross bike up a rock .
+beam_size_1	10	A man is looking on as another man attempts to climb a small boulder with his dirt bike .
+beam_size_1	11	A red-clad man rides a bike through rocky ground while another man looks on
+beam_size_1	12	A child in formal clothing is walking along the edge of a stony area that is littered in places .
+beam_size_1	13	A little boy with a blue jacket is making a sour face at the camera .
+beam_size_1	14	A young boy wearing a light blue jacket walks across the brick patio .
+beam_size_1	15	A young boy with a blue coat makes a funny face as he walks towards the grass .
+beam_size_1	16	The young boy is walking wearing a blue jacket , a black sweater and white collared shirt .
+beam_size_1	17	A man snowboards .
+beam_size_1	18	A red-clothed snowboarder is performing an aerial trick .
+beam_size_1	19	A snowboarder in the air over a snowy mountain .
+beam_size_1	20	A snowboarder is in the air .
+beam_size_1	21	A snowboarder is jumping in the air over a snow slope .
+beam_size_1	22	A boy and a girl playing on the beach .
+beam_size_1	23	A small boy and girls are playing in the sand on the beach .
+beam_size_1	24	Two children , one of which is holding a stick , are standing on the beach as the sun begins to set .
+beam_size_1	25	Two children on the beach silhouetted by the setting sun .
+beam_size_1	26	Two young children playing with sticks at the beach .
+beam_size_1	27	A man in the near distance is pointing to a silver sedan near him .
+beam_size_1	28	A man is playing tennis with himself against a large wall in a parking lot .
+beam_size_1	29	A man walks toward a car in a parking lot .
+beam_size_1	30	Man stands outside against wall with tennis racket in dark .
+beam_size_1	31	The man is playing tennis against the building .
+beam_size_1	32	A darked skinned male is standing on one palm in front of a yellow building .
+beam_size_1	33	a man break dances .
+beam_size_1	34	A man holding himself with one arm i front of a store .
+beam_size_1	35	A young man jumps on a table .
+beam_size_1	36	This black man appears to be break dancing on the pavement .
+beam_size_1	37	A boy plays a game with wooden blocks .
+beam_size_1	38	A child playing with building blocks on a wooden table .
+beam_size_1	39	A small boy is building with some wooden blocks .
+beam_size_1	40	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	41	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	42	A boy in a blue bathing suit jumps with his arms in the air in a backyard setting .
+beam_size_1	43	A little boy is jumping into the kiddie pool in the backyard .
+beam_size_1	44	A little boy is leaping in the air onto a water slide .
+beam_size_1	45	A young boy plays outside on a sunny day on his slip and slide .
+beam_size_1	46	The boy in the swimming trunks is playing in the yard .
+beam_size_1	47	a biker enjoys a coffee .
+beam_size_1	48	A man in a bright green shirt and sunglasses is riding a bicycle through the streets whilst drinking a latte .
+beam_size_1	49	A man in a bright green shirt riding a bicycle in a paved courtyard , carying a drink .
+beam_size_1	50	A man rides on his bike with one hand and holds a drink with the other .
+beam_size_1	51	A man riding a bike wearing a green shirt with a drink in his hand .

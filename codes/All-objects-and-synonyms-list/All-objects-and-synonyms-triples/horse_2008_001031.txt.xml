@@ -1,0 +1,65 @@
+A girl in a red shirt is riding a brown horse . 
+a girl in a red shirt be ride a brown horse . 
+
+object-prep-object	person in girl
+attribute-object	red shirt
+attribute-object	brown horse
+object-verb-object	person ride girl
+object	person
+object	girl
+object	shirt
+object	horse
+object	horse
+#####################################################
+A girl in riding gear sits atop a brown horse . 
+a girl in ride gear sit atop a brown horse . 
+
+verb-prep-object	sit atop horse
+object-prep-object	person atop girl
+attribute-object	brown horse
+object-prep-object	person in girl
+attribute-object	ride gear
+object-verb	person sit
+object	horse
+object	person
+object	girl
+object	gear
+object	horse
+#####################################################
+A girl riding on a brown and white horse . 
+a girl ride on a brown and white horse . 
+
+verb-prep-object	ride on horse
+object-prep-object	person on girl
+attribute-object	brown horse
+attribute-object	white horse
+object-verb	person ride
+object	horse
+object	person
+object	girl
+object	horse
+#####################################################
+A young woman is riding a Bay horse in a dirt riding-ring . 
+a young woman be ride a Bay horse in a dirt riding-ring . 
+
+verb-prep-object	ride in riding-ring
+object-prep-object	person in woman
+attribute-object	young person
+object-verb-object	person ride woman
+attribute-object	bay horse
+attribute-object	dirt riding-ring
+object	riding-ring
+object	person
+object	woman
+object	horse
+object	horse
+#####################################################
+A young woman riding a horse . 
+a young woman ride a horse . 
+
+attribute-object	young person
+object-verb-object	person ride woman
+object	person
+object	woman
+object	horse
+#####################################################

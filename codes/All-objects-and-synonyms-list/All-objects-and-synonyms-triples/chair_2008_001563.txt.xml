@@ -1,0 +1,79 @@
+A boy in a tux and a girl in a blue dress sit at a wedding . 
+a boy in a tux and a girl in a blue dress sit at a wedding . 
+
+verb-prep-object	sit at wedding
+object-prep-object	person at boy
+object-prep-object	person at girl
+object-prep-object	person in boy
+object-prep-object	person in girl
+attribute-object	blue dress
+object-verb	person sit
+object-verb	person sit
+object	wedding
+object	person
+object	boy
+object	girl
+object	dress
+object	chair
+#####################################################
+A smiling girl in a turquoise dress seated in folding chairs next to a young blonde boy in a tuxedo . 
+a smile girl in a turquoise dress seat in folding chair next to a young blonde boy in a tuxedo . 
+
+attribute-object	smile person
+object-prep-object	person in girl
+attribute-object	turquoise dress
+object-verb	person seat
+verb-prep-object	seat in chair
+object-prep-object	person in girl
+attribute-object	folding chair
+verb-prep-verb	seat next_to boy
+object-prep-object	person next_to person
+object-prep-object	person in boy
+attribute-object	young person
+attribute-object	blonde person
+object	person
+object	girl
+object	dress
+object	chair
+object	boy
+object	chair
+#####################################################
+Two children , one male , one female , sitting in chairs at an event . 
+two child , one male , one female , sit in chair at a event . 
+
+verb-prep-object	sit in chair
+object-prep-object	person in child
+object-prep-object	person at child
+object-verb	person sit
+object	chair
+object	person
+object	child
+object	chair
+#####################################################
+Two kids sitting in folding chairs . 
+two kid sit in folding chair . 
+
+verb-prep-object	sit in chair
+object-prep-object	person in kid
+attribute-object	folding chair
+object-verb	person sit
+object	chair
+object	person
+object	kid
+object	chair
+#####################################################
+Two young kids dressed up sitting down on chairs . 
+two young kid dress up sit down on chair . 
+
+verb-prep-object	sit on chair
+object-prep-object	person on kid
+attribute-object	young person
+object-verb	person dress
+verb-attribute	dress up
+object-verb	person sit
+verb-attribute	sit down
+object	chair
+object	person
+object	kid
+object	chair
+#####################################################

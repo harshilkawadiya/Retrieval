@@ -1,0 +1,67 @@
+An office cube has a desktop computer , a cluttered desk , and a blue office chair . 
+a office cube have a desktop computer , a cluttered desk , and a blue office chair . 
+
+attribute-object	cluttered table
+attribute-object	blue chair
+object-verb-object	cube have laptop
+object-verb-object	cube have diningtable
+object-verb-object	cube have chair
+attribute-object	office cube
+attribute-object	desktop laptop
+attribute-object	office chair
+object	table
+object	diningtable
+object	chair
+object	cube
+object	laptop
+object	computer
+object	bottle
+#####################################################
+An office workstation with personal belongings . 
+a office workstation with personal belongings . 
+
+object-prep-object	laptop with workstation
+attribute-object	personal belongings
+attribute-object	office laptop
+object	laptop
+object	workstation
+object	belongings
+object	bottle
+#####################################################
+Office desk with computer monitor on . 
+Office desk with computer monitor on . 
+
+object-prep-object	table with tvmonitor
+attribute-object	office table
+attribute-object	computer tvmonitor
+object	table
+object	diningtable
+object	tvmonitor
+object	monitor
+object	bottle
+#####################################################
+Office space with desktop computer and blue office chair . 
+Office space with desktop computer and blue office chair . 
+
+object-prep-object	office with laptop
+object-prep-object	office with chair
+attribute-object	blue chair
+attribute-object	desktop laptop
+attribute-object	office chair
+object	office
+object	laptop
+object	chair
+object	computer
+object	bottle
+#####################################################
+The office has computer on the table and other miscellaneous items . 
+the office have computer on the table and other miscellaneous item . 
+
+object-prep-object	laptop on diningtable
+object-verb-object	office have laptop
+object	laptop
+object	computer
+object	diningtable
+object	office
+object	bottle
+#####################################################

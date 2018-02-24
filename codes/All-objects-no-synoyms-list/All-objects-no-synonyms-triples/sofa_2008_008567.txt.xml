@@ -1,0 +1,47 @@
+A girl sits on the couch with her arms crossed . 
+a girl sit on the couch with she arm cross . 
+
+verb-prep-object	sit on couch
+object-prep-object	girl on couch
+object-verb	girl sit
+object	couch
+object	girl
+object	sofa
+#####################################################
+A girl with arms crossed sitting on a sofa . 
+a girl with arm cross sit on a sofa . 
+
+verb-prep-object	sit on sofa
+object-prep-object	girl on sofa
+object-verb	girl sit
+object	sofa
+object	girl
+object	sofa
+#####################################################
+Black and white photo of a girl on a sofa . 
+Black and white photo of a girl on a sofa . 
+
+object-prep-object	girl on sofa
+object	girl
+object	sofa
+object	sofa
+#####################################################
+Depressed woman sitting on couch . 
+depressed woman sit on couch . 
+
+verb-prep-object	sit on couch
+object-prep-object	woman on couch
+attribute-object	depressed woman
+object-verb	woman sit
+object	couch
+object	woman
+object	sofa
+#####################################################
+This is a black and white photo of a woman on a sofa with her arms crossed . 
+this be a black and white photo of a woman on a sofa with she arm cross . 
+
+object-prep-object	woman on sofa
+object	woman
+object	sofa
+object	sofa
+#####################################################

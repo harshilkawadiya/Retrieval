@@ -1,0 +1,72 @@
+A family sitting down for dinner . 
+a family sit down for dinner . 
+
+verb-prep-object	sit for dinner
+object-prep-object	person for family
+object-verb	person sit
+verb-attribute	sit down
+object	dinner
+object	person
+object	family
+object	diningtable
+#####################################################
+Three people posing at the dinner table . 
+three people pose at the dinner table . 
+
+verb-prep-object	pose at diningtable
+object-prep-object	person at diningtable
+attribute-object	dinner diningtable
+object-verb	person pose
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+three people sitting at a table with food and wine . 
+three people sit at a table with food and wine . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+object-prep-object	diningtable with table
+object-prep-object	diningtable with table
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	people
+object	diningtable
+#####################################################
+Three people sitting at dinner table smiling at camera . 
+three people sit at dinner table smile at camera . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	smile at camera
+attribute-object	dinner diningtable
+object-verb	person sit
+object-verb	person smile
+object	diningtable
+object	table
+object	person
+object	people
+object	camera
+object	diningtable
+#####################################################
+Two elderly women sit at a dinner table with a man . 
+two elderly woman sit at a dinner table with a man . 
+
+verb-prep-object	sit at diningtable
+object-prep-object	person at diningtable
+verb-prep-object	sit with person
+object-prep-object	person with person
+attribute-object	dinner diningtable
+attribute-object	elderly person
+object-verb	person sit
+object	diningtable
+object	table
+object	person
+object	woman
+object	man
+object	diningtable
+#####################################################

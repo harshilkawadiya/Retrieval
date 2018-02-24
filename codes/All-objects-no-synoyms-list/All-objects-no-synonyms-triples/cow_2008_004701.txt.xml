@@ -1,0 +1,49 @@
+A black bull is confined by metal fencing . 
+a black bull be confine by metal fencing . 
+
+verb-prep-object	confine by fencing
+object-prep-object	bull by fencing
+attribute-object	black bull
+attribute-object	metal fencing
+object-verb	bull confine
+object	fencing
+object	bull
+object	cow
+#####################################################
+A black bull is looking to his right and standing in front of a fence . 
+a black bull be look to he right and standing in front of a fence . 
+
+attribute-object	black bull
+object-verb	bull look
+object-verb	bull stand
+verb-prep-object	look to right
+verb-prep-object	stand in_front_of fence
+object-prep-object	bull in_front_of fence
+object	bull
+object	right
+object	fence
+object	cow
+#####################################################
+A bull looking through a fence . 
+a bull look through a fence . 
+
+verb-prep-object	look through fence
+object-verb	bull look
+object	fence
+object	bull
+object	cow
+#####################################################
+A bull who is fenced in . 
+a bull who be fence in . 
+
+object	bull
+object	bull
+object	cow
+#####################################################
+Right side of a black bull 's face viewed from behind . 
+right side of a black bull 's face view from behind . 
+
+attribute-object	black bull
+object	bull
+object	cow
+#####################################################

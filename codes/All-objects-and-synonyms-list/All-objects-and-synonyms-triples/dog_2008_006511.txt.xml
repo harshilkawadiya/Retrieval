@@ -1,0 +1,59 @@
+A brown dog laying on a carpeted floor next to a table . 
+a brown dog lay on a carpeted floor next to a table . 
+
+verb-prep-object	lay on floor
+object-prep-object	dog on floor
+verb-prep-object	lay next_to diningtable
+object-prep-object	dog next_to diningtable
+attribute-object	brown dog
+attribute-object	carpeted floor
+object-verb	dog lay
+object	floor
+object	dog
+object	diningtable
+object	table
+object	dog
+#####################################################
+A tan dog on the cream carpet . 
+a tan dog on the cream carpet . 
+
+object-prep-object	dog on carpet
+attribute-object	tan dog
+attribute-object	cream carpet
+object	dog
+object	carpet
+object	dog
+#####################################################
+A tan puppy on a carpeted floor . 
+a tan puppy on a carpeted floor . 
+
+object-prep-object	dog on puppy
+attribute-object	carpeted floor
+attribute-object	tan dog
+object	dog
+object	puppy
+object	floor
+object	dog
+#####################################################
+Tan puppy lying down on white carpeting . 
+Tan puppy lie down on white carpeting . 
+
+verb-prep-object	lie on carpeting
+object-prep-object	dog on puppy
+attribute-object	white carpeting
+attribute-object	tan dog
+object-verb	dog lie
+verb-attribute	lie down
+object	carpeting
+object	dog
+object	puppy
+object	dog
+#####################################################
+The curious puppy 's interest is perked up in the other room . 
+the curious puppy 's interest be perk up in the other room . 
+
+object	dog
+object	dog
+object	puppy
+object	dog
+#####################################################

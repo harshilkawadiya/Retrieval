@@ -1,0 +1,65 @@
+A woman opens gifts on a food covered table while another woman photographs her . 
+a woman open gift on a food cover table while another woman photograph she . 
+
+object-prep-object	gift on diningtable
+verb-prep-object	open on diningtable
+attribute-object	food diningtable
+attribute-object	cover diningtable
+object-verb	person photograph
+object-verb-object	person open woman
+object	gift
+object	diningtable
+object	table
+object	person
+object	woman
+object	bottle
+#####################################################
+The young lady opens her present at the dinner table . 
+the young lady open she present at the dinner table . 
+
+verb-prep-object	open at diningtable
+object-prep-object	person at diningtable
+attribute-object	young person
+object-verb-object	person open lady
+attribute-object	dinner diningtable
+object	diningtable
+object	table
+object	person
+object	lady
+object	bottle
+#####################################################
+Two girls in a messy kitchen , one wrapping a package while the other photographs her . 
+two girl in a messy kitchen , one wrap a package while the other photograph she . 
+
+object-prep-object	person in girl
+attribute-object	messy kitchen
+object-verb	other photograph
+object-verb-object	one wrap package
+object	person
+object	girl
+object	kitchen
+object	other
+object	one
+object	package
+object	bottle
+#####################################################
+Two women in kitchen with one taking a picture . 
+two woman in kitchen with one take a picture . 
+
+object-prep-object	person in woman
+object-verb-object	person take woman
+object	person
+object	woman
+object	bottle
+#####################################################
+Two women in the kitchen looking at a object . 
+two woman in the kitchen look at a object . 
+
+verb-prep-object	look at object
+object-prep-object	person in woman
+object-verb	person look
+object	object
+object	person
+object	woman
+object	bottle
+#####################################################

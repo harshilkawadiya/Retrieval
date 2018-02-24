@@ -1,0 +1,62 @@
+A wooden table sits in the green dining room on a shiny wooden floor . 
+a wooden table sit in the green dining room on a shiny wooden floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	table on floor
+attribute-object	shiny floor
+attribute-object	wooden floor
+object-verb	table sit
+attribute-object	wooden table
+verb-prep-object	sit in room
+object-prep-object	table in room
+attribute-object	green room
+attribute-object	dining room
+object	floor
+object	table
+object	room
+object	diningtable
+#####################################################
+A yellow room with a table and chairs . 
+a yellow room with a table and chair . 
+
+object-prep-object	room with table
+object-prep-object	room with chair
+attribute-object	yellow room
+object	room
+object	table
+object	chair
+object	diningtable
+#####################################################
+Dining room with wooden dining table set with playmates . 
+dine room with wooden dining table set with playmate . 
+
+object-prep-object	room with table
+attribute-object	dine room
+attribute-object	wooden table
+attribute-object	dining table
+object	room
+object	table
+object	diningtable
+#####################################################
+The dining room has a table with six chairs . 
+the dining room have a table with six chair . 
+
+object-prep-object	table with chair
+object-verb-object	room have table
+attribute-object	dining room
+object	table
+object	chair
+object	room
+object	diningtable
+#####################################################
+The dining room table gets some afternoon sun . 
+the dining room table get some afternoon sun . 
+
+object-verb-object	table get sun
+attribute-object	dining table
+attribute-object	room table
+attribute-object	afternoon sun
+object	table
+object	sun
+object	diningtable
+#####################################################

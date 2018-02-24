@@ -1,0 +1,62 @@
+a bald man is explaining the rules of a card game to a fat man . 
+a bald man be explain the rule of a card game to a fat man . 
+
+verb-prep-object	explain to man
+object-prep-object	rule of game
+attribute-object	bald man
+attribute-object	fat man
+object-verb-object	man explain rule
+attribute-object	card game
+object	man
+object	rule
+object	game
+object	bottle
+#####################################################
+The two men are playing cards on the table . 
+the two man be play card on the table . 
+
+verb-prep-object	play on table
+object-prep-object	man on table
+object-verb-object	man play card
+object	table
+object	man
+object	card
+object	bottle
+#####################################################
+Two men sit at a kitchen counter facing each other while one has playing cards in front of him . 
+two man sit at a kitchen counter face each other while one have play card in front of he . 
+
+verb-prep-object	sit at counter
+object-prep-object	man at counter
+attribute-object	kitchen counter
+object-verb	man sit
+object	counter
+object	man
+object	bottle
+#####################################################
+Two men sit opposite each other at a table with playing cards spread out . 
+two man sit opposite each other at a table with play card spread out . 
+
+object-verb	man sit
+verb-prep-object	sit at table
+object-prep-object	man at table
+verb-prep-object	sit with card
+attribute-object	play card
+object	man
+object	table
+object	card
+object	bottle
+#####################################################
+Two men with snacks are involved in an intense-looking card game . 
+two man with snack be involve in a intense-looking card game . 
+
+object-prep-object	man with snack
+verb-prep-object	involve in game
+attribute-object	intense-looking game
+attribute-object	card game
+object-verb	man involve
+object	man
+object	snack
+object	game
+object	bottle
+#####################################################

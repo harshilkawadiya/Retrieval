@@ -1,0 +1,62 @@
+Guys in a boat fishing , one of them holding a large fish . 
+guy in a boat fishing , one of they hold a large fish . 
+
+object-verb	person fishing
+object-verb-object	person hold guy
+attribute-object	large fish
+object-prep-object	person in guy
+object	person
+object	guy
+object	fish
+object	boat
+#####################################################
+Two men are fishing with a net from a red boat . 
+two man be fish with a net from a red boat . 
+
+verb-prep-object	fish with net
+object-prep-object	person with man
+verb-prep-object	fish from boat
+attribute-object	red boat
+object-verb	person fish
+object	net
+object	person
+object	man
+object	boat
+object	boat
+#####################################################
+Two men are in a bass boat one of them is holding a fish the other is holding a net . 
+two man be in a bass boat one of they be hold a fish the other be hold a net . 
+
+object-prep-object	person in man
+object-verb-object	person hold man
+object-verb-object	person hold man
+attribute-object	bass boat
+object	person
+object	man
+object	boat
+object	boat
+#####################################################
+Two men catching a fish in a swamp . 
+two man catch a fish in a swamp . 
+
+object-verb-object	person catch man
+object-verb-object	fish in swamp
+object	person
+object	man
+object	fish
+object	swamp
+object	boat
+#####################################################
+Two people in a red boat have caught a large fish . 
+two people in a red boat have catch a large fish . 
+
+object-prep-object	person in people
+attribute-object	red boat
+attribute-object	large fish
+object-verb-object	person catch people
+object	person
+object	people
+object	boat
+object	fish
+object	boat
+#####################################################

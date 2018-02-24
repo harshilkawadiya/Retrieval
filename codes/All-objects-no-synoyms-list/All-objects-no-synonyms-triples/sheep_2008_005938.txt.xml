@@ -1,0 +1,57 @@
+A sheep in a patch of green grass . 
+a sheep in a patch of green grass . 
+
+object-prep-object	sheep in grass
+attribute-object	green grass
+object	sheep
+object	grass
+object	sheep
+#####################################################
+A sheep standing in a field of grass and clover . 
+a sheep standing in a field of grass and clover . 
+
+object-prep-object	field of grass
+object-prep-object	field of clover
+verb-prep-object	stand in field
+object-prep-object	sheep in field
+object-verb	sheep stand
+object	field
+object	grass
+object	clover
+object	sheep
+object	sheep
+#####################################################
+A white sheep on a hillside looking at the camera . 
+a white sheep on a hillside look at the camera . 
+
+object-prep-object	sheep on hillside
+verb-prep-object	look at camera
+attribute-object	white sheep
+object-verb	sheep look
+object	sheep
+object	hillside
+object	camera
+object	sheep
+#####################################################
+The sheep grazes in the country side . 
+the sheep graze in the country side . 
+
+verb-prep-object	graze in countryside
+object-prep-object	sheep in countryside
+object-verb	sheep graze
+object	countryside
+object	sheep
+object	sheep
+#####################################################
+This shaggy white sheep has a hillside of greenery to munch on . 
+this shaggy white sheep have a hillside of greenery to munch on . 
+
+object-prep-object	hillside of greenery
+attribute-object	shaggy sheep
+attribute-object	white sheep
+object-verb-object	sheep have hillside
+object	hillside
+object	greenery
+object	sheep
+object	sheep
+#####################################################

@@ -1,0 +1,57 @@
+A large boat in the water at the marina . 
+a large boat in the water at the marina . 
+
+object-prep-object	boat at marina
+object-prep-object	boat in water
+attribute-object	large boat
+object	boat
+object	marina
+object	water
+object	boat
+#####################################################
+A large boat on the sea . 
+a large boat on the sea . 
+
+object-prep-object	boat on water
+attribute-object	large boat
+object	boat
+object	water
+object	boat
+#####################################################
+An old fashioned wooden sailing ship is parked at the pier . 
+a old fashion wooden sailing ship be park at the pier . 
+
+verb-prep-object	park at boat
+object-prep-object	boat at boat
+attribute-object	old boat
+attribute-object	fashioned boat
+attribute-object	wooden boat
+attribute-object	sailing boat
+object-verb	boat park
+object	boat
+object	pier
+object	ship
+object	boat
+#####################################################
+A yellow and black sail boat that is docked . 
+a yellow and black sail boat that be dock . 
+
+attribute-object	yellow boat
+attribute-object	black boat
+attribute-object	sail boat
+object-verb	boat dock
+object	boat
+object	boat
+#####################################################
+Pirate ship docked in a body of water . 
+Pirate ship dock in a body of water . 
+
+verb-prep-object	dock in water
+object-prep-object	boat in ship
+attribute-object	pirate boat
+object-verb	boat dock
+object	water
+object	boat
+object	ship
+object	boat
+#####################################################

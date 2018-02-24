@@ -1,0 +1,50 @@
+beam_size_1	2	A little girl slides down a green slide with her arms up at a playground .
+beam_size_1	3	A little girl sliding down a slide at a playground .
+beam_size_1	4	A young girl is sliding down a slide at a playground .
+beam_size_1	5	A young girl slides down a green plastic slide on a playground .
+beam_size_1	6	The girl is sliding down a green slide .
+beam_size_1	7	A man in a beret rides a bicycle down the street .
+beam_size_1	8	A man wearing a beret rides his bicycle on a recreation trail .
+beam_size_1	9	an old man , with a grey beard , riding his bike
+beam_size_1	10	Closeup of a man cycling down a road lined with boulders .
+beam_size_1	11	man wearing a beret riding a bicycle
+beam_size_1	12	A child is happily playing on the slide .
+beam_size_1	13	A child is holding on to the top of a playground slide .
+beam_size_1	14	A child is preparing to slide down a piece of playground equipment .
+beam_size_1	15	A toddler all bundled up getting ready to go down a slide .
+beam_size_1	16	Child getting ready to go down a slide .
+beam_size_1	17	a dog jumps over a fence , while two other dogs watch .
+beam_size_1	18	One dog , apparently standing on the edge of a fence , confronts three others in a backyard setting .
+beam_size_1	19	The dog is on the fence
+beam_size_1	20	Three dogs are in a fenced yard and one is jumping off the fence .
+beam_size_1	21	Two pitbulls fighting , one standing on top of a fence .
+beam_size_1	22	A man with red shirt and black hat stares at another man .
+beam_size_1	23	Asian man in red flowered shirt and hat in discussion with two other men
+beam_size_1	24	Talk between man in Hawaiian shirt , older man in gray and man seen from behind .
+beam_size_1	25	These three men are sitting near each other , and are all wearing short sleeved shirts .
+beam_size_1	26	Three men , one in a red and white shirt , are sitting together .
+beam_size_1	27	A man sitting on the left near a man walking along the side of a street with colorful buildings .
+beam_size_1	28	A man walking by a sitting man on the street .
+beam_size_1	29	A man with dreadlocks and a backpack walks down the sidewalk with colorful buildings in the background .
+beam_size_1	30	A white man with dreadlocks walks down the sidewalk .
+beam_size_1	31	Two boys are on the sidewalk as cars pass by on the road .
+beam_size_1	32	A dark-skinned man in a green shirt with a green scarf looking at an electronic device .
+beam_size_1	33	A man in a green shirt and sweater looks at his cellphone .
+beam_size_1	34	A man wearing a green shirt looks down at a cellphone .
+beam_size_1	35	A teenager standing in a crowd of people texting on his phone .
+beam_size_1	36	Man with green shirt looks at phone .
+beam_size_1	37	Three women standing on a city street .
+beam_size_1	38	Three women walk down the street .
+beam_size_1	39	Two girls and a woman walking on the sidewalk
+beam_size_1	40	Two girls in bright green boots and a woman are together .
+beam_size_1	41	Two young ladies in green boots are walking through an urban area while an older lady wearing black shoes follows them .
+beam_size_1	42	Two girls in karate uniforms struggle in a dojo .
+beam_size_1	43	Two little girls are dressed in white karate uniforms .
+beam_size_1	44	Two little girls practice martial arts .
+beam_size_1	45	Two little girls spar in a Karate bout .
+beam_size_1	46	Two young girls sparring in white martial arts outfits while a third person watches from the side .
+beam_size_1	47	A snowboarder flies in the air .
+beam_size_1	48	A snowboarder is performing a stunt in mostly dark .
+beam_size_1	49	Snowboarder in the air performing a stunt .
+beam_size_1	50	There is a snowboarder doing tricks in a half pipe .
+beam_size_1	51	The snowboarder gets serious air .

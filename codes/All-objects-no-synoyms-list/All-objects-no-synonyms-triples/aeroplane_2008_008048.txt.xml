@@ -1,0 +1,55 @@
+Formation of stunt planes flying through the air . 
+formation of stunt plane fly through the air . 
+
+verb-prep-object	fly through air
+object-prep-object	plane through air
+attribute-object	stunt plane
+object-verb	plane fly
+object	air
+object	plane
+object	aeroplane
+#####################################################
+Nine airplanes flying together during an airshow . 
+nine airplane fly together during a airshow . 
+
+verb-prep-object	fly during airshow
+attribute-verb	together fly
+object-verb	airplane fly
+object	airshow
+object	airplane
+object	aeroplane
+#####################################################
+Nine red and white aircraft flying in formation trailing smoke . 
+nine red and white aircraft fly in formation trail smoke . 
+
+object-verb-object	aircraft trail smoke
+attribute-object	white aircraft
+attribute-object	red aircraft
+object-verb	aircraft fly
+object	aircraft
+object	smoke
+object	aeroplane
+#####################################################
+Nine red and white jets flying in the sky . 
+nine red and white jet fly in the sky . 
+
+verb-prep-object	fly in sky
+object-prep-object	jet in sky
+attribute-object	white jet
+attribute-object	red jet
+object-verb	jet fly
+object	sky
+object	jet
+object	aeroplane
+#####################################################
+Planes flying in formation with colored smoke flying from behind . 
+plane fly in formation with color smoke fly from behind . 
+
+verb-prep-object	fly with smoke
+object-prep-object	plane with smoke
+attribute-object	color smoke
+object-verb	plane fly
+object	smoke
+object	plane
+object	aeroplane
+#####################################################

@@ -1,0 +1,59 @@
+A balding man in glasses and a yellow shirt behind two empty beverage bottles . 
+a balding man in glass and a yellow shirt behind two empty beverage bottle . 
+
+object-prep-object	man behind bottle
+object-prep-object	man in glass
+attribute-object	balding man
+object-prep-object	man in shirt
+attribute-object	yellow shirt
+attribute-object	empty bottle
+attribute-object	beverage bottle
+object	man
+object	bottle
+object	glass
+object	shirt
+object	person
+#####################################################
+A bald man with glasses looks to the left . 
+a bald man with glass look to the left . 
+
+object-prep-object	man with glass
+attribute-object	bald man
+object-verb	man look
+object	man
+object	glass
+object	person
+#####################################################
+A man talking with two water bottles sitting in front of him . 
+a man talk with two water bottle sit in front of he . 
+
+verb-prep-object	talk with bottle
+attribute-object	water bottle
+object-verb	man talk
+object	bottle
+object	man
+object	person
+#####################################################
+A man wearing glasses sits behind a pair of bottles . 
+a man wear glass sit behind a pair of bottle . 
+
+verb-prep-object	sit behind bottle
+object-prep-object	man behind bottle
+object-verb-object	man wear glass
+object-verb	man sit
+object	bottle
+object	man
+object	glass
+object	person
+#####################################################
+A man with glasses and two plastic bottles in the foreground . 
+a man with glass and two plastic bottle in the foreground . 
+
+object-prep-object	man with glass
+object-prep-object	man with bottle
+attribute-object	plastic bottle
+object	man
+object	glass
+object	bottle
+object	person
+#####################################################

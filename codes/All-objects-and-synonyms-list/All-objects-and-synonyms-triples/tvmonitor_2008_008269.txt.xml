@@ -1,0 +1,60 @@
+a computer on the floor . 
+a computer on the floor . 
+
+object-prep-object	laptop on computer
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+A Macintosh computer sitting on the floor . 
+a Macintosh computer sit on the floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	laptop on computer
+attribute-object	macintosh laptop
+object-verb	laptop sit
+object	floor
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+An Apple computer sitting on the floor . 
+a Apple computer sit on the floor . 
+
+verb-prep-object	sit on floor
+object-prep-object	laptop on computer
+attribute-object	apple laptop
+object-verb	laptop sit
+object	floor
+object	laptop
+object	computer
+object	tvmonitor
+#####################################################
+A white Apple computer sits on the beige carpeting of a bedroom . 
+a white Apple computer sit on the beige carpeting of a bedroom . 
+
+verb-prep-object	sit on carpeting
+object-prep-object	laptop on computer
+object-prep-object	carpeting of bedroom
+attribute-object	white laptop
+attribute-object	brown carpeting
+attribute-object	apple laptop
+object-verb	laptop sit
+object	carpeting
+object	laptop
+object	computer
+object	bedroom
+object	tvmonitor
+#####################################################
+Computer keyboard and a monitor with Apple logo . 
+Computer keyboard and a monitor with Apple logo . 
+
+object-prep-object	tvmonitor with monitor
+attribute-object	apple logo
+attribute-object	computer keyboard
+object	tvmonitor
+object	monitor
+object	logo
+object	keyboard
+object	tvmonitor
+#####################################################

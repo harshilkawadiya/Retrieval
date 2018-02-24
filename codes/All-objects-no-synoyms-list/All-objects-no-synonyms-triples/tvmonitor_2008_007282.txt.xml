@@ -1,0 +1,66 @@
+A cozy wood-paneled living room with a wood burning stove welcomes you . 
+a cozy wood-paneled living room with a wood burning stove welcome you . 
+
+object-prep-object	room with stove
+attribute-object	cozy room
+attribute-object	wood-paneled room
+attribute-object	living room
+attribute-object	wood stove
+attribute-object	burning stove
+object	room
+object	stove
+object	tvmonitor
+#####################################################
+A living room with paneling has a red loveseat and a black heating stove . 
+a living room with paneling have a red loveseat and a black heating stove . 
+
+object-prep-object	room with paneling
+attribute-object	red loveseat
+attribute-object	black stove
+object-verb-object	room have loveseat
+object-verb-object	room have stove
+attribute-object	living room
+attribute-object	heating stove
+object	room
+object	paneling
+object	loveseat
+object	stove
+object	tvmonitor
+#####################################################
+An empty room with three paintings of animals on the wall . 
+a empty room with three painting of animal on the wall . 
+
+object-prep-object	room with painting
+object-prep-object	painting of animal
+object-prep-object	painting on wall
+attribute-object	empty room
+object	room
+object	painting
+object	animal
+object	wall
+object	tvmonitor
+#####################################################
+A wooden paneled living room with a sofa and black stove . 
+a wooden paneled living room with a sofa and black stove . 
+
+object-prep-object	room with sofa
+object-prep-object	room with stove
+attribute-object	wooden room
+attribute-object	paneled room
+attribute-object	black stove
+attribute-object	living room
+object	room
+object	sofa
+object	stove
+object	tvmonitor
+#####################################################
+Den with a soft and coal heater . 
+Den with a soft and coal heater . 
+
+object-prep-object	den with heater
+attribute-object	soft heater
+attribute-object	coal heater
+object	den
+object	heater
+object	tvmonitor
+#####################################################

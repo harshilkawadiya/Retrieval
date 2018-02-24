@@ -1,0 +1,54 @@
+A black and white photo of a bottle sitting atop a rock carving in front of a line of bushes . 
+a black and white photo of a bottle sit atop a rock carve in front of a line of bush . 
+
+verb-prep-object	sit atop rock
+object-prep-object	bottle atop rock
+object-verb	bottle sit
+object	rock
+object	bottle
+object	bottle
+#####################################################
+A bottle of water sitting on a stone in the cemetery . 
+a bottle of water sit on a stone in the cemetery . 
+
+object-prep-object	bottle of water
+verb-prep-object	sit on stone
+object-prep-object	bottle on stone
+object-prep-object	stone in cemetery
+object-verb	bottle sit
+object	bottle
+object	water
+object	stone
+object	cemetery
+object	bottle
+#####################################################
+A bottle of water sitting on a stone with other stones and a wall in the background . 
+a bottle of water sit on a stone with other stone and a wall in the background . 
+
+verb-prep-object	sit on stone
+object-prep-object	bottle on stone
+object-verb	bottle sit
+object	stone
+object	bottle
+object	bottle
+#####################################################
+Milk bottle standing on a stone . 
+milk bottle stand on a stone . 
+
+verb-prep-object	stand on stone
+object-prep-object	bottle on stone
+attribute-object	milk bottle
+object-verb	bottle stand
+object	stone
+object	bottle
+object	bottle
+#####################################################
+Somebody do n't `` got milk '' ! 
+somebody do not `` get milk '' ! 
+
+object-verb-object	somebody get milk
+attribute-verb	do_not get
+object	somebody
+object	milk
+object	bottle
+#####################################################

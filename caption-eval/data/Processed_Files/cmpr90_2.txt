@@ -1,0 +1,50 @@
+beam_size_1	2	A curly haired girl is dragging a grey inflatable raft with a red paddle into the water .
+beam_size_1	3	A girl in a yellow headscarf is pulling a boat to the water .
+beam_size_1	4	A woman pulls an inflatable boat into the water .
+beam_size_1	5	a woman pulls her raft into the water .
+beam_size_1	6	Someone is pulling an inflatable boat with an oar in it .
+beam_size_1	7	Children sit in a classroom holding slates .
+beam_size_1	8	Five of the six children have their own chalkboard .
+beam_size_1	9	Six African children sitting at two tables .
+beam_size_1	10	Six children are sitting in two rows with plastic bags on the desk in front of them .
+beam_size_1	11	Three children sitting at desks .
+beam_size_1	12	Boy pulls other boy over back .
+beam_size_1	13	One boy hoists another boy up on his back .
+beam_size_1	14	One child lifts another on his back , inside a room .
+beam_size_1	15	The boy in the gray shirt is holding the boy in the red shirt on his back .
+beam_size_1	16	Two boys are back to back as one holds up the other .
+beam_size_1	17	A group of people are watching fireworks outside .
+beam_size_1	18	A group of people gathered to watch fireworks .
+beam_size_1	19	A small crowd in winter jackets stand in a snow field , looking at fireworks .
+beam_size_1	20	A small crowd stands watching a fireworks display .
+beam_size_1	21	People watch as something lights up the sky .
+beam_size_1	22	A boy on a bicycle rides with his little brother in a child 's seat , which is tipping .
+beam_size_1	23	A boy rides down the street with a younger boy behind him on the same bike .
+beam_size_1	24	Two boys with backpacks ride bikes through a puddle on the road .
+beam_size_1	25	Two people riding a bike are riding towards a stop sign .
+beam_size_1	26	two young children riding on a bike down a dirt road through a puddle .
+beam_size_1	27	A group of men in a yellow boat with their dogs .
+beam_size_1	28	The men shake hands while another man and dogs look on .
+beam_size_1	29	The three men and three dogs floated in the yellow boat .
+beam_size_1	30	Three men in team uniforms are surrounding a yellow dog in a boat .
+beam_size_1	31	two men huddle around a dog .
+beam_size_1	32	a black , brown and white dog is running beside a green fence in a grassy garden .
+beam_size_1	33	A dog is galloping through the grass .
+beam_size_1	34	A dog runs through a lush , green lawn .
+beam_size_1	35	A tri-colored dog is running on the green grass .
+beam_size_1	36	Dog running through grass in fenced in area .
+beam_size_1	37	A girl in a purple sweatshirt bends over backwards .
+beam_size_1	38	A girl bending backwards holding her hat .
+beam_size_1	39	A person bending backwards .
+beam_size_1	40	A person in a blue sweatshirt is doing a back bend .
+beam_size_1	41	A woman in blue bends over backwards on the street .
+beam_size_1	42	A hiker is walking a treeless path up a hill .
+beam_size_1	43	A man is backpacking up a grassy hill .
+beam_size_1	44	A man with a big backpack is walking through a grass trail up a hill .
+beam_size_1	45	Person hiking up a grassy trail toward a large hill .
+beam_size_1	46	The hiker is following a trail uphill .
+beam_size_1	47	a man looks through his binoculars while another man holds a drink .
+beam_size_1	48	A man with a thermos is standing next to a man who is gazing through binoculars .
+beam_size_1	49	Two men are standing together while one looks through binoculars .
+beam_size_1	50	Two men look out as one is holding binoculars .
+beam_size_1	51	two people standing next to each other with mountains in the distance .

@@ -1,0 +1,50 @@
+beam_size_1	2	A laughing woman leans on the legs of a sitting man while lying on a bed of pebbles .
+beam_size_1	3	A woman and a barefoot man lay down on rocky terrain .
+beam_size_1	4	Laying on stones , a girl with messy hair has her head on the boy laying next to her .
+beam_size_1	5	The two people are lying in gray rocks .
+beam_size_1	6	Young man and woman stretch out on stones , packages in foreground .
+beam_size_1	7	A boy plays a game with wooden blocks .
+beam_size_1	8	A child playing with building blocks on a wooden table .
+beam_size_1	9	A small boy is building with some wooden blocks .
+beam_size_1	10	A small boy wearing a blue shirt stacks wooden blocks .
+beam_size_1	11	Boy in blue shirt looking at someone 's hand near stack of blocks on table .
+beam_size_1	12	Two ladies walking on the sidewalk talking to each other .
+beam_size_1	13	Two women are bundled up walking through town .
+beam_size_1	14	Two women crossing the street on a cold day
+beam_size_1	15	Two women walking down the street .
+beam_size_1	16	Two women walking near some trees in warm , dark-colored garments , one with a hat , one with an upraised collar .
+beam_size_1	17	A man on horseback on a grassy field in front of mountains .
+beam_size_1	18	A person on a brown horse in a prairie in front of tall mountains .
+beam_size_1	19	A person riding a horse with a mountain range in the far background .
+beam_size_1	20	A rider on a horse in front of a mountain range
+beam_size_1	21	Distant horse rider on plain in the middle of brown mountains .
+beam_size_1	22	A baby eats and has food on his face .
+beam_size_1	23	A boy with lips messy from eating fruit
+beam_size_1	24	A little boy is eating something and got it all over his mouth .
+beam_size_1	25	A small child with berries all over its mouth .
+beam_size_1	26	A young brown eyed boy with red syrup on his lips is pouring syrup .
+beam_size_1	27	A man in a flower patterned shirt is bowling .
+beam_size_1	28	A person bending over to pick up a ball at a bowling alley
+beam_size_1	29	People at the bowling alley .
+beam_size_1	30	The person in the white flowered shirt is bending down at the ball return in the bowling alley .
+beam_size_1	31	Two people at the bowling alley .
+beam_size_1	32	A dog in a yellow jersey is running a race .
+beam_size_1	33	A dog participating in a race while wearing the number 6 .
+beam_size_1	34	A greyhound wearing a muzzle and the number six on a yellow jacket is running on a dog track .
+beam_size_1	35	A muzzled race dog running
+beam_size_1	36	A race dog is running for first
+beam_size_1	37	A Japanese woman in a colorful outfit is walking with a man dressed in black past a wooden building .
+beam_size_1	38	A lady dressed in a kimono is looking at the camera .
+beam_size_1	39	Two people stop on an empty city street .
+beam_size_1	40	Two women dressed in traditional Japanese clothing
+beam_size_1	41	Two women in Japanese dress walk down the street .
+beam_size_1	42	The three children are in a cage .
+beam_size_1	43	three children are locked in a cage .
+beam_size_1	44	Three children in a black dog kennel .
+beam_size_1	45	Three small children are in a cage .
+beam_size_1	46	three well dressed blond children in a cage .
+beam_size_1	47	A man in a tropical enviorment holding a camera to his face .
+beam_size_1	48	A man in blue takes a photo of the person taking a photo of him .
+beam_size_1	49	A man taking a picture with a silver camera .
+beam_size_1	50	Man in a blue shirt with a camera .
+beam_size_1	51	The man is outdoors , holding a camera .

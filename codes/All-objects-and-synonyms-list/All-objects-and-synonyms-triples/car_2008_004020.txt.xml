@@ -1,0 +1,42 @@
+A close-up of the back of a red car . 
+a close-up of the back of a red car . 
+
+attribute-object	red car
+object	car
+object	car
+#####################################################
+A shiny red chewy in the showroom . 
+a shiny red chewy in the showroom . 
+
+object-prep-object	car in chewy
+attribute-object	shiny car
+attribute-object	red car
+object	car
+object	chewy
+object	car
+#####################################################
+Close up of the rear of a red sports car . 
+close up of the rear of a red sport car . 
+
+attribute-object	red car
+attribute-object	sport car
+object	car
+object	car
+#####################################################
+The rear view of a red Chevrolet concept car . 
+the rear view of a red Chevrolet concept car . 
+
+attribute-object	red car
+attribute-object	chevrolet car
+attribute-object	concept car
+object	car
+object	car
+#####################################################
+This is a rear view of a Chevrolet sports car . 
+this be a rear view of a Chevrolet sport car . 
+
+attribute-object	chevrolet car
+attribute-object	sport car
+object	car
+object	car
+#####################################################

@@ -1,0 +1,52 @@
+A blue and green bottle on the sides of an empty bottle . 
+a blue and green bottle on the side of a empty bottle . 
+
+object-prep-object	bottle on bottle
+attribute-object	blue bottle
+attribute-object	green bottle
+attribute-object	empty bottle
+object	bottle
+object	bottle
+#####################################################
+An empty bottle is positioned at center , with one full bottle to its left and another to its right . 
+a empty bottle be position at center , with one full bottle to its left and another to its right . 
+
+object-verb	bottle position
+attribute-object	empty bottle
+verb-prep-object	position at center
+object-prep-object	bottle at center
+object	bottle
+object	center
+object	bottle
+#####################################################
+Three bottles are on a table . 
+three bottle be on a table . 
+
+object-prep-object	bottle on diningtable
+object	bottle
+object	diningtable
+object	bottle
+#####################################################
+Three medicinal bottles on a table top ; one full of blue liquid , one empty , one filled with green liquid . 
+three medicinal bottle on a table top ; one full of blue liquid , one empty , one fill with green liquid . 
+
+object-prep-object	bottle on top
+attribute-object	medicinal bottle
+object-prep-object	bottle full_of liquid
+attribute-object	blue liquid
+object	bottle
+object	top
+object	liquid
+object	bottle
+#####################################################
+Two bottles of facial astringent next to an empty bottle . 
+two bottle of facial astringent next to a empty bottle . 
+
+object-prep-object	bottle of astringent
+object-prep-object	bottle next_to bottle
+attribute-object	facial astringent
+attribute-object	empty bottle
+object	bottle
+object	astringent
+object	bottle
+#####################################################

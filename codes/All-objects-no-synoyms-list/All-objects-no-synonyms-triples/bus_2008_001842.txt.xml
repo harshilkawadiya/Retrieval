@@ -1,0 +1,52 @@
+A black and white photo of a man standing next to a bus . 
+a black and white photo of a man stand next to a bus . 
+
+object-verb	man stand
+verb-prep-object	stand next_to bus
+object-prep-object	man next_to bus
+object	man
+object	bus
+object	bus
+#####################################################
+A man standing beside an old bus . 
+a man standing beside a old bus . 
+
+verb-prep-object	stand beside bus
+object-prep-object	man beside bus
+attribute-object	old bus
+object-verb	man stand
+object	bus
+object	man
+object	bus
+#####################################################
+An old photo of a gentleman near a bus . 
+a old photo of a gentleman near a bus . 
+
+object-prep-object	gentleman near bus
+object	gentleman
+object	bus
+object	bus
+#####################################################
+A young man is standing next to a bus . 
+a young man be stand next to a bus . 
+
+verb-prep-object	stand next_to bus
+object-prep-object	man next_to bus
+attribute-object	young man
+object-verb	man stand
+object	bus
+object	man
+object	bus
+#####################################################
+Man posing in front of old style truck . 
+man pose in front of old style truck . 
+
+verb-prep-object	pose in_front_of truck
+object-prep-object	man in_front_of truck
+attribute-object	old truck
+attribute-object	style truck
+object-verb	man pose
+object	truck
+object	man
+object	bus
+#####################################################

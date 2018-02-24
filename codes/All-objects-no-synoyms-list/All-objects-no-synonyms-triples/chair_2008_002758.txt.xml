@@ -1,0 +1,55 @@
+A large pile of scrap wood . 
+a large pile of scrap wood . 
+
+object-prep-object	pile of wood
+attribute-object	large pile
+attribute-object	scrap wood
+object	pile
+object	wood
+object	chair
+#####################################################
+A large pile of wooden items piled high . 
+a large pile of wooden item pile high . 
+
+object-prep-object	pile of item
+attribute-object	large pile
+attribute-object	wooden item
+object	pile
+object	item
+object	chair
+#####################################################
+A pile of scrap boards with a man behind and to the side . 
+a pile of scrap board with a man behind and to the side . 
+
+object-prep-object	pile of board
+attribute-object	scrap board
+object	man
+object	pile
+object	board
+object	man
+object	chair
+#####################################################
+A pile of used wooden building materials with a chair on top . 
+a pile of use wooden building material with a chair on top . 
+
+object-prep-object	pile of material
+object-prep-object	material with chair
+attribute-object	use material
+attribute-object	wooden material
+attribute-object	building material
+object	pile
+object	material
+object	chair
+object	chair
+#####################################################
+Pile of wooden debris with chair on top . 
+pile of wooden debris with chair on top . 
+
+object-prep-object	pile of debris
+object-prep-object	pile with chair
+attribute-object	wooden debris
+object	pile
+object	debris
+object	chair
+object	chair
+#####################################################

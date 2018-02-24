@@ -1,0 +1,60 @@
+A bird is perched on a person 's gloved hand . 
+a bird be perch on a person 's gloved hand . 
+
+verb-prep-object	perch on hand
+object-prep-object	bird on hand
+attribute-object	person hand
+attribute-object	gloved hand
+object-verb	bird perch
+object	hand
+object	bird
+object	bird
+#####################################################
+A blue bird being held by a handler . 
+a blue bird be hold by a handler . 
+
+verb-prep-object	hold by handler
+attribute-object	blue bird
+object-verb	bird hold
+object	handler
+object	bird
+object	bird
+#####################################################
+A blue bird perched on a gloved hand . 
+a blue bird perch on a gloved hand . 
+
+verb-prep-object	perch on hand
+object-prep-object	bird on hand
+attribute-object	blue bird
+attribute-object	gloved hand
+object-verb	bird perch
+object	hand
+object	bird
+object	bird
+#####################################################
+A blue bird perches on the gloved hand of a person . 
+a blue bird perch on the gloved hand of a person . 
+
+verb-prep-object	perch on hand
+object-prep-object	bird on hand
+object-prep-object	hand of person
+attribute-object	blue bird
+attribute-object	gloved hand
+object-verb	bird perch
+object	hand
+object	bird
+object	person
+object	bird
+#####################################################
+Small hawk standing on leather glove-covered hand . 
+small hawk standing on leather glove-covered hand . 
+
+verb-prep-object	stand on hand
+attribute-object	small hawk
+attribute-object	glove-covered hand
+object-verb	hawk stand
+attribute-object	leather hand
+object	hand
+object	hawk
+object	bird
+#####################################################

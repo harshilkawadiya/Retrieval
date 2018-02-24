@@ -1,0 +1,68 @@
+A brown dog resting on a white sofa cushion . 
+a brown dog rest on a white sofa cushion . 
+
+verb-prep-object	rest on cushion
+object-prep-object	dog on cushion
+attribute-object	brown dog
+attribute-object	white cushion
+attribute-object	sofa cushion
+object-verb	dog rest
+object	cushion
+object	dog
+object	sofa
+#####################################################
+A tan dog is lying on a couch and has its head on a white pillow . 
+a tan dog be lie on a couch and have its head on a white pillow . 
+
+verb-prep-object	lie on couch
+object-prep-object	dog on couch
+object-prep-object	head on pillow
+attribute-object	white pillow
+object-verb-object	dog have head
+attribute-object	tan dog
+object-verb	dog lie
+object	couch
+object	dog
+object	head
+object	pillow
+object	sofa
+#####################################################
+Brown dog with head on pillow on white sofa . 
+Brown dog with head on pillow on white sofa . 
+
+object-prep-object	head on pillow
+object-prep-object	dog on sofa
+object-prep-object	dog with head
+attribute-object	white sofa
+attribute-object	brown dog
+object	head
+object	pillow
+object	dog
+object	sofa
+object	sofa
+#####################################################
+The brown dog is resting his head on a white pillow . 
+the brown dog be rest he head on a white pillow . 
+
+verb-prep-object	rest on pillow
+object-prep-object	head on pillow
+attribute-object	brown dog
+attribute-object	white pillow
+object-verb-object	dog rest head
+object	pillow
+object	head
+object	dog
+object	sofa
+#####################################################
+This is a picture of a dog resting its head on a white sofa . 
+this be a picture of a dog rest its head on a white sofa . 
+
+verb-prep-object	rest on sofa
+object-prep-object	head on sofa
+attribute-object	white sofa
+object-verb-object	dog rest head
+object	sofa
+object	head
+object	dog
+object	sofa
+#####################################################

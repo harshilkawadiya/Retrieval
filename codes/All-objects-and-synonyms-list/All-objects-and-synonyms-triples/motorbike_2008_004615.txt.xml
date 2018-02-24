@@ -1,0 +1,60 @@
+A helmet is on a parked motorcycle , next to another parked motorcycle . 
+a helmet be on a park motorcycle , next to another park motorcycle . 
+
+object-prep-object	helmet on motorbike
+object-prep-object	motorbike next_to motorbike
+attribute-object	park motorbike
+attribute-object	park motorbike
+object	helmet
+object	motorbike
+object	motorcycle
+object	motorbike
+#####################################################
+A moped parked with other mopeds . 
+a mope park with other moped . 
+
+verb-prep-object	park with motorbike
+object-prep-object	motorbike with scooter
+object-verb	motorbike park
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Three mopeds parked next to each other . 
+three moped park next to each other . 
+
+verb-prep-object	park next_to other
+object-prep-object	motorbike next_to scooter
+object-verb	motorbike park
+object	other
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Three white scooters parked in a garage . 
+three white scooter park in a garage . 
+
+verb-prep-object	park in garage
+object-prep-object	motorbike in scooter
+attribute-object	white motorbike
+object-verb	motorbike park
+object	garage
+object	motorbike
+object	scooter
+object	motorbike
+#####################################################
+Two motorcycles , one with a helmet on top , are parked next to a scooter in the garage . 
+two motorcycle , one with a helmet on top , be park next to a scooter in the garage . 
+
+object-verb	motorbike park
+object-prep-object	motorbike with motorcycle
+verb-prep-object	park next_to motorbike
+object-prep-object	motorbike next_to motorbike
+verb-prep-object	park in garage
+object-prep-object	motorbike in scooter
+object	motorbike
+object	motorcycle
+object	scooter
+object	garage
+object	motorbike
+#####################################################

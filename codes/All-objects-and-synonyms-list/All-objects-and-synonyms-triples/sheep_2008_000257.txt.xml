@@ -1,0 +1,59 @@
+A large field containing a group of sheep with trees in the distance . 
+a large field contain a group of sheep with tree in the distance . 
+
+attribute-object	large field
+object-verb-object	field contain sheep
+object	tree
+object	field
+object	sheep
+object	tree
+object	sheep
+#####################################################
+Several sheep wander in a field . 
+several sheep wander in a field . 
+
+verb-prep-object	wander in field
+object-prep-object	sheep in field
+attribute-object	several sheep
+object-verb	sheep wander
+object	field
+object	sheep
+object	sheep
+#####################################################
+Sheep are grazing in a grassy field near a stand of trees . 
+Sheep be grazing in a grassy field near a stand of tree . 
+
+verb-prep-object	graze in field
+verb-prep-object	graze near tree
+object-prep-object	sheep near tree
+object-prep-object	sheep in field
+attribute-object	grassy field
+object-verb	sheep graze
+object	field
+object	tree
+object	sheep
+object	sheep
+#####################################################
+Sheep are grazing in the field in front of a line of trees . 
+Sheep be grazing in the field in front of a line of tree . 
+
+verb-prep-object	graze in field
+object-prep-object	sheep in field
+verb-prep-object	graze in_front_of tree
+object-prep-object	sheep in_front_of tree
+object-verb	sheep graze
+object	field
+object	sheep
+object	tree
+object	sheep
+#####################################################
+Sheep graze on the grass . 
+Sheep graze on the grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	sheep on grass
+object-verb	sheep graze
+object	grass
+object	sheep
+object	sheep
+#####################################################

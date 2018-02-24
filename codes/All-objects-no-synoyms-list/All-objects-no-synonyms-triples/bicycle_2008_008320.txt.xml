@@ -1,0 +1,57 @@
+A man holds two bikes near a beach . 
+a man hold two bike near a beach . 
+
+object-prep-object	bike near beach
+object-verb-object	man hold bike
+object	bike
+object	beach
+object	man
+object	bicycle
+#####################################################
+A young man wearing a striped shirt is holding two bicycles . 
+a young man wear a striped shirt be hold two bicycle . 
+
+attribute-object	young man
+attribute-object	striped shirt
+object-verb-object	man wear shirt
+object-verb-object	man hold bicycle
+object	man
+object	shirt
+object	bicycle
+object	bicycle
+#####################################################
+Man with two bicycles at the beach , looking perplexed . 
+man with two bicycle at the beach , look perplexed . 
+
+object-prep-object	man at beach
+object-prep-object	man with bicycle
+object-verb-object	man look perplexed
+object	man
+object	beach
+object	bicycle
+object	perplexed
+object	bicycle
+#####################################################
+Red haired man holding two bicycles . 
+Red hair man hold two bicycle . 
+
+object-verb-object	man hold bicycle
+attribute-object	red man
+attribute-object	hair man
+object	man
+object	bicycle
+object	bicycle
+#####################################################
+Young redheaded man holding two bicycles near beach . 
+young redheaded man hold two bicycle near beach . 
+
+object-prep-object	man near beach
+verb-prep-object	hold near beach
+attribute-object	young man
+attribute-object	redheaded man
+object-verb-object	man hold bicycle
+object	man
+object	beach
+object	bicycle
+object	bicycle
+#####################################################

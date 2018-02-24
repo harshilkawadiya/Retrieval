@@ -1,0 +1,44 @@
+A multi-colored train on a track . 
+a multi-colored train on a track . 
+
+object-prep-object	train on track
+attribute-object	multi-colored train
+object	train
+object	track
+object	train
+#####################################################
+an old diesel train in the country . 
+a old diesel train in the country . 
+
+object-prep-object	train in country
+attribute-object	old train
+attribute-object	diesel train
+object	train
+object	country
+object	train
+#####################################################
+A row of locomotives on a siding in a field . 
+a row of locomotive on a siding in a field . 
+
+object-prep-object	locomotive in field
+object	locomotive
+object	field
+object	train
+#####################################################
+A train seen from the back end . 
+a train see from the back end . 
+
+object	train
+object	train
+object	train
+#####################################################
+A train set on tracks . 
+a train set on track . 
+
+verb-prep-object	set on track
+object-prep-object	train on track
+object-verb	train set
+object	track
+object	train
+object	train
+#####################################################

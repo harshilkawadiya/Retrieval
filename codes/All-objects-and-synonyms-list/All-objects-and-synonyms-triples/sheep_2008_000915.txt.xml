@@ -1,0 +1,73 @@
+A sheep stands alone in an empty bus stop . 
+a sheep stand alone in a empty bus stop . 
+
+verb-prep-object	stand in stop
+object-prep-object	sheep in stop
+attribute-object	empty stop
+attribute-object	bus stop
+object-verb	sheep stand
+object	stop
+object	sheep
+object	sheep
+#####################################################
+A sheep stands in a glass enclosure near the side of a road . 
+a sheep stand in a glass enclosure near the side of a road . 
+
+verb-prep-object	stand in enclosure
+verb-prep-object	stand near road
+object-prep-object	sheep near road
+object-prep-object	sheep in enclosure
+attribute-object	glass enclosure
+object-verb	sheep stand
+object	enclosure
+object	road
+object	sheep
+object	sheep
+#####################################################
+A sheep stands inside a clear glass bus stop area in the countryside . 
+a sheep stand inside a clear glass bus stop area in the countryside . 
+
+object-verb	sheep stand
+verb-prep-object	stand inside area
+object-prep-object	area in country
+attribute-object	clear area
+attribute-object	glass area
+attribute-object	bus area
+attribute-object	stop area
+object	sheep
+object	area
+object	country
+object	sheep
+#####################################################
+In a rural area , a white goat trimmed in black stands in a bus shelter , apparently waiting . 
+in a rural area , a white goat trim in black stand in a bus shelter , apparently wait . 
+
+attribute-object	white sheep
+object-verb	sheep trim
+verb-prep-object	trim in black
+object-verb	sheep stand
+verb-prep-object	stand in shelter
+object-prep-object	sheep in cow
+attribute-object	bus shelter
+verb-prep-object	stand in area
+attribute-object	rural area
+object	sheep
+object	cow
+object	black
+object	shelter
+object	area
+object	sheep
+#####################################################
+The sheep is white and black and is at a bus stop . 
+the sheep be white and black and be at a bus stop . 
+
+object-prep-object	sheep at stop
+attribute-object	bus stop
+object-object	sheep white
+object-object	sheep black
+object	sheep
+object	stop
+object	white
+object	black
+object	sheep
+#####################################################

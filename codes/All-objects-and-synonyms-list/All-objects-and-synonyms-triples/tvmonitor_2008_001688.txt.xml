@@ -1,0 +1,66 @@
+A television and entertainment center . 
+a television and entertainment center . 
+
+object	tvmonitor
+attribute-object	entertainment center
+object	tvmonitor
+object	television
+object	center
+object	tvmonitor
+#####################################################
+A wide screen TV in a green entertainment center . 
+a wide screen tv in a green entertainment center . 
+
+object-prep-object	tvmonitor in tv
+attribute-object	wide tvmonitor
+attribute-object	green center
+attribute-object	screen tvmonitor
+attribute-object	entertainment center
+object	tvmonitor
+object	tv
+object	center
+object	tvmonitor
+#####################################################
+A wide screen TV sits in a living room . 
+a wide screen tv sit in a living room . 
+
+verb-prep-object	sit in room
+object-prep-object	tvmonitor in tv
+attribute-object	wide tvmonitor
+attribute-object	screen tvmonitor
+attribute-object	living room
+object-verb	tvmonitor sit
+object	room
+object	tvmonitor
+object	tv
+object	tvmonitor
+#####################################################
+Entertainment center with TV and picture frames . 
+Entertainment center with tv and picture frame . 
+
+object-prep-object	center with tvmonitor
+object-prep-object	center with frame
+attribute-object	entertainment center
+attribute-object	picture frame
+object	center
+object	tvmonitor
+object	frame
+object	tvmonitor
+#####################################################
+The entertainment center of the living room includes a TV , plants , and several baskets . 
+the entertainment center of the living room include a tv , plant , and several basket . 
+
+object-prep-object	center of room
+attribute-object	several basket
+object-verb-object	center include tvmonitor
+object-verb-object	center include pottedplant
+object-verb-object	center include basket
+attribute-object	entertainment center
+attribute-object	living room
+object	center
+object	room
+object	basket
+object	tvmonitor
+object	pottedplant
+object	tvmonitor
+#####################################################

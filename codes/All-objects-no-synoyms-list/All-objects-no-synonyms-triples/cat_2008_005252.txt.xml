@@ -1,0 +1,58 @@
+A small cat laying on a wooden beam looking up at the camera . 
+a small cat lay on a wooden beam look up at the camera . 
+
+verb-prep-object	look at camera
+verb-prep-object	lay on beam
+object-prep-object	cat on beam
+attribute-object	small cat
+attribute-object	wooden beam
+object-verb	cat lay
+object-verb	cat look
+verb-attribute	look up
+object	camera
+object	beam
+object	cat
+object	cat
+#####################################################
+A stray cat . 
+a stray cat . 
+
+attribute-object	stray cat
+object	cat
+object	cat
+#####################################################
+Cat sitting on a log in the rocks . 
+cat sit on a log in the rock . 
+
+verb-prep-object	sit on log
+object-prep-object	cat on log
+object-prep-object	log in rock
+object-verb	cat sit
+object	log
+object	cat
+object	rock
+object	cat
+#####################################################
+Domestic cat relaxing on a log . 
+domestic cat relax on a log . 
+
+attribute-object	domestic cat
+object-verb	cat relax
+verb-prep-object	relax on log
+object-prep-object	cat on log
+object	cat
+object	log
+object	cat
+#####################################################
+Gray and white cat lying on wood . 
+Gray and white cat lie on wood . 
+
+verb-prep-object	lie on wood
+object-prep-object	cat on wood
+attribute-object	gray cat
+attribute-object	white cat
+object-verb	cat lie
+object	wood
+object	cat
+object	cat
+#####################################################

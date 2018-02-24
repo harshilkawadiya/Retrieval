@@ -1,0 +1,59 @@
+A blue bicycle parked beside the tree . 
+a blue bicycle park beside the tree . 
+
+verb-prep-object	park beside tree
+object-prep-object	bicycle beside tree
+attribute-object	blue bicycle
+object-verb	bicycle park
+object	tree
+object	bicycle
+object	bicycle
+#####################################################
+A double-handled bicycle . 
+a double-handled bicycle . 
+
+attribute-object	double-handled bicycle
+object	bicycle
+object	bicycle
+#####################################################
+A two-seater bike is chained to a tree . 
+a two-seater bike be chained to a tree . 
+
+verb-prep-object	chained to tree
+object-prep-object	bike to tree
+attribute-object	two-seater bike
+object-verb	bike chained
+object	tree
+object	bike
+object	bicycle
+#####################################################
+Blue bicycle with two sets of handlebars leaning against the tree . 
+Blue bicycle with two set of handlebars lean against the tree . 
+
+verb-prep-object	lean against tree
+object-prep-object	bicycle against tree
+object-prep-object	bicycle with set
+object-prep-object	set of handlebars
+attribute-object	blue bicycle
+object-verb	bicycle lean
+object	tree
+object	bicycle
+object	set
+object	handlebars
+object	bicycle
+#####################################################
+The blue bicycle is chained to the tree in the middle of the sidewalk . 
+the blue bicycle be chained to the tree in the middle of the sidewalk . 
+
+verb-prep-object	chained to tree
+object-prep-object	bicycle to tree
+verb-prep-object	chained in middle
+object-prep-object	middle of sidewalk
+attribute-object	blue bicycle
+object-verb	bicycle chained
+object	tree
+object	bicycle
+object	middle
+object	sidewalk
+object	bicycle
+#####################################################

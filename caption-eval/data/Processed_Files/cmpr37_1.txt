@@ -1,0 +1,50 @@
+2	A brown and white dog lays down in a grassy field .
+3	A dog is crouching on the grass near a hurdle .
+4	A dog races along the grassy track .
+5	A tan and white dog is competing in an agility test .
+6	Brown and white dog playing in the grass .
+7	A brown and white dog lays down in a grassy field .
+8	A dog is crouching on the grass near a hurdle .
+9	A dog races along the grassy track .
+10	A tan and white dog is competing in an agility test .
+11	Brown and white dog playing in the grass .
+12	A brown and white dog lays down in a grassy field .
+13	A dog is crouching on the grass near a hurdle .
+14	A dog races along the grassy track .
+15	A tan and white dog is competing in an agility test .
+16	Brown and white dog playing in the grass .
+17	A brown and white dog lays down in a grassy field .
+18	A dog is crouching on the grass near a hurdle .
+19	A dog races along the grassy track .
+20	A tan and white dog is competing in an agility test .
+21	Brown and white dog playing in the grass .
+22	A brown and white dog lays down in a grassy field .
+23	A dog is crouching on the grass near a hurdle .
+24	A dog races along the grassy track .
+25	A tan and white dog is competing in an agility test .
+26	Brown and white dog playing in the grass .
+27	A brown and white dog lays down in a grassy field .
+28	A dog is crouching on the grass near a hurdle .
+29	A dog races along the grassy track .
+30	A tan and white dog is competing in an agility test .
+31	Brown and white dog playing in the grass .
+32	A brown and white dog lays down in a grassy field .
+33	A dog is crouching on the grass near a hurdle .
+34	A dog races along the grassy track .
+35	A tan and white dog is competing in an agility test .
+36	Brown and white dog playing in the grass .
+37	A brown and white dog lays down in a grassy field .
+38	A dog is crouching on the grass near a hurdle .
+39	A dog races along the grassy track .
+40	A tan and white dog is competing in an agility test .
+41	Brown and white dog playing in the grass .
+42	A brown and white dog lays down in a grassy field .
+43	A dog is crouching on the grass near a hurdle .
+44	A dog races along the grassy track .
+45	A tan and white dog is competing in an agility test .
+46	Brown and white dog playing in the grass .
+47	A brown and white dog lays down in a grassy field .
+48	A dog is crouching on the grass near a hurdle .
+49	A dog races along the grassy track .
+50	A tan and white dog is competing in an agility test .
+51	Brown and white dog playing in the grass .

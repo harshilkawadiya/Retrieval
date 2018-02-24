@@ -1,0 +1,50 @@
+2	A brown dog running
+3	A brown dog running over grass .
+4	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+5	A dog runs across a grassy lawn near some flowers .
+6	A yellow dog is playing in a grassy area near flowers .
+7	A brown dog running
+8	A brown dog running over grass .
+9	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+10	A dog runs across a grassy lawn near some flowers .
+11	A yellow dog is playing in a grassy area near flowers .
+12	A brown dog running
+13	A brown dog running over grass .
+14	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+15	A dog runs across a grassy lawn near some flowers .
+16	A yellow dog is playing in a grassy area near flowers .
+17	A brown dog running
+18	A brown dog running over grass .
+19	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+20	A dog runs across a grassy lawn near some flowers .
+21	A yellow dog is playing in a grassy area near flowers .
+22	A brown dog running
+23	A brown dog running over grass .
+24	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+25	A dog runs across a grassy lawn near some flowers .
+26	A yellow dog is playing in a grassy area near flowers .
+27	A brown dog running
+28	A brown dog running over grass .
+29	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+30	A dog runs across a grassy lawn near some flowers .
+31	A yellow dog is playing in a grassy area near flowers .
+32	A brown dog running
+33	A brown dog running over grass .
+34	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+35	A dog runs across a grassy lawn near some flowers .
+36	A yellow dog is playing in a grassy area near flowers .
+37	A brown dog running
+38	A brown dog running over grass .
+39	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+40	A dog runs across a grassy lawn near some flowers .
+41	A yellow dog is playing in a grassy area near flowers .
+42	A brown dog running
+43	A brown dog running over grass .
+44	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+45	A dog runs across a grassy lawn near some flowers .
+46	A yellow dog is playing in a grassy area near flowers .
+47	A brown dog running
+48	A brown dog running over grass .
+49	A brown dog with its front paws off the ground on a grassy surface near red and purple flowers .
+50	A dog runs across a grassy lawn near some flowers .
+51	A yellow dog is playing in a grassy area near flowers .

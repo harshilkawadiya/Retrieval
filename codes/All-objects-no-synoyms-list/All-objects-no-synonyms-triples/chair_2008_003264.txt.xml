@@ -1,0 +1,66 @@
+A kitchen table in a room with white drapes and a china cabinet . 
+a kitchen table in a room with white drape and a china cabinet . 
+
+object-prep-object	room with drape
+object-prep-object	room with cabinet
+object-prep-object	table in room
+attribute-object	white drape
+attribute-object	kitchen table
+attribute-object	china cabinet
+object	room
+object	drape
+object	cabinet
+object	table
+object	chair
+#####################################################
+A table under the lamp is next to a curtained window . 
+a table under the lamp be next to a curtained window . 
+
+object-prep-object	table under lamp
+object-prep-object	table next_to window
+attribute-object	curtained window
+object	table
+object	lamp
+object	window
+object	chair
+#####################################################
+Dining room containing a table and chairs along with a wooden cabinet . 
+dine room contain a table and chair along with a wooden cabinet . 
+
+object-verb-object	room contain table
+object-verb-object	room contain chair
+object-prep-object	room along_with cabinet
+attribute-object	dine room
+attribute-object	wooden cabinet
+object	room
+object	table
+object	chair
+object	cabinet
+object	chair
+#####################################################
+Dining table and chairs sitting under chandelier . 
+dine table and chair sit under chandelier . 
+
+verb-prep-object	sit under chandelier
+object-prep-object	chair under chandelier
+object-prep-object	table under chandelier
+object-verb	table sit
+object-verb	chair sit
+attribute-object	dine table
+object	chandelier
+object	chair
+object	table
+object	chair
+#####################################################
+The dining room table is ready for a meal . 
+the dining room table be ready for a meal . 
+
+verb-prep-object	ready for meal
+object-prep-object	table for meal
+attribute-object	dining table
+attribute-object	room table
+object-verb	table ready
+object	meal
+object	table
+object	chair
+#####################################################

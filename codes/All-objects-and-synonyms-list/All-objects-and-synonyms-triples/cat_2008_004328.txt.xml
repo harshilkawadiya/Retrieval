@@ -1,0 +1,74 @@
+An elderly woman stands in a kitchen with two cats at her feet . 
+a elderly woman stand in a kitchen with two cat at she foot . 
+
+object-verb	person stand
+verb-prep-object	stand in kitchen
+object-prep-object	person in woman
+verb-prep-object	stand with cat
+object-prep-object	person with woman
+object-prep-object	kitchen with cat
+attribute-object	elderly person
+object	person
+object	woman
+object	kitchen
+object	cat
+object	cat
+#####################################################
+A woman in the kitchen wearing her blue apron stands with two cats at her feet . 
+a woman in the kitchen wear she blue apron stand with two cat at she foot . 
+
+object-prep-object	person in woman
+object-verb-object	kitchen wear apron
+verb-prep-object	stand with cat
+object-prep-object	person with woman
+attribute-object	blue apron
+object-verb	person stand
+object	person
+object	woman
+object	kitchen
+object	apron
+object	cat
+object	cat
+#####################################################
+Older woman in kitchen with her two domestic cats . 
+older woman in kitchen with she two domestic cat . 
+
+object-prep-object	person with woman
+object-prep-object	kitchen with cat
+object-prep-object	person in woman
+attribute-object	older person
+attribute-object	domestic cat
+object	person
+object	woman
+object	kitchen
+object	cat
+object	cat
+#####################################################
+The elderly woman prepares to feed her cats . 
+the elderly woman prepare to feed she cat . 
+
+attribute-object	elderly person
+object-verb	person prepare
+verb-prep-verb	prepare to feed
+verb-object	feed cat
+object	person
+object	woman
+object	cat
+object	cat
+#####################################################
+The old lady is standing in the kitchen with two cats at her feet . 
+the old lady be stand in the kitchen with two cat at she foot . 
+
+object-prep-object	kitchen with cat
+object-prep-object	person with lady
+verb-prep-object	stand in kitchen
+verb-prep-object	stand with cat
+object-prep-object	person in lady
+attribute-object	old person
+object-verb	person stand
+object	kitchen
+object	cat
+object	person
+object	lady
+object	cat
+#####################################################

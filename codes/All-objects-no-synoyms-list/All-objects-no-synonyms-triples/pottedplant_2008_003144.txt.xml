@@ -1,0 +1,65 @@
+A group of people stand by a body of water looking at a building . 
+a group of people stand by a body of water look at a building . 
+
+object-verb	people stand
+verb-prep-object	stand by water
+object-prep-object	people by water
+verb-prep-object	look at building
+object-verb	people look
+object	people
+object	water
+object	building
+object	pottedplant
+#####################################################
+A man with a small child and two other people looking at the water . 
+a man with a small child and two other people look at the water . 
+
+object-prep-object	man with child
+attribute-object	small child
+object-prep-object	man with people
+verb-prep-object	look at water
+object-verb	man look
+object-verb	people look
+object	man
+object	child
+object	people
+object	water
+object	pottedplant
+#####################################################
+Feet standing on a pretty day with large building in background . 
+Feet standing on a pretty day with large building in background . 
+
+verb-prep-object	stand on day
+attribute-object	pretty day
+attribute-object	large building
+object-verb	feet stand
+object	day
+object	building
+object	feet
+object	pottedplant
+#####################################################
+People await the next boat ride on the lake . 
+people await the next boat ride on the lake . 
+
+verb-prep-object	await on lake
+object-prep-object	people on lake
+attribute-object	next ride
+object-verb-object	people await ride
+attribute-object	boat ride
+object	lake
+object	people
+object	ride
+object	pottedplant
+#####################################################
+Several people standing at handling of small lake . 
+several people stand at handling of small lake . 
+
+verb-prep-object	stand at lake
+object-prep-object	people at lake
+attribute-object	several people
+attribute-object	small lake
+object-verb	people stand
+object	lake
+object	people
+object	pottedplant
+#####################################################

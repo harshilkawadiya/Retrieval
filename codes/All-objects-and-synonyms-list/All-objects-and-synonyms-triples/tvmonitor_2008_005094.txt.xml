@@ -1,0 +1,81 @@
+A man laying on a bed with beer cans on a nearby table . 
+a man lay on a bed with beer can on a nearby table . 
+
+verb-prep-object	lay on bed
+object-prep-object	person on man
+attribute-object	nearby diningtable
+attribute-object	beer can
+object-prep-object	can on diningtable
+object-verb	person lay
+object	bed
+object	person
+object	man
+object	diningtable
+object	table
+object	can
+object	tvmonitor
+#####################################################
+A man lies in a bed in a cluttered room . 
+a man lie in a bed in a cluttered room . 
+
+verb-prep-object	lie in bed
+object-prep-object	person in man
+verb-prep-object	lie in room
+object-prep-object	person in man
+attribute-object	cluttered room
+object-verb	person lie
+object	bed
+object	person
+object	man
+object	room
+object	tvmonitor
+#####################################################
+a middle-aged man relaxes after drinking a few beers . 
+a middle-aged man relax after drink a few beer . 
+
+verb-prep-verb	relax after drink
+verb-object	drink beer
+attribute-object	middle-aged person
+attribute-object	few beer
+object-verb	person relax
+object	beer
+object	person
+object	man
+object	tvmonitor
+#####################################################
+A person in a blue shirt reclines near a coffee table and television . 
+a person in a blue shirt recline near a coffee table and television . 
+
+verb-prep-object	recline near diningtable
+object-prep-object	person near diningtable
+verb-prep-object	recline near tvmonitor
+object-prep-object	person near tvmonitor
+object-prep-object	person in shirt
+attribute-object	blue shirt
+attribute-object	coffee diningtable
+object-verb	person recline
+object	diningtable
+object	table
+object	person
+object	tvmonitor
+object	television
+object	shirt
+object	tvmonitor
+#####################################################
+Young man in blue shirt lying down on couch . 
+Young man in blue shirt lie down on couch . 
+
+verb-prep-object	lie on sofa
+object-prep-object	person on bed
+object-prep-object	person in man
+attribute-object	blue shirt
+attribute-object	young person
+object-verb	person lie
+verb-attribute	lie down
+object	sofa
+object	bed
+object	person
+object	man
+object	shirt
+object	tvmonitor
+#####################################################

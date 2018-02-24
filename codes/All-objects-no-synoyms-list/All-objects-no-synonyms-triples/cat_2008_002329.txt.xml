@@ -1,0 +1,56 @@
+A cat playing with a feather . 
+a cat play with a feather . 
+
+verb-prep-object	play with feather
+object-prep-object	cat with feather
+object-verb	cat play
+object	feather
+object	cat
+object	cat
+#####################################################
+A ginger and white cat swats at a green feather . 
+a ginger and white cat swat at a green feather . 
+
+verb-prep-object	swat at feather
+attribute-object	ginger cat
+attribute-object	white cat
+attribute-object	green feather
+object-verb	cat swat
+object	feather
+object	cat
+object	cat
+#####################################################
+An orange striped cat playing with fuzz on the end of a stick . 
+a orange striped cat play with fuzz on the end of a stick . 
+
+verb-prep-object	play with fuzz
+object-prep-object	fuzz on stick
+attribute-object	orange cat
+attribute-object	striped cat
+object-verb	cat play
+object	fuzz
+object	stick
+object	cat
+object	cat
+#####################################################
+Tan domestic cat scratching at toy . 
+Tan domestic cat scratch at toy . 
+
+verb-prep-object	scratch at toy
+attribute-object	tan cat
+attribute-object	domestic cat
+object-verb	cat scratch
+object	toy
+object	cat
+object	cat
+#####################################################
+The kitten is batting at a cat toy . 
+the kitten be batting at a cat toy . 
+
+verb-prep-object	batting at toy
+attribute-object	cat toy
+object-verb	kitten batting
+object	toy
+object	kitten
+object	cat
+#####################################################

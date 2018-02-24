@@ -1,0 +1,60 @@
+Two cows facing the camera in a field of grass . 
+two cow face the camera in a field of grass . 
+
+object-prep-object	cow in field
+object-prep-object	field of grass
+object-verb-object	cow face camera
+object	cow
+object	field
+object	grass
+object	camera
+object	cow
+#####################################################
+Two cows standing in a large field . 
+two cow stand in a large field . 
+
+verb-prep-object	stand in field
+object-prep-object	cow in field
+attribute-object	large field
+object-verb	cow stand
+object	field
+object	cow
+object	cow
+#####################################################
+Two cream color cows stand in a green pasture looking towards the camera . 
+two cream color cow stand in a green pasture look towards the camera . 
+
+verb-prep-object	stand in pasture
+object-prep-object	cow in pasture
+verb-prep-object	look towards camera
+attribute-object	green pasture
+attribute-object	cream cow
+attribute-object	color cow
+object-verb	cow stand
+object-verb	cow look
+object	pasture
+object	cow
+object	camera
+object	cow
+#####################################################
+Two white cows in a green pasture . 
+two white cow in a green pasture . 
+
+object-prep-object	cow in pasture
+attribute-object	white cow
+attribute-object	green pasture
+object	cow
+object	pasture
+object	cow
+#####################################################
+Two white cows in a lush green field . 
+two white cow in a lush green field . 
+
+object-prep-object	cow in field
+attribute-object	white cow
+attribute-object	lush field
+attribute-object	green field
+object	cow
+object	field
+object	cow
+#####################################################

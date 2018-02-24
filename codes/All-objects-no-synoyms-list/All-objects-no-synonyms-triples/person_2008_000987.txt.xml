@@ -1,0 +1,52 @@
+A group of friends pose with furry hats . 
+a group of friend pose with furry hat . 
+
+verb-prep-object	pose with hat
+object-prep-object	friend with hat
+attribute-object	furry hat
+object-verb	friend pose
+object	hat
+object	friend
+object	person
+#####################################################
+A group of people , four of which are women , two of which are men , pose wearing fuzzy hats with earflaps . 
+a group of people , four of which be woman , two of which be man , pose wear fuzzy hat with earflap . 
+
+object-verb	people pose
+object-verb-object	people wear hat
+attribute-object	fuzzy hat
+object-prep-object	hat with earflap
+object	people
+object	hat
+object	earflap
+object	person
+#####################################################
+A group of people posing in fur hats . 
+a group of people pose in fur hat . 
+
+verb-prep-object	pose in hat
+object-prep-object	people in hat
+attribute-object	fur hat
+object-verb	people pose
+object	hat
+object	people
+object	person
+#####################################################
+Group of teenagers being silly . 
+Group of teenager be silly . 
+
+object-object	teenager silly
+object	teenager
+object	silly
+object	person
+#####################################################
+Visitors pose wearing fur hats . 
+visitor pose wear fur hat . 
+
+attribute-object	fur hat
+object-verb	visitor pose
+object-verb-object	visitor wear hat
+object	hat
+object	visitor
+object	person
+#####################################################

@@ -1,0 +1,66 @@
+A brown horse and a brown pony walking through a grassy field , seen through wooden fencepost . 
+a brown horse and a brown pony walk through a grassy field , see through wooden fencepost . 
+
+verb-prep-object	walk through field
+object-prep-object	horse through field
+object-prep-object	horse through pony
+attribute-object	brown horse
+attribute-object	brown horse
+attribute-object	grassy field
+object-verb	horse walk
+object-verb	horse walk
+object	field
+object	horse
+object	pony
+object	horse
+#####################################################
+A brown horse and colt are walking in a green pasture . 
+a brown horse and colt be walk in a green pasture . 
+
+verb-prep-object	walk in pasture
+object-prep-object	horse in pasture
+object-prep-object	horse in colt
+attribute-object	brown horse
+attribute-object	green pasture
+object-verb	horse walk
+object-verb	horse walk
+object	pasture
+object	horse
+object	colt
+object	horse
+#####################################################
+A mare and its foal are side by side . 
+a mare and its foal be side by side . 
+
+object	horse
+object	horse
+object	horse
+object	mare
+object	foal
+object	horse
+#####################################################
+An adult horse accompanies a younger horse in a field . 
+a adult horse accompany a younger horse in a field . 
+
+object-prep-object	horse in field
+attribute-object	younger horse
+object-verb-object	horse accompany horse
+attribute-object	adult horse
+object	horse
+object	field
+object	horse
+#####################################################
+Mare and foal in a field of green grass . 
+mare and foal in a field of green grass . 
+
+object-prep-object	field of grass
+object-prep-object	horse in mare
+object-prep-object	horse in foal
+attribute-object	green grass
+object	field
+object	grass
+object	horse
+object	mare
+object	foal
+object	horse
+#####################################################

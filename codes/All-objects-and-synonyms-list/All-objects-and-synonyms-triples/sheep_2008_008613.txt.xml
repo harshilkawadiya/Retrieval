@@ -1,0 +1,45 @@
+A field of black faced sheep . 
+a field of black face sheep . 
+
+attribute-object	black sheep
+attribute-object	face sheep
+object	sheep
+object	sheep
+#####################################################
+A flock of sheep on a grassy plain . 
+a flock of sheep on a grassy plain . 
+
+object-prep-object	sheep on plain
+attribute-object	grassy plain
+object	sheep
+object	plain
+object	sheep
+#####################################################
+A group of sheep in a field . 
+a group of sheep in a field . 
+
+object-prep-object	sheep in field
+object	sheep
+object	field
+object	sheep
+#####################################################
+Several sheep grazing in the field . 
+several sheep grazing in the field . 
+
+verb-prep-object	graze in field
+object-prep-object	sheep in field
+attribute-object	several sheep
+object-verb	sheep graze
+object	field
+object	sheep
+object	sheep
+#####################################################
+Ten sheep looking at the camera . 
+ten sheep look at the camera . 
+
+verb-prep-object	look at camera
+object-verb	sheep look
+object	camera
+object	sheep
+object	sheep
+#####################################################

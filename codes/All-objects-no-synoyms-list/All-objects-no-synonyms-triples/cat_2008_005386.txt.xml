@@ -1,0 +1,59 @@
+A gray and white cat sits on a table . 
+a gray and white cat sit on a table . 
+
+verb-prep-object	sit on table
+object-prep-object	cat on table
+attribute-object	gray cat
+attribute-object	white cat
+object-verb	cat sit
+object	table
+object	cat
+object	cat
+#####################################################
+A wide-eyed striped cat lays in front of folders . 
+a wide-eyed striped cat lay in front of folder . 
+
+verb-prep-object	lay in_front_of folder
+object-prep-object	cat in_front_of folder
+attribute-object	wide-eyed cat
+attribute-object	striped cat
+object-verb	cat lay
+object	folder
+object	cat
+object	cat
+#####################################################
+Gray and white domestic kitten lying down on a desk . 
+Gray and white domestic kitten lie down on a desk . 
+
+verb-prep-object	lie on desk
+object-prep-object	kitten on desk
+attribute-object	gray kitten
+attribute-object	white kitten
+attribute-object	domestic kitten
+object-verb	kitten lie
+verb-attribute	lie down
+object	desk
+object	kitten
+object	cat
+#####################################################
+The alert kitten looks on curiously . 
+the alert kitten look on curiously . 
+
+attribute-object	alert kitten
+object-verb	kitten look
+object	kitten
+object	cat
+#####################################################
+The black , gray , and white striped cat is looking at the camera . 
+the black , gray , and white striped cat be look at the camera . 
+
+verb-prep-object	look at camera
+attribute-object	black cat
+attribute-object	gray cat
+attribute-object	white cat
+attribute-object	striped cat
+object-verb	cat look
+object	camera
+object	cat
+object	cat
+#####################################################

@@ -1,0 +1,59 @@
+A white sheep and a black sheep in a field . 
+a white sheep and a black sheep in a field . 
+
+object-prep-object	sheep in field
+attribute-object	white sheep
+attribute-object	black sheep
+object	sheep
+object	field
+object	sheep
+#####################################################
+Black and white lambs grazing on grass . 
+Black and white lamb grazing on grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	sheep on lamb
+attribute-object	black sheep
+attribute-object	white sheep
+object-verb	sheep graze
+object	grass
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+Two lambs , one white and one black , graze on grass . 
+two lamb , one white and one black , graze on grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	sheep on lamb
+attribute-object	white sheep
+attribute-object	black sheep
+object-verb	sheep graze
+object	grass
+object	sheep
+object	lamb
+object	sheep
+#####################################################
+Two sheep , one black , the other white in a grassy field . 
+two sheep , one black , the other white in a grassy field . 
+
+object-prep-object	sheep in field
+attribute-object	black sheep
+attribute-object	white sheep
+attribute-object	grassy field
+object	sheep
+object	field
+object	sheep
+#####################################################
+Two sheep , one brown one white , with ribbons around their necks . 
+two sheep , one brown one white , with ribbon around they neck . 
+
+object-prep-object	sheep with ribbon
+object-prep-object	ribbon around neck
+attribute-object	brown sheep
+attribute-object	white sheep
+object	sheep
+object	ribbon
+object	neck
+object	sheep
+#####################################################

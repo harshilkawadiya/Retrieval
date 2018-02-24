@@ -1,0 +1,59 @@
+A team of dappled white carriage horses . 
+a team of dappled white carriage horse . 
+
+attribute-object	dappled horse
+attribute-object	white horse
+attribute-object	carriage horse
+object	horse
+object	horse
+#####################################################
+A white horse pulls a carriage in city streets . 
+a white horse pull a carriage in city street . 
+
+object-prep-object	carriage in street
+attribute-object	white horse
+object-verb-object	horse pull carriage
+attribute-object	city street
+object	carriage
+object	street
+object	horse
+object	horse
+#####################################################
+Two horses resting in front of an old carriage or buggy . 
+two horse rest in front of a old carriage or buggy . 
+
+verb-prep-object	rest in_front_of carriage
+verb-prep-object	rest in_front_of buggy
+object-prep-object	horse in_front_of carriage
+object-prep-object	horse in_front_of buggy
+attribute-object	old carriage
+object-verb	horse rest
+object	carriage
+object	buggy
+object	horse
+object	horse
+#####################################################
+two horses stand with the trolley behind them . 
+two horse stand with the trolley behind they . 
+
+verb-prep-object	stand with trolley
+object-prep-object	horse with trolley
+object-verb	horse stand
+object	trolley
+object	horse
+object	horse
+#####################################################
+Two white horses and a carriage parked next to the sidewalk . 
+two white horse and a carriage park next to the sidewalk . 
+
+verb-prep-object	park next_to sidewalk
+object-prep-object	horse next_to sidewalk
+object-prep-object	carriage next_to sidewalk
+attribute-object	white horse
+object-verb	horse park
+object-verb	carriage park
+object	sidewalk
+object	horse
+object	carriage
+object	horse
+#####################################################

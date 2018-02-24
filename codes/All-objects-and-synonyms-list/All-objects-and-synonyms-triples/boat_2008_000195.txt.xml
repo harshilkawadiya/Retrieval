@@ -1,0 +1,66 @@
+A family getting ready to go canoe on a small lake . 
+a family get ready to go canoe on a small lake . 
+
+verb-prep-object	go on water
+attribute-object	small water
+object-verb	person ready
+verb-prep-verb	ready to go
+verb-object	go boat
+object	water
+object	person
+object	boat
+object	boat
+#####################################################
+Three people are by the water with yellow canoes . 
+three people be by the water with yellow canoe . 
+
+object-prep-object	person by water
+object-prep-object	person with boat
+attribute-object	yellow boat
+object	person
+object	water
+object	boat
+object	boat
+#####################################################
+Three people preparing to canoe . 
+three people prepare to canoe . 
+
+verb-prep-object	prepare to boat
+object-verb	person prepare
+object	boat
+object	person
+object	boat
+#####################################################
+Two people are carrying a yellow canoe down to the water , while a man in red and black walks away from a canoe already near the water . 
+two people be carry a yellow canoe down to the water , while a man in red and black walk away from a canoe already near the water . 
+
+object-verb-object	person carry boat
+attribute-object	yellow boat
+verb-prep-object	carry to water
+object-verb	person walk
+object-prep-object	person in red
+object-prep-object	person in black
+verb-prep-object	walk away_from boat
+object-prep-object	boat near water
+object	person
+object	boat
+object	water
+object	red
+object	black
+object	boat
+#####################################################
+Two people carrying a canoe into a river while a third person walks out of the picture . 
+two people carry a canoe into a river while a third person walk out of the picture . 
+
+object-verb-object	person carry boat
+verb-prep-object	carry into water
+verb-prep-object	walk out_of picture
+object-prep-object	person out_of picture
+attribute-object	third person
+object-verb	person walk
+object	person
+object	boat
+object	water
+object	picture
+object	boat
+#####################################################

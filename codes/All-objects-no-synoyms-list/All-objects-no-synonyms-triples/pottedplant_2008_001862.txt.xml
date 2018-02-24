@@ -1,0 +1,56 @@
+A black dog approaches the potted plants in the foreground . 
+a black dog approach the potted plant in the foreground . 
+
+attribute-object	black dog
+attribute-object	potted plant
+object-verb-object	dog approach plant
+object	dog
+object	plant
+object	pottedplant
+#####################################################
+A large dog standing behind a series of empty plant pots . 
+a large dog standing behind a series of empty plant pot . 
+
+attribute-object	large dog
+object-verb	dog stand
+verb-prep-object	stand behind pot
+object-prep-object	dog behind pot
+attribute-object	empty pot
+attribute-object	plant pot
+object	dog
+object	pot
+object	pottedplant
+#####################################################
+A table with bowls and plants . 
+a table with bowl and plant . 
+
+object-prep-object	table with bowl
+object-prep-object	table with plant
+object	table
+object	bowl
+object	plant
+object	pottedplant
+#####################################################
+Dog staring at potted plants . 
+Dog stare at potted plant . 
+
+verb-prep-object	stare at plant
+attribute-object	potted plant
+object-verb	dog stare
+object	plant
+object	dog
+object	pottedplant
+#####################################################
+The curious dog looks to do some damage to the pots . 
+the curious dog look to do some damage to the pot . 
+
+attribute-object	curious dog
+object-verb	dog look
+verb-prep-verb	look to do
+verb-object	do damage
+object-prep-object	damage to pot
+object	dog
+object	damage
+object	pot
+object	pottedplant
+#####################################################

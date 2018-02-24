@@ -1,0 +1,61 @@
+A bird carrying a branch over the water . 
+a bird carry a branch over the water . 
+
+verb-prep-object	carry over water
+object-prep-object	bird over water
+object-verb-object	bird carry tree
+object	water
+object	bird
+object	tree
+object	bird
+#####################################################
+A bird flies over water carrying a branch in its talons . 
+a bird fly over water carry a branch in its talon . 
+
+verb-prep-object	fly over water
+object-prep-object	bird over water
+verb-prep-object	carry in talon
+object-verb	bird fly
+object-verb-object	bird carry tree
+object	water
+object	bird
+object	talon
+object	tree
+object	bird
+#####################################################
+A large bird flying across the water . 
+a large bird fly across the water . 
+
+verb-prep-object	fly across water
+object-prep-object	bird across water
+attribute-object	large bird
+object-verb	bird fly
+object	water
+object	bird
+object	bird
+#####################################################
+An osprey flies over water with a stick . 
+a osprey fly over water with a stick . 
+
+verb-prep-object	fly over water
+object-prep-object	bird over water
+verb-prep-object	fly with stick
+object-prep-object	bird with stick
+object-verb	bird fly
+object	water
+object	bird
+object	stick
+object	bird
+#####################################################
+The hawk is flying with a stick in his talons . 
+the hawk be fly with a stick in he talon . 
+
+verb-prep-object	fly with stick
+object-prep-object	bird with stick
+object-prep-object	stick in talon
+object-verb	bird fly
+object	stick
+object	bird
+object	talon
+object	bird
+#####################################################

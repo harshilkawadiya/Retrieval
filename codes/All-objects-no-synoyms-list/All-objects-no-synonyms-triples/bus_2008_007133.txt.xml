@@ -1,0 +1,64 @@
+A view of a street filled with vehicles , people , and a large brick building . 
+a view of a street fill with vehicle , people , and a large brick building . 
+
+verb-prep-object	fill with vehicle
+object-prep-object	street with vehicle
+verb-prep-object	fill with people
+object-prep-object	street with people
+verb-prep-object	fill with building
+object-prep-object	street with building
+attribute-object	large building
+attribute-object	brick building
+object-verb	street fill
+object	vehicle
+object	street
+object	people
+object	building
+object	bus
+#####################################################
+Old style church near Greyfriar 's Bobby . 
+Old style church near Greyfriar 's Bobby . 
+
+object-prep-object	church near bobby
+attribute-object	greyfriar bobby
+attribute-object	old church
+attribute-object	style church
+object	church
+object	bobby
+object	bus
+#####################################################
+people , a bus and some cars in the street . 
+people , a bus and some car in the street . 
+
+object-prep-object	people in street
+object-prep-object	bus in street
+object-prep-object	car in street
+object	people
+object	street
+object	bus
+object	car
+object	bus
+#####################################################
+People walk in front of a building with towers . 
+people walk in front of a building with tower . 
+
+verb-prep-object	walk in_front_of building
+object-prep-object	people in_front_of building
+object-prep-object	building with tower
+object-verb	people walk
+object	building
+object	people
+object	tower
+object	bus
+#####################################################
+People walking through a city street . 
+people walk through a city street . 
+
+verb-prep-object	walk through street
+object-prep-object	people through street
+attribute-object	city street
+object-verb	people walk
+object	street
+object	people
+object	bus
+#####################################################

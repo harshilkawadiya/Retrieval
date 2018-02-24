@@ -1,0 +1,66 @@
+A man driving an orange scooter through a tunnel . 
+a man drive a orange scooter through a tunnel . 
+
+verb-prep-object	drive through tunnel
+attribute-object	orange motorbike
+object-verb-object	person drive motorbike
+object	tunnel
+object	motorbike
+object	scooter
+object	person
+object	man
+object	person
+#####################################################
+A man riding a moped though a tunnel reaches back to a drinks bottle . 
+a man ride a mope though a tunnel reach back to a drink bottle . 
+
+object-verb-object	person ride scooter
+verb-prep-object	ride through tunnel
+object	person
+object	man
+object	motorbike
+object	scooter
+object	tunnel
+object	person
+#####################################################
+A man riding on a motorcycle in a tunnel . 
+a man ride on a motorcycle in a tunnel . 
+
+verb-prep-object	ride on motorbike
+object-prep-object	person on motorbike
+verb-prep-object	ride in tunnel
+object-verb	person ride
+object	motorbike
+object	motorcycle
+object	person
+object	man
+object	tunnel
+object	person
+#####################################################
+A motorcycle rider reaches for a bottle while riding through a tunnel . 
+a motorcycle rider reach for a bottle while ride through a tunnel . 
+
+verb-prep-object	ride through tunnel
+verb-prep-object	reach for bottle
+attribute-object	motorcycle person
+object-verb	person reach
+object-verb	person ride
+object	tunnel
+object	bottle
+object	person
+object	rider
+object	person
+#####################################################
+This is a shot from behind of a person on an orange scooter going through a tunnel . 
+this be a shot from behind of a person on a orange scooter go through a tunnel . 
+
+object-prep-object	person on motorbike
+attribute-object	orange motorbike
+object-verb	person go
+verb-prep-object	go through tunnel
+object	person
+object	motorbike
+object	scooter
+object	tunnel
+object	person
+#####################################################

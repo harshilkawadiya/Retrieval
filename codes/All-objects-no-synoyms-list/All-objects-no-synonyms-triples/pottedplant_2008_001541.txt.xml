@@ -1,0 +1,55 @@
+A small street in an urban area . 
+a small street in a urban area . 
+
+object-prep-object	street in area
+attribute-object	small street
+attribute-object	urban area
+object	street
+object	area
+object	pottedplant
+#####################################################
+Long alleyway with several cars parked on the side . 
+Long alleyway with several car park on the side . 
+
+object-prep-object	alleyway with car
+attribute-object	several car
+attribute-object	long alleyway
+object-verb	car park
+object	alleyway
+object	car
+object	pottedplant
+#####################################################
+Two cars are parked along a row of white buildings . 
+two car be park along a row of white building . 
+
+verb-prep-object	park along building
+object-prep-object	car along building
+attribute-object	white building
+object-verb	car park
+object	building
+object	car
+object	pottedplant
+#####################################################
+Two red cars on a deserted street . 
+two red car on a desert street . 
+
+object-prep-object	car on street
+attribute-object	red car
+attribute-object	desert street
+object	car
+object	street
+object	pottedplant
+#####################################################
+Two red cars , one of them a Mini Cooper , park on a quiet side street . 
+two red car , one of they a Mini Cooper , park on a quiet side street . 
+
+attribute-object	red car
+object-verb	car park
+verb-prep-object	park on street
+object-prep-object	car on street
+attribute-object	quiet street
+attribute-object	side street
+object	car
+object	street
+object	pottedplant
+#####################################################

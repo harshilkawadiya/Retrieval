@@ -1,0 +1,55 @@
+A black and white photo of four people playing scrabble . 
+a black and white photo of four people play scrabble . 
+
+object-verb-object	person play people
+object	person
+object	people
+object	pottedplant
+#####################################################
+A family playing scrabble with an uncle around a kitchen table in black and white . 
+a family play scrabble with a uncle around a kitchen table in black and white . 
+
+object-verb-object	person play family
+verb-prep-object	play with uncle
+verb-prep-object	play around diningtable
+attribute-object	kitchen diningtable
+object-prep-object	person around diningtable
+object	person
+object	family
+object	uncle
+object	diningtable
+object	table
+object	pottedplant
+#####################################################
+Black and white picture of a family playing Scrabble around a table . 
+Black and white picture of a family play Scrabble around a table . 
+
+object-verb-object	person play family
+verb-prep-object	play around diningtable
+object-prep-object	person around diningtable
+object	person
+object	family
+object	diningtable
+object	table
+object	pottedplant
+#####################################################
+This is a black and white photo of a family playing Scrabble . 
+this be a black and white photo of a family play Scrabble . 
+
+object-verb-object	person play family
+object	person
+object	family
+object	pottedplant
+#####################################################
+Three elderly people and a young boy play scrabble . 
+three elderly people and a young boy play scrabble . 
+
+attribute-object	elderly person
+attribute-object	young person
+object-verb-object	person play people
+object-verb-object	person play boy
+object	person
+object	people
+object	boy
+object	pottedplant
+#####################################################

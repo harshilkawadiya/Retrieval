@@ -1,0 +1,59 @@
+A red train . 
+a red train . 
+
+attribute-object	red train
+object	train
+object	train
+#####################################################
+A red , yellow and black locomotive from the Panama Canal Railway in a siding . 
+a red , yellow and black locomotive from the Panama Canal Railway in a siding . 
+
+object-prep-object	train from locomotive
+object-prep-object	train in locomotive
+attribute-object	red train
+attribute-object	yellow train
+attribute-object	black train
+attribute-object	panama railway
+attribute-object	canal railway
+object	train
+object	locomotive
+object	railway
+object	train
+#####################################################
+A red , yellow , and black Panama Canal Railway train sits on dead-end tracks . 
+a red , yellow , and black Panama Canal Railway train sit on dead-end track . 
+
+verb-prep-object	sit on track
+object-prep-object	train on track
+attribute-object	red train
+attribute-object	yellow train
+attribute-object	black train
+attribute-object	dead-end track
+attribute-object	panama train
+attribute-object	canal train
+attribute-object	railway train
+object-verb	train sit
+object	track
+object	train
+object	train
+#####################################################
+side view of a Panama Canal Railway freight train . 
+side view of a Panama Canal Railway freight train . 
+
+attribute-object	panama train
+attribute-object	canal train
+attribute-object	railway train
+attribute-object	freight train
+object	train
+object	train
+#####################################################
+The left side of a Panama Canal Railway locomotive . 
+the left side of a Panama Canal Railway locomotive . 
+
+attribute-object	panama train
+attribute-object	canal train
+attribute-object	railway train
+object	train
+object	locomotive
+object	train
+#####################################################

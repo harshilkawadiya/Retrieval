@@ -1,0 +1,64 @@
+A group of black cows grazing in a field with a large tree behind . 
+a group of black cow grazing in a field with a large tree behind . 
+
+object-prep-object	field with tree
+verb-prep-object	graze in field
+object-prep-object	cow in field
+attribute-object	black cow
+attribute-object	large tree
+object-verb	cow graze
+object	field
+object	tree
+object	cow
+object	cow
+#####################################################
+A number of black cows graze in front of a large tree . 
+a number of black cow graze in front of a large tree . 
+
+verb-prep-object	graze in_front_of tree
+object-prep-object	cow in_front_of tree
+attribute-object	black cow
+attribute-object	large tree
+object-verb	cow graze
+object	tree
+object	cow
+object	cow
+#####################################################
+Black cows graze on green grass . 
+Black cow graze on green grass . 
+
+verb-prep-object	graze on grass
+object-prep-object	cow on grass
+attribute-object	green grass
+attribute-object	black cow
+object-verb	cow graze
+object	grass
+object	cow
+object	cow
+#####################################################
+Six black cows are grazing in a pasture with a tree in the background . 
+six black cow be grazing in a pasture with a tree in the background . 
+
+object-prep-object	pasture with tree
+verb-prep-object	graze in pasture
+object-prep-object	cow in pasture
+attribute-object	black cow
+object-verb	cow graze
+object	pasture
+object	tree
+object	cow
+object	cow
+#####################################################
+There are some black cattle in a grassy plain with a large tree in the background . 
+there be some black cattle in a grassy plain with a large tree in the background . 
+
+object-prep-object	plain with tree
+object-prep-object	cattle in plain
+attribute-object	black cattle
+attribute-object	grassy plain
+attribute-object	large tree
+object	plain
+object	tree
+object	cattle
+object	cow
+#####################################################

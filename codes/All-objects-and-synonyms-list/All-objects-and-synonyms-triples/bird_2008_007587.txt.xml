@@ -1,0 +1,49 @@
+A humming bird feeding . 
+a hum bird feeding . 
+
+attribute-object	humming bird
+object-verb	bird feed
+object	bird
+object	bird
+#####################################################
+A hummingbird on a branch . 
+a hummingbird on a branch . 
+
+object-prep-object	bird on tree
+object	bird
+object	tree
+object	bird
+#####################################################
+A Hummingbird sits on a small branch while flapping its wings . 
+a Hummingbird sit on a small branch while flap its wing . 
+
+verb-prep-object	sit on tree
+object-prep-object	bird on tree
+attribute-object	small tree
+object-verb	bird sit
+object-verb-object	bird flap wing
+object	tree
+object	branch
+object	bird
+object	wing
+object	bird
+#####################################################
+A perched humming bird . 
+a perched humming bird . 
+
+attribute-object	perched bird
+attribute-object	humming bird
+object	bird
+object	bird
+#####################################################
+The hummingbird is perched at a bird feeder . 
+the hummingbird be perch at a bird feeder . 
+
+verb-prep-object	perch at person
+attribute-object	bird person
+object-verb	bird perch
+object	person
+object	feeder
+object	bird
+object	bird
+#####################################################

@@ -1,0 +1,60 @@
+A potted plant with only two leaves sprouted . 
+a potted plant with only two leaf sprout . 
+
+object-prep-object	pottedplant with plant
+attribute-object	potted pottedplant
+object	pottedplant
+object	plant
+object	pottedplant
+#####################################################
+A seedling in a terracotta pot . 
+a seedling in a terracotta pot . 
+
+object-prep-object	seedling in pottedplant
+attribute-object	terracotta pottedplant
+object	seedling
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################
+A sprouting plant in a ceramic pot in front of a window . 
+a sprout plant in a ceramic pot in front of a window . 
+
+object-prep-object	pottedplant in_front_of pot
+object-prep-object	pottedplant in pottedplant
+attribute-object	sprout pottedplant
+attribute-object	ceramic pottedplant
+object	pottedplant
+object	pot
+object	plant
+object	pottedplant
+#####################################################
+A tiny plant is growing in a terra cotta pot of dirt . 
+a tiny plant be grow in a terra cotta pot of dirt . 
+
+verb-prep-object	grow in pottedplant
+object-prep-object	pottedplant in pottedplant
+object-prep-object	pottedplant of dirty
+attribute-object	tiny pottedplant
+attribute-object	terra pottedplant
+attribute-object	cotta pottedplant
+object-verb	pottedplant grow
+object	pottedplant
+object	pot
+object	plant
+object	dirty
+object	pottedplant
+#####################################################
+New plant growth in red clay pot . 
+New plant growth in red clay pot . 
+
+object-prep-object	growth in pottedplant
+attribute-object	new growth
+attribute-object	plant growth
+attribute-object	red pottedplant
+attribute-object	clay pottedplant
+object	growth
+object	pottedplant
+object	pot
+object	pottedplant
+#####################################################

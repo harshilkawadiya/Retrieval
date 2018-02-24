@@ -1,0 +1,59 @@
+Adult and young lambs stand on grass . 
+adult and young lamb stand on grass . 
+
+verb-prep-object	stand on grass
+object-prep-object	lamb on grass
+attribute-object	adult lamb
+attribute-object	young lamb
+object-verb	lamb stand
+object	grass
+object	lamb
+object	sheep
+#####################################################
+Sheep and lambs in a field . 
+Sheep and lamb in a field . 
+
+object-prep-object	sheep in field
+object-prep-object	lamb in field
+object	sheep
+object	field
+object	lamb
+object	sheep
+#####################################################
+Two adult llamas and 3 calves are in a field . 
+two adult llama and 3 calf be in a field . 
+
+object-prep-object	llama in field
+object-prep-object	calf in field
+attribute-object	adult llama
+object	llama
+object	field
+object	calf
+object	sheep
+#####################################################
+Two adult white sheep and several lambs are standing in a grassy field . 
+two adult white sheep and several lamb be stand in a grassy field . 
+
+object-verb	sheep stand
+object-verb	lamb stand
+attribute-object	adult sheep
+attribute-object	white sheep
+verb-prep-object	stand in field
+object-prep-object	sheep in field
+object-prep-object	lamb in field
+attribute-object	grassy field
+object	sheep
+object	lamb
+object	field
+object	sheep
+#####################################################
+Two sheep and three lambs in a pasture . 
+two sheep and three lamb in a pasture . 
+
+object-prep-object	sheep in pasture
+object-prep-object	lamb in pasture
+object	sheep
+object	pasture
+object	lamb
+object	sheep
+#####################################################

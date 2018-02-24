@@ -1,0 +1,86 @@
+A guy and girl pose on a sofa with a tiny dog . 
+a guy and girl pose on a sofa with a tiny dog . 
+
+verb-prep-object	pose with dog
+verb-prep-object	pose on sofa
+object-prep-object	person on guy
+object-prep-object	person on girl
+attribute-object	tiny dog
+object-prep-object	person with guy
+object-prep-object	person with girl
+object-verb	person pose
+object-verb	person pose
+object	dog
+object	sofa
+object	person
+object	guy
+object	girl
+object	sofa
+#####################################################
+A man holds a small dog and is seated with a woman on a couch . 
+a man hold a small dog and be seat with a woman on a couch . 
+
+verb-prep-object	seat with person
+verb-prep-object	seat on sofa
+object-prep-object	person with person
+object-prep-object	person on bed
+attribute-object	small dog
+object-verb-object	person hold man
+object-verb	person seat
+object	person
+object	woman
+object	sofa
+object	bed
+object	man
+object	dog
+object	sofa
+#####################################################
+A smiling man and woman hold a young chihuahua . 
+a smile man and woman hold a young chihuahua . 
+
+attribute-object	smile person
+attribute-object	smile person
+attribute-object	young dog
+object-verb-object	person hold dog
+object-verb-object	person hold dog
+object	person
+object	man
+object	woman
+object	dog
+object	chihuahua
+object	sofa
+#####################################################
+The man and the woman are posing with a small dog . 
+the man and the woman be pose with a small dog . 
+
+verb-prep-object	pose with dog
+object-prep-object	person with man
+object-prep-object	person with woman
+attribute-object	small dog
+object-verb	person pose
+object-verb	person pose
+object	dog
+object	person
+object	man
+object	woman
+object	sofa
+#####################################################
+The man and a woman sit on a couch , the man holding a pillow and a small dog . 
+the man and a woman sit on a couch , the man hold a pillow and a small dog . 
+
+verb-prep-object	sit on sofa
+object-prep-object	person on bed
+object-prep-object	person on bed
+attribute-object	small dog
+object-verb-object	person hold man
+object-verb-object	person hold man
+object-verb	person sit
+object-verb	person sit
+object	sofa
+object	bed
+object	person
+object	man
+object	woman
+object	dog
+object	sofa
+#####################################################

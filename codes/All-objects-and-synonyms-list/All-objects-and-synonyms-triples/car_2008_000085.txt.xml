@@ -1,0 +1,59 @@
+A black car with damage in the back . 
+a black car with damage in the back . 
+
+object-prep-object	car with damage
+attribute-object	black car
+object-prep-object	damage in back
+object	car
+object	damage
+object	back
+object	car
+#####################################################
+A black SUV which has been in a rear end collision . 
+a black SUV which have be in a rear end collision . 
+
+object-prep-object	car in suv
+attribute-object	black car
+attribute-object	rear collision
+attribute-object	end collision
+object	car
+object	suv
+object	collision
+object	car
+#####################################################
+Black SUV smashed from behind . 
+Black SUV smash from behind . 
+
+attribute-object	black car
+object-verb	car smash
+verb-prep-object	smash from behind
+object	car
+object	suv
+object	behind
+object	car
+#####################################################
+The back of the black SUV is crumpled and the rear window is broken . 
+the back of the black SUV be crumple and the rear window be break . 
+
+object-prep-object	back of car
+attribute-object	black car
+attribute-object	rear window
+object-verb	back crumple
+object-verb	window break
+object	back
+object	car
+object	suv
+object	window
+object	car
+#####################################################
+The back of the black SUV is wrecked . 
+the back of the black SUV be wreck . 
+
+object-prep-object	back of car
+attribute-object	black car
+object-verb	back wreck
+object	back
+object	car
+object	suv
+object	car
+#####################################################

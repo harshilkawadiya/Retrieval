@@ -1,0 +1,51 @@
+An electric streetcar is on train tracks . 
+a electric streetcar be on train track . 
+
+object-prep-object	streetcar on track
+attribute-object	electric streetcar
+attribute-object	train track
+object	streetcar
+object	track
+object	train
+#####################################################
+A passenger train going over a railroad crossing . 
+a passenger train go over a railroad cross . 
+
+verb-prep-object	go over cross
+object-prep-object	train over cross
+attribute-object	passenger train
+object-verb	train go
+attribute-object	railroad cross
+object	cross
+object	train
+object	train
+#####################################################
+Train coming forward on a track . 
+train come forward on a track . 
+
+verb-prep-object	come on track
+object-prep-object	train on track
+object-verb	train come
+object	track
+object	train
+object	train
+#####################################################
+Train gliding on tracks . 
+train glide on track . 
+
+verb-prep-object	glide on track
+object-prep-object	train on track
+object-verb	train glide
+object	track
+object	train
+object	train
+#####################################################
+Train pulling into a station . 
+train pull into a station . 
+
+verb-prep-object	pull into station
+object-verb	train pull
+object	station
+object	train
+object	train
+#####################################################

@@ -1,0 +1,56 @@
+A D-ERFW-6 in flight . 
+a D-ERFW-6 in flight . 
+
+object-prep-object	d-erfw-6 in flight
+object	d-erfw-6
+object	flight
+object	aeroplane
+#####################################################
+An army green plane flying in the sky . 
+a army green plane fly in the sky . 
+
+verb-prep-object	fly in sky
+attribute-object	green plane
+attribute-object	army plane
+object-verb	plane fly
+object-prep-object	plane in sky
+object	sky
+object	plane
+object	aeroplane
+#####################################################
+An old fighter plane flying with German military markings . 
+a old fighter plane fly with german military marking . 
+
+attribute-object	old plane
+attribute-object	german marking
+attribute-object	military marking
+attribute-object	fighter plane
+object-verb	plane fly
+object-prep-object	plane with marking
+object	plane
+object	marking
+object	aeroplane
+#####################################################
+A small green and yellow plane in the sky . 
+a small green and yellow plane in the sky . 
+
+object-prep-object	plane in sky
+attribute-object	small plane
+attribute-object	green plane
+attribute-object	yellow plane
+object	plane
+object	sky
+object	aeroplane
+#####################################################
+A WWII fighter plane with its landing gear down . 
+a WWII fighter plane with its landing gear down . 
+
+object-prep-object	plane with gear
+object-attribute	gear down
+attribute-object	wwii plane
+attribute-object	fighter plane
+attribute-object	landing gear
+object	plane
+object	gear
+object	aeroplane
+#####################################################

@@ -1,0 +1,46 @@
+a larger plane is flying above a smaller plane . 
+a larger plane be fly above a smaller plane . 
+
+object-verb	aeroplane fly
+verb-prep-object	fly above aeroplane
+attribute-object	larger aeroplane
+attribute-object	smaller aeroplane
+object-prep-object	aeroplane above aeroplane
+object	aeroplane
+object	aeroplane
+#####################################################
+Black and white scene of two planes flying . 
+Black and white scene of two plane fly . 
+
+attribute-object	black aeroplane
+attribute-object	white aeroplane
+object-verb	aeroplane fly
+object	aeroplane
+object	aeroplane
+#####################################################
+Two airplanes in the sky . 
+two airplane in the sky . 
+
+object-prep-object	aeroplane in sky
+object	aeroplane
+object	sky
+object	aeroplane
+#####################################################
+Two fighter planes mid-flight . 
+two fighter plane mid-flight . 
+
+attribute-object	fighter aeroplane
+object-attribute	aeroplane mid-flight
+object	aeroplane
+object	aeroplane
+#####################################################
+Two military planes fly near each other . 
+two military plane fly near each other . 
+
+verb-prep-object	fly near aeroplane
+object-prep-object	aeroplane near aeroplane
+attribute-object	military aeroplane
+object-verb	aeroplane fly
+object	aeroplane
+object	aeroplane
+#####################################################

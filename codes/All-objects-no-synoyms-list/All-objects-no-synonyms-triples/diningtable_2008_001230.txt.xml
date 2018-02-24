@@ -1,0 +1,76 @@
+A couple sitting at table opening a bottle of wine . 
+a couple sit at table open a bottle of wine . 
+
+verb-prep-object	sit at table
+object-prep-object	couple at table
+object-prep-object	bottle of wine
+object-verb	couple sit
+object-verb	couple open
+object	table
+object	couple
+object	bottle
+object	wine
+object	diningtable
+#####################################################
+A dark-haired man and woman wearing black sit at a long table filled with wine and goblets . 
+a dark-haired man and woman wear black sit at a long table fill with wine and goblet . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	woman at table
+verb-prep-object	fill with wine
+verb-prep-object	fill with goblet
+object-prep-object	table with wine
+object-prep-object	table with goblet
+object-verb-object	woman wear black
+attribute-object	dark-haired man
+attribute-object	long table
+object-verb	man sit
+object-verb	woman sit
+object-verb	table fill
+object	table
+object	man
+object	woman
+object	wine
+object	goblet
+object	black
+object	diningtable
+#####################################################
+a man and a woman sitting at a table . 
+a man and a woman sit at a table . 
+
+verb-prep-object	sit at table
+object-prep-object	man at table
+object-prep-object	woman at table
+object-verb	man sit
+object-verb	woman sit
+object	table
+object	man
+object	woman
+object	diningtable
+#####################################################
+A woman looks at a man as he holds a bottle . 
+a woman look at a man as he hold a bottle . 
+
+verb-prep-object	look at man
+object-verb-object	man hold bottle
+object-verb	woman look
+object	man
+object	bottle
+object	woman
+object	diningtable
+#####################################################
+A woman sitting with a man who is opening a bottle of liquor . 
+a woman sit with a man who be open a bottle of liquor . 
+
+verb-prep-object	sit with man
+object-prep-object	woman with man
+object-prep-object	bottle of liquor
+object-verb-object	man open bottle
+object-verb	woman sit
+object	man
+object	woman
+object	bottle
+object	liquor
+object	diningtable
+#####################################################

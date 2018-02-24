@@ -1,0 +1,47 @@
+A grounded plane . 
+a ground plane . 
+
+attribute-object	ground plane
+object	plane
+object	aeroplane
+#####################################################
+Airplane being loaded or unloaded for flight . 
+airplane be load or unloaded for flight . 
+
+verb-prep-object	unloaded for flight
+verb-prep-object	load for flight
+object-verb	airplane load
+object-verb	airplane unloaded
+object	flight
+object	airplane
+object	aeroplane
+#####################################################
+Loading cargo onto the plane prior to takeoff . 
+load cargo onto the plane prior to takeoff . 
+
+verb-prep-object	load prior_to takeoff
+verb-prep-object	load onto plane
+verb-object	load cargo
+object	takeoff
+object	plane
+object	cargo
+object	aeroplane
+#####################################################
+The front end of a British Airways Boeing 747 on the tarmac . 
+the front end of a British Airways Boeing 747 on the tarmac . 
+
+attribute-object	british boeing
+attribute-object	airways boeing
+object-prep-object	boeing on tarmac
+object	boeing
+object	tarmac
+object	aeroplane
+#####################################################
+The front end of an airplane at an airport . 
+the front end of a airplane at a airport . 
+
+object-prep-object	airplane at airport
+object	airplane
+object	airport
+object	aeroplane
+#####################################################

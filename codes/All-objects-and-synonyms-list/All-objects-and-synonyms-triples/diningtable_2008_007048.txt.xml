@@ -1,0 +1,64 @@
+A dining room is in a house with brown carpet , a table and a fan . 
+a dining room be in a house with brown carpet , a table and a fan . 
+
+object-prep-object	building with house
+object-prep-object	building with diningtable
+object-prep-object	building with house
+object-prep-object	room in building
+attribute-object	brown carpet
+attribute-object	dining room
+object	building
+object	house
+object	diningtable
+object	room
+object	carpet
+object	diningtable
+#####################################################
+A dining room with a table and four chairs . 
+a dining room with a table and four chair . 
+
+object-prep-object	room with diningtable
+object-prep-object	room with chair
+attribute-object	dining room
+object	room
+object	diningtable
+object	chair
+object	diningtable
+#####################################################
+A table and chairs are in a room with a picture on the wall and a ceiling fan . 
+a table and chair be in a room with a picture on the wall and a ceiling fan . 
+
+object-prep-object	room with picture
+object-prep-object	picture on wall
+object-prep-object	diningtable in table
+object-prep-object	chair in room
+attribute-object	ceiling fan
+object	room
+object	picture
+object	wall
+object	diningtable
+object	table
+object	chair
+object	fan
+object	diningtable
+#####################################################
+Somebody 's modest dining room . 
+somebody 's modest dining room . 
+
+attribute-object	modest room
+attribute-object	dining room
+object	room
+object	diningtable
+#####################################################
+Table and chairs underneath ceiling fan . 
+Table and chair underneath ceiling fan . 
+
+attribute-object	ceiling fan
+object-verb-object	diningtable underneath table
+object-verb-object	chair underneath fan
+object	fan
+object	diningtable
+object	table
+object	chair
+object	diningtable
+#####################################################

@@ -1,0 +1,50 @@
+beam_size_1	2	a black dog jumping to catch a rope toy
+beam_size_1	3	A black dog playing fetch with a ball of rope .
+beam_size_1	4	A black dog pounces to get a rope toy .
+beam_size_1	5	A black dog running after his rope toy .
+beam_size_1	6	A large black dog is playing in a grassy yard .
+beam_size_1	7	A black dog and a tan dog fighting .
+beam_size_1	8	A black dog and a white dog are wrestling on the ground .
+beam_size_1	9	A black dog bites a white dog while standing on the sand .
+beam_size_1	10	two dogs fight .
+beam_size_1	11	Two dogs , one white and one black , play with each other in the sand .
+beam_size_1	12	A black dog with a purple collar and a black leash runs in the grass .
+beam_size_1	13	A black dog with a purple collar is running .
+beam_size_1	14	A black dog with a purple collar running .
+beam_size_1	15	a black dog with purple collar running
+beam_size_1	16	The black dog is wearing a purple collar with a black leash as he is running .
+beam_size_1	17	a black dog plays with a ball in the water .
+beam_size_1	18	A black dog runs in the water holding a pink toy in its mouth .
+beam_size_1	19	A black dog standing in shallow water with a pink ball in its mouth .
+beam_size_1	20	A black dog stands in the surf holding a red rubber ball .
+beam_size_1	21	The black dog is running though the water with a pink ball .
+beam_size_1	22	A black and tan dog is running with a white and gray dog along dirt .
+beam_size_1	23	The two dogs are running into the woods .
+beam_size_1	24	Two dogs run down a dirt path in the forest .
+beam_size_1	25	Two dogs running away from the camera in the woods .
+beam_size_1	26	Two dogs run on a dirt area near a forest .
+beam_size_1	27	A brown and black dog on a leash is sniffed by a black and white dog .
+beam_size_1	28	A dog on a leash walks on the sidewalk while another dog follows .
+beam_size_1	29	A small dog on a leash is being smelled by another animal .
+beam_size_1	30	The black and white dog is sniffing the butt of the brown dog that is on a leash .
+beam_size_1	31	Two small dogs , one black-and-white and one brown-and-black , walk down the street .
+beam_size_1	32	A brown dog holding something purple and black in its mouth .
+beam_size_1	33	a dog catches black Frisbee .
+beam_size_1	34	A large wet yellow dog retrives his toy .
+beam_size_1	35	Dog running with toy .
+beam_size_1	36	The wet dog catches a toy while playing on the sand .
+beam_size_1	37	A group of men are standing around during a sports game in a park .
+beam_size_1	38	Men in the park .
+beam_size_1	39	Men playing soccer in a field
+beam_size_1	40	Men standing on a grass field with trees in the background .
+beam_size_1	41	Nine men are playing a game in the park , shirts versus skins .
+beam_size_1	42	A brown and white dog stands outside while it snows .
+beam_size_1	43	A dog is looking at something near the water .
+beam_size_1	44	A furry dog attempts to dry itself by shaking the water off its coat .
+beam_size_1	45	A white and brown dog shaking its self dry .
+beam_size_1	46	The large brown and white dog shakes off water .
+beam_size_1	47	A beagle walks through the grass .
+beam_size_1	48	A black and tan dog standing in a field near trees
+beam_size_1	49	A brown and tan dog walks through the green grass .
+beam_size_1	50	a smal hound dog walking through the grass outside .
+beam_size_1	51	The dog is walking through a grassy area .
